@@ -1,21 +1,23 @@
 ---
-title: OptimizationOptions.LinkDuplicateStreamsScanLevel
-second_title: Aspose.PDF for .NET API Reference
-description: OptimizationOptions 속성. 스캔 수준. 더 깊은 스캔은 더 높은 값을 가지며 시간이 더 걸리지만 더 작은 결과 파일을 생성할 수 있습니다. 기본값 10
+title: "OptimizationOptions.LinkDuplicateStreamsScanLevel"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "OptimizationOptions 속성. 스캔 수준. 값이 높을수록 더 깊은 스캔을 수행하며 시간이 오래 걸리지만 결과 파일이 더 작아질 수 있습니다. 기본값 10"
 type: docs
 weight: 80
 url: /ko/net/aspose.pdf.optimization/optimizationoptions/linkduplicatestreamsscanlevel/
 ---
-## OptimizationOptions.LinkDuplicateStreamsScanLevel 속성
+## OptimizationOptions.LinkDuplicateStreamsScanLevel property
 
-스캔 수준. 더 깊은 스캔(더 높은 값)은 시간이 더 걸리지만 더 작은 결과 파일을 생성할 수 있습니다. 기본값: 10.
+스캔 수준. 값이 높을수록 더 깊은 스캔을 수행하며 시간이 오래 걸리지만 결과 파일이 더 작아질 수 있습니다. 기본값: 10.
 
 ```csharp
 public int LinkDuplicateStreamsScanLevel { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [OptimizationOptions](../)
-* 네임스페이스 [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [OptimizationOptions](../)
+* namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
+* assembly [Aspose.PDF](../../../)
+
+

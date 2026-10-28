@@ -1,12 +1,12 @@
 ---
-title: Security.Process
-second_title: Aspose.PDF for .NET API Reference
-description: 보안 방법. 지정된 매개변수로 보안 처리를 시작합니다.
+title: "Security.Process"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Security 메서드. 지정된 매개변수로 Security 처리를 시작합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.plugins/security/process/
 ---
-## Security.Process 방법
+## Security.Process method
 
 지정된 매개변수로 [`Security`](../) 처리를 시작합니다.
 
@@ -16,11 +16,11 @@ public ResultContainer Process(IPluginOptions options)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| options | IPluginOptions | [`Security`](../)에 대한 지침을 포함하는 옵션 객체입니다. |
+| options | IPluginOptions | 옵션 객체는 [`Security`](../)에 대한 지시를 포함합니다. |
 
 ### 반환 값
 
-작업 결과를 포함하는 ResultContainer 객체입니다.
+ResultContainer 객체는 작업 결과를 포함합니다.
 
 ### 예외
 
@@ -28,10 +28,12 @@ public ResultContainer Process(IPluginOptions options)
 | --- | --- |
 | InvalidOperationException |  |
 
-### 참조
+### 또 보기
 
-* 클래스 [ResultContainer](../../resultcontainer/)
-* 인터페이스 [IPluginOptions](../../ipluginoptions/)
-* 클래스 [Security](../)
-* 네임스페이스 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* class [Security](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

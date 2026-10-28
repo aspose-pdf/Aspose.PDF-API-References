@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionProperty.Category
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionProperty 속성. 속성 카테고리를 가져옵니다.
+title: "XmpPdfAExtensionProperty.Category"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "XmpPdfAExtensionProperty 속성. 속성 카테고리를 가져옵니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf/xmppdfaextensionproperty/category/
 ---
-## XmpPdfAExtensionProperty.Category 속성
+## XmpPdfAExtensionProperty.Category property
 
 속성 카테고리를 가져옵니다.
 
@@ -14,9 +14,11 @@ url: /ko/net/aspose.pdf/xmppdfaextensionproperty/category/
 public XmpPdfAExtensionCategoryType Category { get; }
 ```
 
-### 참조
+### 또 보기
 
 * enum [XmpPdfAExtensionCategoryType](../../xmppdfaextensioncategorytype/)
 * class [XmpPdfAExtensionProperty](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

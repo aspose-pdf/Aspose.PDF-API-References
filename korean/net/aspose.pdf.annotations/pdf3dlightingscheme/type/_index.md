@@ -1,26 +1,28 @@
 ---
-title: PDF3DLightingScheme.Type
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DLightingScheme 속성. 조명 스킴 유형을 가져옵니다.
+title: "PDF3DLightingScheme.Type"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PDF3DLightingScheme 속성. 조명 스키마 유형을 가져옵니다"
 type: docs
 weight: 140
 url: /ko/net/aspose.pdf.annotations/pdf3dlightingscheme/type/
 ---
-## PDF3DLightingScheme.Type 속성
+## PDF3DLightingScheme.Type property
 
-조명 스킴 유형을 가져옵니다.
+조명 스키마 유형을 가져옵니다.
 
 ```csharp
 public LightingSchemeType Type { get; }
 ```
 
-### 속성 값
+### Property Value
 
-조명 스킴 유형.
+조명 스키마 유형입니다.
 
-### 참조
+### 또 보기
 
 * enum [LightingSchemeType](../../lightingschemetype/)
 * class [PDF3DLightingScheme](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

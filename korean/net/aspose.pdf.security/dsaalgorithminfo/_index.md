@@ -1,14 +1,14 @@
 ---
-title: Class DsaAlgorithmInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Security.DsaAlgorithmInfo 클래스. DSA 서명 알고리즘에 대한 정보를 나타내는 클래스입니다.
+title: "클래스 DsaAlgorithmInfo"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Security.DsaAlgorithmInfo 클래스. DSA 서명 알고리즘에 대한 정보를 제공하는 클래스를 나타냅니다"
 type: docs
-weight: 9960
+weight: 10120
 url: /ko/net/aspose.pdf.security/dsaalgorithminfo/
 ---
-## DsaAlgorithmInfo 클래스
+## DsaAlgorithmInfo class
 
-DSA 서명 알고리즘에 대한 정보를 나타내는 클래스입니다.
+DSA 서명 알고리즘에 대한 정보를 제공하는 클래스를 나타냅니다.
 
 ```csharp
 public sealed class DsaAlgorithmInfo : KeyedSignatureAlgorithmInfo
@@ -30,13 +30,15 @@ public sealed class DsaAlgorithmInfo : KeyedSignatureAlgorithmInfo
 
 | 이름 | 설명 |
 | --- | --- |
-| readonly [AlgorithmType](../../aspose.pdf.security/signaturealgorithminfo/algorithmtype/) | PDF 문서 서명에 사용되는 서명 알고리즘의 유형을 가져옵니다. |
-| readonly [CryptographicStandard](../../aspose.pdf.security/signaturealgorithminfo/cryptographicstandard/) | PDF 문서 서명에 사용되는 암호화 표준을 가져옵니다. |
+| readonly [AlgorithmType](../../aspose.pdf.security/signaturealgorithminfo/algorithmtype/) | PDF 문서 서명에 사용되는 서명 알고리즘 유형을 가져옵니다. |
+| readonly [CryptographicStandard](../../aspose.pdf.security/signaturealgorithminfo/cryptographicstandard/) | PDF 문서 서명에 사용되는 암호 표준을 가져옵니다. |
 | readonly [DigestHashAlgorithm](../../aspose.pdf.security/signaturealgorithminfo/digesthashalgorithm/) | 서명에 사용되는 다이제스트 해시 알고리즘을 가져옵니다. 타임스탬프의 경우, 이는 문서 내용의 해시가 서명되는 다이제스트 해시 알고리즘입니다. |
-| readonly [KeySize](../../aspose.pdf.security/keyedsignaturealgorithminfo/keysize/) | 서명 알고리즘에 의해 사용되는 암호화 키의 크기를 가져옵니다. |
+| readonly [KeySize](../../aspose.pdf.security/keyedsignaturealgorithminfo/keysize/) | 서명 알고리즘에 사용되는 암호 키의 크기를 가져옵니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [KeyedSignatureAlgorithmInfo](../keyedsignaturealgorithminfo/)
-* 네임스페이스 [Aspose.Pdf.Security](../../aspose.pdf.security/)
-* 어셈블리 [Aspose.PDF](../../)
+* class [KeyedSignatureAlgorithmInfo](../keyedsignaturealgorithminfo/)
+* namespace [Aspose.Pdf.Security](../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PdfAValidationResult.IsValid
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAValidationResult 필드. 검증이 성공했는지 여부를 나타내는 값을 가져옵니다.
+title: "PdfAValidationResult.IsValid"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfAValidationResult 필드. 검증이 성공했는지 여부를 나타내는 값을 가져옵니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.plugins/pdfavalidationresult/isvalid/
 ---
-## PdfAValidationResult.IsValid 필드
+## PdfAValidationResult.IsValid field
 
 검증이 성공했는지 여부를 나타내는 값을 가져옵니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.plugins/pdfavalidationresult/isvalid/
 public readonly bool IsValid;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfAValidationResult](../)
-* 네임스페이스 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfAValidationResult](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

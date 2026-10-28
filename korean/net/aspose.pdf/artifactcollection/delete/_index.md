@@ -1,7 +1,7 @@
 ---
-title: ArtifactCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: ArtifactCollection 메서드. 지정된 아티팩트를 삭제합니다.
+title: "ArtifactCollection.Delete"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ArtifactCollection 메서드. 지정된 아티팩트를 삭제합니다"
 type: docs
 weight: 80
 url: /ko/net/aspose.pdf/artifactcollection/delete/
@@ -14,11 +14,11 @@ url: /ko/net/aspose.pdf/artifactcollection/delete/
 public void Delete(Artifact artifact)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| artifact | Artifact | 삭제될 아티팩트입니다. |
+| 아티팩트 | 아티팩트 | 삭제될 아티팩트. |
 
-### See Also
+### 또 보기
 
 * class [Artifact](../../artifact/)
 * class [ArtifactCollection](../)
@@ -29,18 +29,20 @@ public void Delete(Artifact artifact)
 
 ## Delete(int) {#delete_1}
 
-인덱스를 통해 아티팩트를 삭제합니다.
+인덱스로 아티팩트를 삭제합니다.
 
 ```csharp
 public void Delete(int index)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| index | Int32 | 삭제할 아티팩트의 인덱스입니다. |
+| index | Int32 | 삭제할 아티팩트의 인덱스. |
 
-### See Also
+### 또 보기
 
 * class [ArtifactCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

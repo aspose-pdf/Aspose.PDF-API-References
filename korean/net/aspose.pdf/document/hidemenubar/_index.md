@@ -1,12 +1,12 @@
 ---
-title: Document.HideMenubar
-second_title: Aspose.PDF for .NET API Reference
-description: 문서 속성. 문서가 활성화될 때 메뉴 바를 숨길지 여부를 지정하는 플래그를 가져오거나 설정합니다.
+title: "Document.HideMenubar"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Document 속성. 문서가 활성화될 때 메뉴 바를 숨길지 여부를 지정하는 플래그를 가져오거나 설정합니다."
 type: docs
-weight: 230
+weight: 250
 url: /ko/net/aspose.pdf/document/hidemenubar/
 ---
-## Document.HideMenubar 속성
+## Document.HideMenubar property
 
 문서가 활성화될 때 메뉴 바를 숨길지 여부를 지정하는 플래그를 가져오거나 설정합니다.
 
@@ -23,8 +23,10 @@ Document document = new Document("sample.pdf");
 bool value = document.HideMenubar;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Document](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

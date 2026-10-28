@@ -1,12 +1,12 @@
 ---
-title: MarkdownSaveOptions.AreaToExtract
-second_title: Aspose.PDF for .NET API Reference
-description: MarkdownSaveOptions 속성. 마크다운으로 콘텐츠를 추출할 사각형 영역을 가져오거나 설정합니다.
+title: "MarkdownSaveOptions.AreaToExtract"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "MarkdownSaveOptions 속성. 마크다운으로 내용을 추출할 사각형 영역을 가져오거나 설정합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf/markdownsaveoptions/areatoextract/
 ---
-## MarkdownSaveOptions.AreaToExtract 속성
+## MarkdownSaveOptions.AreaToExtract property
 
 마크다운으로 콘텐츠를 추출할 사각형 영역을 가져오거나 설정합니다.
 
@@ -14,9 +14,11 @@ url: /ko/net/aspose.pdf/markdownsaveoptions/areatoextract/
 public Rectangle AreaToExtract { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Rectangle](../../rectangle/)
-* 클래스 [MarkdownSaveOptions](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Rectangle](../../rectangle/)
+* class [MarkdownSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

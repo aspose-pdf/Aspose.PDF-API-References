@@ -1,14 +1,14 @@
 ---
-title: Class TiffDevice
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Devices.TiffDevice 클래스. 이 클래스는 PDF 문서를 페이지별로 하나의 TIFF 이미지로 저장하는 데 도움을 줍니다.
+title: "클래스 TiffDevice"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Devices.TiffDevice 클래스. 이 클래스는 PDF 문서를 페이지별로 하나의 TIFF 이미지에 저장하는 데 도움을 줍니다."
 type: docs
-weight: 3700
+weight: 3820
 url: /ko/net/aspose.pdf.devices/tiffdevice/
 ---
-## TiffDevice 클래스
+## TiffDevice class
 
-이 클래스는 PDF 문서를 페이지별로 하나의 TIFF 이미지로 저장하는 데 도움을 줍니다.
+이 클래스는 pdf 문서 페이지를 하나의 tiff 이미지로 페이지별 저장하는 데 도움이 됩니다.
 
 ```csharp
 public sealed class TiffDevice : DocumentDevice
@@ -41,7 +41,7 @@ public sealed class TiffDevice : DocumentDevice
 
 | 이름 | 설명 |
 | --- | --- |
-| [FormPresentationMode](../../aspose.pdf.devices/tiffdevice/formpresentationmode/) { get; set; } | 양식 프레젠테이션 모드를 가져오거나 설정합니다. |
+| [FormPresentationMode](../../aspose.pdf.devices/tiffdevice/formpresentationmode/) { get; set; } | 폼 프레젠테이션 모드를 가져오거나 설정합니다. |
 | [Height](../../aspose.pdf.devices/tiffdevice/height/) { get; } | 이미지 출력 높이를 가져옵니다. |
 | [RenderingOptions](../../aspose.pdf.devices/tiffdevice/renderingoptions/) { get; set; } | 렌더링 옵션을 가져오거나 설정합니다. |
 | [Resolution](../../aspose.pdf.devices/tiffdevice/resolution/) { get; } | 이미지 해상도를 가져옵니다. |
@@ -52,13 +52,13 @@ public sealed class TiffDevice : DocumentDevice
 
 | 이름 | 설명 |
 | --- | --- |
-| [BinarizeBradley](../../aspose.pdf.devices/tiffdevice/binarizebradley/)(Stream, Stream, double) | 입력 스트림에 대해 브래들리 이진화를 수행합니다. |
-| [Process](../../aspose.pdf.devices/documentdevice/process/)(Document, Stream) | 전체 문서를 처리하고 결과를 스트림에 저장합니다. |
-| [Process](../../aspose.pdf.devices/documentdevice/process/)(Document, string) | 전체 문서를 처리하고 결과를 파일에 저장합니다. |
+| [BinarizeBradley](../../aspose.pdf.devices/tiffdevice/binarizebradley/)(Stream, Stream, double) | 입력 스트림에 대해 Bradley 이진화를 수행합니다. |
+| [Process](../../aspose.pdf.devices/documentdevice/process/)(Document, Stream) | 전체 document를 처리하고 결과를 스트림에 저장합니다. |
+| [Process](../../aspose.pdf.devices/documentdevice/process/)(Document, string) | 전체 document를 처리하고 결과를 파일에 저장합니다. |
 | override [Process](../../aspose.pdf.devices/tiffdevice/process/#process_4)(Page, Stream) |  |
-| [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | 주어진 페이지에서 일부 작업을 수행하고 결과를 파일에 저장합니다. |
-| override [Process](../../aspose.pdf.devices/tiffdevice/process/#process)(Document, int, int, Stream) | 특정 문서 페이지를 TIFF로 변환하고 출력 스트림에 저장합니다. |
-| [Process](../../aspose.pdf.devices/documentdevice/process/)(Document, int, int, string) | 문서의 특정 페이지를 처리하고 결과를 파일에 저장합니다. |
+| [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | 지정된 page에 대해 일부 작업을 수행하고 결과를 파일에 저장합니다. |
+| override [Process](../../aspose.pdf.devices/tiffdevice/process/#process)(Document, int, int, Stream) | 특정 document 페이지를 tiff로 변환하고 출력 스트림에 저장합니다. |
+| [Process](../../aspose.pdf.devices/documentdevice/process/)(Document, int, int, string) | document의 특정 페이지를 처리하고 결과를 파일에 저장합니다. |
 
 ## 예제
 
@@ -66,19 +66,19 @@ public sealed class TiffDevice : DocumentDevice
 
 ```csharp
 [C#]
-	// The path to your PDF Directory
+	// PDF 디렉터리 경로
 	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-	// The file name of the PDF
+	// PDF 파일 이름
 	string pdfFile = @"YOUR_PDF_FILE";
 
-	// Initialize instance of Document class
+	// Document 클래스의 인스턴스를 초기화합니다.
 	using (Document pdfDocument = new Document(Path.Combine(dataDir, pdfFile)))
 	{
-		// Create Resolution object 	
+		// Resolution 객체를 생성합니다 	
 		Resolution resolution = new Resolution(300);
 		
-		// Create TiffSettings object
+		// TiffSettings 객체를 생성합니다.
 		TiffSettings tiffSettings = new TiffSettings
 		{
 			Compression = CompressionType.None,
@@ -87,10 +87,10 @@ public sealed class TiffDevice : DocumentDevice
 			SkipBlankPages = false
 		};
 
-		// Create TIFF device
+		// TIFF 장치를 생성합니다.
 		TiffDevice tiffDevice = new TiffDevice(resolution, tiffSettings);
 
-		// Convert a PDF document to TIFF image
+		// PDF document를 TIFF 이미지로 변환합니다.
 		tiffDevice.Process(pdfDocument, dataDir + "AllPagesToTIFF_out.tif");
 	}
 ```
@@ -127,8 +127,10 @@ public sealed class TiffDevice : DocumentDevice
 	End Using
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [DocumentDevice](../documentdevice/)
-* 네임스페이스 [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
-* 어셈블리 [Aspose.PDF](../../)
+* class [DocumentDevice](../documentdevice/)
+* namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../)
+
+

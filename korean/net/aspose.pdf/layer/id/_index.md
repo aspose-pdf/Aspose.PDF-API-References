@@ -1,12 +1,12 @@
 ---
-title: Layer.Id
-second_title: Aspose.PDF for .NET API Reference
-description: 레이어 속성. 레이어 ID를 가져옵니다.
+title: "Layer.Id"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Layer 속성. 레이어 ID를 가져옵니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf/layer/id/
 ---
-## Layer.Id 속성
+## Layer.Id property
 
 레이어 ID를 가져옵니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf/layer/id/
 public string Id { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Layer](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Layer](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

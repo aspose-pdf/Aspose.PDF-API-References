@@ -1,14 +1,14 @@
 ---
-title: Class SignatureAlgorithmInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Security.SignatureAlgorithmInfo 클래스. 서명 알고리즘에 대한 정보, 유형, 암호화 표준 및 해시 알고리즘을 포함하는 클래스를 나타냅니다.
+title: "클래스 SignatureAlgorithmInfo"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Security.SignatureAlgorithmInfo 클래스. 서명 알고리즘에 대한 정보(유형, 암호 표준 및 다이제스트 해시 알고리즘)를 제공하는 클래스를 나타냅니다."
 type: docs
-weight: 10000
+weight: 10180
 url: /ko/net/aspose.pdf.security/signaturealgorithminfo/
 ---
-## SignatureAlgorithmInfo 클래스
+## SignatureAlgorithmInfo class
 
-서명 알고리즘에 대한 정보, 유형, 암호화 표준 및 해시 알고리즘을 포함하는 클래스를 나타냅니다.
+서명 알고리즘에 대한 정보를 제공하는 클래스를 나타내며, 여기에는 유형, 암호 표준 및 다이제스트 해시 알고리즘이 포함됩니다.
 
 ```csharp
 public abstract class SignatureAlgorithmInfo
@@ -30,11 +30,13 @@ public abstract class SignatureAlgorithmInfo
 
 | 이름 | 설명 |
 | --- | --- |
-| readonly [AlgorithmType](../../aspose.pdf.security/signaturealgorithminfo/algorithmtype/) | PDF 문서 서명에 사용되는 서명 알고리즘의 유형을 가져옵니다. |
-| readonly [CryptographicStandard](../../aspose.pdf.security/signaturealgorithminfo/cryptographicstandard/) | PDF 문서 서명에 사용되는 암호화 표준을 가져옵니다. |
-| readonly [DigestHashAlgorithm](../../aspose.pdf.security/signaturealgorithminfo/digesthashalgorithm/) | 서명에 사용되는 해시 알고리즘을 가져옵니다. 타임스탬프의 경우, 이는 문서 내용의 해시가 서명되는 해시 알고리즘입니다. |
+| readonly [AlgorithmType](../../aspose.pdf.security/signaturealgorithminfo/algorithmtype/) | PDF 문서 서명에 사용되는 서명 알고리즘 유형을 가져옵니다. |
+| readonly [CryptographicStandard](../../aspose.pdf.security/signaturealgorithminfo/cryptographicstandard/) | PDF 문서 서명에 사용되는 암호 표준을 가져옵니다. |
+| readonly [DigestHashAlgorithm](../../aspose.pdf.security/signaturealgorithminfo/digesthashalgorithm/) | 서명에 사용되는 다이제스트 해시 알고리즘을 가져옵니다. 타임스탬프의 경우, 이는 문서 내용의 해시가 서명되는 다이제스트 해시 알고리즘입니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Security](../../aspose.pdf.security/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Security](../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../)
+
+

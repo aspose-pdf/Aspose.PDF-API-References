@@ -1,21 +1,23 @@
 ---
-title: GlyphPosition.Position
-second_title: Aspose.PDF for .NET API Reference
-description: GlyphPosition 속성. 연산자에서 텍스트의 위치
+title: "GlyphPosition.Position"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "GlyphPosition 속성. 연산자에서 텍스트의 위치"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.operators/glyphposition/position/
 ---
-## GlyphPosition.Position 속성
+## GlyphPosition.Position property
 
-연산자에서 텍스트의 위치.
+연산자 내 텍스트의 위치 오프셋.
 
 ```csharp
 public double Position { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [GlyphPosition](../)
-* 네임스페이스 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [GlyphPosition](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

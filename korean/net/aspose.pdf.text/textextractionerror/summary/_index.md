@@ -1,21 +1,23 @@
 ---
-title: TextExtractionError.Summary
-second_title: Aspose.PDF for .NET API Reference
-description: TextExtractionError 속성. 오류에 대한 간략한 설명
+title: "TextExtractionError.Summary"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TextExtractionError 속성. 오류에 대한 간략한 설명"
 type: docs
 weight: 60
 url: /ko/net/aspose.pdf.text/textextractionerror/summary/
 ---
-## TextExtractionError.Summary 속성
+## TextExtractionError.Summary property
 
-오류에 대한 간략한 설명입니다.
+오류에 대한 간략한 설명.
 
 ```csharp
 public string Summary { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [TextExtractionError](../)
-* 네임스페이스 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TextExtractionError](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

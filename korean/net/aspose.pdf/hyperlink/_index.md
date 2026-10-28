@@ -1,12 +1,12 @@
 ---
-title: Class Hyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Hyperlink 클래스. 추상 하이퍼링크를 나타냅니다.
+title: "Hyperlink 클래스"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Hyperlink 클래스. 추상 하이퍼링크를 나타냅니다."
 type: docs
-weight: 5740
+weight: 5870
 url: /ko/net/aspose.pdf/hyperlink/
 ---
-## 하이퍼링크 클래스
+## Hyperlink class
 
 추상 하이퍼링크를 나타냅니다.
 
@@ -14,7 +14,9 @@ url: /ko/net/aspose.pdf/hyperlink/
 public abstract class Hyperlink
 ```
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf](../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

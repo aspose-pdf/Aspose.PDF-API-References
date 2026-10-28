@@ -1,21 +1,23 @@
 ---
-title: PdfPageEditor.ApplyChanges
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor 메서드. 문서 페이지에 대한 변경 사항 적용
+title: "PdfPageEditor.ApplyChanges"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfPageEditor 메서드. 문서 페이지에 적용된 변경 사항을 적용합니다"
 type: docs
 weight: 120
 url: /ko/net/aspose.pdf.facades/pdfpageeditor/applychanges/
 ---
-## PdfPageEditor.ApplyChanges 메서드
+## PdfPageEditor.ApplyChanges method
 
-문서 페이지에 대한 변경 사항을 적용합니다.
+문서 페이지에 적용된 변경 사항을 적용합니다.
 
 ```csharp
 public void ApplyChanges()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfPageEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.BPlus
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes 필드. SuperB/SuperB/A3 용지 305 mm x 487 mm
+title: "PaperSizes.BPlus"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PaperSizes 필드. SuperB/SuperB/A3 용지 305 mm × 487 mm"
 type: docs
 weight: 310
 url: /ko/net/aspose.pdf.printing/papersizes/bplus/
 ---
-## PaperSizes.BPlus 필드
+## PaperSizes.BPlus field
 
-SuperB/SuperB/A3 용지 (305 mm x 487 mm).
+SuperB/SuperB/A3 용지 (305 mm × 487 mm).
 
 ```csharp
 public static readonly PaperSize BPlus;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PaperSize](../../papersize/)
-* 클래스 [PaperSizes](../)
-* 네임스페이스 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

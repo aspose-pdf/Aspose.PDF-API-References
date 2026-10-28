@@ -1,12 +1,12 @@
 ---
-title: TableTRElement.DefaultCellBorder
-second_title: Aspose.PDF for .NET API Reference
-description: TableTRElement 속성. 기본 셀 테두리를 가져옵니다
+title: "TableTRElement.DefaultCellBorder"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TableTRElement 속성. 기본 셀 테두리를 가져옵니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.logicalstructure/tabletrelement/defaultcellborder/
 ---
-## TableTRElement.DefaultCellBorder 속성
+## TableTRElement.DefaultCellBorder property
 
 기본 셀 테두리를 가져옵니다.
 
@@ -14,9 +14,11 @@ url: /ko/net/aspose.pdf.logicalstructure/tabletrelement/defaultcellborder/
 public BorderInfo DefaultCellBorder { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [BorderInfo](../../../aspose.pdf/borderinfo/)
-* 클래스 [TableTRElement](../)
-* 네임스페이스 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [BorderInfo](../../../aspose.pdf/borderinfo/)
+* class [TableTRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

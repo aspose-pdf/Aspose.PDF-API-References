@@ -1,12 +1,12 @@
 ---
-title: PageRange.Start
-second_title: Aspose.PDF for .NET API Reference
-description: PageRange 속성. 시작 페이지 번호를 가져오거나 설정합니다.
+title: "PageRange.Start"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PageRange 속성. 시작 페이지 번호를 가져오거나 설정합니다."
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf/pagerange/start/
 ---
-## PageRange.Start 속성
+## PageRange.Start property
 
 시작 페이지 번호를 가져오거나 설정합니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf/pagerange/start/
 public int Start { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PageRange](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PageRange](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

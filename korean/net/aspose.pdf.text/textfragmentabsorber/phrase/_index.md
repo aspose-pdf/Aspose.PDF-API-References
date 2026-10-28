@@ -1,12 +1,12 @@
 ---
-title: TextFragmentAbsorber.Phrase
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentAbsorber 속성. PDF 문서 또는 페이지에서 TextFragmentAbsorber가 검색하는 구문을 가져오거나 설정합니다.
+title: "TextFragmentAbsorber.Phrase"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TextFragmentAbsorber 속성. PDF 문서 또는 페이지에서 TextFragmentAbsorber가 검색하는 구문을 가져오거나 설정합니다."
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf.text/textfragmentabsorber/phrase/
 ---
-## TextFragmentAbsorber.Phrase 속성
+## TextFragmentAbsorber.Phrase property
 
 PDF 문서 또는 페이지에서 [`TextFragmentAbsorber`](../)가 검색하는 구문을 가져오거나 설정합니다.
 
@@ -16,30 +16,32 @@ public string Phrase { get; set; }
 
 ## 예제
 
-이 예제는 여러 번 텍스트를 검색하고 텍스트 교체를 수행하는 방법을 보여줍니다.
+이 예제는 텍스트를 여러 번 검색하고 텍스트 교체를 수행하는 방법을 보여줍니다.
 
 ```csharp
-// Open document
+// 문서 열기
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello" text occurrences
+// "hello" 텍스트 발생을 모두 찾기 위해 TextFragmentAbsorber 객체를 생성합니다.
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello");
 
 doc.Pages[1].Accept(absorber);
 absorber.TextFragments[1].Text = "Hi";
 
-// search another word and replace it
+// 다른 단어를 검색하고 교체합니다.
 absorber.Phrase = "world";
 
 doc.Pages[1].Accept(absorber);
 absorber.TextFragments[1].Text = "John";
 
-// Save document
+// 문서 저장
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [TextFragmentAbsorber](../)
-* 네임스페이스 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

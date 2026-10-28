@@ -1,14 +1,14 @@
 ---
-title: Artifact.Artifact
-second_title: Aspose.PDF for .NET API Reference
-description: 지정된 유형 및 하위 유형을 가진 아티팩트 생성자
+title: "Artifact.Artifact"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Artifact 생성자. 지정된 유형 및 하위 유형을 가진 아티팩트의 생성자"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf/artifact/artifact/
 ---
 ## Artifact(string, string) {#constructor_1}
 
-지정된 유형 및 하위 유형을 가진 아티팩트 생성자
+지정된 유형 및 하위 유형을 가진 Artifact의 생성자
 
 ```csharp
 public Artifact(string type, string subType)
@@ -16,20 +16,20 @@ public Artifact(string type, string subType)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| type | String | 아티팩트 유형의 이름. |
-| subType | String | 아티팩트 하위 유형의 이름. |
+| 유형 | String | 아티팩트 유형의 이름. |
+| subType | String | 아티팩트 하위 유형의 NAme. |
 
-### 참조
+### 또 보기
 
-* 클래스 [Artifact](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Artifact(ArtifactType, ArtifactSubtype) {#constructor}
 
-지정된 유형 및 하위 유형을 가진 아티팩트 생성자
+지정된 유형 및 하위 유형을 가진 Artifact의 생성자
 
 ```csharp
 public Artifact(ArtifactType type, ArtifactSubtype subType)
@@ -37,13 +37,15 @@ public Artifact(ArtifactType type, ArtifactSubtype subType)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| type | ArtifactType | 아티팩트 유형. |
+| 유형 | ArtifactType | 아티팩트 유형. |
 | subType | ArtifactSubtype | 아티팩트 하위 유형. |
 
-### 참조
+### 또 보기
 
-* 열거형 [ArtifactType](../../artifact.artifacttype/)
-* 열거형 [ArtifactSubtype](../../artifact.artifactsubtype/)
-* 클래스 [Artifact](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* enum [ArtifactType](../../artifact.artifacttype/)
+* enum [ArtifactSubtype](../../artifact.artifactsubtype/)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

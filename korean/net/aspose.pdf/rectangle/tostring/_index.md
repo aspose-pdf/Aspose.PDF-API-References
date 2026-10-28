@@ -1,14 +1,14 @@
 ---
-title: Rectangle.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle 메서드. 사각형 문자열 표현을 가져옵니다.
+title: "Rectangle.ToString"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Rectangle 메서드. 사각형 문자열 표현을 가져옵니다"
 type: docs
 weight: 290
 url: /ko/net/aspose.pdf/rectangle/tostring/
 ---
-## Rectangle.ToString 메서드
+## Rectangle.ToString method
 
-사각형 문자열 표현을 가져옵니다.
+사각형의 문자열 표현을 가져옵니다.
 
 ```csharp
 public override string ToString()
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### 반환 값
 
-문자열 형식은 llx,lly,urx,ury입니다.
+문자열은 llx,lly,urx,ury 형식입니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [Rectangle](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

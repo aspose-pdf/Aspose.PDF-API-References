@@ -1,20 +1,22 @@
 ---
-title: IllustrationElement.AdjustPosition
-second_title: Aspose.PDF for .NET API Reference
-description: 일러스트레이션 요소 방법.
+title: "IllustrationElement.AdjustPosition"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "IllustrationElement 메서드."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.logicalstructure/illustrationelement/adjustposition/
 ---
-## IllustrationElement.AdjustPosition 메서드
+## IllustrationElement.AdjustPosition method
 
 ```csharp
 public void AdjustPosition(PositionSettings positionSettings)
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PositionSettings](../../../aspose.pdf.tagged/positionsettings/)
-* 클래스 [IllustrationElement](../)
-* 네임스페이스 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PositionSettings](../../../aspose.pdf.tagged/positionsettings/)
+* class [IllustrationElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

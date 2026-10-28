@@ -1,12 +1,12 @@
 ---
-title: PdfAnnotationEditor.ExportAnnotationsToXfdf
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAnnotationEditor 메서드. 주석을 스트림으로 내보냅니다.
+title: "PdfAnnotationEditor.ExportAnnotationsToXfdf"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfAnnotationEditor 메서드. 주석을 스트림으로 내보냅니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf.facades/pdfannotationeditor/exportannotationstoxfdf/
 ---
-## PdfAnnotationEditor.ExportAnnotationsToXfdf 메서드
+## PdfAnnotationEditor.ExportAnnotationsToXfdf method
 
 주석을 스트림으로 내보냅니다.
 
@@ -18,8 +18,10 @@ public void ExportAnnotationsToXfdf(Stream xmlOutputStream)
 | --- | --- | --- |
 | xmlOutputStream | Stream | 출력 스트림. |
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfAnnotationEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

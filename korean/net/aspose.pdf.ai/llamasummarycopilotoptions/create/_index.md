@@ -1,24 +1,24 @@
 ---
-title: LlamaSummaryCopilotOptions.Create
-second_title: Aspose.PDF for .NET API Reference
-description: LlamaSummaryCopilotOptions 메서드. LlamaSummaryCopilotOptions의 새 인스턴스를 생성합니다.
+title: "LlamaSummaryCopilotOptions.Create"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "LlamaSummaryCopilotOptions 메서드. LlamaSummaryCopilotOptions의 새 인스턴스를 생성합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.ai/llamasummarycopilotoptions/create/
 ---
 ## Create() {#create}
 
-[`LlamaSummaryCopilotOptions`](../)의 새 인스턴스를 생성합니다.
+`[`LlamaSummaryCopilotOptions`](../)`의 새 인스턴스를 생성합니다.
 
 ```csharp
 public static LlamaSummaryCopilotOptions Create()
 ```
 
-### Return Value
+### 반환 값
 
-[`LlamaSummaryCopilotOptions`](../)의 새 인스턴스입니다.
+`[`LlamaSummaryCopilotOptions`](../)`의 새 인스턴스.
 
-### See Also
+### 또 보기
 
 * class [LlamaSummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
@@ -28,22 +28,24 @@ public static LlamaSummaryCopilotOptions Create()
 
 ## Create(Action&lt;LlamaSummaryCopilotOptions&gt;) {#create_1}
 
-[`LlamaSummaryCopilotOptions`](../)의 인스턴스를 생성하고 제공된 델리게이트를 사용하여 구성합니다.
+`[`LlamaSummaryCopilotOptions`](../)`의 인스턴스를 생성하고 제공된 대리자를 사용하여 구성합니다.
 
 ```csharp
 public static LlamaSummaryCopilotOptions Create(Action<LlamaSummaryCopilotOptions> config)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| config | Action`1 | 옵션을 구성하는 델리게이트입니다. |
+| 구성 | Action`1 | 옵션을 구성하기 위한 대리자입니다. |
 
-### Return Value
+### 반환 값
 
-구성된 [`LlamaSummaryCopilotOptions`](../)의 인스턴스입니다.
+구성된 `[`LlamaSummaryCopilotOptions`](../)` 인스턴스.
 
-### See Also
+### 또 보기
 
 * class [LlamaSummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

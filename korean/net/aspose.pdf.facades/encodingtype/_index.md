@@ -1,32 +1,34 @@
 ---
-title: Enum EncodingType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.EncodingType 열거형. 텍스트의 인코딩 유형을 열거합니다.
+title: "열거형 EncodingType"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Facades.EncodingType 열거형. 텍스트에 사용되는 인코딩 유형을 열거합니다."
 type: docs
-weight: 4240
+weight: 4360
 url: /ko/net/aspose.pdf.facades/encodingtype/
 ---
-## EncodingType 열거형
+## EncodingType enumeration
 
-텍스트의 인코딩 유형을 열거합니다.
+텍스트에 사용되는 인코딩 유형을 열거합니다.
 
 ```csharp
 public enum EncodingType
 ```
 
-### 값들
+### 값
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
-| Identity_h | `0` | 수평 쓰기를 사용하는 유니코드 인코딩. |
-| Identity_v | `1` | 수직 쓰기를 사용하는 유니코드 인코딩. |
-| Cp1250 | `2` | 윈도우 텍스트 인코딩 이름. |
-| Cp1252 | `3` | 윈도우 텍스트 인코딩 이름. |
-| Cp1257 | `4` | 윈도우 텍스트 인코딩 이름. |
-| Winansi | `5` | 윈도우 ANSI 인코딩. |
-| Macroman | `6` | 라틴 텍스트를 위한 Mac OS 표준 인코딩. |
+| Identity_h | `0` | 가로 쓰기 방식의 Unicode 인코딩입니다. |
+| Identity_v | `1` | 세로 쓰기 방식의 Unicode 인코딩입니다. |
+| Cp1250 | `2` | Windows 텍스트 인코딩 이름입니다. |
+| Cp1252 | `3` | Windows 텍스트 인코딩 이름입니다. |
+| Cp1257 | `4` | Windows 텍스트 인코딩 이름입니다. |
+| Winansi | `5` | Windows ansi 인코딩. |
+| Macroman | `6` | 라틴 텍스트용 Mac OS 표준 인코딩. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

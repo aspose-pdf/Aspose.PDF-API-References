@@ -1,21 +1,23 @@
 ---
-title: Row.IsRowBroken
-second_title: Aspose.PDF for .NET API Reference
-description: Row 속성. 두 페이지 사이에서 행이 나눠질 수 있는지 여부를 가져옵니다.
+title: "Row.IsRowBroken"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Row 속성. 행이 두 페이지 사이에 나뉘어질 수 있는지 가져옵니다"
 type: docs
 weight: 100
 url: /ko/net/aspose.pdf/row/isrowbroken/
 ---
-## Row.IsRowBroken 속성
+## Row.IsRowBroken property
 
-행이 두 페이지 사이에서 나눠질 수 있는지 여부를 가져옵니다.
+행이 두 페이지 사이에 나뉠 수 있는지 가져옵니다
 
 ```csharp
 public bool IsRowBroken { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Row](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Row](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

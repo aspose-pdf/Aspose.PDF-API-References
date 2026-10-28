@@ -1,14 +1,14 @@
 ---
-title: Class RgbToDeviceGrayConversionStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.RgbToDeviceGrayConversionStrategy 클래스. RGB에서 장치 회색 색상 공간으로 변환 전략을 나타냅니다.
+title: "클래스 RgbToDeviceGrayConversionStrategy"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.RgbToDeviceGrayConversionStrategy 클래스. rgb를 device gray 색 공간으로 변환하는 전략을 나타냅니다"
 type: docs
-weight: 9800
+weight: 9950
 url: /ko/net/aspose.pdf/rgbtodevicegrayconversionstrategy/
 ---
-## RgbToDeviceGrayConversionStrategy 클래스
+## RgbToDeviceGrayConversionStrategy class
 
-RGB에서 장치 회색 색상 공간으로 변환 전략을 나타냅니다.
+rgb를 디바이스 그레이 색 공간으로 변환하는 전략을 나타냅니다.
 
 ```csharp
 public class RgbToDeviceGrayConversionStrategy : IColorSpaceConversionStrategy
@@ -18,16 +18,18 @@ public class RgbToDeviceGrayConversionStrategy : IColorSpaceConversionStrategy
 
 | 이름 | 설명 |
 | --- | --- |
-| [RgbToDeviceGrayConversionStrategy](rgbtodevicegrayconversionstrategy/)() | 기본 생성자입니다. |
+| [RgbToDeviceGrayConversionStrategy](rgbtodevicegrayconversionstrategy/)() | 기본 생성자. |
 
 ## 메서드
 
 | 이름 | 설명 |
 | --- | --- |
-| [Convert](../../aspose.pdf/rgbtodevicegrayconversionstrategy/convert/)(Page) | 문서의 페이지를 변환합니다. |
+| [Convert](../../aspose.pdf/rgbtodevicegrayconversionstrategy/convert/)(Page) | Document의 Page를 변환합니다. |
 
-### 참조
+### 또 보기
 
-* 인터페이스 [IColorSpaceConversionStrategy](../icolorspaceconversionstrategy/)
-* 네임스페이스 [Aspose.Pdf](../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../)
+* interface [IColorSpaceConversionStrategy](../icolorspaceconversionstrategy/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

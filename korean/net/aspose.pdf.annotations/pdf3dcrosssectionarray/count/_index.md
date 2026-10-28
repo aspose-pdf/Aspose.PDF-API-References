@@ -1,25 +1,27 @@
 ---
-title: PDF3DCrossSectionArray.Count
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DCrossSectionArray 속성. 단면 수를 가져옵니다.
+title: "PDF3DCrossSectionArray.Count"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PDF3DCrossSectionArray 속성. 단면 개수를 가져옵니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.annotations/pdf3dcrosssectionarray/count/
 ---
-## PDF3DCrossSectionArray.Count 속성
+## PDF3DCrossSectionArray.Count property
 
-단면 수를 가져옵니다.
+교차 섹션 수를 가져옵니다.
 
 ```csharp
 public int Count { get; }
 ```
 
-### 속성 값
+### Property Value
 
-단면 수.
+단면 개수.
 
-### 참조
+### 또 보기
 
-* 클래스 [PDF3DCrossSectionArray](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PDF3DCrossSectionArray](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

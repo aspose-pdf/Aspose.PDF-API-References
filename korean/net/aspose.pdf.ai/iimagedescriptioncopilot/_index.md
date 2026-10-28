@@ -1,14 +1,14 @@
 ---
-title: Interface IImageDescriptionCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.IImageDescriptionCopilot 인터페이스. AI 모델을 사용하여 이미지 설명을 추출하기 위한 이미지 설명 코파일럿을 나타냅니다.
+title: "인터페이스 IImageDescriptionCopilot"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.AI.IImageDescriptionCopilot 인터페이스. AI 모델을 사용하여 이미지 설명을 추출하는 이미지 설명 코파일럿을 나타냅니다"
 type: docs
-weight: 510
+weight: 530
 url: /ko/net/aspose.pdf.ai/iimagedescriptioncopilot/
 ---
-## IImageDescriptionCopilot 인터페이스
+## IImageDescriptionCopilot interface
 
-AI 모델을 사용하여 이미지 설명을 추출하기 위한 이미지 설명 코파일럿을 나타냅니다.
+AI 모델을 사용하여 이미지 설명을 추출하는 이미지 설명 코파일럿을 나타냅니다.
 
 ```csharp
 public interface IImageDescriptionCopilot : IAICopilot
@@ -20,8 +20,10 @@ public interface IImageDescriptionCopilot : IAICopilot
 | --- | --- |
 | [GetImageDescriptionsAsync](../../aspose.pdf.ai/iimagedescriptioncopilot/getimagedescriptionsasync/)(CancellationToken?) | PDF 문서의 이미지에 대한 이미지 설명을 비동기적으로 가져옵니다. |
 
-### 참조
+### 또 보기
 
-* 인터페이스 [IAICopilot](../iaicopilot/)
-* 네임스페이스 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../)
+* interface [IAICopilot](../iaicopilot/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

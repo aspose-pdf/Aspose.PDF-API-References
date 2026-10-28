@@ -1,14 +1,14 @@
 ---
-title: AppearanceDictionary.ContainsKey
-second_title: Aspose.PDF for .NET API Reference
-description: AppearanceDictionary 메서드. 이 사전이 지정된 키를 포함하는지 여부를 결정합니다.
+title: "AppearanceDictionary.ContainsKey"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "AppearanceDictionary 메서드. 이 사전이 지정된 키를 포함하는지 확인합니다."
 type: docs
 weight: 120
 url: /ko/net/aspose.pdf.annotations/appearancedictionary/containskey/
 ---
-## AppearanceDictionary.ContainsKey 메서드
+## AppearanceDictionary.ContainsKey method
 
-이 사전이 지정된 키를 포함하는지 여부를 결정합니다.
+이 사전에 지정된 키가 포함되어 있는지 판단합니다.
 
 ```csharp
 public bool ContainsKey(string key)
@@ -16,14 +16,16 @@ public bool ContainsKey(string key)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| key | String | 사전에서 검색할 키입니다. |
+| 키 | String | 사전에서 검색할 키. |
 
 ### 반환 값
 
-키가 발견되면 true입니다.
+키가 발견되면 true.
 
-### 참조
+### 또 보기
 
-* 클래스 [AppearanceDictionary](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [AppearanceDictionary](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

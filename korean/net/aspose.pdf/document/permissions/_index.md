@@ -1,21 +1,23 @@
 ---
-title: Document.Permissions
-second_title: Aspose.PDF for .NET API Reference
-description: 문서 속성. 문서의 권한을 가져옵니다.
+title: "Document.Permissions"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Document 속성. 문서의 권한을 가져옵니다."
 type: docs
-weight: 490
+weight: 510
 url: /ko/net/aspose.pdf/document/permissions/
 ---
-## Document.Permissions 속성
+## Document.Permissions property
 
-문서의 권한을 가져옵니다.
+document 권한을 가져옵니다.
 
 ```csharp
 public int Permissions { get; }
 ```
 
-### 참조
+### 또 보기
 
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

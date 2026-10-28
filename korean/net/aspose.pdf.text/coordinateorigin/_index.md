@@ -1,12 +1,12 @@
 ---
-title: Enum CoordinateOrigin
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.CoordinateOrigin 열거형. 텍스트 CoordinateOrigin 열거형
+title: "열거형 CoordinateOrigin"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Text.CoordinateOrigin 열거형. 텍스트 CoordinateOrigin 열거형."
 type: docs
-weight: 10460
+weight: 10640
 url: /ko/net/aspose.pdf.text/coordinateorigin/
 ---
-## CoordinateOrigin 열거형
+## CoordinateOrigin enumeration
 
 텍스트 CoordinateOrigin 열거형.
 
@@ -14,14 +14,16 @@ url: /ko/net/aspose.pdf.text/coordinateorigin/
 public enum CoordinateOrigin
 ```
 
-### 값들
+### 값
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
-| BaseLine | `0` | 텍스트의 가장 낮은 좌표는 기준선으로 간주되어야 합니다. |
-| Descender | `1` | 텍스트의 가장 낮은 좌표는 하강선으로 간주되어야 합니다. |
+| BaseLine | `0` | 텍스트의 가장 낮은 좌표는 기준선으로 간주해야 합니다. |
+| Descender | `1` | 텍스트의 가장 낮은 좌표는 디센더 라인으로 간주해야 합니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

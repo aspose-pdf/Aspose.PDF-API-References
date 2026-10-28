@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.ResizeContents
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor 메서드. 문서 페이지의 내용을 크기 조정합니다.
+title: "PdfFileEditor.ResizeContents"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfFileEditor 메서드. 문서 페이지의 내용을 크기 조정합니다."
 type: docs
 weight: 320
 url: /ko/net/aspose.pdf.facades/pdffileeditor/resizecontents/
 ---
 ## ResizeContents(Stream, Stream, int[], ContentsResizeParameters) {#resizecontents}
 
-문서의 페이지 내용을 크기 조정합니다.
+문서 페이지의 내용을 크기 조정합니다.
 
 ```csharp
 public bool ResizeContents(Stream source, Stream destination, int[] pages, 
@@ -17,10 +17,10 @@ public bool ResizeContents(Stream source, Stream destination, int[] pages,
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| source | Stream | 원본 문서가 있는 스트림입니다. |
-| destination | Stream | 대상 문서가 있는 스트림입니다. |
-| pages | Int32[] | 페이지 인덱스 배열입니다. |
-| parameters | ContentsResizeParameters | 크기 조정 매개변수입니다. |
+| 소스 | Stream | 원본 문서가 포함된 스트림입니다. |
+| 대상 | Stream | 대상 문서가 포함된 스트림입니다. |
+| 페이지 | Int32[] | 페이지 인덱스 배열입니다. |
+| 매개변수 | ContentsResizeParameters | 크기 조정 매개변수입니다. |
 
 ### 반환 값
 
@@ -33,29 +33,29 @@ PdfFileEditor fileEditor = new PdfFileEditor();
 Stream src = new Stream("input.pdf", FileMode.Open);
 Stream dest = new Stream("output.pdf", FileMode.Create);
 PdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
-    //left margin = 10% of page width
+    //왼쪽 여백 = 페이지 너비의 10%
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //new contents width calculated automatically as width - left margin - right margin (100% - 10% - 10% = 80%)
+    //새 내용 너비는 자동으로 width - left margin - right margin (100% - 10% - 10% = 80%) 로 계산됩니다.
     null,
-    //right margin is 10% of page 
+    //오른쪽 여백은 페이지의 10%입니다.
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //top margin = 10% of height
+    //상단 여백 = 높이의 10%
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //new contents height is calculated automatically (similar to width)
+    //새 내용 높이는 자동으로 계산됩니다 (너비와 유사).
     null,
-    //bottom margin is 10%
+    //하단 여백은 10%입니다.
     PdfFileEditor.ContentsResizeValue.Percents(10)
        );
 fileEditor.ResizeContents(src, dest, new int[] { 1, 2,.3}, parameters);
 dest.Close();
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
-* 클래스 [PdfFileEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -70,15 +70,15 @@ public bool ResizeContents(Stream source, Stream destination, int[] pages, doubl
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| source | Stream | 원본 문서를 포함하는 스트림입니다. |
-| destination | Stream | 결과 문서가 저장될 스트림입니다. |
-| pages | Int32[] | 페이지 인덱스 배열입니다. null이면 모든 문서 페이지가 처리됩니다. |
-| newWidth | Double | 기본 공간 단위로 페이지 내용의 새로운 너비입니다. |
-| newHeight | Double | 기본 공간 단위로 페이지 내용의 새로운 높이입니다. |
+| 소스 | Stream | 원본 문서를 포함하는 스트림. |
+| 대상 | Stream | 결과 문서가 저장될 스트림. |
+| 페이지 | Int32[] | 페이지 인덱스 배열입니다. null인 경우 모든 문서 페이지가 처리됩니다. |
+| newWidth | Double | 기본 공간 단위로 페이지 내용의 새 너비입니다. |
+| newHeight | Double | 기본 공간 단위로 페이지 내용의 새 높이입니다. |
 
 ### 반환 값
 
-크기 조정이 성공하면 true입니다.
+크기 조정이 성공한 경우 True.
 
 ## 예제
 
@@ -87,20 +87,20 @@ PdfFileEditor fileEditor = new PdfFileEditor();
 Stream src = new Stream("input.pdf", FileMode.Open);
 Stream dest = new Stream("output.pdf", FileMode.Create);
 fileEditor.ResizeContents(src, dest, 
-//resize all pages of document
+//문서의 모든 페이지를 크기 조정합니다.
 null, 
-//new contents width = 200
+//새 콘텐츠 너비 = 200
 200, 
-//new contents height = 300
+//새 콘텐츠 높이 = 300
 300);
-// rest area of page will be empty
+// 페이지의 나머지 영역은 비게 됩니다.
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfFileEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -115,11 +115,11 @@ public bool ResizeContents(string source, string destination, int[] pages, doubl
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| source | String | 원본 문서의 경로입니다. |
-| destination | String | 결과 문서가 저장될 경로입니다. |
-| pages | Int32[] | 페이지 인덱스 배열입니다. null이면 모든 문서 페이지가 처리됩니다. |
-| newWidth | Double | 기본 공간 단위로 페이지 내용의 새로운 너비입니다. |
-| newHeight | Double | 기본 공간 단위로 페이지 내용의 새로운 높이입니다. |
+| 소스 | String | 원본 문서의 경로입니다. |
+| 대상 | String | 결과 문서가 저장될 경로입니다. |
+| 페이지 | Int32[] | 페이지 인덱스 배열입니다. null인 경우 모든 문서 페이지가 처리됩니다. |
+| newWidth | Double | 기본 공간 단위로 페이지 내용의 새 너비입니다. |
+| newHeight | Double | 기본 공간 단위로 페이지 내용의 새 높이입니다. |
 
 ### 반환 값
 
@@ -130,26 +130,26 @@ public bool ResizeContents(string source, string destination, int[] pages, doubl
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 fileEditor.ResizeContents("input.pdf", "output.pdf", 
-//resize all pages of document
+//문서의 모든 페이지를 크기 조정합니다.
 null, 
-//new contents width = 200
+//새 콘텐츠 너비 = 200
 200, 
-//new contents height = 300
+//새 콘텐츠 높이 = 300
 300);
-// rest area of page will be empty
+// 페이지의 나머지 영역은 비게 됩니다.
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfFileEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ResizeContents(string, string, int[], ContentsResizeParameters) {#resizecontents_2}
 
-문서의 페이지 내용을 크기 조정합니다. 페이지가 축소되면 페이지 주위에 빈 여백이 추가됩니다.
+문서의 페이지 내용을 크기 조정합니다. 페이지가 축소되면 페이지 주변에 빈 여백이 추가됩니다.
 
 ```csharp
 public bool ResizeContents(string source, string destination, int[] pages, 
@@ -158,10 +158,10 @@ public bool ResizeContents(string source, string destination, int[] pages,
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| source | String | 원본 문서 경로입니다. |
-| destination | String | 대상 문서 경로입니다. |
-| pages | Int32[] | 페이지 인덱스 배열입니다 (페이지 인덱스는 1부터 시작합니다). |
-| parameters | ContentsResizeParameters | 페이지 크기 조정 매개변수입니다. |
+| 소스 | String | 소스 문서 경로. |
+| 대상 | String | 대상 문서 경로. |
+| 페이지 | Int32[] | 페이지 인덱스 배열 (페이지 인덱스는 1부터 시작합니다). |
+| 매개변수 | ContentsResizeParameters | 페이지 크기 조정 매개변수. |
 
 ### 반환 값
 
@@ -172,34 +172,34 @@ public bool ResizeContents(string source, string destination, int[] pages,
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 PdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
-    //left margin = 10% of page width
+    //왼쪽 여백 = 페이지 너비의 10%
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //new contents width calculated automatically as width - left margin - right margin (100% - 10% - 10% = 80%)
+    //새 내용 너비는 자동으로 width - left margin - right margin (100% - 10% - 10% = 80%) 로 계산됩니다.
     null,
-    //right margin is 10% of page 
+    //오른쪽 여백은 페이지의 10%입니다.
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //top margin = 10% of height
+    //상단 여백 = 높이의 10%
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //new contents height is calculated automatically (similar to width)
+    //새 내용 높이는 자동으로 계산됩니다 (너비와 유사).
     null,
-    //bottom margin is 10%
+    //하단 여백은 10%입니다.
     PdfFileEditor.ContentsResizeValue.Percents(10)
        );
 fileEditor.ResizeContents("input.pdf", "output.pdf", new int[] { 1, 2, 3 }, parameters);
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
-* 클래스 [PdfFileEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ResizeContents(Document, int[], ContentsResizeParameters) {#resizecontents_5}
 
-문서의 페이지를 크기 조정합니다. 축소된 페이지 주위에 빈 여백이 추가됩니다.
+문서의 페이지 크기를 조정합니다. 축소된 페이지 주변에 빈 여백이 추가됩니다.
 
 ```csharp
 public void ResizeContents(Document source, int[] pages, ContentsResizeParameters parameters)
@@ -207,9 +207,9 @@ public void ResizeContents(Document source, int[] pages, ContentsResizeParameter
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| source | Document | 원본 문서입니다. |
-| pages | Int32[] | 페이지 인덱스 목록입니다. |
-| parameters | ContentsResizeParameters | 크기 조정 매개변수입니다. |
+| 소스 | Document | 원본 문서. |
+| 페이지 | Int32[] | 페이지 인덱스 목록. |
+| 매개변수 | ContentsResizeParameters | 크기 조정 매개변수입니다. |
 
 ## 예제
 
@@ -217,36 +217,36 @@ public void ResizeContents(Document source, int[] pages, ContentsResizeParameter
 PdfFileEditor fileEditor = new PdfFileEditor();
 Document doc = new Document("input.pdf");
 PdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
-    //left margin = 10% of page width
+    //왼쪽 여백 = 페이지 너비의 10%
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //new contents width calculated automatically as width - left margin - right margin (100% - 10% - 10% = 80%)
+    //새 내용 너비는 자동으로 width - left margin - right margin (100% - 10% - 10% = 80%) 로 계산됩니다.
     null,
-    //right margin is 10% of page 
+    //오른쪽 여백은 페이지의 10%입니다.
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //top margin = 10% of height
+    //상단 여백 = 높이의 10%
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //new contents height is calculated automatically (similar to width)
+    //새 내용 높이는 자동으로 계산됩니다 (너비와 유사).
     null,
-    //bottom margin is 10%
+    //하단 여백은 10%입니다.
     PdfFileEditor.ContentsResizeValue.Percents(10)
        );
 fileEditor.ResizeContents(doc, new int[] { 1, 2, 3 }, parameters);
 doc.Save("output.pdf");
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Document](../../../aspose.pdf/document/)
-* 클래스 [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
-* 클래스 [PdfFileEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ResizeContents(Document, ContentsResizeParameters) {#resizecontents_4}
 
-문서의 페이지를 크기 조정합니다. 축소된 페이지 주위에 빈 여백이 추가됩니다.
+문서의 페이지 크기를 조정합니다. 축소된 페이지 주변에 빈 여백이 추가됩니다.
 
 ```csharp
 public void ResizeContents(Document source, ContentsResizeParameters parameters)
@@ -254,8 +254,8 @@ public void ResizeContents(Document source, ContentsResizeParameters parameters)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| source | Document | 원본 문서입니다. |
-| parameters | ContentsResizeParameters | 크기 조정 매개변수입니다. |
+| 소스 | Document | 원본 문서. |
+| 매개변수 | ContentsResizeParameters | 크기 조정 매개변수입니다. |
 
 ## 예제
 
@@ -263,27 +263,29 @@ public void ResizeContents(Document source, ContentsResizeParameters parameters)
 PdfFileEditor fileEditor = new PdfFileEditor();
 Document doc = new Document("input.pdf");
 PdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
-    //left margin = 10% of page width
+    //왼쪽 여백 = 페이지 너비의 10%
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //new contents width calculated automatically as width - left margin - right margin (100% - 10% - 10% = 80%)
+    //새 내용 너비는 자동으로 width - left margin - right margin (100% - 10% - 10% = 80%) 로 계산됩니다.
     null,
-    //right margin is 10% of page 
+    //오른쪽 여백은 페이지의 10%입니다.
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //top margin = 10% of height
+    //상단 여백 = 높이의 10%
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //new contents height is calculated automatically (similar to width)
+    //새 내용 높이는 자동으로 계산됩니다 (너비와 유사).
     null,
-    //bottom margin is 10%
+    //하단 여백은 10%입니다.
     PdfFileEditor.ContentsResizeValue.Percents(10)
        );
 fileEditor.ResizeContents(doc, parameters);
 doc.Save("output.pdf");
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Document](../../../aspose.pdf/document/)
-* 클래스 [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
-* 클래스 [PdfFileEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

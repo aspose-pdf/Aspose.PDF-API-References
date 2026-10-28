@@ -1,21 +1,23 @@
 ---
-title: FormFieldFacade.Box
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade 속성. 필드 위치를 보유하는 사각형 객체
+title: "FormFieldFacade.Box"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FormFieldFacade 속성. 필드 위치를 보유하는 사각형 객체"
 type: docs
 weight: 70
 url: /ko/net/aspose.pdf.facades/formfieldfacade/box/
 ---
-## FormFieldFacade.Box 속성
+## FormFieldFacade.Box property
 
-필드의 위치를 보유하는 사각형 객체입니다.
+필드 위치를 보유하는 사각형 객체.
 
 ```csharp
 public Rectangle Box { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [FormFieldFacade](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

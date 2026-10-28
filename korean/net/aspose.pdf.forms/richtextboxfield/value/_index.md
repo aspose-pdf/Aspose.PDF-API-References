@@ -1,21 +1,23 @@
 ---
-title: RichTextBoxField.Value
-second_title: Aspose.PDF for .NET API Reference
-description: RichTextBoxField 속성. RichTextField의 값
+title: "RichTextBoxField.Value"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "RichTextBoxField 속성. RichTextField의 값."
 type: docs
 weight: 60
 url: /ko/net/aspose.pdf.forms/richtextboxfield/value/
 ---
-## RichTextBoxField.Value 속성
+## RichTextBoxField.Value property
 
-RichTextField의 값.
+RichTextField의 값입니다.
 
 ```csharp
 public override string Value { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [RichTextBoxField](../)
-* 네임스페이스 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [RichTextBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

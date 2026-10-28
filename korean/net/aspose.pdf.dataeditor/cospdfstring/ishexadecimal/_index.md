@@ -1,12 +1,12 @@
 ---
-title: CosPdfString.IsHexadecimal
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfString 속성. 이 인스턴스가 16진수인지 여부를 나타내는 값을 가져옵니다.
+title: "CosPdfString.IsHexadecimal"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "CosPdfString 속성. 이 인스턴스가 16진수인지 여부를 나타내는 값을 가져옵니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.dataeditor/cospdfstring/ishexadecimal/
 ---
-## CosPdfString.IsHexadecimal 속성
+## CosPdfString.IsHexadecimal property
 
 이 인스턴스가 16진수인지 여부를 나타내는 값을 가져옵니다.
 
@@ -14,12 +14,14 @@ url: /ko/net/aspose.pdf.dataeditor/cospdfstring/ishexadecimal/
 public bool IsHexadecimal { get; }
 ```
 
-### 속성 값
+### Property Value
 
-`true` 이 인스턴스가 16진수인 경우; 그렇지 않으면 `false`입니다.
+이 인스턴스가 16진수이면 `true`; 그렇지 않으면 `false`.
 
-### 참조
+### 또 보기
 
-* 클래스 [CosPdfString](../)
-* 네임스페이스 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [CosPdfString](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

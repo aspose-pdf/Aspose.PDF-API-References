@@ -1,12 +1,12 @@
 ---
-title: Graph.Border
-second_title: Aspose.PDF for .NET API Reference
-description: 그래프 속성. 테두리를 가져오거나 설정합니다.
+title: "Graph.Border"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Graph 속성. 테두리를 가져오거나 설정합니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.drawing/graph/border/
 ---
-## Graph.Border 속성
+## Graph.Border property
 
 테두리를 가져오거나 설정합니다.
 
@@ -14,9 +14,11 @@ url: /ko/net/aspose.pdf.drawing/graph/border/
 public BorderInfo Border { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [BorderInfo](../../../aspose.pdf/borderinfo/)
-* 클래스 [Graph](../)
-* 네임스페이스 [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [BorderInfo](../../../aspose.pdf/borderinfo/)
+* class [Graph](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FormEditor.Items
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor 속성. 새로 생성된 목록 상자 또는 콤보 상자에 추가될 항목을 설정합니다.
+title: "FormEditor.Items"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FormEditor 속성. 새로 생성된 리스트 박스 또는 콤보 박스에 추가될 항목을 설정합니다"
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf.facades/formeditor/items/
 ---
-## FormEditor.Items 속성
+## FormEditor.Items property
 
-새로 생성된 목록 상자 또는 콤보 상자에 추가될 항목을 설정합니다.
+새로 생성된 리스트 박스 또는 콤보 박스에 추가될 항목을 설정합니다.
 
 ```csharp
 formEditor = new Aspose.Pdf.Facades.FormEditor("input.pdf", "output.pdf");
@@ -21,8 +21,10 @@ formEditor.Save();
 public string[] Items { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [FormEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,28 +1,30 @@
 ---
-title: Enum LaunchActionOperation
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.LaunchActionOperation 열거형. 실행 중 문서와 함께 수행할 작업을 열거합니다.
+title: "열거형 LaunchActionOperation"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Annotations.LaunchActionOperation 열거형. 실행 중인 시작 동작 동안 문서와 함께 수행할 작업을 열거합니다."
 type: docs
-weight: 1960
+weight: 2050
 url: /ko/net/aspose.pdf.annotations/launchactionoperation/
 ---
-## LaunchActionOperation 열거형
+## LaunchActionOperation enumeration
 
-실행 중 문서와 함께 수행할 작업을 열거합니다.
+실행 작업을 시작할 때 문서와 함께 수행할 작업을 열거합니다.
 
 ```csharp
 public enum LaunchActionOperation
 ```
 
-### 값들
+### 값
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
-| 정의되지 않음 | `0` | 정의되지 않은 상태. |
-| 열기 | `1` | 문서를 엽니다. |
-| 인쇄 | `2` | 문서를 인쇄합니다. |
+| Undefined | `0` | 정의되지 않은 상태. |
+| Open | `1` | 문서를 엽니다. |
+| Print | `2` | 문서를 인쇄합니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

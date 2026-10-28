@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionSchemaDescription.XmpPdfAExtensionSchemaDescription
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionSchemaDescription 생성자. 새 객체를 초기화합니다.
+title: "XmpPdfAExtensionSchemaDescription.XmpPdfAExtensionSchemaDescription"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "XmpPdfAExtensionSchemaDescription 생성자. 새 객체를 초기화합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf/xmppdfaextensionschemadescription/xmppdfaextensionschemadescription/
 ---
-## XmpPdfAExtensionSchemaDescription 생성자
+## XmpPdfAExtensionSchemaDescription constructor
 
 새 객체를 초기화합니다.
 
@@ -16,12 +16,14 @@ public XmpPdfAExtensionSchemaDescription(string prefix, string namespaceURI, str
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| prefix | 문자열 | 접두사. |
-| namespaceURI | 문자열 | 네임스페이스 URI. |
-| description | 문자열 | 선택적 설명. |
+| prefix | String | 접두사입니다. |
+| namespaceURI | String | 네임스페이스 URI입니다. |
+| description | String | 선택적 설명입니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [XmpPdfAExtensionSchemaDescription](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionSchemaDescription](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

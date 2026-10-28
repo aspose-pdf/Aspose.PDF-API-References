@@ -1,22 +1,24 @@
 ---
-title: FloatingBox.Border
-second_title: Aspose.PDF for .NET API Reference
-description: FloatingBox 속성. 플로팅 박스의 테두리 정보를 나타내는 BorderInfo 객체를 가져오거나 설정합니다.
+title: "FloatingBox.Border"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FloatingBox 속성. 부동 상자의 테두리 정보를 나타내는 BorderInfo 객체를 가져오거나 설정합니다."
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf/floatingbox/border/
 ---
-## FloatingBox.Border 속성
+## FloatingBox.Border property
 
-플로팅 박스의 테두리 정보를 나타내는 [`BorderInfo`](../../borderinfo/) 객체를 가져오거나 설정합니다.
+`[`BorderInfo`](../../borderinfo/)` 객체를 가져오거나 설정하여 부동 상자의 테두리 정보를 나타냅니다.
 
 ```csharp
 public BorderInfo Border { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [BorderInfo](../../borderinfo/)
-* 클래스 [FloatingBox](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [BorderInfo](../../borderinfo/)
+* class [FloatingBox](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

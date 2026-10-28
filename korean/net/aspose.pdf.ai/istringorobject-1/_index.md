@@ -1,14 +1,14 @@
 ---
-title: Interface IStringOrObjectT
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.IStringOrObject1T 인터페이스. 문자열 값 또는 객체 값이 될 수 있는 객체를 나타냅니다.
+title: "인터페이스 IStringOrObjectT"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.AI.IStringOrObject1T 인터페이스. 문자열 값 또는 객체 값 중 하나가 될 수 있는 객체를 나타냅니다"
 type: docs
-weight: 570
+weight: 620
 url: /ko/net/aspose.pdf.ai/istringorobject-1/
 ---
-## IStringOrObject&lt;T&gt; 인터페이스
+## IStringOrObject&lt;T&gt; interface
 
-문자열 값 또는 객체 값이 될 수 있는 객체를 나타냅니다.
+문자열 값 또는 객체 값 중 하나가 될 수 있는 객체를 나타냅니다.
 
 ```csharp
 public interface IStringOrObject<T>
@@ -28,7 +28,9 @@ public interface IStringOrObject<T>
 | [ObjectValue](../../aspose.pdf.ai/istringorobject-1/objectvalue/) { get; set; } | 객체 값을 가져오거나 설정합니다. |
 | [StringValue](../../aspose.pdf.ai/istringorobject-1/stringvalue/) { get; set; } | 문자열 값을 가져오거나 설정합니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

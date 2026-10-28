@@ -1,25 +1,27 @@
 ---
-title: MCRElement.MCID
-second_title: Aspose.PDF for .NET API Reference
-description: MCRElement 속성. 마크된 콘텐츠 참조 객체의 MCID를 가져옵니다.
+title: "MCRElement.MCID"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "MCRElement 속성. markedcontent 참조 객체의 MCID 를 가져옵니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.logicalstructure/mcrelement/mcid/
 ---
-## MCRElement.MCID 속성
+## MCRElement.MCID property
 
-마크된 콘텐츠 참조 객체의 MCID를 가져옵니다.
+표시된 콘텐츠 참조 객체의 MCID를 가져옵니다.
 
 ```csharp
 public int MCID { get; }
 ```
 
-### 속성 값
+### Property Value
 
-마크된 콘텐츠 참조 객체의 MCID입니다.
+marked-content 참조 객체의 MCID.
 
-### 참조
+### 또 보기
 
-* 클래스 [MCRElement](../)
-* 네임스페이스 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [MCRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

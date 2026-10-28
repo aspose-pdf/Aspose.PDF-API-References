@@ -1,14 +1,14 @@
 ---
-title: ITaggedContent.CreateTableTBodyElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent 메서드. TableTHeadElement를 생성합니다.
+title: "ITaggedContent.CreateTableTBodyElement"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ITaggedContent 메서드. TableTHeadElement을(를) 생성합니다."
 type: docs
-weight: 290
+weight: 320
 url: /ko/net/aspose.pdf.tagged/itaggedcontent/createtabletbodyelement/
 ---
-## ITaggedContent.CreateTableTBodyElement 메서드
+## ITaggedContent.CreateTableTBodyElement method
 
-[`TableTHeadElement`](../../../aspose.pdf.logicalstructure/tabletheadelement/)를 생성합니다.
+Creates [`TableTHeadElement`](../../../aspose.pdf.logicalstructure/tabletheadelement/)을(를) 생성합니다.
 
 ```csharp
 public TableTBodyElement CreateTableTBodyElement()
@@ -16,11 +16,13 @@ public TableTBodyElement CreateTableTBodyElement()
 
 ### 반환 값
 
-생성된 구조 요소입니다.
+구조 요소가 생성되었습니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [TableTBodyElement](../../../aspose.pdf.logicalstructure/tabletbodyelement/)
-* 인터페이스 [ITaggedContent](../)
-* 네임스페이스 [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TableTBodyElement](../../../aspose.pdf.logicalstructure/tabletbodyelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

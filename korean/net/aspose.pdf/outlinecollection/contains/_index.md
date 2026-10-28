@@ -1,14 +1,14 @@
 ---
-title: OutlineCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineCollection 메서드. 컬렉션에 주어진 항목이 포함되어 있는지 확인합니다.
+title: "OutlineCollection.Contains"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "OutlineCollection 메서드. 컬렉션에 지정된 항목이 포함되어 있는지 확인합니다."
 type: docs
 weight: 110
 url: /ko/net/aspose.pdf/outlinecollection/contains/
 ---
-## OutlineCollection.Contains 메서드
+## OutlineCollection.Contains method
 
-컬렉션에 주어진 항목이 포함되어 있는지 확인합니다.
+컬렉션이 지정된 항목을 포함하는지 확인합니다.
 
 ```csharp
 public override bool Contains(OutlineItemCollection item)
@@ -20,11 +20,13 @@ public override bool Contains(OutlineItemCollection item)
 
 ### 반환 값
 
-True - 항목이 발견된 경우; 그렇지 않으면 false.
+True - 항목이 발견되면; 그렇지 않으면 false.
 
-### 참조
+### 또 보기
 
-* 클래스 [OutlineItemCollection](../../outlineitemcollection/)
-* 클래스 [OutlineCollection](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../../outlineitemcollection/)
+* class [OutlineCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

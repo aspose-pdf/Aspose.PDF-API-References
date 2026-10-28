@@ -1,22 +1,24 @@
 ---
-title: TextStamp.ReplacementFont
-second_title: Aspose.PDF for .NET API Reference
-description: TextStamp 속성. 사용자의 글꼴에 필요한 문자가 포함되어 있지 않은 경우 대체에 사용되는 글꼴을 가져오거나 설정합니다.
+title: "TextStamp.ReplacementFont"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TextStamp 속성. 사용자가 선택한 폰트에 필요한 문자가 없을 경우 교체에 사용되는 폰트를 가져오거나 설정합니다."
 type: docs
 weight: 100
 url: /ko/net/aspose.pdf/textstamp/replacementfont/
 ---
-## TextStamp.ReplacementFont 속성
+## TextStamp.ReplacementFont property
 
-사용자의 글꼴에 필요한 문자가 포함되어 있지 않은 경우 대체에 사용되는 글꼴을 가져오거나 설정합니다.
+사용자 글꼴에 필요한 문자가 없을 경우 대체에 사용되는 글꼴을 가져오거나 설정합니다.
 
 ```csharp
 public Font ReplacementFont { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Font](../../../aspose.pdf.text/font/)
-* 클래스 [TextStamp](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Font](../../../aspose.pdf.text/font/)
+* class [TextStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.CreateBookmarksAction
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor 메서드. 지정된 작업으로 북마크를 생성합니다.
+title: "PdfContentEditor.CreateBookmarksAction"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfContentEditor 메서드. 지정된 동작으로 북마크를 생성합니다."
 type: docs
 weight: 120
 url: /ko/net/aspose.pdf.facades/pdfcontenteditor/createbookmarksaction/
 ---
-## PdfContentEditor.CreateBookmarksAction 메서드
+## PdfContentEditor.CreateBookmarksAction method
 
-지정된 작업으로 북마크를 생성합니다.
+지정된 작업이 있는 북마크를 생성합니다.
 
 ```csharp
 public void CreateBookmarksAction(string title, Color color, bool boldFlag, bool italicFlag, 
@@ -17,13 +17,13 @@ public void CreateBookmarksAction(string title, Color color, bool boldFlag, bool
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| title | String | 북마크의 제목. |
+| 제목 | String | 북마크의 제목. |
 | color | Color | 북마크 제목의 색상. |
-| boldFlag | Boolean | 굵게 표시할지 여부. |
-| italicFlag | Boolean | 기울임꼴 표시할지 여부. |
-| file | String | 작업 유형이 "GoToR" 또는 "Launch"일 때 필요한 다른 파일 또는 애플리케이션. |
-| actionType | String | 작업 유형. 값은 "GoToR", "Launch", "GoTo", "URI"일 수 있습니다. |
-| destination | String | 로컬 목적지 또는 원격 목적지 또는 URL. |
+| boldFlag | Boolean | 굵게 속성의 플래그. |
+| italicFlag | Boolean | 이탤릭 속성의 플래그. |
+| 파일 | String | 동작 유형이 "GoToR" 또는 "Launch"인 경우 필요한 다른 파일이나 애플리케이션. |
+| actionType | String | 동작 유형. 값은 다음 중 하나일 수 있습니다: "GoToR", "Launch", "GoTo", "URI". |
+| 대상 | String | 로컬 대상, 원격 대상 또는 URL. |
 
 ## 예제
 
@@ -35,8 +35,10 @@ editor.CreateBookmarksAction("bookmark title",
 editor.Save("example_out.pdf");
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfContentEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

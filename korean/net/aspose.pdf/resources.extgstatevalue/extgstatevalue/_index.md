@@ -1,19 +1,21 @@
 ---
-title: Resources.ExtGStateValue.ExtGStateValue
-second_title: Aspose.PDF for .NET API Reference
-description: ExtGStateValue constructor.
+title: "Resources.ExtGStateValue.ExtGStateValue"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ExtGStateValue 생성자."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf/resources.extgstatevalue/extgstatevalue/
 ---
-## Resources.ExtGStateValue 생성자
+## Resources.ExtGStateValue constructor
 
 ```csharp
 public ExtGStateValue(string name)
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [ExtGStateValue](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [ExtGStateValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

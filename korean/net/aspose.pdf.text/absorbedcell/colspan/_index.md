@@ -1,21 +1,23 @@
 ---
-title: AbsorbedCell.ColSpan
-second_title: Aspose.PDF for .NET API Reference
-description: AbsorbedCell 속성. TableAbsorber.UseFlowEngine 속성이 true로 설정될 때 셀이 걸쳐야 하는 열의 수를 반환합니다.
+title: "AbsorbedCell.ColSpan"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "AbsorbedCell 속성. TableAbsorber.UseFlowEngine 속성이 true로 설정된 경우 셀이 차지해야 하는 열 수를 반환합니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.text/absorbedcell/colspan/
 ---
-## AbsorbedCell.ColSpan 속성
+## AbsorbedCell.ColSpan property
 
-TableAbsorber.UseFlowEngine 속성이 true로 설정될 때 셀이 걸쳐야 하는 열의 수를 반환합니다.
+TableAbsorber.UseFlowEngine 속성이 true 로 설정된 경우 셀이 차지해야 하는 열 수를 반환합니다.
 
 ```csharp
 public int ColSpan { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [AbsorbedCell](../)
-* 네임스페이스 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [AbsorbedCell](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

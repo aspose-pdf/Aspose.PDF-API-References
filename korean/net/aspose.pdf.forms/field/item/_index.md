@@ -1,14 +1,14 @@
 ---
-title: Field.Item
-second_title: Aspose.PDF for .NET API Reference
-description: 필드 속성. 하위 필드의 이름으로 이 필드에 포함된 하위 필드를 가져옵니다.
+title: "Field.Item"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Field 속성. 이 필드에 포함된 하위 필드를 하위 필드 이름으로 가져옵니다."
 type: docs
 weight: 80
 url: /ko/net/aspose.pdf.forms/field/item/
 ---
-## 필드 인덱서 (1의 2)
+## Field indexer (1 of 2)
 
-하위 필드의 이름으로 이 필드에 포함된 하위 필드를 가져옵니다.
+이 필드에 포함된 하위 필드를 하위 필드 이름으로 가져옵니다.
 
 ```csharp
 public WidgetAnnotation this[string name] { get; }
@@ -16,24 +16,24 @@ public WidgetAnnotation this[string name] { get; }
 
 | 매개변수 | 설명 |
 | --- | --- |
-| name | 포함된 하위 필드 이름. |
+| 이름 | 포함된 하위 필드 이름. |
 
 ### 반환 값
 
-필드 인스턴스.
+Field 인스턴스.
 
-### 참조
+### 또 보기
 
-* 클래스 [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
-* 클래스 [Field](../)
-* 네임스페이스 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## 필드 인덱서 (2의 2)
+## Field indexer (2 of 2)
 
-인덱스로 이 필드에 포함된 하위 필드를 가져옵니다.
+이 필드에 포함된 하위 필드를 인덱스로 가져옵니다.
 
 ```csharp
 public WidgetAnnotation this[int index] { get; }
@@ -45,11 +45,13 @@ public WidgetAnnotation this[int index] { get; }
 
 ### 반환 값
 
-필드 인스턴스.
+Field 인스턴스.
 
-### 참조
+### 또 보기
 
-* 클래스 [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
-* 클래스 [Field](../)
-* 네임스페이스 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

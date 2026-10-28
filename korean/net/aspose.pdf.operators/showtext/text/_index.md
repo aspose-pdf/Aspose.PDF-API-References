@@ -1,12 +1,12 @@
 ---
-title: ShowText.Text
-second_title: Aspose.PDF for .NET API Reference
-description: ShowText 속성. 연산자의 텍스트
+title: "ShowText.Text"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ShowText 속성. 연산자의 텍스트입니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.operators/showtext/text/
 ---
-## ShowText.Text 속성
+## ShowText.Text property
 
 연산자의 텍스트.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.operators/showtext/text/
 public override string Text { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [ShowText](../)
-* 네임스페이스 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [ShowText](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

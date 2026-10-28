@@ -1,14 +1,14 @@
 ---
-title: Enum HtmlSaveOptions.HtmlImageType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HtmlSaveOptionsHtmlImageType 열거형. Pdf를 Html로 변환하는 동안 외부 리소스로 저장할 수 있는 이미지 파일의 가능한 유형을 나열합니다.
+title: "열거형 HtmlSaveOptions.HtmlImageType"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.HtmlSaveOptionsHtmlImageType 열거형. Pdf를 Html로 변환하는 동안 외부 리소스로 저장될 수 있는 이미지 파일의 가능한 유형을 열거합니다"
 type: docs
-weight: 5650
+weight: 5780
 url: /ko/net/aspose.pdf/htmlsaveoptions.htmlimagetype/
 ---
-## HtmlSaveOptions.HtmlImageType 열거형
+## HtmlSaveOptions.HtmlImageType enumeration
 
-Pdf를 Html로 변환하는 동안 외부 리소스로 저장할 수 있는 이미지 파일의 가능한 유형을 나열합니다.
+Pdf를 Html로 변환하는 동안 외부 리소스로 저장될 수 있는 이미지 파일의 가능한 유형을 열거합니다
 
 ```csharp
 public enum HtmlImageType
@@ -25,10 +25,12 @@ public enum HtmlImageType
 | Tiff | `4` | Tiff 형식 |
 | Svg | `5` | Svg 형식 |
 | ZippedSvg | `6` | 압축된 Svg 형식 |
-| Unknown | `7` | 알 수 없음 - 변환기가 콘텐츠 유형을 감지할 수 없음을 의미합니다 |
+| Unknown | `7` | 알 수 없음 - 변환기가 자체적으로 콘텐츠 유형을 감지할 수 없음을 의미합니다 |
 
-### 참조
+### 또 보기
 
-* 클래스 [HtmlSaveOptions](../htmlsaveoptions/)
-* 네임스페이스 [Aspose.Pdf](../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../)
+* class [HtmlSaveOptions](../htmlsaveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

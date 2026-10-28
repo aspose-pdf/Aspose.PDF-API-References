@@ -1,21 +1,23 @@
 ---
-title: Artifact.SaveUpdates
-second_title: Aspose.PDF for .NET API Reference
-description: Artifact 메서드. BeginUpdates 호출 이후에 이루어진 모든 업데이트를 아티팩트에 저장합니다.
+title: "Artifact.SaveUpdates"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Artifact 메서드. BeginUpdates 호출 이후에 수행된 모든 아티팩트 업데이트를 저장합니다."
 type: docs
 weight: 270
 url: /ko/net/aspose.pdf/artifact/saveupdates/
 ---
-## Artifact.SaveUpdates 메서드
+## Artifact.SaveUpdates method
 
-BeginUpdates() 호출 이후에 이루어진 모든 업데이트를 아티팩트에 저장합니다.
+BeginUpdates() 호출 이후에 수행된 아티팩트의 모든 업데이트를 저장합니다.
 
 ```csharp
 public void SaveUpdates()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Artifact](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

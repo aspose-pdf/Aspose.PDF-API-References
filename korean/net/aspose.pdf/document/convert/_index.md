@@ -1,9 +1,9 @@
 ---
-title: Document.Convert
-second_title: Aspose.PDF for .NET API Reference
-description: 문서 메서드. 문서를 변환하고 오류를 지정된 파일에 저장합니다.
+title: "Document.Convert"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Document method. 문서를 변환하고 오류를 지정된 파일에 저장합니다."
 type: docs
-weight: 580
+weight: 600
 url: /ko/net/aspose.pdf/document/convert/
 ---
 ## Convert(string, PdfFormat, ConvertErrorAction, ConvertTransparencyAction) {#convert_8}
@@ -17,16 +17,16 @@ public bool Convert(string outputLogFileName, PdfFormat format, ConvertErrorActi
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| outputLogFileName | 문자열 | 주석이 저장될 파일의 경로입니다. |
-| format | PdfFormat | PDF 형식입니다. |
-| action | ConvertErrorAction | 변환할 수 없는 객체에 대한 작업입니다. |
-| transparencyAction | ConvertTransparencyAction | 이미지 마스킹 객체에 대한 작업입니다. |
+| outputLogFileName | String | 주석이 저장될 파일 경로. |
+| 포맷 | PdfFormat | PDF 형식. |
+| 작업 | ConvertErrorAction | 변환할 수 없는 객체에 대한 동작 |
+| transparencyAction | ConvertTransparencyAction | 이미지 마스크 객체에 대한 동작 |
 
 ### 반환 값
 
 작업 결과
 
-### 참조
+### 또 보기
 
 * enum [PdfFormat](../../pdfformat/)
 * enum [ConvertErrorAction](../../converterroraction/)
@@ -48,16 +48,16 @@ public bool Convert(Stream outputLogStream, PdfFormat format, ConvertErrorAction
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| outputLogStream | 스트림 | 주석이 저장될 스트림입니다. |
-| format | PdfFormat | PDF 형식입니다. |
-| action | ConvertErrorAction | 변환할 수 없는 객체에 대한 작업입니다. |
-| transparencyAction | ConvertTransparencyAction | 이미지 마스킹 객체에 대한 작업입니다. |
+| outputLogStream | Stream | 주석이 저장될 스트림. |
+| 포맷 | PdfFormat | PDF 형식. |
+| 작업 | ConvertErrorAction | 변환할 수 없는 객체에 대한 동작 |
+| transparencyAction | ConvertTransparencyAction | 이미지 마스크 객체에 대한 동작 |
 
 ### 반환 값
 
 작업 결과
 
-### 참조
+### 또 보기
 
 * enum [PdfFormat](../../pdfformat/)
 * enum [ConvertErrorAction](../../converterroraction/)
@@ -78,15 +78,15 @@ public bool Convert(string outputLogFileName, PdfFormat format, ConvertErrorActi
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| outputLogFileName | 문자열 | 주석이 저장될 파일의 경로입니다. |
-| format | PdfFormat | PDF 형식입니다. |
-| action | ConvertErrorAction | 변환할 수 없는 객체에 대한 작업입니다. |
+| outputLogFileName | String | 주석이 저장될 파일 경로. |
+| 포맷 | PdfFormat | PDF 형식. |
+| 작업 | ConvertErrorAction | 변환할 수 없는 객체에 대한 동작 |
 
 ### 반환 값
 
 작업 결과
 
-### 참조
+### 또 보기
 
 * enum [PdfFormat](../../pdfformat/)
 * enum [ConvertErrorAction](../../converterroraction/)
@@ -106,13 +106,13 @@ public bool Convert(PdfFormatConversionOptions options)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| options | PdfFormatConversionOptions | PDF 문서를 변환하기 위한 옵션 세트입니다. |
+| 옵션 | PdfFormatConversionOptions | PDF 문서를 변환하기 위한 옵션 집합 |
 
 ### 반환 값
 
 작업 결과
 
-### 참조
+### 또 보기
 
 * class [PdfFormatConversionOptions](../../pdfformatconversionoptions/)
 * class [Document](../)
@@ -123,7 +123,7 @@ public bool Convert(PdfFormatConversionOptions options)
 
 ## Convert(CallBackGetHocrWithPage, bool) {#convert_4}
 
-문서 내 이미지를 인식하고 그 위에 hocr 문자열을 추가합니다.
+문서 내부의 이미지를 인식하고 그 위에 hocr 문자열을 추가합니다.
 
 ```csharp
 public bool Convert(CallBackGetHocrWithPage callback, bool flattenImages = false)
@@ -131,14 +131,14 @@ public bool Convert(CallBackGetHocrWithPage callback, bool flattenImages = false
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| callback | CallBackGetHocrWithPage | hocr 인식으로 처리될 이미지에 대한 작업입니다. |
-| flattenImages | 불리언 | PDF 이미지의 텍스트는 마스크의 메커니즘을 사용하여 그릴 수 있으며, 이 경우 이미지는 평탄화되어야 합니다. |
+| callback | CallBackGetHocrWithPage | hocr 인식을 통해 처리될 이미지에 대한 작업. |
+| flattenImages | Boolean | PDF 이미지의 텍스트는 마스크 메커니즘을 사용하여 그릴 수 있으며, 이 경우 이미지를 평탄화해야 합니다. |
 
 ### 반환 값
 
-작업 결과. 문서에 이미지가 없으면 !:false를 반환합니다.
+작업 결과입니다. 문서에 이미지가 없으면 !:false를 반환합니다.
 
-### 참조
+### 또 보기
 
 * delegate [CallBackGetHocrWithPage](../../document.callbackgethocrwithpage/)
 * class [Document](../)
@@ -149,7 +149,7 @@ public bool Convert(CallBackGetHocrWithPage callback, bool flattenImages = false
 
 ## Convert(CallBackGetHocr, bool) {#convert_3}
 
-문서 내 이미지를 인식하고 그 위에 hocr 문자열을 추가합니다.
+문서 내부의 이미지를 인식하고 그 위에 hocr 문자열을 추가합니다.
 
 ```csharp
 public bool Convert(CallBackGetHocr callback, bool flattenImages = false)
@@ -157,14 +157,14 @@ public bool Convert(CallBackGetHocr callback, bool flattenImages = false)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| callback | CallBackGetHocr | hocr 인식으로 처리될 이미지에 대한 작업입니다. |
-| flattenImages | 불리언 | PDF 이미지의 텍스트는 마스크의 메커니즘을 사용하여 그릴 수 있으며, 이 경우 이미지는 평탄화되어야 합니다. |
+| callback | CallBackGetHocr | hocr 인식을 통해 처리될 이미지에 대한 작업. |
+| flattenImages | Boolean | PDF 이미지의 텍스트는 마스크 메커니즘을 사용하여 그릴 수 있으며, 이 경우 이미지를 평탄화해야 합니다. |
 
 ### 반환 값
 
-작업 결과. 문서에 이미지가 없으면 !:false를 반환합니다.
+작업 결과입니다. 문서에 이미지가 없으면 !:false를 반환합니다.
 
-### 참조
+### 또 보기
 
 * delegate [CallBackGetHocr](../../document.callbackgethocr/)
 * class [Document](../)
@@ -183,15 +183,15 @@ public bool Convert(Stream outputLogStream, PdfFormat format, ConvertErrorAction
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| outputLogStream | 스트림 | 주석이 저장될 스트림입니다. |
-| format | PdfFormat | PDF 형식입니다. |
-| action | ConvertErrorAction | 변환할 수 없는 객체에 대한 작업입니다. |
+| outputLogStream | Stream | 주석이 저장될 스트림. |
+| 포맷 | PdfFormat | Pdf 형식. |
+| 작업 | ConvertErrorAction | 변환할 수 없는 객체에 대한 동작 |
 
 ### 반환 값
 
 작업 결과
 
-### 참조
+### 또 보기
 
 * enum [PdfFormat](../../pdfformat/)
 * enum [ConvertErrorAction](../../converterroraction/)
@@ -212,16 +212,16 @@ public bool Convert(Fixup fixup, Stream outputLog, bool onlyValidation = false,
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| fixup | Fixup | Fixup 유형입니다. |
-| outputLog | 스트림 | 프로세스의 로그입니다. |
-| onlyValidation | 불리언 | 문서 유효성 검사만 수행합니다. |
-| parameters | Object[] | 설정할 수 없는 Fixup 속성입니다. |
+| fixup | Fixup | Fixup 유형. |
+| outputLog | Stream | 프로세스 로그. |
+| onlyValidation | Boolean | 문서 검증만. |
+| 매개변수 | Object[] | 설정할 수 없는 Fixup 속성. |
 
 ### 반환 값
 
-작업 결과입니다.
+작업 결과.
 
-### 참조
+### 또 보기
 
 * enum [Fixup](../../fixup/)
 * class [Document](../)
@@ -241,16 +241,16 @@ public bool Convert(Fixup fixup, string outputLog, bool onlyValidation = false,
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| fixup | Fixup | Fixup 유형입니다. |
-| outputLog | 문자열 | 프로세스의 로그입니다. |
-| onlyValidation | 불리언 | 문서 유효성 검사만 수행합니다. |
-| parameters | Object[] | 설정할 수 없는 Fixup 속성입니다. |
+| fixup | Fixup | Fixup 유형. |
+| outputLog | String | 프로세스 로그. |
+| onlyValidation | Boolean | 문서 검증만. |
+| 매개변수 | Object[] | 설정할 수 없는 Fixup 속성. |
 
 ### 반환 값
 
-작업 결과입니다.
+작업 결과.
 
-### 참조
+### 또 보기
 
 * enum [Fixup](../../fixup/)
 * class [Document](../)
@@ -261,7 +261,7 @@ public bool Convert(Fixup fixup, string outputLog, bool onlyValidation = false,
 
 ## Convert(string, LoadOptions, string, SaveOptions) {#convert_3}
 
-소스 파일을 소스 형식에서 대상 파일의 대상 형식으로 변환합니다.
+원본 파일을 원본 형식에서 대상 형식의 파일로 변환합니다.
 
 ```csharp
 public static void Convert(string srcFileName, LoadOptions loadOptions, string dstFileName, 
@@ -270,12 +270,12 @@ public static void Convert(string srcFileName, LoadOptions loadOptions, string d
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| srcFileName | 문자열 | 소스 파일 이름입니다. |
-| loadOptions | LoadOptions | 소스 파일 형식입니다. |
-| dstFileName | 문자열 | 대상 파일 이름입니다. |
-| saveOptions | SaveOptions | 대상 파일 형식입니다. |
+| srcFileName | String | 소스 파일 이름. |
+| loadOptions | LoadOptions | 소스 파일 형식. |
+| dstFileName | String | 대상 파일 이름. |
+| saveOptions | SaveOptions | 대상 파일 형식. |
 
-### 참조
+### 또 보기
 
 * class [LoadOptions](../../loadoptions/)
 * class [SaveOptions](../../saveoptions/)
@@ -287,7 +287,7 @@ public static void Convert(string srcFileName, LoadOptions loadOptions, string d
 
 ## Convert(Stream, LoadOptions, string, SaveOptions) {#convert_1}
 
-소스 형식의 스트림을 대상 형식의 대상 파일로 변환합니다.
+스트림을 원본 형식에서 대상 형식의 파일로 변환합니다.
 
 ```csharp
 public static void Convert(Stream srcStream, LoadOptions loadOptions, string dstFileName, 
@@ -296,12 +296,12 @@ public static void Convert(Stream srcStream, LoadOptions loadOptions, string dst
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| srcStream | 스트림 | 소스 스트림입니다. |
-| loadOptions | LoadOptions | 소스 스트림 형식입니다. |
-| dstFileName | 문자열 | 대상 파일 이름입니다. |
-| saveOptions | SaveOptions | 대상 파일 형식입니다. |
+| srcStream | Stream | 소스 스트림. |
+| loadOptions | LoadOptions | 소스 스트림 형식. |
+| dstFileName | String | 대상 파일 이름. |
+| saveOptions | SaveOptions | 대상 파일 형식. |
 
-### 참조
+### 또 보기
 
 * class [LoadOptions](../../loadoptions/)
 * class [SaveOptions](../../saveoptions/)
@@ -313,7 +313,7 @@ public static void Convert(Stream srcStream, LoadOptions loadOptions, string dst
 
 ## Convert(string, LoadOptions, Stream, SaveOptions) {#convert_2}
 
-소스 파일을 소스 형식에서 대상 형식의 스트림으로 변환합니다.
+원본 파일을 원본 형식에서 대상 형식의 스트림으로 변환합니다.
 
 ```csharp
 public static void Convert(string srcFileName, LoadOptions loadOptions, Stream dstStream, 
@@ -322,12 +322,12 @@ public static void Convert(string srcFileName, LoadOptions loadOptions, Stream d
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| srcFileName | 문자열 | 소스 파일 이름입니다. |
-| loadOptions | LoadOptions | 소스 파일 형식입니다. |
-| dstStream | 스트림 | 대상 스트림입니다. |
-| saveOptions | SaveOptions | 대상 스트림 형식입니다. |
+| srcFileName | String | 소스 파일 이름. |
+| loadOptions | LoadOptions | 소스 파일 형식. |
+| dstStream | Stream | 대상 스트림입니다. |
+| saveOptions | SaveOptions | 대상 스트림 형식. |
 
-### 참조
+### 또 보기
 
 * class [LoadOptions](../../loadoptions/)
 * class [SaveOptions](../../saveoptions/)
@@ -339,7 +339,7 @@ public static void Convert(string srcFileName, LoadOptions loadOptions, Stream d
 
 ## Convert(Stream, LoadOptions, Stream, SaveOptions) {#convert}
 
-소스 형식의 스트림을 대상 형식의 스트림으로 변환합니다.
+스트림을 원본 형식에서 대상 형식의 스트림으로 변환합니다.
 
 ```csharp
 public static void Convert(Stream srcStream, LoadOptions loadOptions, Stream dstStream, 
@@ -348,15 +348,17 @@ public static void Convert(Stream srcStream, LoadOptions loadOptions, Stream dst
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| srcStream | 스트림 | 소스 스트림입니다. |
-| loadOptions | LoadOptions | 소스 스트림 형식입니다. |
-| dstStream | 스트림 | 대상 스트림입니다. |
-| saveOptions | SaveOptions | 대상 파일 형식입니다. |
+| srcStream | Stream | 소스 스트림. |
+| loadOptions | LoadOptions | 소스 스트림 형식. |
+| dstStream | Stream | 대상 스트림입니다. |
+| saveOptions | SaveOptions | 대상 파일 형식. |
 
-### 참조
+### 또 보기
 
 * class [LoadOptions](../../loadoptions/)
 * class [SaveOptions](../../saveoptions/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

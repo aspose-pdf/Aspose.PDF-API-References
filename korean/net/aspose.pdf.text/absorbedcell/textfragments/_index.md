@@ -1,22 +1,24 @@
 ---
-title: AbsorbedCell.TextFragments
-second_title: Aspose.PDF for .NET API Reference
-description: AbsorbedCell 속성. 셀에 포함된 텍스트를 설명하는 TextFragment 객체의 컬렉션을 가져옵니다.
+title: "AbsorbedCell.TextFragments"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "AbsorbedCell 속성. 셀에 포함된 텍스트를 설명하는 TextFragment 객체 컬렉션을 가져옵니다."
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf.text/absorbedcell/textfragments/
 ---
-## AbsorbedCell.TextFragments 속성
+## AbsorbedCell.TextFragments property
 
-셀에 포함된 텍스트를 설명하는 [`TextFragment`](../../textfragment/) 객체의 컬렉션을 가져옵니다.
+셀에 포함된 텍스트를 설명하는 [`TextFragment`](../../textfragment/) 객체 컬렉션을 가져옵니다.
 
 ```csharp
 public TextFragmentCollection TextFragments { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [TextFragmentCollection](../../textfragmentcollection/)
-* 클래스 [AbsorbedCell](../)
-* 네임스페이스 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TextFragmentCollection](../../textfragmentcollection/)
+* class [AbsorbedCell](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum Form.SignDependentElementsRenderingModes
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Forms.FormSignDependentElementsRenderingModes 열거형. 양식에는 서명 정보가 포함될 수 있으며 서명되거나 서명되지 않을 수 있습니다. 때때로 뷰어에서 양식의 보기는 양식이 서명되었는지 여부에 따라 달라져야 합니다. 이 열거형은 서명과 관련하여 양식 유형 변환 중 가능한 렌더링 모드를 나열합니다.
+title: "Enum Form.SignDependentElementsRenderingModes"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Forms.FormSignDependentElementsRenderingModes enum. 양식은 서명 정보를 포함할 수 있으며 서명되었거나 서명되지 않을 수 있습니다. 때때로 뷰어에서 양식의 표시 여부는 양식이 서명되었는지 여부에 따라 달라야 합니다. 이 열거형은 서명과 관련된 양식 유형 변환 중 가능한 렌더링 모드를 나열합니다."
 type: docs
-weight: 5090
+weight: 5210
 url: /ko/net/aspose.pdf.forms/form.signdependentelementsrenderingmodes/
 ---
-## Form.SignDependentElementsRenderingModes 열거형
+## Form.SignDependentElementsRenderingModes enumeration
 
-양식에는 서명 정보가 포함될 수 있으며 서명되거나 서명되지 않을 수 있습니다. 때때로 뷰어에서 양식의 보기는 양식이 서명되었는지 여부에 따라 달라져야 합니다. 이 열거형은 서명과 관련하여 양식 유형 변환 중 가능한 렌더링 모드를 나열합니다.
+양식에는 서명 정보가 포함될 수 있으며 서명되거나 서명되지 않을 수 있습니다. 뷰어에서 양식의 뷰는 때때로 양식이 서명되었는지 여부에 따라 달라져야 합니다. 이 열거형은 서명과 관련된 양식 유형 변환 중 가능한 렌더링 모드를 나열합니다.
 
 ```csharp
 public enum SignDependentElementsRenderingModes
@@ -18,11 +18,13 @@ public enum SignDependentElementsRenderingModes
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
-| RenderFormAsUnsigned | `0` | 서명되지 않은 양식으로 렌더링합니다. |
-| RenderFormAsSigned | `1` | 서명된 양식으로 렌더링합니다. |
+| RenderFormAsUnsigned | `0` | 양식을 서명되지 않은 상태로 렌더링합니다. |
+| RenderFormAsSigned | `1` | 양식을 서명된 상태로 렌더링합니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [Form](../form/)
-* 네임스페이스 [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
-* 어셈블리 [Aspose.PDF](../../)
+* class [Form](../form/)
+* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../)
+
+

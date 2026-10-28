@@ -1,7 +1,7 @@
 ---
-title: OutlineCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineCollection 메서드. 문서 개요에서 모든 개요 항목을 삭제합니다.
+title: "OutlineCollection.Delete"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "OutlineCollection 메서드. 문서 개요에서 모든 개요 항목을 삭제합니다."
 type: docs
 weight: 130
 url: /ko/net/aspose.pdf/outlinecollection/delete/
@@ -14,7 +14,7 @@ url: /ko/net/aspose.pdf/outlinecollection/delete/
 public void Delete()
 ```
 
-### See Also
+### 또 보기
 
 * class [OutlineCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -24,18 +24,20 @@ public void Delete()
 
 ## Delete(string) {#delete_1}
 
-지정된 제목의 개요 항목을 문서 개요에서 삭제합니다.
+지정된 제목을 가진 개요 항목을 문서 개요에서 삭제합니다.
 
 ```csharp
 public void Delete(string name)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| name | String | 삭제할 개요 항목의 제목 |
+| 이름 | String | 삭제될 개요 항목의 제목 |
 
-### See Also
+### 또 보기
 
 * class [OutlineCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

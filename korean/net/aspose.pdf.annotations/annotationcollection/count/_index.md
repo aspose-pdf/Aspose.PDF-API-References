@@ -1,21 +1,23 @@
 ---
-title: AnnotationCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: AnnotationCollection 속성. 컬렉션의 주석 수를 가져옵니다
+title: "AnnotationCollection.Count"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "AnnotationCollection 속성. 컬렉션에 있는 주석의 개수를 가져옵니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.annotations/annotationcollection/count/
 ---
-## AnnotationCollection.Count 속성
+## AnnotationCollection.Count property
 
-컬렉션의 주석 수를 가져옵니다.
+컬렉션에 있는 주석의 개수를 가져옵니다.
 
 ```csharp
 public int Count { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [AnnotationCollection](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [AnnotationCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

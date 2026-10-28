@@ -1,9 +1,9 @@
 ---
-title: SignatureField.ExtractImage
-second_title: Aspose.PDF for .NET API Reference
-description: SignatureField 메서드. 서명 이미지를 jpeg 인코딩 스트림으로 추출합니다.
+title: "SignatureField.ExtractImage"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "SignatureField 메서드. 서명 이미지를 JPEG 인코딩 스트림으로 추출합니다."
 type: docs
-weight: 40
+weight: 50
 url: /ko/net/aspose.pdf.forms/signaturefield/extractimage/
 ---
 ## ExtractImage() {#extractimage}
@@ -14,11 +14,11 @@ url: /ko/net/aspose.pdf.forms/signaturefield/extractimage/
 public Stream ExtractImage()
 ```
 
-### Return Value
+### 반환 값
 
-이미지를 성공적으로 찾으면 jpeg 인코딩 스트림 객체를 반환합니다. 그렇지 않으면 null을 반환합니다.
+이미지를 성공적으로 찾으면 JPEG 인코딩 스트림 객체를 반환하고; 그렇지 않으면 null.
 
-### See Also
+### 또 보기
 
 * class [SignatureField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
@@ -28,22 +28,24 @@ public Stream ExtractImage()
 
 ## ExtractImage(ImageFormat) {#extractimage_1}
 
-서명의 이미지를 인코딩 스트림으로 추출합니다.
+서명의 이미지를 인코딩된 스트림으로 추출합니다.
 
 ```csharp
 public Stream ExtractImage(ImageFormat format)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| format | ImageFormat | 인코딩을 위한 이미지 형식입니다. |
+| 포맷 | ImageFormat | 인코딩을 위한 이미지 형식. |
 
-### Return Value
+### 반환 값
 
-이미지를 성공적으로 찾으면 인코딩스트림 객체를 반환합니다. 그렇지 않으면 null을 반환합니다.
+이미지를 성공적으로 찾으면 encodedstream 객체를 반환하고; 그렇지 않으면 null.
 
-### See Also
+### 또 보기
 
 * class [SignatureField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

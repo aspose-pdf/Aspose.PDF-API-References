@@ -1,12 +1,12 @@
 ---
-title: DestinationCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: DestinationCollection 메서드. 지정된 항목을 추가합니다. 컬렉션은 읽기 전용입니다. 항상 NotSupportedException 예외를 발생시킵니다.
+title: "DestinationCollection.Add"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "DestinationCollection 메서드. 지정된 항목을 추가합니다. 컬렉션은 읽기 전용이며 항상 NotSupportedException 예외를 발생시킵니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf/destinationcollection/add/
 ---
-## DestinationCollection.Add 메서드
+## DestinationCollection.Add method
 
 지정된 항목을 추가합니다. 컬렉션은 읽기 전용입니다. 항상 NotSupportedException 예외를 발생시킵니다.
 
@@ -24,8 +24,10 @@ public void Add(KeyValuePair<string, object> item)
 | --- | --- |
 | NotSupportedException |  |
 
-### 참조
+### 또 보기
 
-* 클래스 [DestinationCollection](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [DestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

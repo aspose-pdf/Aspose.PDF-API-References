@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.op_Explicit
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey 메서드. String에서 AttributeKey로의 명시적 변환을 수행합니다.
+title: "AttributeKey.op_Explicit"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "AttributeKey 메서드. 문자열에서 AttributeKey로 명시적 변환을 수행합니다"
 type: docs
 weight: 450
 url: /ko/net/aspose.pdf.logicalstructure/attributekey/op_explicit/
 ---
-## AttributeKey 명시적 연산자
+## AttributeKey Explicit operator
 
-String에서 [`AttributeKey`](../)로의 명시적 변환을 수행합니다.
+문자열에서 [`AttributeKey`](../)로 명시적 변환을 수행합니다.
 
 ```csharp
 public static explicit operator AttributeKey(string key)
@@ -16,14 +16,16 @@ public static explicit operator AttributeKey(string key)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| key | String | 속성 키. |
+| 키 | String | 속성 키. |
 
 ### 반환 값
 
-변환의 결과입니다.
+변환 결과.
 
-### 참조
+### 또 보기
 
-* 클래스 [AttributeKey](../)
-* 네임스페이스 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

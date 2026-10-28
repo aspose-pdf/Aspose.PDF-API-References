@@ -1,21 +1,23 @@
 ---
-title: Cell.IsOverrideByFragment
-second_title: Aspose.PDF for .NET API Reference
-description: Cell 속성. 셀의 TextState 속성이 TextFragment TextState 속성에 의해 재정의됩니다.
+title: "Cell.IsOverrideByFragment"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Cell 속성. 셀의 TextState 속성을 TextFragment TextState 속성이 재정의하도록 설정합니다."
 type: docs
 weight: 90
 url: /ko/net/aspose.pdf/cell/isoverridebyfragment/
 ---
-## Cell.IsOverrideByFragment 속성
+## Cell.IsOverrideByFragment property
 
-셀의 TextState 속성이 TextFragment TextState 속성에 의해 재정의됩니다.
+셀의 TextState 속성은 TextFragment TextState 속성에 의해 재정의됩니다.
 
 ```csharp
 public bool IsOverrideByFragment { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Cell](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Cell](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

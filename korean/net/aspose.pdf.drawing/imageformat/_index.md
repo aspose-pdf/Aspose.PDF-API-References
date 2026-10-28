@@ -1,12 +1,12 @@
 ---
-title: Enum ImageFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Drawing.ImageFormat 열거형. 이 열거형은 이미지 형식을 나타냅니다.
+title: "열거형 ImageFormat"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Drawing.ImageFormat 열거형. 이 열거형은 이미지 형식을 나타냅니다"
 type: docs
-weight: 3950
+weight: 4070
 url: /ko/net/aspose.pdf.drawing/imageformat/
 ---
-## ImageFormat 열거형
+## ImageFormat enumeration
 
 이 열거형은 이미지 형식을 나타냅니다.
 
@@ -29,7 +29,9 @@ public enum ImageFormat
 | Wmf | `8` | Wmf 형식. |
 | Exif | `9` | Exif 형식. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../)
+
+

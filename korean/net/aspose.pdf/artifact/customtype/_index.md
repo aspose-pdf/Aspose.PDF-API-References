@@ -1,21 +1,23 @@
 ---
-title: Artifact.CustomType
-second_title: Aspose.PDF for .NET API Reference
-description: 아티팩트 속성. 아티팩트 유형의 이름을 가져옵니다. 아티팩트 유형이 비표준인 경우 사용할 수 있습니다.
+title: "Artifact.CustomType"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Artifact 속성. 아티팩트 유형의 이름을 가져옵니다. 아티팩트 유형이 비표준인 경우 사용할 수 있습니다."
 type: docs
 weight: 70
 url: /ko/net/aspose.pdf/artifact/customtype/
 ---
-## Artifact.CustomType 속성
+## Artifact.CustomType property
 
-아티팩트 유형의 이름을 가져옵니다. 아티팩트 유형이 비표준인 경우 사용할 수 있습니다.
+아티팩트 유형의 이름을 가져옵니다. 아티팩트 유형이 비표준인 경우에 사용할 수 있습니다.
 
 ```csharp
 public string CustomType { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Artifact](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

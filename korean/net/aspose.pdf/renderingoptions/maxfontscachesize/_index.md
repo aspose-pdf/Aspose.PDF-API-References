@@ -1,21 +1,23 @@
 ---
-title: RenderingOptions.MaxFontsCacheSize
-second_title: Aspose.PDF for .NET API Reference
-description: RenderingOptions 속성. 글꼴 캐시에 있는 글꼴의 최대 수. 기본값은 10입니다.
+title: "RenderingOptions.MaxFontsCacheSize"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "RenderingOptions 속성. 글꼴 캐시의 최대 글꼴 수. 기본값은 10입니다."
 type: docs
 weight: 90
 url: /ko/net/aspose.pdf/renderingoptions/maxfontscachesize/
 ---
-## RenderingOptions.MaxFontsCacheSize 속성
+## RenderingOptions.MaxFontsCacheSize property
 
-글꼴 캐시에 있는 글꼴의 최대 수. 기본값은 10입니다.
+글꼴 캐시의 최대 글꼴 수입니다. 기본값은 10입니다.
 
 ```csharp
 public int MaxFontsCacheSize { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [RenderingOptions](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [RenderingOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

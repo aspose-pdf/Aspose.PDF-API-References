@@ -1,22 +1,24 @@
 ---
-title: XForm.Contents
-second_title: Aspose.PDF for .NET API Reference
-description: XForm 속성. 형식의 연산자를 가져옵니다.
+title: "XForm.Contents"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "XForm 속성. 양식의 연산자를 가져옵니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf/xform/contents/
 ---
-## XForm.Contents 속성
+## XForm.Contents property
 
-형식의 연산자를 가져옵니다.
+폼의 연산자를 가져옵니다.
 
 ```csharp
 public OperatorCollection Contents { get; }
 ```
 
-### 참조
+### 또 보기
 
 * class [OperatorCollection](../../operatorcollection/)
 * class [XForm](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

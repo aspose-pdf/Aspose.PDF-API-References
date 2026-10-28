@@ -1,24 +1,24 @@
 ---
-title: AutoFiller.Save
-second_title: Aspose.PDF for .NET API Reference
-description: AutoFiller 메서드. 모든 pdf를 저장합니다.
+title: "AutoFiller.Save"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "AutoFiller 메서드. 모든 PDF를 저장합니다."
 type: docs
 weight: 100
 url: /ko/net/aspose.pdf.facades/autofiller/save/
 ---
 ## Save(string) {#save_2}
 
-모든 pdf를 저장합니다.
+모든 PDF를 저장합니다.
 
 ```csharp
 public void Save(string destFile)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | destFile | String | 출력 파일 이름. |
 
-### See Also
+### 또 보기
 
 * class [AutoFiller](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -28,18 +28,20 @@ public void Save(string destFile)
 
 ## Save(Stream) {#save_1}
 
-모든 pdf를 저장합니다.
+모든 PDF를 저장합니다.
 
 ```csharp
 public void Save(Stream destStream)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | destStream | Stream | 출력 스트림. |
 
-### See Also
+### 또 보기
 
 * class [AutoFiller](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

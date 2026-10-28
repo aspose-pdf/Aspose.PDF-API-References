@@ -1,31 +1,31 @@
 ---
-title: ExplicitDestination.CreateDestination
-second_title: Aspose.PDF for .NET API Reference
-description: ExplicitDestination 메서드. ExplicitDestination 자식 클래스의 인스턴스를 생성합니다.
+title: "ExplicitDestination.CreateDestination"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ExplicitDestination 메서드. ExplicitDestination 파생 클래스의 인스턴스를 생성합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.annotations/explicitdestination/createdestination/
 ---
 ## CreateDestination(Page, ExplicitDestinationType, params double[]) {#createdestination_1}
 
-ExplicitDestination 자식 클래스의 인스턴스를 생성합니다.
+ExplicitDestination 파생 클래스의 인스턴스를 생성합니다.
 
 ```csharp
 public static ExplicitDestination CreateDestination(Page page, ExplicitDestinationType type, 
     params double[] values)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| page | Page | 목적지 페이지의 객체입니다. |
-| type | ExplicitDestinationType | 명시적 목적지의 유형입니다. |
-| values | Double[] | double 값의 배열입니다. |
+| 페이지 | 페이지 | 대상 페이지의 객체입니다. |
+| 유형 | ExplicitDestinationType | 명시적 대상의 유형입니다. |
+| 값 | Double[] | double 값들의 배열입니다. |
 
-### Return Value
+### 반환 값
 
-명시적 목적지 객체입니다.
+명시적 대상 객체입니다.
 
-### See Also
+### 또 보기
 
 * class [Page](../../../aspose.pdf/page/)
 * enum [ExplicitDestinationType](../../explicitdestinationtype/)
@@ -37,26 +37,28 @@ public static ExplicitDestination CreateDestination(Page page, ExplicitDestinati
 
 ## CreateDestination(int, ExplicitDestinationType, params double[]) {#createdestination_2}
 
-ExplicitDestination 자식 클래스의 인스턴스를 생성합니다.
+ExplicitDestination 파생 클래스의 인스턴스를 생성합니다.
 
 ```csharp
 public static ExplicitDestination CreateDestination(int pageNumber, ExplicitDestinationType type, 
     params double[] values)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| pageNumber | Int32 | 목적지 페이지 번호입니다. |
-| type | ExplicitDestinationType | 명시적 목적지의 유형입니다. |
-| values | Double[] | double 값의 배열입니다. |
+| pageNumber | Int32 | 대상 페이지 번호입니다. |
+| 유형 | ExplicitDestinationType | 명시적 대상의 유형입니다. |
+| 값 | Double[] | double 값들의 배열입니다. |
 
-### Return Value
+### 반환 값
 
-명시적 목적지 객체입니다.
+명시적 대상 객체입니다.
 
-### See Also
+### 또 보기
 
 * enum [ExplicitDestinationType](../../explicitdestinationtype/)
 * class [ExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

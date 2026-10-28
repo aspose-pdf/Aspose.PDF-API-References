@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.B4Envelope
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes 필드. B4 봉투 250 mm x 353 mm
+title: "PaperSizes.B4Envelope"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PaperSizes 필드. B4 봉투 250 mm × 353 mm"
 type: docs
 weight: 210
 url: /ko/net/aspose.pdf.printing/papersizes/b4envelope/
 ---
-## PaperSizes.B4Envelope 필드
+## PaperSizes.B4Envelope field
 
-B4 봉투 (250 mm x 353 mm).
+B4 봉투 (250 mm × 353 mm).
 
 ```csharp
 public static readonly PaperSize B4Envelope;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PaperSize](../../papersize/)
-* 클래스 [PaperSizes](../)
-* 네임스페이스 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

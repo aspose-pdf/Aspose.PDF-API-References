@@ -1,12 +1,12 @@
 ---
-title: PDF3DArtwork.GetViewsArray
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DArtwork 메서드. 뷰 배열을 가져옵니다.
+title: "PDF3DArtwork.GetViewsArray"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PDF3DArtwork 메서드. 보기 배열을 가져옵니다"
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf.annotations/pdf3dartwork/getviewsarray/
 ---
-## PDF3DArtwork.GetViewsArray 메서드
+## PDF3DArtwork.GetViewsArray method
 
 뷰 배열을 가져옵니다.
 
@@ -16,11 +16,13 @@ public PDF3DView[] GetViewsArray()
 
 ### 반환 값
 
-뷰 배열입니다.
+보기 배열.
 
-### 참조
+### 또 보기
 
-* 클래스 [PDF3DView](../../pdf3dview/)
-* 클래스 [PDF3DArtwork](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PDF3DView](../../pdf3dview/)
+* class [PDF3DArtwork](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

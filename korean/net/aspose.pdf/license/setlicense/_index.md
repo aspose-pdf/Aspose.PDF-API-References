@@ -1,14 +1,14 @@
 ---
-title: License.SetLicense
-second_title: Aspose.PDF for .NET API Reference
-description: 라이센스 메서드. 구성 요소에 라이센스를 부여합니다.
+title: "License.SetLicense"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "License 메서드. 구성 요소에 라이선스를 적용합니다"
 type: docs
-weight: 20
+weight: 40
 url: /ko/net/aspose.pdf/license/setlicense/
 ---
 ## SetLicense(string) {#setlicense_1}
 
-구성 요소에 라이센스를 부여합니다.
+구성 요소에 라이선스를 적용합니다.
 
 ```csharp
 public void SetLicense(string licenseName)
@@ -16,45 +16,45 @@ public void SetLicense(string licenseName)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| licenseName | String | 전체 또는 짧은 파일 이름 또는 포함된 리소스의 이름일 수 있습니다. 빈 문자열을 사용하여 평가 모드로 전환합니다. |
+| licenseName | String | 전체 파일 이름이거나 짧은 파일 이름, 혹은 포함된 리소스의 이름일 수 있습니다. 빈 문자열을 사용하면 평가 모드로 전환됩니다. |
 
 ## 비고
 
-다음 위치에서 라이센스를 찾으려고 시도합니다:
+다음 위치에서 라이선스를 찾으려고 시도합니다:
 
-1. 명시적 경로.
+1. 명시적인 경로.
 
 2. Aspose 구성 요소 어셈블리를 포함하는 폴더.
 
-3. 클라이언트의 호출 어셈블리를 포함하는 폴더.
+3. 클라이언트 호출 어셈블리를 포함하는 폴더.
 
-4. 진입(시작) 어셈블리를 포함하는 폴더.
+4. 엔트리(시작) 어셈블리를 포함하는 폴더.
 
-5. 클라이언트의 호출 어셈블리에 포함된 리소스.
+5. 클라이언트 호출 어셈블리의 포함된 리소스.
 
-**참고:** .NET Compact Framework에서는 다음 위치에서만 라이센스를 찾으려고 시도합니다:
+**Note:**On the .NET Compact Framework, tries to find the license only in these locations:
 
-1. 명시적 경로.
+1. 명시적인 경로.
 
-2. 클라이언트의 호출 어셈블리에 포함된 리소스.
+2. 클라이언트 호출 어셈블리의 포함된 리소스.
 
 [Java]
 
 2. Aspose 구성 요소 JAR 파일을 포함하는 폴더.
 
-3. 클라이언트의 호출 JAR 파일을 포함하는 폴더.
+3. 클라이언트 호출 JAR 파일을 포함하는 폴더.
 
-### 참조
+### 또 보기
 
-* 클래스 [License](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [License](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SetLicense(Stream) {#setlicense}
 
-구성 요소에 라이센스를 부여합니다.
+구성 요소에 라이선스를 적용합니다.
 
 ```csharp
 public void SetLicense(Stream stream)
@@ -62,14 +62,16 @@ public void SetLicense(Stream stream)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| stream | Stream | 라이센스가 포함된 스트림입니다. |
+| stream | Stream | 라이선스를 포함하는 스트림. |
 
 ## 비고
 
-이 메서드를 사용하여 스트림에서 라이센스를 로드합니다.
+이 메서드를 사용하여 스트림에서 라이선스를 로드합니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [License](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [License](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

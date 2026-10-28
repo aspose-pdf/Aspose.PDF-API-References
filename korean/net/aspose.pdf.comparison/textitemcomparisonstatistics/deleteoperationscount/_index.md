@@ -1,21 +1,23 @@
 ---
-title: TextItemComparisonStatistics.DeleteOperationsCount
-second_title: Aspose.PDF for .NET API Reference
-description: TextItemComparisonStatistics 속성. 삭제 작업의 수를 가져오고 설정합니다.
+title: "TextItemComparisonStatistics.DeleteOperationsCount"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TextItemComparisonStatistics 속성. 삭제 작업 수를 가져오고 설정합니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.comparison/textitemcomparisonstatistics/deleteoperationscount/
 ---
-## TextItemComparisonStatistics.DeleteOperationsCount 속성
+## TextItemComparisonStatistics.DeleteOperationsCount property
 
-삭제 작업의 수를 가져오고 설정합니다.
+삭제 작업 수를 가져오고 설정합니다.
 
 ```csharp
 public int DeleteOperationsCount { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [TextItemComparisonStatistics](../)
-* 네임스페이스 [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TextItemComparisonStatistics](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

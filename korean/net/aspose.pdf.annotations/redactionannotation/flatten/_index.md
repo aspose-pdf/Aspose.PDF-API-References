@@ -1,21 +1,23 @@
 ---
-title: RedactionAnnotation.Flatten
-second_title: Aspose.PDF for .NET API Reference
-description: RedactionAnnotation 메서드. 주석을 평탄화 즉, 주석을 제거하고 그
+title: "RedactionAnnotation.Flatten"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "RedactionAnnotation 메서드. Annotation을 평탄화합니다(즉, Annotation을 제거하고 그"
 type: docs
 weight: 120
 url: /ko/net/aspose.pdf.annotations/redactionannotation/flatten/
 ---
-## RedactionAnnotation.Flatten 메서드
+## RedactionAnnotation.Flatten method
 
-주석을 평탄화 즉, 주석을 제거하고 그
+주석을 평탄화합니다. 즉, 주석을 제거하고 그 내용을 추가합니다.
 
 ```csharp
 public override void Flatten()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [RedactionAnnotation](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [RedactionAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

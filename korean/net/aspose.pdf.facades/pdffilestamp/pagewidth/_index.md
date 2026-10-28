@@ -1,14 +1,14 @@
 ---
-title: PdfFileStamp.PageWidth
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileStamp 속성. 입력 파일의 첫 페이지 너비를 가져옵니다.
+title: "PdfFileStamp.PageWidth"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfFileStamp 속성. 입력 파일의 첫 번째 페이지 너비를 가져옵니다."
 type: docs
 weight: 80
 url: /ko/net/aspose.pdf.facades/pdffilestamp/pagewidth/
 ---
-## PdfFileStamp.PageWidth 속성
+## PdfFileStamp.PageWidth property
 
-입력 파일의 첫 페이지 너비를 가져옵니다.
+입력 파일에서 첫 번째 페이지의 너비를 가져옵니다.
 
 ```csharp
 public float PageWidth { get; }
@@ -22,8 +22,10 @@ Console.WriteLine("Width = " + fileStamp.PageWidth);
 fileStamp.Close();
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfFileStamp](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

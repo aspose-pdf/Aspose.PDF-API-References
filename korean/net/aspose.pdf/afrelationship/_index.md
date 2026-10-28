@@ -1,14 +1,14 @@
 ---
-title: Enum AFRelationship
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AFRelationship 열거형. 열거형은 관련 파일의 관계를 설명합니다.
+title: "열거형 AFRelationship"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.AFRelationship 열거형. 열거형은 연관 파일 관계를 설명합니다."
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf/afrelationship/
 ---
-## AFRelationship 열거형
+## AFRelationship enumeration
 
-열거형은 관련 파일의 관계를 설명합니다.
+연관 파일 관계를 설명하는 열거형입니다.
 
 ```csharp
 public enum AFRelationship
@@ -20,13 +20,15 @@ public enum AFRelationship
 | --- | --- | --- |
 | Source | `0` | 소스 |
 | Data | `1` | 데이터 |
-| Alternative | `2` | 대안 |
+| Alternative | `2` | 대체 |
 | Supplement | `3` | 보충 |
 | Unspecified | `4` | 지정되지 않음 |
-| EncryptedPayload | `5` | 암호화된 페이로드 |
+| EncryptedPayload | `5` | EncryptedPayload |
 | None | `6` | 없음 |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf](../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

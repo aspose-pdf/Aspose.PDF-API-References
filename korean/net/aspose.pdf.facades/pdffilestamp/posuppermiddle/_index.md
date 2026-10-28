@@ -1,21 +1,23 @@
 ---
-title: PdfFileStamp.PosUpperMiddle
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileStamp 필드. 상단 중앙 위치
+title: "PdfFileStamp.PosUpperMiddle"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfFileStamp 필드. 상단 중앙 위치"
 type: docs
 weight: 230
 url: /ko/net/aspose.pdf.facades/pdffilestamp/posuppermiddle/
 ---
-## PdfFileStamp.PosUpperMiddle 필드
+## PdfFileStamp.PosUpperMiddle field
 
-상단 중앙 위치.
+중앙 상단 위치.
 
 ```csharp
 public const int PosUpperMiddle;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfFileStamp](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

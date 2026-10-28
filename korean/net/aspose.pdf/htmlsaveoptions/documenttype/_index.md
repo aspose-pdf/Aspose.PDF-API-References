@@ -1,26 +1,28 @@
 ---
-title: HtmlSaveOptions.DocumentType
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions 속성. HtmlDocumentType을 가져오거나 설정합니다.
+title: "HtmlSaveOptions.DocumentType"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "HtmlSaveOptions 속성. HtmlDocumentType을 가져오거나 설정합니다."
 type: docs
 weight: 60
 url: /ko/net/aspose.pdf/htmlsaveoptions/documenttype/
 ---
-## HtmlSaveOptions.DocumentType 속성
+## HtmlSaveOptions.DocumentType property
 
-[`HtmlDocumentType`](../../htmldocumenttype/)을 가져오거나 설정합니다.
+가져오거나 설정합니다 [`HtmlDocumentType`](../../htmldocumenttype/).
 
 ```csharp
 public HtmlDocumentType DocumentType { get; set; }
 ```
 
-### 속성 값
+### Property Value
 
-[`HtmlDocumentType`](../../htmldocumenttype/)입니다.
+다음은 [`HtmlDocumentType`](../../htmldocumenttype/) 입니다.
 
-### 참조
+### 또 보기
 
-* 열거형 [HtmlDocumentType](../../htmldocumenttype/)
-* 클래스 [HtmlSaveOptions](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* enum [HtmlDocumentType](../../htmldocumenttype/)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

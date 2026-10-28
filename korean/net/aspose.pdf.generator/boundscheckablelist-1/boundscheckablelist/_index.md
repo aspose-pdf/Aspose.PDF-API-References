@@ -1,7 +1,7 @@
 ---
-title: BoundsCheckableList1.BoundsCheckableList
-second_title: Aspose.PDF for .NET API Reference
-description: BoundsCheckableList 생성자. BoundsCheckableList 클래스의 새 인스턴스를 초기화합니다.
+title: "BoundsCheckableList1.BoundsCheckableList"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "BoundsCheckableList 생성자. BoundsCheckableList 클래스의 새 인스턴스를 초기화합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.generator/boundscheckablelist-1/boundscheckablelist/
@@ -14,7 +14,7 @@ BoundsCheckableList 클래스의 새 인스턴스를 초기화합니다.
 public BoundsCheckableList()
 ```
 
-### See Also
+### 또 보기
 
 * class [BoundsCheckableList&lt;T&gt;](../)
 * namespace [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
@@ -31,15 +31,17 @@ public BoundsCheckableList(BoundsCheckMode boundsCheckMode, double containerWidt
     double containerHeight)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| boundsCheckMode | BoundsCheckMode | 경계 체크 모드입니다. |
+| boundsCheckMode | BoundsCheckMode | 경계 cCheck 모드. |
 | containerWidth | Double | 컨테이너 너비입니다. |
 | containerHeight | Double | 컨테이너 높이입니다. |
 
-### See Also
+### 또 보기
 
 * enum [BoundsCheckMode](../../boundscheckmode/)
 * class [BoundsCheckableList&lt;T&gt;](../)
 * namespace [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class RegexManager
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.RegexManager 클래스. 구성 가능한 타임아웃 설정으로 정규 표현식 작업을 위한 래퍼를 제공합니다.
+title: "RegexManager 클래스"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.RegexManager 클래스. 구성 가능한 시간 제한 설정을 가진 정규식 작업을 위한 래퍼를 제공합니다"
 type: docs
 weight: 8680
 url: /ko/net/aspose.pdf/regexmanager/
 ---
-## RegexManager 클래스
+## RegexManager class
 
-구성 가능한 타임아웃 설정으로 정규 표현식 작업을 위한 래퍼를 제공합니다.
+구성 가능한 시간 제한 설정이 가능한 정규식 작업용 래퍼를 제공합니다.
 
 ```csharp
 public static class RegexManager
@@ -18,9 +18,11 @@ public static class RegexManager
 
 | 이름 | 설명 |
 | --- | --- |
-| static [MatchTimeout](../../aspose.pdf/regexmanager/matchtimeout/) { get; set; } | 라이브러리 전반에 걸쳐 Regex 작업의 타임아웃을 가져오거나 설정합니다. 기본값은 1000 ms입니다. |
+| static [MatchTimeout](../../aspose.pdf/regexmanager/matchtimeout/) { get; set; } | 라이브러리 전반에 걸친 Regex 작업의 시간 제한을 가져오거나 설정합니다. 기본값은 1000 ms입니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf](../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

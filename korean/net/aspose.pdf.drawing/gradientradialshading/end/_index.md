@@ -1,22 +1,24 @@
 ---
-title: GradientRadialShading.End
-second_title: Aspose.PDF for .NET API Reference
-description: GradientRadialShading 속성. 끝 원 중심점을 가져오거나 설정합니다.
+title: "GradientRadialShading.End"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "GradientRadialShading 속성. 종료 원 중심점을 가져오거나 설정합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.drawing/gradientradialshading/end/
 ---
-## GradientRadialShading.End 속성
+## GradientRadialShading.End property
 
-끝 원 중심점을 가져오거나 설정합니다.
+끝 원의 중심점을 가져오거나 설정합니다.
 
 ```csharp
 public Point End { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Point](../../../aspose.pdf/point/)
-* 클래스 [GradientRadialShading](../)
-* 네임스페이스 [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Point](../../../aspose.pdf/point/)
+* class [GradientRadialShading](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

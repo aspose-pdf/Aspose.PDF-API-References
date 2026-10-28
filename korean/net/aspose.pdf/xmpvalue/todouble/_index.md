@@ -1,12 +1,12 @@
 ---
-title: XmpValue.ToDouble
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue 메서드. double로 변환
+title: "XmpValue.ToDouble"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "XmpValue 메서드. double로 변환합니다"
 type: docs
 weight: 150
 url: /ko/net/aspose.pdf/xmpvalue/todouble/
 ---
-## XmpValue.ToDouble 메서드
+## XmpValue.ToDouble method
 
 double로 변환합니다.
 
@@ -18,8 +18,10 @@ public double ToDouble()
 
 Double 값.
 
-### 참조
+### 또 보기
 
-* 클래스 [XmpValue](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

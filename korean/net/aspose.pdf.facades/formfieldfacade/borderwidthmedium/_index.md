@@ -1,21 +1,23 @@
 ---
-title: FormFieldFacade.BorderWidthMedium
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade 필드. 중간 테두리 너비를 정의합니다.
+title: "FormFieldFacade.BorderWidthMedium"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FormFieldFacade 필드. 중간 테두리 너비를 정의합니다"
 type: docs
 weight: 350
 url: /ko/net/aspose.pdf.facades/formfieldfacade/borderwidthmedium/
 ---
-## FormFieldFacade.BorderWidthMedium 필드
+## FormFieldFacade.BorderWidthMedium field
 
-중간 테두리 너비를 정의합니다.
+중간 두께의 테두리 너비를 정의합니다.
 
 ```csharp
 public const float BorderWidthMedium;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [FormFieldFacade](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

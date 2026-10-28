@@ -1,24 +1,24 @@
 ---
-title: Form.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: 폼 메서드. 폼에서 필드를 삭제합니다.
+title: "Form.Delete"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Form 메서드. 양식에서 필드를 삭제합니다."
 type: docs
-weight: 230
+weight: 250
 url: /ko/net/aspose.pdf.forms/form/delete/
 ---
 ## Delete(Field) {#delete}
 
-폼에서 필드를 삭제합니다.
+양식에서 필드를 삭제합니다.
 
 ```csharp
 public void Delete(Field field)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| field | Field | 삭제해야 하는 필드입니다. |
+| 필드 | 필드 | 삭제해야 할 필드. |
 
-### See Also
+### 또 보기
 
 * class [Field](../../field/)
 * class [Form](../)
@@ -29,18 +29,20 @@ public void Delete(Field field)
 
 ## Delete(string) {#delete_1}
 
-이름으로 폼에서 필드를 삭제합니다.
+이름으로 양식에서 필드를 삭제합니다.
 
 ```csharp
 public void Delete(string fieldName)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| fieldName | String | 삭제해야 하는 필드의 이름입니다. |
+| fieldName | String | 삭제해야 할 필드의 이름. |
 
-### See Also
+### 또 보기
 
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

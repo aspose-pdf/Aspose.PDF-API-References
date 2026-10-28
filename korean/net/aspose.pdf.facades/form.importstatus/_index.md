@@ -1,12 +1,12 @@
 ---
-title: Enum Form.ImportStatus
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.FormImportStatus 열거형. 가져온 필드의 상태
+title: "Enum Form.ImportStatus"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Facades.FormImportStatus enum. 가져온 필드의 상태"
 type: docs
-weight: 4310
+weight: 4430
 url: /ko/net/aspose.pdf.facades/form.importstatus/
 ---
-## Form.ImportStatus 열거형
+## Form.ImportStatus enumeration
 
 가져온 필드의 상태
 
@@ -18,11 +18,13 @@ public enum ImportStatus
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
-| Success | `0` | 필드가 성공적으로 가져와졌습니다 |
-| FieldNotFound | `1` | 이 이름의 필드를 문서 양식에서 찾을 수 없습니다. |
+| Success | `0` | 필드가 성공적으로 가져와졌습니다. |
+| FieldNotFound | `1` | 문서 양식에서 해당 이름의 필드를 찾을 수 없습니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [Form](../form/)
-* 네임스페이스 [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../)
+* class [Form](../form/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

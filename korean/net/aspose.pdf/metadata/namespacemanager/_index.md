@@ -1,12 +1,12 @@
 ---
-title: Metadata.NamespaceManager
-second_title: Aspose.PDF for .NET API Reference
-description: 메타데이터 속성. 네임스페이스 관리자를 가져옵니다
+title: "Metadata.NamespaceManager"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Metadata 속성. 네임스페이스 관리자를 가져옵니다"
 type: docs
 weight: 80
 url: /ko/net/aspose.pdf/metadata/namespacemanager/
 ---
-## Metadata.NamespaceManager 속성
+## Metadata.NamespaceManager property
 
 네임스페이스 관리자를 가져옵니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf/metadata/namespacemanager/
 public XmlNamespaceManager NamespaceManager { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Metadata](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

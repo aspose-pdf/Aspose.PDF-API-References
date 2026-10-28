@@ -1,21 +1,23 @@
 ---
-title: AIClientBase.HttpRequestMaxRetries
-second_title: Aspose.PDF for .NET API Reference
-description: AIClientBase 속성. 최대 HTTP 요청 재시도 횟수를 가져오거나 설정합니다.
+title: "AIClientBase.HttpRequestMaxRetries"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "AIClientBase 속성. HTTP 요청 재시도 최대 횟수를 가져오거나 설정합니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.ai/aiclientbase/httprequestmaxretries/
 ---
-## AIClientBase.HttpRequestMaxRetries 속성
+## AIClientBase.HttpRequestMaxRetries property
 
-최대 HTTP 요청 재시도 횟수를 가져오거나 설정합니다.
+HTTP 요청 재시도 최대 횟수를 가져오거나 설정합니다.
 
 ```csharp
 public int HttpRequestMaxRetries { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [AIClientBase](../)
-* 네임스페이스 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [AIClientBase](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

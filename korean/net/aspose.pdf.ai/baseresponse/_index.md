@@ -1,12 +1,12 @@
 ---
-title: Class BaseResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.BaseResponse 클래스. API 응답을 위한 기본 클래스
+title: "클래스 BaseResponse"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.AI.BaseResponse 클래스. API 응답을 위한 기본 클래스"
 type: docs
 weight: 170
 url: /ko/net/aspose.pdf.ai/baseresponse/
 ---
-## BaseResponse 클래스
+## BaseResponse class
 
 API 응답을 위한 기본 클래스.
 
@@ -20,13 +20,15 @@ public abstract class BaseResponse
 | --- | --- |
 | [Detail](../../aspose.pdf.ai/baseresponse/detail/) { get; set; } | 응답 세부 정보를 가져오거나 설정합니다. |
 | [Error](../../aspose.pdf.ai/baseresponse/error/) { get; set; } | HTTP 응답 오류를 가져오거나 설정합니다. |
-| [ErrorMessage](../../aspose.pdf.ai/baseresponse/errormessage/) { get; } | 오류 정보를 가져옵니다. |
+| [ErrorMessage](../../aspose.pdf.ai/baseresponse/errormessage/) { get; } | 오류 정보를 가져오거나 설정합니다. |
 | [HttpResponseHeaders](../../aspose.pdf.ai/baseresponse/httpresponseheaders/) { get; set; } | HTTP 응답 헤더를 가져오거나 설정합니다. |
 | [HttpStatusCode](../../aspose.pdf.ai/baseresponse/httpstatuscode/) { get; set; } | HTTP 상태 코드를 가져오거나 설정합니다. |
-| [IsSuccessful](../../aspose.pdf.ai/baseresponse/issuccessful/) { get; } | 응답이 성공적이었는지 여부를 나타냅니다. |
+| [IsSuccessful](../../aspose.pdf.ai/baseresponse/issuccessful/) { get; } | 응답이 성공했는지 여부를 나타냅니다. |
 | [ReasonPhrase](../../aspose.pdf.ai/baseresponse/reasonphrase/) { get; } | 오류 이유 구문을 가져옵니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

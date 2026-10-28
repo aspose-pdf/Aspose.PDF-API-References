@@ -1,7 +1,7 @@
 ---
-title: PdfContentEditor.CreateWebLink
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor 메서드. PDF 문서에 웹 링크를 생성합니다.
+title: "PdfContentEditor.CreateWebLink"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfContentEditor 메서드. PDF 문서에 웹 링크를 생성합니다."
 type: docs
 weight: 300
 url: /ko/net/aspose.pdf.facades/pdfcontenteditor/createweblink/
@@ -18,10 +18,10 @@ public void CreateWebLink(Rectangle rect, string url, int originalPage, Color cl
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | rect | Rectangle | 활성 클릭을 위한 사각형입니다. |
-| url | String | 웹 링크 목적지입니다. |
-| originalPage | Int32 | 웹 링크와 연결된 사각형이 생성될 원본 페이지의 번호입니다. |
+| url | String | 웹 링크 대상입니다. |
+| originalPage | Int32 | 웹 링크와 연결된 사각형이 생성될 원본 페이지 번호입니다. |
 | clr | Color | 활성 클릭을 위한 사각형의 색상입니다. |
-| actionName | Enum[] | Acrobat 뷰어에서 메뉴 항목을 실행하는 데 해당하는 동작의 배열(PredefinedAction 열거형의 멤버)입니다. |
+| actionName | Enum[] | Acrobat 뷰어에서 메뉴 항목을 실행하는 데 해당하는 동작 배열 (PredefinedAction 열거형의 멤버). |
 
 ## 예제
 
@@ -34,11 +34,11 @@ editor.CreateWebLink(new System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfContentEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -53,8 +53,8 @@ public void CreateWebLink(Rectangle rect, string url, int originalPage, Color cl
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | rect | Rectangle | 활성 클릭을 위한 사각형입니다. |
-| url | String | 웹 링크 목적지입니다. |
-| originalPage | Int32 | 웹 링크와 연결된 사각형이 생성될 원본 페이지의 번호입니다. |
+| url | String | 웹 링크 대상입니다. |
+| originalPage | Int32 | 웹 링크가 바인딩된 사각형이 생성될 원본 페이지 번호. |
 | clr | Color | 활성 클릭을 위한 사각형의 색상입니다. |
 
 ## 예제
@@ -67,11 +67,11 @@ editor.CreateWebLink(new System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfContentEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -86,8 +86,8 @@ public void CreateWebLink(Rectangle rect, string url, int originalPage)
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | rect | Rectangle | 활성 클릭을 위한 사각형입니다. |
-| url | String | 웹 링크 목적지입니다. |
-| originalPage | Int32 | 웹 링크와 연결된 사각형이 생성될 원본 페이지의 번호입니다. |
+| url | String | 웹 링크 대상입니다. |
+| originalPage | Int32 | 웹 링크가 바인딩된 사각형이 생성될 원본 페이지 번호. |
 
 ## 예제
 
@@ -98,8 +98,10 @@ editor.CreateWebLink(new System.Drawing.Rectangle(0, 0, 100, 100), "http://www.a
 editor.Save("example_out.pdf");
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfContentEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

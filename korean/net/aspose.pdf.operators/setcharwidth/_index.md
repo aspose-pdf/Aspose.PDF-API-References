@@ -1,14 +1,14 @@
 ---
-title: Class SetCharWidth
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.SetCharWidth 클래스. d0 연산자 글리프 너비를 설정하는 클래스를 나타냅니다.
+title: "클래스 SetCharWidth"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Operators.SetCharWidth 클래스. d0 연산자를 사용하여 글리프 너비를 설정하는 클래스를 나타냅니다."
 type: docs
-weight: 7600
+weight: 7740
 url: /ko/net/aspose.pdf.operators/setcharwidth/
 ---
-## SetCharWidth 클래스
+## SetCharWidth class
 
-d0 연산자(글리프 너비 설정)를 나타내는 클래스입니다.
+d0 연산자를 나타내는 클래스 (글리프 너비 설정).
 
 ```csharp
 public class SetCharWidth : Operator
@@ -24,7 +24,7 @@ public class SetCharWidth : Operator
 
 | 이름 | 설명 |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | 페이지 연산자 목록에서의 연산자 인덱스. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Page 연산자 목록에서 연산자 인덱스입니다. |
 | [Wx](../../aspose.pdf.operators/setcharwidth/wx/) { get; } | 글리프 좌표의 수평 변위. |
 | [Wy](../../aspose.pdf.operators/setcharwidth/wy/) { get; } | 글리프 좌표의 수직 변위. |
 
@@ -36,8 +36,10 @@ public class SetCharWidth : Operator
 | override [ToString](../../aspose.pdf.operators/setcharwidth/tostring/)() | 연산자의 텍스트 표현을 반환합니다. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | 이 인스턴스를 주어진 객체와 비교합니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [Operator](../../aspose.pdf/operator/)
-* 네임스페이스 [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* 어셈블리 [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

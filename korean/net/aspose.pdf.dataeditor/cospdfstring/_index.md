@@ -1,14 +1,14 @@
 ---
-title: Class CosPdfString
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.DataEditor.CosPdfString 클래스. 이 클래스는 Pdf 문자열 객체를 나타냅니다.
+title: "클래스 CosPdfString"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.DataEditor.CosPdfString 클래스. 이 클래스는 Pdf String 객체를 나타냅니다."
 type: docs
-weight: 3460
+weight: 3580
 url: /ko/net/aspose.pdf.dataeditor/cospdfstring/
 ---
-## CosPdfString 클래스
+## CosPdfString class
 
-이 클래스는 Pdf 문자열 객체를 나타냅니다.
+이 클래스는 Pdf String 객체를 나타냅니다.
 
 ```csharp
 public sealed class CosPdfString : CosPdfPrimitive
@@ -34,15 +34,17 @@ public sealed class CosPdfString : CosPdfPrimitive
 | --- | --- |
 | override [Equals](../../aspose.pdf.dataeditor/cospdfstring/equals/)(object) | 지정된 객체가 현재 객체와 같은지 확인합니다. |
 | override [GetHashCode](../../aspose.pdf.dataeditor/cospdfstring/gethashcode/)() | 현재 객체의 해시 코드를 가져옵니다. |
-| virtual [ToCosPdfBoolean](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfboolean/)() | 이 인스턴스를 [`CosPdfBoolean`](../cospdfboolean/)으로 변환하려고 시도합니다. |
-| virtual [ToCosPdfDictionary](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfdictionary/)() | 이 인스턴스를 [`CosPdfDictionary`](../cospdfdictionary/)으로 변환하려고 시도합니다. |
-| virtual [ToCosPdfName](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfname/)() | 이 인스턴스를 [`CosPdfName`](../cospdfname/)으로 변환하려고 시도합니다. |
-| virtual [ToCosPdfNumber](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfnumber/)() | 이 인스턴스를 [`CosPdfNumber`](../cospdfnumber/)으로 변환하려고 시도합니다. |
-| override [ToCosPdfString](../../aspose.pdf.dataeditor/cospdfstring/tocospdfstring/)() | 이 인스턴스를 `CosPdfString`으로 변환하려고 시도합니다. |
+| virtual [ToCosPdfBoolean](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfboolean/)() | 이 인스턴스를 [`CosPdfBoolean`](../cospdfboolean/) 로 캐스팅을 시도합니다. |
+| virtual [ToCosPdfDictionary](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfdictionary/)() | 이 인스턴스를 [`CosPdfDictionary`](../cospdfdictionary/) 로 캐스팅을 시도합니다. |
+| virtual [ToCosPdfName](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfname/)() | 이 인스턴스를 [`CosPdfName`](../cospdfname/) 로 캐스팅을 시도합니다. |
+| virtual [ToCosPdfNumber](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfnumber/)() | 이 인스턴스를 [`CosPdfNumber`](../cospdfnumber/) 로 캐스팅을 시도합니다. |
+| override [ToCosPdfString](../../aspose.pdf.dataeditor/cospdfstring/tocospdfstring/)() | 이 인스턴스를 `CosPdfString` 로 캐스팅을 시도합니다. |
 | override [ToString](../../aspose.pdf.dataeditor/cospdfstring/tostring/)() | 현재 `CosPdfString`을 나타내는 문자열을 반환합니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [CosPdfPrimitive](../cospdfprimitive/)
-* 네임스페이스 [Aspose.Pdf.DataEditor](../../aspose.pdf.dataeditor/)
-* 어셈블리 [Aspose.PDF](../../)
+* class [CosPdfPrimitive](../cospdfprimitive/)
+* namespace [Aspose.Pdf.DataEditor](../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../)
+
+

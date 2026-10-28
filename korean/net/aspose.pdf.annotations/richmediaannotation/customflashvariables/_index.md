@@ -1,21 +1,23 @@
 ---
-title: RichMediaAnnotation.CustomFlashVariables
-second_title: Aspose.PDF for .NET API Reference
-description: RichMediaAnnotation 속성. 플레이어에 전달된 플래시 변수를 설정하거나 가져옵니다.
+title: "RichMediaAnnotation.CustomFlashVariables"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "RichMediaAnnotation 속성. 플레이어에 전달되는 플래시 변수를 설정하거나 가져옵니다."
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf.annotations/richmediaannotation/customflashvariables/
 ---
-## RichMediaAnnotation.CustomFlashVariables 속성
+## RichMediaAnnotation.CustomFlashVariables property
 
-플레이어에 전달된 플래시 변수를 설정하거나 가져옵니다.
+플래시 변수를 설정하거나 가져옵니다(플레이어에 전달됨).
 
 ```csharp
 public string CustomFlashVariables { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [RichMediaAnnotation](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [RichMediaAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

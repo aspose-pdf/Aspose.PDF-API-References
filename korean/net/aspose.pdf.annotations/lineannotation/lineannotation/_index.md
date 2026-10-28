@@ -1,7 +1,7 @@
 ---
-title: LineAnnotation.LineAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: LineAnnotation 생성자. Generator와 함께 사용하기 위한 생성자
+title: "LineAnnotation.LineAnnotation"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "LineAnnotation 생성자. Generator와 함께 사용하기 위한 생성자"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.annotations/lineannotation/lineannotation/
@@ -16,11 +16,11 @@ public LineAnnotation(Document document, Point start, Point end)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| document | Document | 주석이 생성될 문서. |
+| document | Document | Document에서 주석이 생성될 위치. |
 | start | Point | 시작점. |
 | end | Point | 끝점. |
 
-### 참조
+### 또 보기
 
 * class [Document](../../../aspose.pdf/document/)
 * class [Point](../../../aspose.pdf/point/)
@@ -40,12 +40,12 @@ public LineAnnotation(Page page, Rectangle rect, Point start, Point end)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| page | Page | 주석이 생성되어야 하는 문서의 페이지. |
-| rect | Rectangle | 페이지에서 주석의 위치를 정의하는 주석 사각형. |
-| start | Point | 선의 시작 좌표를 지정하는 점. |
-| end | Point | 선의 끝 좌표를 지정하는 점. |
+| 페이지 | 페이지 | 문서의 Page에서 주석을 생성해야 합니다. |
+| rect | Rectangle | Annotation rectangle는 페이지에서 주석의 위치를 정의합니다. |
+| start | Point | 라인의 시작 좌표를 지정하는 점. |
+| end | Point | 라인의 끝 좌표를 지정하는 점. |
 
-### 참조
+### 또 보기
 
 * class [Page](../../../aspose.pdf/page/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
@@ -53,3 +53,5 @@ public LineAnnotation(Page page, Rectangle rect, Point start, Point end)
 * class [LineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

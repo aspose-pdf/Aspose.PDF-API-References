@@ -1,12 +1,12 @@
 ---
-title: SignatureCustomAppearance.DigitalSignedLabel
-second_title: Aspose.PDF for .NET API Reference
-description: SignatureCustomAppearance 속성. 디지털 서명 레이블을 가져오거나 설정합니다. 기본값 Digitally signed by
+title: "SignatureCustomAppearance.DigitalSignedLabel"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "SignatureCustomAppearance 속성. 디지털 서명 라벨을 가져오거나 설정합니다. 기본값 디지털 서명자"
 type: docs
 weight: 80
 url: /ko/net/aspose.pdf.forms/signaturecustomappearance/digitalsignedlabel/
 ---
-## SignatureCustomAppearance.DigitalSignedLabel 속성
+## SignatureCustomAppearance.DigitalSignedLabel property
 
 디지털 서명 레이블을 가져오거나 설정합니다. 기본값: "Digitally signed by".
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.forms/signaturecustomappearance/digitalsignedlabel/
 public string DigitalSignedLabel { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [SignatureCustomAppearance](../)
-* 네임스페이스 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [SignatureCustomAppearance](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

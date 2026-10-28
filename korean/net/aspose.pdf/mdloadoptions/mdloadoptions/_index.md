@@ -1,21 +1,23 @@
 ---
-title: MdLoadOptions.MdLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: MdLoadOptions 생성자. 기본 생성자
+title: "MdLoadOptions.MdLoadOptions"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "MdLoadOptions 생성자. 기본 생성자"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf/mdloadoptions/mdloadoptions/
 ---
-## MdLoadOptions 생성자
+## MdLoadOptions constructor
 
-기본 생성자입니다.
+기본 생성자.
 
 ```csharp
 public MdLoadOptions()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [MdLoadOptions](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [MdLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

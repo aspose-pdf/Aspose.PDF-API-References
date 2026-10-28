@@ -1,21 +1,23 @@
 ---
-title: TextSearchOptions.IsRegularExpressionUsed
-second_title: Aspose.PDF for .NET API Reference
-description: TextSearchOptions 속성. 정규 표현식이 사용되고 있는지의 여부를 가져오거나 설정합니다.
+title: "TextSearchOptions.IsRegularExpressionUsed"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TextSearchOptions 속성. 정규 표현식이 사용되는지 여부를 가져오거나 설정합니다."
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf.text/textsearchoptions/isregularexpressionused/
 ---
-## TextSearchOptions.IsRegularExpressionUsed 속성
+## TextSearchOptions.IsRegularExpressionUsed property
 
-정규 표현식이 사용되고 있는지의 여부를 가져오거나 설정합니다.
+정규식이 사용되는지를 표시를 가져오거나 설정합니다.
 
 ```csharp
 public bool IsRegularExpressionUsed { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [TextSearchOptions](../)
-* 네임스페이스 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TextSearchOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

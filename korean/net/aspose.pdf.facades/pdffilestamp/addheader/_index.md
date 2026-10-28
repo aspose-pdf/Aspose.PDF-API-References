@@ -1,7 +1,7 @@
 ---
-title: PdfFileStamp.AddHeader
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileStamp 메서드. 페이지에 헤더를 추가합니다.
+title: "PdfFileStamp.AddHeader"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfFileStamp 메서드. 페이지에 헤더를 추가합니다."
 type: docs
 weight: 120
 url: /ko/net/aspose.pdf.facades/pdffilestamp/addheader/
@@ -16,8 +16,8 @@ public void AddHeader(FormattedText formattedText, float topMargin)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| formattedText | FormattedText | 헤더 및 텍스트 속성에 대한 텍스트. |
-| topMargin | Single | 페이지 상단의 여백. |
+| formattedText | FormattedText | 헤더 텍스트 및 텍스트 속성. |
+| topMargin | Single | 페이지 상단 여백. |
 
 ## 예제
 
@@ -27,12 +27,12 @@ fileStamp.AddHeader(new FormattedText("Head of the page"), 50);
 fileStamp.Close();
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [FormattedText](../../formattedtext/)
-* 클래스 [PdfFileStamp](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FormattedText](../../formattedtext/)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -47,10 +47,10 @@ public void AddHeader(FormattedText formattedText, float topMargin, float leftMa
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| formattedText | FormattedText | 페이지 텍스트 및 속성을 포함하는 서식이 지정된 텍스트 객체. |
-| topMargin | Single | 페이지 상단의 여백. |
-| leftMargin | Single | 페이지 왼쪽의 여백. |
-| rightMargin | Single | 페이지 오른쪽의 여백. |
+| formattedText | FormattedText | 페이지 텍스트와 해당 속성을 포함하는 서식이 지정된 텍스트 객체. |
+| topMargin | Single | 페이지 상단 여백. |
+| leftMargin | Single | 페이지 왼쪽 여백. |
+| rightMargin | Single | 페이지 오른쪽 여백. |
 
 ## 예제
 
@@ -59,12 +59,12 @@ PdfFileStamp stamp = new PdfFileStamp("input.pdf", "output.pdf");
 stamp.AddHeader(new FormattedText("Head of the page"), 10, 50, 50);
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [FormattedText](../../formattedtext/)
-* 클래스 [PdfFileStamp](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FormattedText](../../formattedtext/)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -78,8 +78,8 @@ public void AddHeader(string imageFile, float topMargin)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| imageFile | String | 이미지 파일의 경로. |
-| topMargin | Single | 페이지 상단의 여백. |
+| imageFile | String | 이미지 파일 경로. |
+| topMargin | Single | 페이지 상단 여백. |
 
 ## 예제
 
@@ -90,11 +90,11 @@ fileStamp.AddHeader("image.jpg", 50);
 fileStamp.Close();
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfFileStamp](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -108,10 +108,10 @@ public void AddHeader(string imageFile, float topMargin, float leftMargin, float
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| imageFile | String | 이미지 파일의 경로. |
-| topMargin | Single | 페이지 상단의 여백. |
-| leftMargin | Single | 페이지 왼쪽의 여백. |
-| rightMargin | Single | 페이지 오른쪽의 여백. |
+| imageFile | String | 이미지 파일 경로. |
+| topMargin | Single | 페이지 상단 여백. |
+| leftMargin | Single | 페이지 왼쪽 여백. |
+| rightMargin | Single | 페이지 오른쪽 여백. |
 
 ## 예제
 
@@ -122,11 +122,11 @@ fileStamp.AddHeader("image.jpg", 50, 100, 100);
 fileStamp.Close();
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfFileStamp](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -140,8 +140,8 @@ public void AddHeader(Stream imageStream, float topMargin)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| imageStream | Stream | 이미지의 스트림. |
-| topMargin | Single | 페이지 상단의 여백. |
+| imageStream | Stream | 이미지 스트림. |
+| topMargin | Single | 페이지 상단 여백. |
 
 ## 예제
 
@@ -152,11 +152,11 @@ fileStamp.AddHeader(new FileStream("image.jpg", FileMode.Open, FileAccess.Read),
 fileStamp.Close();
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfFileStamp](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -170,10 +170,10 @@ public void AddHeader(Stream inputStream, float topMargin, float leftMargin, flo
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| inputStream | Stream | 이미지 데이터를 포함하는 스트림. |
-| topMargin | Single | 페이지 상단의 여백. |
-| leftMargin | Single | 페이지 왼쪽의 여백. |
-| rightMargin | Single | 페이지 오른쪽의 여백. |
+| inputStream | Stream | 이미지 데이터를 포함하는 스트림입니다. |
+| topMargin | Single | 페이지 상단 여백. |
+| leftMargin | Single | 페이지 왼쪽 여백. |
+| rightMargin | Single | 페이지 오른쪽 여백. |
 
 ## 예제
 
@@ -184,8 +184,10 @@ fileStamp.AddHeader(new FileStream("image.jpg", FileMode.Open, FileAccess.Read),
 fileStamp.Close();
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfFileStamp](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

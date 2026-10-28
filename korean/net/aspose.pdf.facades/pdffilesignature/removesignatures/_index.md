@@ -1,12 +1,12 @@
 ---
-title: PdfFileSignature.RemoveSignatures
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSignature 메서드. 모든 서명을 제거합니다
+title: "PdfFileSignature.RemoveSignatures"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfFileSignature 메서드. 모든 서명을 제거합니다."
 type: docs
 weight: 260
 url: /ko/net/aspose.pdf.facades/pdffilesignature/removesignatures/
 ---
-## PdfFileSignature.RemoveSignatures 메서드
+## PdfFileSignature.RemoveSignatures method
 
 모든 서명을 제거합니다.
 
@@ -30,8 +30,10 @@ pdfSign.RemoveSignatures()
 pdfSign.Save(TestPath + "signed_removed.pdf")
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfFileSignature](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

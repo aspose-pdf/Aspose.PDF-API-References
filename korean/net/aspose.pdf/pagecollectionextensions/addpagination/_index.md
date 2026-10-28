@@ -1,14 +1,14 @@
 ---
-title: PageCollectionExtensions.AddPagination
-second_title: Aspose.PDF for .NET API Reference
-description: PageCollectionExtensions 메서드. 주어진 페이지 컬렉션의 각 페이지에 지정된 페이지 매김 아티팩트를 추가합니다.
+title: "PageCollectionExtensions.AddPagination"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PageCollectionExtensions 메서드. 지정된 PageCollection의 각 Page에 지정된 pagination 아티팩트를 추가합니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf/pagecollectionextensions/addpagination/
 ---
-## PageCollectionExtensions.AddPagination 메서드
+## PageCollectionExtensions.AddPagination method
 
-주어진 페이지 컬렉션의 각 페이지에 지정된 페이지 매김 아티팩트를 추가합니다.
+주어진 page collection의 각 page에 지정된 페이지 매김 artifacts를 추가합니다.
 
 ```csharp
 public static void AddPagination(this PageCollection pageCollection, 
@@ -17,13 +17,15 @@ public static void AddPagination(this PageCollection pageCollection,
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| pageCollection | PageCollection | 페이지 매김 아티팩트가 추가될 페이지 컬렉션입니다. |
-| artifacts | List`1 | 각 페이지에 추가할 페이지 매김 아티팩트 목록입니다. |
+| pageCollection | PageCollection | pagination 아티팩트가 추가될 PageCollection. |
+| 아티팩트 | List`1 | 각 Page에 추가할 pagination 아티팩트 목록. |
 
-### 참조
+### 또 보기
 
-* 클래스 [PageCollection](../../pagecollection/)
-* 클래스 [PaginationArtifact](../../paginationartifact/)
-* 클래스 [PageCollectionExtensions](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PageCollection](../../pagecollection/)
+* class [PaginationArtifact](../../paginationartifact/)
+* class [PageCollectionExtensions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

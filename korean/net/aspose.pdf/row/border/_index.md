@@ -1,12 +1,12 @@
 ---
-title: Row.Border
-second_title: Aspose.PDF for .NET API Reference
-description: Row 속성. 테두리를 가져오거나 설정합니다.
+title: "Row.Border"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Row 속성. 테두리를 가져오거나 설정합니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf/row/border/
 ---
-## Row.Border 속성
+## Row.Border property
 
 테두리를 가져오거나 설정합니다.
 
@@ -14,9 +14,11 @@ url: /ko/net/aspose.pdf/row/border/
 public BorderInfo Border { get; set; }
 ```
 
-### 참조
+### 또 보기
 
 * class [BorderInfo](../../borderinfo/)
 * class [Row](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

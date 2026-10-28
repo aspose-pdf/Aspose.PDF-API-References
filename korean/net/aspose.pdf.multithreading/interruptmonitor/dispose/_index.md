@@ -1,12 +1,12 @@
 ---
-title: InterruptMonitor.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: InterruptMonitor 메서드. 사용된 리소스를 해제합니다
+title: "InterruptMonitor.Dispose"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "InterruptMonitor 메서드. 사용된 리소스를 해제합니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.multithreading/interruptmonitor/dispose/
 ---
-## InterruptMonitor.Dispose 메서드
+## InterruptMonitor.Dispose method
 
 사용된 리소스를 해제합니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.multithreading/interruptmonitor/dispose/
 public void Dispose()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [InterruptMonitor](../)
-* 네임스페이스 [Aspose.Pdf.Multithreading](../../../aspose.pdf.multithreading/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [InterruptMonitor](../)
+* namespace [Aspose.Pdf.Multithreading](../../../aspose.pdf.multithreading/)
+* assembly [Aspose.PDF](../../../)
+
+

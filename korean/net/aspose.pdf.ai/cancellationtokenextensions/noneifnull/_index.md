@@ -1,12 +1,12 @@
 ---
-title: CancellationTokenExtensions.NoneIfNull
-second_title: Aspose.PDF for .NET API Reference
-description: CancellationTokenExtensions 메서드. 입력 CancellationToken이 null인 경우 CancellationToken.None을 반환하고, 그렇지 않으면 입력 CancellationToken을 반환합니다.
+title: "CancellationTokenExtensions.NoneIfNull"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "CancellationTokenExtensions 메서드. 입력 CancellationToken이 null이면 CancellationToken.None을 반환하고, 그렇지 않으면 입력 CancellationToken을 반환합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.ai/cancellationtokenextensions/noneifnull/
 ---
-## CancellationTokenExtensions.NoneIfNull 메서드
+## CancellationTokenExtensions.NoneIfNull method
 
 입력 CancellationToken이 null인 경우 CancellationToken.None을 반환하고, 그렇지 않으면 입력 CancellationToken을 반환합니다.
 
@@ -16,14 +16,16 @@ public static CancellationToken NoneIfNull(this CancellationToken? cancellationT
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| cancellationToken | Nullable`1 | 입력 CancellationToken(널 가능). |
+| cancellationToken | Nullable`1 | 입력 CancellationToken (nullable). |
 
 ### 반환 값
 
-입력에 기반한 CancellationToken 값.
+입력을 기반으로 한 CancellationToken 값.
 
-### 참조
+### 또 보기
 
-* 클래스 [CancellationTokenExtensions](../)
-* 네임스페이스 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [CancellationTokenExtensions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

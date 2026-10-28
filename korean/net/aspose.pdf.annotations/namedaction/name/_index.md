@@ -1,12 +1,12 @@
 ---
-title: NamedAction.Name
-second_title: Aspose.PDF for .NET API Reference
-description: NamedAction 속성. 수행할 작업을 가져오거나 설정합니다.
+title: "NamedAction.Name"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "NamedAction 속성. 수행할 동작을 가져오거나 설정합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.annotations/namedaction/name/
 ---
-## NamedAction.Name 속성
+## NamedAction.Name property
 
 수행할 작업을 가져오거나 설정합니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.annotations/namedaction/name/
 public string Name { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [NamedAction](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [NamedAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

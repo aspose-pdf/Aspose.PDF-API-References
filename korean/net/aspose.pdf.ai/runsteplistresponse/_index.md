@@ -1,14 +1,14 @@
 ---
-title: Class RunStepListResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.RunStepListResponse 클래스. 실행 단계 데이터를 포함하는 목록 응답을 나타냅니다.
+title: "클래스 RunStepListResponse"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.AI.RunStepListResponse 클래스. 실행 단계 데이터를 포함하는 목록 응답을 나타냅니다."
 type: docs
-weight: 1050
+weight: 1130
 url: /ko/net/aspose.pdf.ai/runsteplistresponse/
 ---
-## RunStepListResponse 클래스
+## RunStepListResponse class
 
-실행 단계 데이터 목록 응답을 나타냅니다.
+런 단계 데이터를 포함하는 목록 응답을 나타냅니다.
 
 ```csharp
 public class RunStepListResponse : ListDataResponse<List<RunStepResponse>>
@@ -18,7 +18,7 @@ public class RunStepListResponse : ListDataResponse<List<RunStepResponse>>
 
 | 이름 | 설명 |
 | --- | --- |
-| [RunStepListResponse](runsteplistresponse/)() | 기본 생성자입니다. |
+| [RunStepListResponse](runsteplistresponse/)() | 기본 생성자. |
 
 ## 속성
 
@@ -36,9 +36,11 @@ public class RunStepListResponse : ListDataResponse<List<RunStepResponse>>
 | [LastId](../../aspose.pdf.ai/listdataresponse-1/lastid/) { get; set; } |  |
 | [ReasonPhrase](../../aspose.pdf.ai/baseresponse/reasonphrase/) { get; } | 오류 이유 구문을 가져옵니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [ListDataResponse<T>](../listdataresponse-1/)
-* 클래스 [RunStepResponse](../runstepresponse/)
-* 네임스페이스 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../)
+* class [ListDataResponse&lt;T&gt;](../listdataresponse-1/)
+* class [RunStepResponse](../runstepresponse/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

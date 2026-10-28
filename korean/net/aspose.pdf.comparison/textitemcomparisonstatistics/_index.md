@@ -1,12 +1,12 @@
 ---
-title: Class TextItemComparisonStatistics
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Comparison.TextItemComparisonStatistics 클래스. 텍스트 비교 통계 클래스를 나타냅니다.
+title: "클래스 TextItemComparisonStatistics"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Comparison.TextItemComparisonStatistics 클래스. 텍스트 비교 통계 클래스를 나타냅니다."
 type: docs
-weight: 3310
+weight: 3420
 url: /ko/net/aspose.pdf.comparison/textitemcomparisonstatistics/
 ---
-## TextItemComparisonStatistics 클래스
+## TextItemComparisonStatistics class
 
 텍스트 비교 통계 클래스를 나타냅니다.
 
@@ -18,7 +18,7 @@ public class TextItemComparisonStatistics
 
 | 이름 | 설명 |
 | --- | --- |
-| [TextItemComparisonStatistics](textitemcomparisonstatistics/)() | 기본 생성자입니다. |
+| [TextItemComparisonStatistics](textitemcomparisonstatistics/)() | 기본 생성자. |
 
 ## 속성
 
@@ -28,9 +28,11 @@ public class TextItemComparisonStatistics
 | [DeleteOperationsCount](../../aspose.pdf.comparison/textitemcomparisonstatistics/deleteoperationscount/) { get; } | 삭제 작업 수를 가져오고 설정합니다. |
 | [InsertedCharactersCount](../../aspose.pdf.comparison/textitemcomparisonstatistics/insertedcharacterscount/) { get; } | 삽입된 문자 수를 가져오고 설정합니다. |
 | [InsertOperationsCount](../../aspose.pdf.comparison/textitemcomparisonstatistics/insertoperationscount/) { get; } | 삽입 작업 수를 가져오고 설정합니다. |
-| [TotalCharacters](../../aspose.pdf.comparison/textitemcomparisonstatistics/totalcharacters/) { get; } | 총 문자 수를 가져오고 설정합니다. |
+| [TotalCharacters](../../aspose.pdf.comparison/textitemcomparisonstatistics/totalcharacters/) { get; } | 전체 문자 수를 가져오고 설정합니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../)
+
+

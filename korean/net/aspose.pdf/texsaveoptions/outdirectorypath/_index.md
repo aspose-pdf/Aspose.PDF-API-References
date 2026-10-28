@@ -1,12 +1,12 @@
 ---
-title: TeXSaveOptions.OutDirectoryPath
-second_title: Aspose.PDF for .NET API Reference
-description: TeXSaveOptions 속성. _outDirectoryPath 매개변수에 대한 속성
+title: "TeXSaveOptions.OutDirectoryPath"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TeXSaveOptions 속성. _outDirectoryPath 매개변수에 대한 속성"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf/texsaveoptions/outdirectorypath/
 ---
-## TeXSaveOptions.OutDirectoryPath 속성
+## TeXSaveOptions.OutDirectoryPath property
 
 _outDirectoryPath 매개변수에 대한 속성입니다.
 
@@ -14,8 +14,10 @@ _outDirectoryPath 매개변수에 대한 속성입니다.
 public string OutDirectoryPath { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [TeXSaveOptions](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TeXSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

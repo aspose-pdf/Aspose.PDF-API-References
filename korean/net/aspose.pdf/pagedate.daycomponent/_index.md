@@ -1,12 +1,12 @@
 ---
-title: Class PageDate.DayComponent
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PageDateDayComponent class. Represents the day component of a date
+title: "클래스 PageDate.DayComponent"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.PageDateDayComponent 클래스. 날짜의 일 구성 요소를 나타냅니다"
 type: docs
-weight: 8120
+weight: 8260
 url: /ko/net/aspose.pdf/pagedate.daycomponent/
 ---
-## PageDate.DayComponent 클래스
+## PageDate.DayComponent class
 
 날짜의 일 구성 요소를 나타냅니다.
 
@@ -18,7 +18,7 @@ public class DayComponent : DateComponent
 
 | 이름 | 설명 |
 | --- | --- |
-| [DayComponent](../../aspose.pdf/pagedate.daycomponent/.ctor)() | 기본 생성자입니다. |
+| [DayComponent](../../aspose.pdf/pagedate.daycomponent/.ctor)() | 기본 생성자. |
 
 ## 속성
 
@@ -30,12 +30,14 @@ public class DayComponent : DateComponent
 
 | 이름 | 설명 |
 | --- | --- |
-| [GetFormat](../../aspose.pdf/pagedate.daycomponent/getformat#getformat)() | 일 구성 요소의 형식 문자열을 가져옵니다. |
-| [GetFormat](../../aspose.pdf/datecomponent/getformat/)(char) | 형식에 따라 반복되는 지정된 문자로 구성된 문자열을 반환합니다. |
+| [GetFormat](../../aspose.pdf/pagedate.daycomponent/getformat#getformat)() | 일 구성 요소에 대한 형식 문자열을 가져옵니다. |
+| [GetFormat](../../aspose.pdf/datecomponent/getformat/)(char) | 형식에 따라 지정된 문자를 반복하여 구성된 문자열을 반환합니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [DateComponent](../datecomponent/)
-* 클래스 [PageDate](../pagedate/)
-* 네임스페이스 [Aspose.Pdf](../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../)
+* class [DateComponent](../datecomponent/)
+* class [PageDate](../pagedate/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

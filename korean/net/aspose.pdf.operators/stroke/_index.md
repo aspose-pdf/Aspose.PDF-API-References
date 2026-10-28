@@ -1,14 +1,14 @@
 ---
-title: Class Stroke
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.Stroke class. Class representing S operator stroke path
+title: "Stroke 클래스"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Operators.Stroke 클래스. S 연산자를 사용해 경로를 스트로크하는 것을 나타내는 클래스"
 type: docs
-weight: 7890
+weight: 8030
 url: /ko/net/aspose.pdf.operators/stroke/
 ---
-## Stroke 클래스
+## Stroke class
 
-S 연산자(스트로크 경로)를 나타내는 클래스입니다.
+S 연산자를 나타내는 클래스(경로를 스트로크).
 
 ```csharp
 public class Stroke : Operator
@@ -24,7 +24,7 @@ public class Stroke : Operator
 
 | 이름 | 설명 |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | 페이지 연산자 목록에서 연산자 인덱스입니다. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Page 연산자 목록에서 연산자 인덱스입니다. |
 
 ## 메서드
 
@@ -34,8 +34,10 @@ public class Stroke : Operator
 | override [ToString](../../aspose.pdf.operators/stroke/tostring/)() | 연산자의 텍스트 표현을 반환합니다. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | 이 인스턴스를 주어진 객체와 비교합니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [Operator](../../aspose.pdf/operator/)
-* 네임스페이스 [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* 어셈블리 [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

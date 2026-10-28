@@ -1,14 +1,14 @@
 ---
-title: Heading.CloneWithSegments
-second_title: Aspose.PDF for .NET API Reference
-description: Heading 메서드. 모든 세그먼트와 함께 헤딩 복제
+title: "Heading.CloneWithSegments"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Heading 메서드. 모든 세그먼트를 포함하여 제목을 복제합니다"
 type: docs
 weight: 120
 url: /ko/net/aspose.pdf/heading/clonewithsegments/
 ---
-## Heading.CloneWithSegments 메서드
+## Heading.CloneWithSegments method
 
-모든 세그먼트와 함께 헤딩을 복제합니다.
+모든 세그먼트를 포함하여 제목을 복제합니다.
 
 ```csharp
 public override object CloneWithSegments()
@@ -18,8 +18,10 @@ public override object CloneWithSegments()
 
 복제된 객체
 
-### 참조
+### 또 보기
 
-* 클래스 [Heading](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Heading](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

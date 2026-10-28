@@ -1,22 +1,24 @@
 ---
-title: CurveTo.Points
-second_title: Aspose.PDF for .NET API Reference
-description: CurveTo 속성. 곡선의 점들
+title: "CurveTo.Points"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "CurveTo 속성. 곡선의 점들"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.operators/curveto/points/
 ---
-## CurveTo.Points 속성
+## CurveTo.Points property
 
-곡선의 점들입니다.
+곡선의 점들.
 
 ```csharp
 public Point[] Points { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Point](../../../aspose.pdf/point/)
-* 클래스 [CurveTo](../)
-* 네임스페이스 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Point](../../../aspose.pdf/point/)
+* class [CurveTo](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

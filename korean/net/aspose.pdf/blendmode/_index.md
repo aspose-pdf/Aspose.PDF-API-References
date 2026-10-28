@@ -1,14 +1,14 @@
 ---
-title: Enum BlendMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.BlendMode 열거형. 혼합 모드 열거형
+title: "열거형 BlendMode"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.BlendMode 열거형. 블렌드 모드 열거형"
 type: docs
-weight: 2880
+weight: 2990
 url: /ko/net/aspose.pdf/blendmode/
 ---
-## BlendMode 열거형
+## BlendMode enumeration
 
-혼합 모드 열거형.
+블렌드 모드 열거형입니다.
 
 ```csharp
 public enum BlendMode
@@ -18,25 +18,27 @@ public enum BlendMode
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
-| Normal | `0` | 일반 혼합 모드. |
-| Multiply | `1` | 곱하기 혼합 모드. |
-| Screen | `2` | 스크린 혼합 모드. |
-| Overlay | `3` | 오버레이 혼합 모드. |
-| Darken | `4` | 어두워지기 혼합 모드. |
-| Lighten | `5` | 밝아지기 혼합 모드. |
-| ColorDodge | `6` | 색상 밀어내기 혼합 모드. |
-| ColorBurn | `7` | 색상 태우기 혼합 모드. |
-| HardLight | `8` | 강한 빛 혼합 모드. |
-| SoftLight | `9` | 부드러운 빛 혼합 모드. |
-| Difference | `10` | 차이 혼합 모드. |
-| Exclusion | `11` | 제외 혼합 모드. |
-| Hue | `12` | 색조 혼합 모드. |
-| Saturation | `13` | 채도 혼합 모드. |
-| Color | `14` | 색상 혼합 모드. |
-| Luminosity | `15` | 밝기 혼합 모드. |
-| Compatible | `16` | 호환성 혼합 모드. |
+| Normal | `0` | 보통 블렌드 모드. |
+| Multiply | `1` | 멀티플라이 블렌드 모드. |
+| Screen | `2` | 스크린 블렌드 모드. |
+| Overlay | `3` | 오버레이 블렌드 모드. |
+| Darken | `4` | 다크닝 블렌드 모드. |
+| Lighten | `5` | 라이트닝 블렌드 모드. |
+| ColorDodge | `6` | 컬러도즈 블렌드 모드. |
+| ColorBurn | `7` | 컬러번 블렌드 모드. |
+| HardLight | `8` | 하드라이트 블렌드 모드. |
+| SoftLight | `9` | 소프트라이트 블렌드 모드. |
+| Difference | `10` | 디퍼런스 블렌드 모드. |
+| Exclusion | `11` | 엑클루전 블렌드 모드. |
+| Hue | `12` | 히ュー 블렌드 모드. |
+| Saturation | `13` | 채도 블렌드 모드. |
+| Color | `14` | 컬러 블렌드 모드. |
+| Luminosity | `15` | 루미노시티 혼합 모드. |
+| Compatible | `16` | 호환 혼합 모드. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf](../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

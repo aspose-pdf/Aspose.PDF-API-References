@@ -1,7 +1,7 @@
 ---
-title: PdfExtractor.ExtractAttachment
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor 메서드. Pdf 문서에서 첨부 파일을 추출합니다.
+title: "PdfExtractor.ExtractAttachment"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfExtractor 메서드. Pdf 문서에서 첨부 파일을 추출합니다."
 type: docs
 weight: 110
 url: /ko/net/aspose.pdf.facades/pdfextractor/extractattachment/
@@ -14,7 +14,7 @@ Pdf 문서에서 첨부 파일을 추출합니다.
 public void ExtractAttachment()
 ```
 
-### See Also
+### 또 보기
 
 * class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -30,12 +30,14 @@ public void ExtractAttachment()
 public void ExtractAttachment(string attachmentFileName)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | attachmentFileName | String | 추출할 첨부 파일의 이름 |
 
-### See Also
+### 또 보기
 
 * class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

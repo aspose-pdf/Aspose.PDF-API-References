@@ -1,14 +1,14 @@
 ---
-title: FontAbsorber.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: FontAbsorber 메서드. 문서의 지정된 페이지 범위에서 검색을 수행합니다.
+title: "FontAbsorber.Visit"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FontAbsorber 메서드. 문서의 지정된 페이지 범위에서 검색을 수행합니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.text/fontabsorber/visit/
 ---
 ## Visit(Document, int, int) {#visit_1}
 
-문서의 지정된 페이지 범위에서 검색을 수행합니다.
+document의 지정된 페이지 범위에서 검색을 수행합니다.
 
 ```csharp
 public virtual void Visit(Document pdf, int startPage, int pageCount)
@@ -20,7 +20,7 @@ public virtual void Visit(Document pdf, int startPage, int pageCount)
 | startPage | Int32 | Pdf 문서 시작 페이지. |
 | pageCount | Int32 | Pdf 문서 페이지 수 |
 
-### 참조
+### 또 보기
 
 * class [Document](../../../aspose.pdf/document/)
 * class [FontAbsorber](../)
@@ -41,9 +41,11 @@ public virtual void Visit(Document pdf)
 | --- | --- | --- |
 | pdf | Document | Pdf 문서 객체. |
 
-### 참조
+### 또 보기
 
 * class [Document](../../../aspose.pdf/document/)
 * class [FontAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

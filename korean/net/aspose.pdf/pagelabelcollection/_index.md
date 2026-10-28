@@ -1,14 +1,14 @@
 ---
-title: Class PageLabelCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PageLabelCollection 클래스. 페이지 레이블 컬렉션을 나타내는 클래스
+title: "클래스 PageLabelCollection"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.PageLabelCollection 클래스. 페이지 레이블 컬렉션을 나타내는 클래스"
 type: docs
-weight: 8170
+weight: 8310
 url: /ko/net/aspose.pdf/pagelabelcollection/
 ---
-## PageLabelCollection 클래스
+## PageLabelCollection class
 
-페이지 레이블 컬렉션을 나타내는 클래스입니다.
+Page Label 컬렉션을 나타내는 클래스.
 
 ```csharp
 public class PageLabelCollection
@@ -18,12 +18,14 @@ public class PageLabelCollection
 
 | 이름 | 설명 |
 | --- | --- |
-| [GetLabel](../../aspose.pdf/pagelabelcollection/getlabel/)(int) | 페이지 인덱스에 따라 페이지 레이블을 가져옵니다 (페이지 인덱스는 0부터 시작합니다). |
-| [GetPages](../../aspose.pdf/pagelabelcollection/getpages/)() | 컬렉션의 페이지 인덱스를 가져옵니다. |
-| [RemoveLabel](../../aspose.pdf/pagelabelcollection/removelabel/)(int) | 페이지 인덱스에 따라 레이블을 제거합니다 (페이지 인덱스는 0부터 시작합니다). |
-| [UpdateLabel](../../aspose.pdf/pagelabelcollection/updatelabel/)(int, PageLabel) | 주어진 페이지 인덱스에 대해 레이블을 업데이트합니다 (페이지 인덱스는 0부터 시작합니다). |
+| [GetLabel](../../aspose.pdf/pagelabelcollection/getlabel/)(int) | 페이지 인덱스(0부터 시작)로 페이지 레이블을 가져옵니다. |
+| [GetPages](../../aspose.pdf/pagelabelcollection/getpages/)() | 컬렉션에 있는 페이지 인덱스를 가져옵니다. |
+| [RemoveLabel](../../aspose.pdf/pagelabelcollection/removelabel/)(int) | 페이지 인덱스(0부터 시작)로 레이블을 제거합니다. |
+| [UpdateLabel](../../aspose.pdf/pagelabelcollection/updatelabel/)(int, PageLabel) | 주어진 페이지 인덱스(0부터 시작)의 레이블을 업데이트합니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf](../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

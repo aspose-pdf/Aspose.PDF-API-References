@@ -1,12 +1,12 @@
 ---
-title: Class XmpValue
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.XmpValue 클래스. XMP 값을 나타냅니다.
+title: "클래스 XmpValue"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.XmpValue 클래스. XMP 값을 나타냅니다."
 type: docs
-weight: 11500
+weight: 11690
 url: /ko/net/aspose.pdf/xmpvalue/
 ---
-## XmpValue 클래스
+## XmpValue class
 
 XMP 값을 나타냅니다.
 
@@ -18,7 +18,7 @@ public class XmpValue
 
 | 이름 | 설명 |
 | --- | --- |
-| [XmpValue](xmpvalue/#constructor_3)(DateTime) | 날짜 및 시간 값에 대한 생성자. |
+| [XmpValue](xmpvalue/#constructor_3)(DateTime) | 날짜 시간 값에 대한 생성자. |
 | [XmpValue](xmpvalue/#constructor_1)(double) | 부동 소수점 값에 대한 생성자. |
 | [XmpValue](xmpvalue/#constructor_2)(int) | 정수 값에 대한 생성자. |
 | [XmpValue](xmpvalue/#constructor_4)(string) | 문자열 값에 대한 생성자. |
@@ -44,7 +44,7 @@ public class XmpValue
 | 이름 | 설명 |
 | --- | --- |
 | [ToArray](../../aspose.pdf/xmpvalue/toarray/)() | 배열을 반환합니다. |
-| [ToDateTime](../../aspose.pdf/xmpvalue/todatetime/)() | 날짜 및 시간으로 변환합니다. |
+| [ToDateTime](../../aspose.pdf/xmpvalue/todatetime/)() | 날짜 시간으로 변환합니다. |
 | [ToDictionary](../../aspose.pdf/xmpvalue/todictionary/)() | 명명된 값을 포함하는 사전을 반환합니다. |
 | [ToDouble](../../aspose.pdf/xmpvalue/todouble/)() | double로 변환합니다. |
 | [ToField](../../aspose.pdf/xmpvalue/tofield/)() | XMP 값을 XMP 필드로 반환합니다. |
@@ -55,11 +55,13 @@ public class XmpValue
 | override [ToString](../../aspose.pdf/xmpvalue/tostring/#tostring)() | XmpValue의 문자열 표현을 반환합니다. |
 | [ToString](../../aspose.pdf/xmpvalue/tostring/#tostring_1)(IFormatProvider) | 문자열 표현을 반환합니다. |
 | [ToStringValue](../../aspose.pdf/xmpvalue/tostringvalue/)() | 문자열로 변환합니다. |
-| [ToStructure](../../aspose.pdf/xmpvalue/tostructure/)() | XMP 값을 구조(필드 집합)로 반환합니다. |
+| [ToStructure](../../aspose.pdf/xmpvalue/tostructure/)() | XMP 값을 구조체(필드 집합)로 반환합니다. |
 | [explicit operator](../../aspose.pdf/xmpvalue/op_explicit/#op_explicit) | XmpValue를 배열로 변환합니다. (5 연산자) |
 | [implicit operator](../../aspose.pdf/xmpvalue/op_implicit/#op_implicit_4) | 문자열을 XmpValue로 변환합니다. (5 연산자) |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf](../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

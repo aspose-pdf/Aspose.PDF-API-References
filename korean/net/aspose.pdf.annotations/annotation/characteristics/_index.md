@@ -1,12 +1,12 @@
 ---
-title: Annotation.Characteristics
-second_title: Aspose.PDF for .NET API Reference
-description: 주석 속성. 주석 특성을 가져옵니다
+title: "Annotation.Characteristics"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Annotation 속성. 주석 특성을 가져옵니다"
 type: docs
 weight: 60
 url: /ko/net/aspose.pdf.annotations/annotation/characteristics/
 ---
-## 주석.특성 속성
+## Annotation.Characteristics property
 
 주석 특성을 가져옵니다.
 
@@ -14,9 +14,11 @@ url: /ko/net/aspose.pdf.annotations/annotation/characteristics/
 public Characteristics Characteristics { get; }
 ```
 
-### 참조
+### 또 보기
 
-* class [특성](../../characteristics/)
-* class [주석](../)
+* class [Characteristics](../../characteristics/)
+* class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

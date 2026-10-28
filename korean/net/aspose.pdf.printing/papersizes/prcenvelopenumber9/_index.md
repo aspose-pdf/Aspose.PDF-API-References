@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.PrcEnvelopeNumber9
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes 필드. 9 봉투 229 mm x 324 mm
+title: "PaperSizes.PrcEnvelopeNumber9"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PaperSizes 필드. 9 봉투 229mm x 324mm"
 type: docs
 weight: 1040
 url: /ko/net/aspose.pdf.printing/papersizes/prcenvelopenumber9/
 ---
-## PaperSizes.PrcEnvelopeNumber9 필드
+## PaperSizes.PrcEnvelopeNumber9 field
 
-#9 봉투 (229 mm x 324 mm).
+#9 봉투 (229 mm × 324 mm).
 
 ```csharp
 public static readonly PaperSize PrcEnvelopeNumber9;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PaperSize](../../papersize/)
-* 클래스 [PaperSizes](../)
-* 네임스페이스 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

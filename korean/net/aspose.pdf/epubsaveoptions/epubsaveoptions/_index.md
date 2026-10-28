@@ -1,21 +1,23 @@
 ---
-title: EpubSaveOptions.EpubSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: EpubSaveOptions constructor. The default constructor
+title: "EpubSaveOptions.EpubSaveOptions"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "EpubSaveOptions 생성자. 기본 생성자"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf/epubsaveoptions/epubsaveoptions/
 ---
-## EpubSaveOptions 생성자
+## EpubSaveOptions constructor
 
-기본 생성자입니다.
+기본 생성자.
 
 ```csharp
 public EpubSaveOptions()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [EpubSaveOptions](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [EpubSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

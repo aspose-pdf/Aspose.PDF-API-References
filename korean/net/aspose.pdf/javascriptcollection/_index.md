@@ -1,14 +1,14 @@
 ---
-title: Class JavaScriptCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.JavaScriptCollection 클래스. 이 클래스는 JavaScript의 컬렉션을 나타냅니다.
+title: "클래스 JavaScriptCollection"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.JavaScriptCollection 클래스. 이 클래스는 JavaScript 컬렉션을 나타냅니다"
 type: docs
-weight: 6040
+weight: 6170
 url: /ko/net/aspose.pdf/javascriptcollection/
 ---
-## JavaScriptCollection 클래스
+## JavaScriptCollection class
 
-이 클래스는 JavaScript의 컬렉션을 나타냅니다.
+이 클래스는 JavaScript 컬렉션을 나타냅니다.
 
 ```csharp
 public class JavaScriptCollection
@@ -18,7 +18,7 @@ public class JavaScriptCollection
 
 | 이름 | 설명 |
 | --- | --- |
-| [Item](../../aspose.pdf/javascriptcollection/item/) { get; set; } | 키를 통해 컬렉션에서 JavaScript를 가져오거나 설정합니다. |
+| [Item](../../aspose.pdf/javascriptcollection/item/) { get; set; } | 키를 사용하여 컬렉션에서 JavaScript를 가져오거나 설정합니다. |
 | [Keys](../../aspose.pdf/javascriptcollection/keys/) { get; } | JavaScript 컬렉션의 키 목록입니다. |
 
 ## 메서드
@@ -27,7 +27,9 @@ public class JavaScriptCollection
 | --- | --- |
 | [Remove](../../aspose.pdf/javascriptcollection/remove/)(string) | 이름으로 JavaScript를 제거합니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf](../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

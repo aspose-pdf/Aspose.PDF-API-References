@@ -1,7 +1,7 @@
 ---
-title: StructureElement.Tag
-second_title: Aspose.PDF for .NET API Reference
-description: StructureElement 메서드. 구조 요소를 콘텐츠 스트림 BDC 연산자에 바인딩합니다.
+title: "StructureElement.Tag"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "StructureElement 메서드. 구조 요소를 콘텐츠 스트림의 BDC 연산자에 바인딩합니다."
 type: docs
 weight: 180
 url: /ko/net/aspose.pdf.logicalstructure/structureelement/tag/
@@ -14,15 +14,15 @@ url: /ko/net/aspose.pdf.logicalstructure/structureelement/tag/
 public override MCRElement Tag(BDC bdc)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | bdc | BDC | 콘텐츠 스트림 bdc 연산자. |
 
-### Return Value
+### 반환 값
 
 MCRElementStructure 요소.
 
-### See Also
+### 또 보기
 
 * class [MCRElement](../../mcrelement/)
 * class [BDC](../../../aspose.pdf.operators/bdc/)
@@ -40,15 +40,15 @@ MCRElementStructure 요소.
 public override OBJRElement Tag(XForm form)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| form | XForm | Pdf 양식. |
+| 폼 | XForm | Pdf 양식. |
 
-### Return Value
+### 반환 값
 
 OBJRElementStructure 요소.
 
-### See Also
+### 또 보기
 
 * class [OBJRElement](../../objrelement/)
 * class [XForm](../../../aspose.pdf/xform/)
@@ -66,15 +66,15 @@ OBJRElementStructure 요소.
 public override OBJRElement Tag(XImage image)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| image | XImage | Pdf 이미지. |
+| 이미지 | XImage | Pdf 이미지. |
 
-### Return Value
+### 반환 값
 
 OBJRElementStructure 요소.
 
-### See Also
+### 또 보기
 
 * class [OBJRElement](../../objrelement/)
 * class [XImage](../../../aspose.pdf/ximage/)
@@ -92,15 +92,15 @@ OBJRElementStructure 요소.
 public override MCRElement Tag(Artifact artifact)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| artifact | Artifact | Pdf 아티팩트. |
+| 아티팩트 | 아티팩트 | Pdf 아티팩트. |
 
-### Return Value
+### 반환 값
 
 MCRElementStructure 요소.
 
-### See Also
+### 또 보기
 
 * class [MCRElement](../../mcrelement/)
 * class [Artifact](../../../aspose.pdf/artifact/)
@@ -118,18 +118,20 @@ MCRElementStructure 요소.
 public override OBJRElement Tag(Annotation annotation)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | annotation | Annotation | Pdf 주석. |
 
-### Return Value
+### 반환 값
 
 OBJRElementStructure 요소.
 
-### See Also
+### 또 보기
 
 * class [OBJRElement](../../objrelement/)
 * class [Annotation](../../../aspose.pdf.annotations/annotation/)
 * class [StructureElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

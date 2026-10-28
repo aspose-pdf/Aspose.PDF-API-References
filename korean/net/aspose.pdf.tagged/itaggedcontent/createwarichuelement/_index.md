@@ -1,14 +1,14 @@
 ---
-title: ITaggedContent.CreateWarichuElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent 메서드. WarichuElement를 생성합니다.
+title: "ITaggedContent.CreateWarichuElement"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ITaggedContent 메서드. WarichuElement 생성"
 type: docs
-weight: 370
+weight: 400
 url: /ko/net/aspose.pdf.tagged/itaggedcontent/createwarichuelement/
 ---
-## ITaggedContent.CreateWarichuElement 메서드
+## ITaggedContent.CreateWarichuElement method
 
-[`WarichuElement`](../../../aspose.pdf.logicalstructure/warichuelement/)를 생성합니다.
+생성 [`WarichuElement`](../../../aspose.pdf.logicalstructure/warichuelement/).
 
 ```csharp
 public WarichuElement CreateWarichuElement()
@@ -16,11 +16,13 @@ public WarichuElement CreateWarichuElement()
 
 ### 반환 값
 
-생성된 구조 요소입니다.
+구조 요소가 생성되었습니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [WarichuElement](../../../aspose.pdf.logicalstructure/warichuelement/)
-* 인터페이스 [ITaggedContent](../)
-* 네임스페이스 [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [WarichuElement](../../../aspose.pdf.logicalstructure/warichuelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

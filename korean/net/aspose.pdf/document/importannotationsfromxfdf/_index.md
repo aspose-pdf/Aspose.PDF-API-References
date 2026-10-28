@@ -1,9 +1,9 @@
 ---
-title: Document.ImportAnnotationsFromXfdf
-second_title: Aspose.PDF for .NET API Reference
-description: 문서 메서드. XFDF 파일에서 문서로 주석을 가져옵니다.
+title: "Document.ImportAnnotationsFromXfdf"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Document 메서드. XFDF 파일에서 문서로 주석을 가져옵니다"
 type: docs
-weight: 710
+weight: 730
 url: /ko/net/aspose.pdf/document/importannotationsfromxfdf/
 ---
 ## ImportAnnotationsFromXfdf(string) {#importannotationsfromxfdf_1}
@@ -18,11 +18,11 @@ public void ImportAnnotationsFromXfdf(string fileName)
 | --- | --- | --- |
 | fileName | String | XFDF 파일 이름 |
 
-### 참조
+### 또 보기
 
-* 클래스 [Document](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -38,8 +38,10 @@ public void ImportAnnotationsFromXfdf(Stream stream)
 | --- | --- | --- |
 | stream | Stream | 스트림에 XFDF 데이터가 포함되어 있습니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [Document](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

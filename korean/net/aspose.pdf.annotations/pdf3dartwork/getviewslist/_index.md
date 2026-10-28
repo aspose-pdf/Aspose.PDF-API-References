@@ -1,14 +1,14 @@
 ---
-title: PDF3DArtwork.GetViewsList
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DArtwork 메서드. 목록으로 뷰 가져오기
+title: "PDF3DArtwork.GetViewsList"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PDF3DArtwork 메서드. 보기를 목록으로 가져옵니다"
 type: docs
 weight: 60
 url: /ko/net/aspose.pdf.annotations/pdf3dartwork/getviewslist/
 ---
-## PDF3DArtwork.GetViewsList 메서드
+## PDF3DArtwork.GetViewsList method
 
-목록으로 뷰를 가져옵니다.
+뷰를 리스트 형태로 가져옵니다.
 
 ```csharp
 public ReadOnlyCollection<PDF3DView> GetViewsList()
@@ -18,9 +18,11 @@ public ReadOnlyCollection<PDF3DView> GetViewsList()
 
 ReadOnlyCollection&lt;PDF3DView&gt;.
 
-### 참조
+### 또 보기
 
-* 클래스 [PDF3DView](../../pdf3dview/)
-* 클래스 [PDF3DArtwork](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PDF3DView](../../pdf3dview/)
+* class [PDF3DArtwork](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

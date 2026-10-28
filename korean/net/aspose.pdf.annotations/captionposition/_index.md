@@ -1,14 +1,14 @@
 ---
-title: Enum CaptionPosition
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.CaptionPosition 열거형. 주석 캡션 위치 지정의 열거
+title: "열거형 CaptionPosition"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Annotations.CaptionPosition 열거형. 주석 캡션 위치 지정에 대한 열거형"
 type: docs
-weight: 1550
+weight: 1640
 url: /ko/net/aspose.pdf.annotations/captionposition/
 ---
-## CaptionPosition 열거형
+## CaptionPosition enumeration
 
-주석의 캡션 위치 지정을 열거합니다.
+주석 캡션 위치 지정의 열거형입니다.
 
 ```csharp
 public enum CaptionPosition
@@ -18,10 +18,12 @@ public enum CaptionPosition
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
-| Inline | `0` | 캡션이 줄 안에 중앙에 위치합니다 (기본값). |
-| Top | `1` | 캡션이 줄 위에 위치합니다. |
+| Inline | `0` | 캡션은 선 내부에 가운데 정렬됩니다 (기본값). |
+| Top | `1` | 캡션은 선 위에 표시됩니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

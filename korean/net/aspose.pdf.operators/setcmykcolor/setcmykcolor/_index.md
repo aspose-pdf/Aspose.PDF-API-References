@@ -1,12 +1,12 @@
 ---
-title: SetCMYKColor.SetCMYKColor
-second_title: Aspose.PDF for .NET API Reference
-description: SetCMYKColor 생성자. 연산자를 초기화합니다.
+title: "SetCMYKColor.SetCMYKColor"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "SetCMYKColor 생성자. 연산자를 초기화합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.operators/setcmykcolor/setcmykcolor/
 ---
-## SetCMYKColor 생성자
+## SetCMYKColor constructor
 
 연산자를 초기화합니다.
 
@@ -16,13 +16,15 @@ public SetCMYKColor(double c, double m, double y, double k)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| c | Double | 0.0에서 1.0까지의 청록색 수준 |
-| m | Double | 0.0에서 1.0까지의 자홍색 수준 |
-| y | Double | 0.0에서 1.0까지의 노란색 수준 |
-| k | Double | 0.0에서 1.0까지의 검은색 수준 |
+| c | Double | 시안 수준은 0.0에서 1.0 사이입니다 |
+| m | Double | 마젠타 수준은 0.0에서 1.0 사이입니다 |
+| y | Double | 노란색 수준은 0.0에서 1.0 사이입니다 |
+| k | Double | 검은색 수준은 0.0에서 1.0 사이입니다 |
 
-### 참조
+### 또 보기
 
-* 클래스 [SetCMYKColor](../)
-* 네임스페이스 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [SetCMYKColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

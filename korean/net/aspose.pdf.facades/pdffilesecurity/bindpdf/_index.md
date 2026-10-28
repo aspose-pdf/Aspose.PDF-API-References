@@ -1,14 +1,14 @@
 ---
-title: PdfFileSecurity.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSecurity 메서드. 파사드를 초기화합니다.
+title: "PdfFileSecurity.BindPdf"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfFileSecurity 메서드. 파사드를 초기화합니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.facades/pdffilesecurity/bindpdf/
 ---
 ## BindPdf(string) {#bindpdf_2}
 
-파사드를 초기화합니다.
+Facade를 초기화합니다.
 
 ```csharp
 public override void BindPdf(string srcFile)
@@ -18,17 +18,17 @@ public override void BindPdf(string srcFile)
 | --- | --- | --- |
 | srcFile | String | PDF 파일입니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfFileSecurity](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BindPdf(Stream) {#bindpdf_1}
 
-파사드를 초기화합니다.
+Facade를 초기화합니다.
 
 ```csharp
 public override void BindPdf(Stream srcStream)
@@ -38,8 +38,10 @@ public override void BindPdf(Stream srcStream)
 | --- | --- | --- |
 | srcStream | Stream | PDF 파일의 스트림입니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfFileSecurity](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TextBoxField.AddBarcode
-second_title: Aspose.PDF for .NET API Reference
-description: TextBoxField 메서드. 필드에 바코드 128을 추가합니다. 필드 값은 코드로 변경되며 필드는 읽기 전용이 됩니다.
+title: "TextBoxField.AddBarcode"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TextBoxField 메서드. 필드에 바코드 128을 추가합니다. 필드 값이 코드로 변경되고 필드가 읽기 전용이 됩니다."
 type: docs
 weight: 90
 url: /ko/net/aspose.pdf.forms/textboxfield/addbarcode/
 ---
-## TextBoxField.AddBarcode 메서드
+## TextBoxField.AddBarcode method
 
-필드에 바코드 128을 추가합니다. 필드 값은 코드로 변경되며 필드는 읽기 전용이 됩니다.
+필드에 barcode 128을 추가합니다. 필드 값이 코드로 변경되고 필드는 읽기 전용이 됩니다.
 
 ```csharp
 public void AddBarcode(string code)
@@ -16,10 +16,12 @@ public void AddBarcode(string code)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| code | String | 바코드 128을 생성할 텍스트입니다. |
+| code | String | 바코드 128을 생성하기 위한 텍스트입니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [TextBoxField](../)
-* 네임스페이스 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TextBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: CreateFineTuningJobResponse.Status
-second_title: Aspose.PDF for .NET API Reference
-description: CreateFineTuningJobResponse 속성. 파인튜닝 작업의 상태를 가져오거나 설정합니다.
+title: "CreateFineTuningJobResponse.Status"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "CreateFineTuningJobResponse 속성. 미세 조정 작업의 상태를 가져오거나 설정합니다."
 type: docs
 weight: 90
 url: /ko/net/aspose.pdf.ai/createfinetuningjobresponse/status/
 ---
-## CreateFineTuningJobResponse.Status 속성
+## CreateFineTuningJobResponse.Status property
 
-파인튜닝 작업의 상태를 가져오거나 설정합니다.
+미세 조정 작업의 상태를 가져오거나 설정합니다.
 
 ```csharp
 public string Status { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [CreateFineTuningJobResponse](../)
-* 네임스페이스 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [CreateFineTuningJobResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

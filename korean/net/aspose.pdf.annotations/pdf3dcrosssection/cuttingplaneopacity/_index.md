@@ -1,20 +1,20 @@
 ---
-title: PDF3DCrossSection.CuttingPlaneOpacity
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DCrossSection 속성. 절단 평면 불투명도를 가져오거나 설정합니다.
+title: "PDF3DCrossSection.CuttingPlaneOpacity"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PDF3DCrossSection 속성. 절단 평면 불투명도를 가져오거나 설정합니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf.annotations/pdf3dcrosssection/cuttingplaneopacity/
 ---
-## PDF3DCrossSection.CuttingPlaneOpacity 속성
+## PDF3DCrossSection.CuttingPlaneOpacity property
 
-절단 평면 불투명도를 가져오거나 설정합니다.
+절단 평면의 불투명도를 가져오거나 설정합니다.
 
 ```csharp
 public double CuttingPlaneOpacity { get; set; }
 ```
 
-### 속성 값
+### Property Value
 
 절단 평면 불투명도.
 
@@ -22,10 +22,12 @@ public double CuttingPlaneOpacity { get; set; }
 
 | 예외 | 조건 |
 | --- | --- |
-| Exception | 숫자는 [0 , 1] 범위 내에 있어야 합니다. |
+| Exception | 숫자는 [0 , 1] 범위에 있어야 합니다 |
 
-### 참조
+### 또 보기
 
-* 클래스 [PDF3DCrossSection](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PDF3DCrossSection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

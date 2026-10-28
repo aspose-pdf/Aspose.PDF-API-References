@@ -1,14 +1,14 @@
 ---
-title: TableOptions.AddTable
-second_title: Aspose.PDF for .NET API Reference
-description: TableOptions 메서드. 문서에 테이블 추가
+title: "TableOptions.AddTable"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TableOptions 메서드. 문서에 테이블을 추가합니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.plugins/tableoptions/addtable/
 ---
-## TableOptions.AddTable 메서드
+## TableOptions.AddTable method
 
-문서에 테이블을 추가합니다.
+문서에 표를 추가합니다.
 
 ```csharp
 public TableBuilder AddTable()
@@ -16,11 +16,13 @@ public TableBuilder AddTable()
 
 ### 반환 값
 
-[`TableBuilder`](../../tablebuilder/)의 새 인스턴스입니다.
+새 인스턴스 [`TableBuilder`](../../tablebuilder/).
 
-### 참조
+### 또 보기
 
-* 클래스 [TableBuilder](../../tablebuilder/)
-* 클래스 [TableOptions](../)
-* 네임스페이스 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TableBuilder](../../tablebuilder/)
+* class [TableOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

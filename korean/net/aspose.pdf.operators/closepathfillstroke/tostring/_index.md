@@ -1,12 +1,12 @@
 ---
-title: ClosePathFillStroke.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: ClosePathFillStroke 메서드. 연산자의 문자열 표현을 반환합니다.
+title: "ClosePathFillStroke.ToString"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ClosePathFillStroke 메서드. 연산자의 문자열 표현을 반환합니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.operators/closepathfillstroke/tostring/
 ---
-## ClosePathFillStroke.ToString 메서드
+## ClosePathFillStroke.ToString method
 
 연산자의 문자열 표현을 반환합니다.
 
@@ -18,8 +18,10 @@ public override string ToString()
 
 문자열 표현
 
-### 참조
+### 또 보기
 
-* 클래스 [ClosePathFillStroke](../)
-* 네임스페이스 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [ClosePathFillStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

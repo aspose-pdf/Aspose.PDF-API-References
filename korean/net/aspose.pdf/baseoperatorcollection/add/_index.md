@@ -1,14 +1,14 @@
 ---
-title: BaseOperatorCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: BaseOperatorCollection 메서드. 컬렉션에 새로운 연산자를 추가합니다.
+title: "BaseOperatorCollection.Add"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "BaseOperatorCollection 메서드. 새로운 연산자를 컬렉션에 추가합니다"
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf/baseoperatorcollection/add/
 ---
-## BaseOperatorCollection.Add 메서드
+## BaseOperatorCollection.Add method
 
-컬렉션에 새로운 연산자를 추가합니다.
+새 연산자를 컬렉션에 추가합니다.
 
 ```csharp
 public abstract void Add(Operator op)
@@ -16,11 +16,13 @@ public abstract void Add(Operator op)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| op | Operator | 추가해야 하는 연산자 |
+| op | 연산자 | 추가해야 하는 연산자 |
 
-### 참조
+### 또 보기
 
-* 클래스 [Operator](../../operator/)
-* 클래스 [BaseOperatorCollection](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Operator](../../operator/)
+* class [BaseOperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

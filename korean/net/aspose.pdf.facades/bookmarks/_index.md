@@ -1,12 +1,12 @@
 ---
-title: Class Bookmarks
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.Bookmarks 클래스. 북마크 객체의 컬렉션을 나타냅니다.
+title: "클래스 Bookmarks"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Facades.Bookmarks 클래스. Bookmark 객체의 컬렉션을 나타냅니다."
 type: docs
-weight: 4200
+weight: 4320
 url: /ko/net/aspose.pdf.facades/bookmarks/
 ---
-## 북마크 클래스
+## Bookmarks class
 
 [`Bookmark`](../bookmark/) 객체의 컬렉션을 나타냅니다.
 
@@ -18,10 +18,12 @@ public sealed class Bookmarks : List<Bookmark>
 
 | 이름 | 설명 |
 | --- | --- |
-| [Bookmarks](bookmarks/)() | 기본 생성자입니다. |
+| [Bookmarks](bookmarks/)() | 기본 생성자. |
 
-### 참조
+### 또 보기
 
-* 클래스 [Bookmark](../bookmark/)
-* 네임스페이스 [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../)
+* class [Bookmark](../bookmark/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

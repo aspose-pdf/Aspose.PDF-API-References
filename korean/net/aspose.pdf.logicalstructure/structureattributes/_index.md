@@ -1,12 +1,12 @@
 ---
-title: Class StructureAttributes
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LogicalStructure.StructureAttributes 클래스. 표준 속성 소유자를 위한 구조 요소의 속성을 나타냅니다.
+title: "클래스 StructureAttributes"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.LogicalStructure.StructureAttributes 클래스. 표준 속성 소유자를 위한 구조 요소의 속성을 나타냅니다."
 type: docs
-weight: 6690
+weight: 6830
 url: /ko/net/aspose.pdf.logicalstructure/structureattributes/
 ---
-## StructureAttributes 클래스
+## StructureAttributes class
 
 표준 속성 소유자를 위한 구조 요소의 속성을 나타냅니다.
 
@@ -25,9 +25,11 @@ public class StructureAttributes
 | 이름 | 설명 |
 | --- | --- |
 | [GetAttribute](../../aspose.pdf.logicalstructure/structureattributes/getattribute/)(AttributeKey) | AttributeKey로 StructureAttribute를 가져옵니다. |
-| [SetAttribute](../../aspose.pdf.logicalstructure/structureattributes/setattribute/)(StructureAttribute) | StructureAttributes에 StructureAttribute를 설정합니다. |
+| [SetAttribute](../../aspose.pdf.logicalstructure/structureattributes/setattribute/)(StructureAttribute) | StructureAttribute를 StructureAttributes에 설정합니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../)
+
+

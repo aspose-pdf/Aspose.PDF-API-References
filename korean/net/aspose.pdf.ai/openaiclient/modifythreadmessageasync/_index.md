@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.ModifyThreadMessageAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient 메서드. 스레드 내의 기존 메시지를 비동기적으로 수정합니다.
+title: "OpenAIClient.ModifyThreadMessageAsync"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "OpenAIClient 메서드. 스레드 내 기존 메시지를 비동기적으로 수정합니다."
 type: docs
-weight: 420
+weight: 430
 url: /ko/net/aspose.pdf.ai/openaiclient/modifythreadmessageasync/
 ---
-## OpenAIClient.ModifyThreadMessageAsync 메서드
+## OpenAIClient.ModifyThreadMessageAsync method
 
-스레드 내의 기존 메시지를 비동기적으로 수정합니다.
+스레드 내 기존 메시지를 비동기적으로 수정합니다.
 
 ```csharp
 public Task<ThreadMessageResponse> ModifyThreadMessageAsync(string threadId, 
@@ -20,7 +20,7 @@ public Task<ThreadMessageResponse> ModifyThreadMessageAsync(string threadId,
 | --- | --- | --- |
 | threadId | String | 수정할 메시지를 포함하는 스레드의 ID입니다. |
 | threadMessageId | String | 수정할 메시지의 ID입니다. |
-| threadMessageModifyRequest | ThreadMessageModifyRequest | 메시지를 수정하기 위한 요청 세부정보입니다. |
+| threadMessageModifyRequest | ThreadMessageModifyRequest | 메시지 수정을 위한 요청 세부 정보입니다. |
 | cancellationToken | Nullable`1 | 작업을 취소하기 위한 토큰입니다. |
 
 ### 반환 값
@@ -32,12 +32,14 @@ public Task<ThreadMessageResponse> ModifyThreadMessageAsync(string threadId,
 | 예외 | 조건 |
 | --- | --- |
 | [AIClientException](../../aiclientexception/) | 스레드 ID가 null이거나 비어 있을 때 발생합니다. |
-| [AIClientException](../../aiclientexception/) | 스레드 메시지 ID가 null이거나 비어 있을 때 발생합니다. |
+| [AIClientException](../../aiclientexception/) | thread message Id가 null이거나 비어 있을 때 발생합니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [ThreadMessageResponse](../../threadmessageresponse/)
-* 클래스 [ThreadMessageModifyRequest](../../threadmessagemodifyrequest/)
-* 클래스 [OpenAIClient](../)
-* 네임스페이스 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [ThreadMessageResponse](../../threadmessageresponse/)
+* class [ThreadMessageModifyRequest](../../threadmessagemodifyrequest/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

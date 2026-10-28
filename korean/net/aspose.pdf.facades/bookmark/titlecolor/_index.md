@@ -1,12 +1,12 @@
 ---
-title: Bookmark.TitleColor
-second_title: Aspose.PDF for .NET API Reference
-description: 북마크 속성. 북마크 제목의 색상을 가져오거나 설정합니다.
+title: "Bookmark.TitleColor"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Bookmark 속성. 북마크 제목의 색상을 가져오거나 설정합니다."
 type: docs
 weight: 190
 url: /ko/net/aspose.pdf.facades/bookmark/titlecolor/
 ---
-## Bookmark.TitleColor 속성
+## Bookmark.TitleColor property
 
 북마크 제목의 색상을 가져오거나 설정합니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.facades/bookmark/titlecolor/
 public Color TitleColor { get; set; }
 ```
 
-### 참조
+### 또 보기
 
 * class [Bookmark](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

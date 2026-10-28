@@ -1,12 +1,12 @@
 ---
-title: AttributeKey.Key
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey 속성. 속성 키 가져오기
+title: "AttributeKey.Key"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "AttributeKey 속성. 속성 키 가져오기"
 type: docs
 weight: 420
 url: /ko/net/aspose.pdf.logicalstructure/attributekey/key/
 ---
-## AttributeKey.Key 속성
+## AttributeKey.Key property
 
 속성 키 가져오기.
 
@@ -14,12 +14,14 @@ url: /ko/net/aspose.pdf.logicalstructure/attributekey/key/
 public string Key { get; }
 ```
 
-### 속성 값
+### Property Value
 
 속성 키.
 
-### 참조
+### 또 보기
 
-* 클래스 [AttributeKey](../)
-* 네임스페이스 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

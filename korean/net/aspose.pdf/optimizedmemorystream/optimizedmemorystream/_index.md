@@ -1,7 +1,7 @@
 ---
-title: OptimizedMemoryStream.OptimizedMemoryStream
-second_title: Aspose.PDF for .NET API Reference
-description: OptimizedMemoryStream 생성자. OptimizedMemoryStream 클래스의 새 인스턴스를 초기화합니다.
+title: "OptimizedMemoryStream.OptimizedMemoryStream"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "OptimizedMemoryStream 생성자. OptimizedMemoryStream 클래스의 새 인스턴스를 초기화합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf/optimizedmemorystream/optimizedmemorystream/
@@ -14,7 +14,7 @@ url: /ko/net/aspose.pdf/optimizedmemorystream/optimizedmemorystream/
 public OptimizedMemoryStream()
 ```
 
-### See Also
+### 또 보기
 
 * class [OptimizedMemoryStream](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -24,18 +24,18 @@ public OptimizedMemoryStream()
 
 ## OptimizedMemoryStream(int, byte[]) {#constructor_3}
 
-지정된 바이트 배열을 기반으로 [`OptimizedMemoryStream`](../) 클래스의 새 인스턴스를 초기화합니다.
+[`OptimizedMemoryStream`](../) 클래스를 지정된 바이트 배열을 기반으로 새 인스턴스를 초기화합니다.
 
 ```csharp
 public OptimizedMemoryStream(int bufferSize, byte[] buffer)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| bufferSize | Int32 | 기본 버퍼의 크기입니다. |
-| buffer | Byte[] | 현재 스트림을 생성하는 데 사용할 부호 없는 바이트 배열입니다. |
+| bufferSize | Int32 | 기본 버퍼의 크기. |
+| 버퍼 | Byte[] | 현재 스트림을 생성할 때 사용할 부호 없는 바이트 배열. |
 
-### See Also
+### 또 보기
 
 * class [OptimizedMemoryStream](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -51,11 +51,11 @@ public OptimizedMemoryStream(int bufferSize, byte[] buffer)
 public OptimizedMemoryStream(int bufferSize)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| bufferSize | Int32 | 기본 버퍼의 크기입니다. |
+| bufferSize | Int32 | 기본 버퍼의 크기. |
 
-### See Also
+### 또 보기
 
 * class [OptimizedMemoryStream](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -65,18 +65,20 @@ public OptimizedMemoryStream(int bufferSize)
 
 ## OptimizedMemoryStream(byte[]) {#constructor_1}
 
-지정된 바이트 배열을 기반으로 [`OptimizedMemoryStream`](../) 클래스의 새 인스턴스를 초기화합니다.
+[`OptimizedMemoryStream`](../) 클래스를 지정된 바이트 배열을 기반으로 새 인스턴스를 초기화합니다.
 
 ```csharp
 public OptimizedMemoryStream(byte[] buffer)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| buffer | Byte[] | 현재 스트림을 생성하는 데 사용할 부호 없는 바이트 배열입니다. |
+| 버퍼 | Byte[] | 현재 스트림을 생성할 때 사용할 부호 없는 바이트 배열. |
 
-### See Also
+### 또 보기
 
 * class [OptimizedMemoryStream](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

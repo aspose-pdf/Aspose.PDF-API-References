@@ -1,12 +1,12 @@
 ---
-title: PDF3DAnnotation.ClearImagePreview
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DAnnotation 메서드. 이미지 미리보기를 지웁니다.
+title: "PDF3DAnnotation.ClearImagePreview"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PDF3DAnnotation 메서드. 이미지 미리보기를 지웁니다"
 type: docs
 weight: 90
 url: /ko/net/aspose.pdf.annotations/pdf3dannotation/clearimagepreview/
 ---
-## PDF3DAnnotation.ClearImagePreview 메서드
+## PDF3DAnnotation.ClearImagePreview method
 
 이미지 미리보기를 지웁니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.annotations/pdf3dannotation/clearimagepreview/
 public void ClearImagePreview()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PDF3DAnnotation](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PDF3DAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

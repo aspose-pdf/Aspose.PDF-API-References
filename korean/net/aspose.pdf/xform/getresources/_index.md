@@ -1,7 +1,7 @@
 ---
-title: XForm.GetResources
-second_title: Aspose.PDF for .NET API Reference
-description: XForm 메서드. Form XObject의 리소스를 반환합니다.
+title: "XForm.GetResources"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "XForm 메서드. 폼 XObject의 리소스를 반환합니다."
 type: docs
 weight: 130
 url: /ko/net/aspose.pdf/xform/getresources/
@@ -16,18 +16,18 @@ public Resources GetResources(bool allowCreate)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| allowCreate | Boolean | Form에 리소스가 없고 allowCreate가 true인 경우, 리소스가 자동으로 생성됩니다. |
+| allowCreate | Boolean | For에 리소스가 없고 allowCreate가 true인 경우, Resources가 폼에 자동으로 생성됩니다. |
 
 ### 반환 값
 
 리소스.
 
-### 참조
+### 또 보기
 
-* 클래스 [Resources](../../resources/)
-* 클래스 [XForm](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Resources](../../resources/)
+* class [XForm](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -41,11 +41,13 @@ public Resources GetResources()
 
 ### 반환 값
 
-리소스 객체
+Resources 객체
 
-### 참조
+### 또 보기
 
-* 클래스 [Resources](../../resources/)
-* 클래스 [XForm](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Resources](../../resources/)
+* class [XForm](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PageCollection.IndexOf
-second_title: Aspose.PDF for .NET API Reference
-description: PageCollection 메서드. 지정된 페이지의 인덱스를 반환합니다.
+title: "PageCollection.IndexOf"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PageCollection 메서드. 지정된 페이지의 인덱스를 반환합니다"
 type: docs
 weight: 150
 url: /ko/net/aspose.pdf/pagecollection/indexof/
 ---
-## PageCollection.IndexOf 메서드
+## PageCollection.IndexOf method
 
 지정된 페이지의 인덱스를 반환합니다.
 
@@ -16,19 +16,21 @@ public int IndexOf(Page entity)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| entity | Page | 페이지 객체. 페이지 번호는 1부터 시작합니다. |
+| 엔터티 | 페이지 | Page 객체. 페이지 번호는 1부터 시작합니다. |
 
 ### 반환 값
 
-컬렉션에서 페이지의 인덱스.
+컬렉션 내 페이지 인덱스입니다.
 
 ## 비고
 
-페이지 번호는 1부터 시작합니다. 컬렉션에 페이지가 포함되어 있지 않은 경우 0을 반환합니다.
+페이지 번호는 1부터 시작합니다. 컬렉션에 페이지가 없으면 0을 반환합니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [Page](../../page/)
-* 클래스 [PageCollection](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

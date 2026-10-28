@@ -1,14 +1,14 @@
 ---
-title: OutputIntents.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: OutputIntents 메서드. 컬렉션에 특정 출력 의도가 포함되어 있는지 여부를 결정합니다.
+title: "OutputIntents.Contains"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "OutputIntents 메서드. 컬렉션에 특정 출력 의도가 포함되어 있는지 확인합니다."
 type: docs
 weight: 60
 url: /ko/net/aspose.pdf/outputintents/contains/
 ---
-## OutputIntents.Contains 메서드
+## OutputIntents.Contains method
 
-컬렉션에 특정 출력 의도가 포함되어 있는지 여부를 결정합니다.
+컬렉션에 특정 출력 의도가 포함되어 있는지 확인합니다.
 
 ```csharp
 public bool Contains(OutputIntent item)
@@ -20,11 +20,13 @@ public bool Contains(OutputIntent item)
 
 ### 반환 값
 
-`item`이 컬렉션에서 발견되면 `true`; 그렇지 않으면 `false`입니다.
+컬렉션에서 *item*을 찾으면 `true`; 그렇지 않으면 `false`.
 
-### 참조
+### 또 보기
 
-* 클래스 [OutputIntent](../../outputintent/)
-* 클래스 [OutputIntents](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [OutputIntent](../../outputintent/)
+* class [OutputIntents](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

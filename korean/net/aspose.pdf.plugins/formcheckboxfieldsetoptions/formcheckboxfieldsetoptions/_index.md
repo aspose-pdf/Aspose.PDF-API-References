@@ -1,21 +1,23 @@
 ---
-title: FormCheckBoxFieldSetOptions.FormCheckBoxFieldSetOptions
-second_title: Aspose.PDF for .NET API Reference
-description: FormCheckBoxFieldSetOptions 생성자. 기본 생성자
+title: "FormCheckBoxFieldSetOptions.FormCheckBoxFieldSetOptions"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FormCheckBoxFieldSetOptions 생성자. 기본 생성자"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.plugins/formcheckboxfieldsetoptions/formcheckboxfieldsetoptions/
 ---
-## FormCheckBoxFieldSetOptions 생성자
+## FormCheckBoxFieldSetOptions constructor
 
-기본 생성자입니다.
+기본 생성자.
 
 ```csharp
 public FormCheckBoxFieldSetOptions()
 ```
 
-### 참조
+### 또 보기
 
 * class [FormCheckBoxFieldSetOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

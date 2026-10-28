@@ -1,21 +1,23 @@
 ---
-title: OutlineItemCollection.Last
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineItemCollection 속성. 개요 계층에서 마지막 최상위 항목을 나타내는 개요 항목을 가져옵니다.
+title: "OutlineItemCollection.Last"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "OutlineItemCollection 속성. 개요 계층 구조에서 최상위 마지막 항목을 나타내는 개요 항목을 가져옵니다"
 type: docs
 weight: 130
 url: /ko/net/aspose.pdf/outlineitemcollection/last/
 ---
-## OutlineItemCollection.Last 속성
+## OutlineItemCollection.Last property
 
-개요 계층에서 마지막 최상위 항목을 나타내는 개요 항목을 가져옵니다.
+개요 계층 구조에서 마지막 최상위 항목을 나타내는 개요 항목을 가져옵니다.
 
 ```csharp
 public OutlineItemCollection Last { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [OutlineItemCollection](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class PdfToImageOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.PdfToImageOptions 클래스. PdfToImage 플러그인에 대한 옵션을 나타냅니다.
+title: "클래스 PdfToImageOptions"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Plugins.PdfToImageOptions 클래스. PdfToImage 플러그인을 위한 옵션을 나타냅니다"
 type: docs
-weight: 9130
+weight: 9280
 url: /ko/net/aspose.pdf.plugins/pdftoimageoptions/
 ---
-## PdfToImageOptions 클래스
+## PdfToImageOptions class
 
-[`PdfToImage`](../pdftoimage/) 플러그인에 대한 옵션을 나타냅니다.
+[`PdfToImage`](../pdftoimage/) 플러그인을 위한 옵션을 나타냅니다.
 
 ```csharp
 public abstract class PdfToImageOptions : IPluginOptions
@@ -30,9 +30,9 @@ public abstract class PdfToImageOptions : IPluginOptions
 | 이름 | 설명 |
 | --- | --- |
 | [AddInput](../../aspose.pdf.plugins/pdftoimageoptions/addinput/)(IDataSource) | [`PdfToImage`](../pdftoimage/) 플러그인 데이터 컬렉션에 새로운 데이터 소스를 추가합니다. |
-| [AddOutput](../../aspose.pdf.plugins/pdftoimageoptions/addoutput/)(IDataSource) | 새로운 저장 데이터 소스를 설정합니다. . 메모리 스트림에 이미지를 저장하려면 null을 매개변수로 전달하십시오. |
+| [AddOutput](../../aspose.pdf.plugins/pdftoimageoptions/addoutput/)(IDataSource) | 새 저장 데이터 소스를 설정합니다. 이는 .만 될 수 있습니다. 이미지를 메모리 스트림에 저장하려면 매개변수로 null을 전달하십시오. |
 
-## 기타 구성원
+## 기타 멤버
 
 | 이름 | 설명 |
 | --- | --- |
@@ -40,10 +40,12 @@ public abstract class PdfToImageOptions : IPluginOptions
 
 ## 비고
 
-PdfImageOptions 클래스는 입력 PDF 문서를 나타내는 데이터(파일, 스트림)를 추가하는 기본 기능을 포함합니다.
+PdfImageOptions 클래스는 입력 PDF 문서를 나타내는 데이터(파일, 스트림)를 추가하기 위한 기본 기능을 포함합니다.
 
-### 참조
+### 또 보기
 
 * interface [IPluginOptions](../ipluginoptions/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

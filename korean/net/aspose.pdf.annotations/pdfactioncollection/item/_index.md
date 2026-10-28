@@ -1,14 +1,14 @@
 ---
-title: PdfActionCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: PdfActionCollection 속성. 인덱스에 따라 액션을 가져옵니다.
+title: "PdfActionCollection.Item"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfActionCollection 속성. 인덱스로 작업을 가져옵니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.annotations/pdfactioncollection/item/
 ---
-## PdfActionCollection 인덱서
+## PdfActionCollection indexer
 
-인덱스에 따라 액션을 가져옵니다.
+인덱스로 작업을 가져옵니다.
 
 ```csharp
 public PdfAction this[int index] { get; }
@@ -16,15 +16,17 @@ public PdfAction this[int index] { get; }
 
 | 매개변수 | 설명 |
 | --- | --- |
-| index | 액션 인덱스 값. |
+| index | 작업 인덱스 값. |
 
 ### 반환 값
 
-찾으면 액션 인덱스; 그렇지 않으면 IndexOutOfRangeException을 발생시킵니다.
+작업 인덱스를 찾으면 반환하고, 그렇지 않으면 IndexOutOfRangeException을 발생시킵니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfAction](../../pdfaction/)
-* 클래스 [PdfActionCollection](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfAction](../../pdfaction/)
+* class [PdfActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

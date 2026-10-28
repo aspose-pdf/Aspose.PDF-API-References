@@ -1,14 +1,14 @@
 ---
-title: Enum LoadOptions.PageSizeAdjustmentModes
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LoadOptionsPageSizeAdjustmentModes 열거형. 주의 이 기능은 구현되었지만 샘플 문서에 대한 OSHARED 레이어에서 발견된 차단 문제로 인해 아직 공개 API에 포함되지 않았습니다. 변환 중 페이지 크기 사용 모드를 나타냅니다. HTML, EPUB 등과 같은 형식은 일반적으로 플로트 디자인을 가지고 있어 필요한 페이지 크기에 맞출 수 있습니다. 그러나 때때로 콘텐츠는 수평 위치나 크기를 지정하여 필요한 페이지 크기에 콘텐츠를 넣을 수 없게 합니다. 이러한 경우 콘텐츠의 크기가 결과 PDF 문서의 초기 페이지 크기에 맞지 않을 때 무엇을 해야 하는지를 정의할 수 있습니다.
+title: "열거형 LoadOptions.PageSizeAdjustmentModes"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.LoadOptionsPageSizeAdjustmentModes 열거형. ATTENTION 구현된 기능이지만 샘플 문서에서 OSHARED 레이어의 차단 이슈가 발견되어 아직 public API에 제공되지 않았습니다. 변환 중 page size 사용 모드를 나타냅니다. HTML, EPUB 등과 같은 형식은 일반적으로 플로트 디자인을 가지고 있어 필요한 페이지 크기에 맞출 수 있습니다. 그러나 때때로 콘텐츠가 수평 위치나 크기를 지정하여 필요한 페이지 크기에 맞추지 못하는 경우가 있습니다. 이런 경우, 즉 콘텐츠 크기가 결과 PDF 문서의 초기 페이지 크기에 맞지 않을 때 수행할 작업을 정의할 수 있습니다."
 type: docs
-weight: 6140
+weight: 6280
 url: /ko/net/aspose.pdf/loadoptions.pagesizeadjustmentmodes/
 ---
-## LoadOptions.PageSizeAdjustmentModes 열거형
+## LoadOptions.PageSizeAdjustmentModes enumeration
 
-주의! 이 기능은 구현되었지만 샘플 문서에 대한 OSHARED 레이어에서 발견된 차단 문제로 인해 아직 공개 API에 포함되지 않았습니다. 변환 중 페이지 크기 사용 모드를 나타냅니다. 형식(HTML, EPUB 등)은 일반적으로 플로트 디자인을 가지고 있어 필요한 페이지 크기에 맞출 수 있습니다. 그러나 때때로 콘텐츠는 수평 위치나 크기를 지정하여 필요한 페이지 크기에 콘텐츠를 넣을 수 없게 합니다. 이러한 경우 콘텐츠의 크기가 결과 PDF 문서의 초기 페이지 크기에 맞지 않을 때 무엇을 해야 하는지를 정의할 수 있습니다.
+ATTENTION! 구현된 기능이지만 샘플 문서에서 OSHARED 레이어의 차단 이슈가 발견되어 아직 public API에 제공되지 않았습니다. 변환 중 page size 사용 모드를 나타냅니다. HTML, EPUB 등과 같은 형식은 일반적으로 플로트 디자인을 가지고 있어 필요한 페이지 크기에 맞출 수 있습니다. 그러나 때때로 콘텐츠가 수평 위치나 크기를 지정하여 필요한 페이지 크기에 맞추지 못하는 경우가 있습니다. 이런 경우(예: 콘텐츠 크기가 결과 PDF 문서의 초기 페이지 크기에 맞지 않을 때) 수행할 작업을 정의할 수 있습니다.
 
 ```csharp
 public enum PageSizeAdjustmentModes
@@ -18,11 +18,13 @@ public enum PageSizeAdjustmentModes
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
-| NoAjustmentAllwaysUsePredefinedSize | `0` | 이 모드에서는 결과 페이지가 LoadOptions에 정의된 필요한 페이지 크기를 가지며, 변환 후 콘텐츠가 페이지 경계를 넘어가더라도 상관 없습니다. |
-| EnlargeRequiredViewportWidthAndDoConversionAgain | `1` | 이 모드는 다음과 같은 동작을 정의합니다: 변환 결과를 얻고 일부 콘텐츠가 잘렸다는 사실을 감지한 후, 콘텐츠에 맞추기 위해 포트뷰의 너비가 확장되고 변환이 반복됩니다. 이 모드는 이러한 경우 결과에서 페이지 수를 줄일 수 있지만 반복 렌더링(따라서 더 많은 처리 시간)이 필요합니다. |
+| NoAjustmentAllwaysUsePredefinedSize | `0` | 이 모드에서는 결과 pages가 LoadOptions에 정의된 필요한 페이지 크기를 갖게 되며, 변환 후 콘텐츠가 page 경계를 벗어나든 벗어나지 않든 관계없이 적용됩니다. |
+| EnlargeRequiredViewportWidthAndDoConversionAgain | `1` | 이 모드는 다음과 같은 동작을 정의합니다: 변환 결과를 얻은 후 일부 콘텐츠가 잘렸음을 감지하면, 포트뷰의 너비를 확대하여 콘텐츠에 맞추고 변환을 다시 수행합니다. 이 모드는 결과에서 페이지 수를 줄일 수 있지만, 반복 렌더링이 필요하므로 처리 시간이 더 많이 소요됩니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [LoadOptions](../loadoptions/)
-* 네임스페이스 [Aspose.Pdf](../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../)
+* class [LoadOptions](../loadoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

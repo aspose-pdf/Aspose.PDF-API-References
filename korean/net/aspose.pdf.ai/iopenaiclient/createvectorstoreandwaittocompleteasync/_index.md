@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.CreateVectorStoreAndWaitToCompleteAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IOpenAIClient 메서드. 새로운 벡터 저장소를 생성하고 비동기적으로 완료될 때까지 기다립니다.
+title: "IOpenAIClient.CreateVectorStoreAndWaitToCompleteAsync"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "IOpenAIClient 메서드. 새로운 벡터 스토어를 생성하고 비동기적으로 완료될 때까지 기다립니다."
 type: docs
 weight: 90
 url: /ko/net/aspose.pdf.ai/iopenaiclient/createvectorstoreandwaittocompleteasync/
 ---
-## IOpenAIClient.CreateVectorStoreAndWaitToCompleteAsync 메서드
+## IOpenAIClient.CreateVectorStoreAndWaitToCompleteAsync method
 
-새로운 벡터 저장소를 생성하고 비동기적으로 완료될 때까지 기다립니다.
+새 벡터 저장소를 생성하고 완료될 때까지 비동기적으로 기다립니다.
 
 ```csharp
 public Task<VectorStoreResponse> CreateVectorStoreAndWaitToCompleteAsync(
@@ -18,17 +18,19 @@ public Task<VectorStoreResponse> CreateVectorStoreAndWaitToCompleteAsync(
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| vectorStoreCreateRequest | VectorStoreCreateRequest | 벡터 저장소 생성을 위한 세부 정보를 포함하는 요청 객체입니다. |
+| vectorStoreCreateRequest | VectorStoreCreateRequest | 벡터 스토어 생성을 위한 세부 정보를 포함하는 요청 객체입니다. |
 | cancellationToken | Nullable`1 | 작업을 취소하기 위한 토큰입니다. |
 
 ### 반환 값
 
-비동기 작업을 나타내는 태스크입니다. 태스크 결과는 완료 후 벡터 저장소 생성의 응답을 포함합니다.
+비동기 작업을 나타내는 작업입니다. 작업 결과에는 완료 후 벡터 저장소 생성에 대한 응답이 포함됩니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [VectorStoreResponse](../../vectorstoreresponse/)
-* 클래스 [VectorStoreCreateRequest](../../vectorstorecreaterequest/)
-* 인터페이스 [IOpenAIClient](../)
-* 네임스페이스 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [VectorStoreResponse](../../vectorstoreresponse/)
+* class [VectorStoreCreateRequest](../../vectorstorecreaterequest/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

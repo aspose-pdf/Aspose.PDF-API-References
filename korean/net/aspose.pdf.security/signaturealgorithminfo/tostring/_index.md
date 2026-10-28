@@ -1,12 +1,12 @@
 ---
-title: SignatureAlgorithmInfo.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: SignatureAlgorithmInfo 메서드. 현재 정보 객체를 문자열 표현으로 변환합니다.
+title: "SignatureAlgorithmInfo.ToString"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "SignatureAlgorithmInfo 메서드. 현재 정보 객체를 문자열 표현으로 변환합니다."
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf.security/signaturealgorithminfo/tostring/
 ---
-## SignatureAlgorithmInfo.ToString 메서드
+## SignatureAlgorithmInfo.ToString method
 
 현재 정보 객체를 문자열 표현으로 변환합니다.
 
@@ -18,8 +18,10 @@ public override string ToString()
 
 현재 정보 객체를 나타내는 문자열입니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [SignatureAlgorithmInfo](../)
-* 네임스페이스 [Aspose.Pdf.Security](../../../aspose.pdf.security/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [SignatureAlgorithmInfo](../)
+* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../../)
+
+

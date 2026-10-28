@@ -1,14 +1,14 @@
 ---
-title: FormEditor.RadioHoriz
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor 속성. 라디오 버튼이 수평 또는 수직으로 배열되는지를 나타내는 플래그, 기본값은 true
+title: "FormEditor.RadioHoriz"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FormEditor 속성. 라디오가 가로로 배열되는지 세로로 배열되는지를 나타내는 플래그이며 기본값은 true입니다."
 type: docs
 weight: 80
 url: /ko/net/aspose.pdf.facades/formeditor/radiohoriz/
 ---
-## FormEditor.RadioHoriz 속성
+## FormEditor.RadioHoriz property
 
-라디오 버튼이 수평 또는 수직으로 배열되는지를 나타내는 플래그, 기본값은 true입니다.
+라디오 버튼이 가로로 배열되는지 세로로 배열되는지를 나타내는 플래그이며, 기본값은 true입니다.
 
 ```csharp
 public bool RadioHoriz { get; set; }
@@ -25,8 +25,10 @@ formEditor.AddField(FieldType.Radio, "AddedRadioButtonField", "Second", 1, 10, 3
 formEditor.Save();
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [FormEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

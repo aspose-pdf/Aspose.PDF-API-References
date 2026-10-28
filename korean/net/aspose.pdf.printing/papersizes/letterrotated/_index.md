@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.LetterRotated
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes 필드. 회전된 편지 용지 11 인치 x 8.5 인치
+title: "PaperSizes.LetterRotated"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PaperSizes 필드. 레터 회전 용지 11인치 x 8.5인치"
 type: docs
 weight: 690
 url: /ko/net/aspose.pdf.printing/papersizes/letterrotated/
 ---
-## PaperSizes.LetterRotated 필드
+## PaperSizes.LetterRotated field
 
-회전된 편지 용지 (11 인치 x 8.5 인치).
+Letter 회전 용지 (11 인치 × 8.5 인치).
 
 ```csharp
 public static readonly PaperSize LetterRotated;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PaperSize](../../papersize/)
-* 클래스 [PaperSizes](../)
-* 네임스페이스 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.SplitFromFirst
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor 메서드. Pdf 파일을 첫 페이지에서 지정된 위치로 분할하고 앞부분을 새 파일로 저장합니다.
+title: "PdfFileEditor.SplitFromFirst"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfFileEditor 메서드. PDF 파일을 첫 페이지부터 지정된 위치까지 분할하고 앞부분을 새 파일로 저장합니다"
 type: docs
 weight: 340
 url: /ko/net/aspose.pdf.facades/pdffileeditor/splitfromfirst/
 ---
 ## SplitFromFirst(string, int, string) {#splitfromfirst_1}
 
-Pdf 파일을 첫 페이지에서 지정된 위치로 분할하고, 앞부분을 새 파일로 저장합니다.
+첫 페이지부터 지정된 위치까지 Pdf 파일을 분할하고, 앞부분을 새 파일로 저장합니다.
 
 ```csharp
 public bool SplitFromFirst(string inputFile, int location, string outputFile)
@@ -17,12 +17,12 @@ public bool SplitFromFirst(string inputFile, int location, string outputFile)
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | inputFile | String | 원본 Pdf 파일. |
-| location | Int32 | 분할 지점. |
+| 위치 | Int32 | 분할 지점. |
 | outputFile | String | 출력 Pdf 파일. |
 
 ### 반환 값
 
-성공 시 true, 실패 시 false.
+성공이면 true, 그렇지 않으면 false.
 
 ## 예제
 
@@ -31,17 +31,17 @@ PdfFileEditor pfe = new PdfFileEditor();
 pfe.SplitFromFirst("input.pdf", 5, "out.pdf");
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfFileEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SplitFromFirst(Stream, int, Stream) {#splitfromfirst}
 
-시작에서 지정된 위치로 분할하고, 앞부분을 출력 스트림에 저장합니다.
+시작 위치에서 지정된 위치까지 분할하고, 앞부분을 출력 Stream에 저장합니다.
 
 ```csharp
 public bool SplitFromFirst(Stream inputStream, int location, Stream outputStream)
@@ -50,16 +50,16 @@ public bool SplitFromFirst(Stream inputStream, int location, Stream outputStream
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | inputStream | Stream | 원본 Pdf 파일 스트림. |
-| location | Int32 | 분할 지점. |
+| 위치 | Int32 | 분할 지점. |
 | outputStream | Stream | 출력 파일 스트림. |
 
 ### 반환 값
 
-성공 시 true, 실패 시 false.
+성공이면 true, 그렇지 않으면 false.
 
 ## 비고
 
-이 작업 후 스트림은 닫히지 않습니다.
+이 작업 후에 스트림은 닫히지 않습니다.
 
 ## 예제
 
@@ -70,8 +70,10 @@ Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
 pfe.SplitFromFirst(sourceStream, 5, outStream);
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfFileEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

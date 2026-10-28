@@ -1,12 +1,12 @@
 ---
-title: BoundsCheckableList1.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: BoundsCheckableList 속성. 컬렉션이 읽기 전용인지 여부를 나타내는 값을 가져옵니다.
+title: "BoundsCheckableList1.IsReadOnly"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "BoundsCheckableList 속성. 컬렉션이 읽기 전용인지 여부를 나타내는 값을 가져옵니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.generator/boundscheckablelist-1/isreadonly/
 ---
-## BoundsCheckableList&lt;T&gt;.IsReadOnly 속성
+## BoundsCheckableList&lt;T&gt;.IsReadOnly property
 
 컬렉션이 읽기 전용인지 여부를 나타내는 값을 가져옵니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.generator/boundscheckablelist-1/isreadonly/
 public bool IsReadOnly { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [BoundsCheckableList&lt;T&gt;](../)
-* 네임스페이스 [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [BoundsCheckableList&lt;T&gt;](../)
+* namespace [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
+* assembly [Aspose.PDF](../../../)
+
+

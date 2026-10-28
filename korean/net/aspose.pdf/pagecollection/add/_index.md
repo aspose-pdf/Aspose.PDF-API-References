@@ -1,7 +1,7 @@
 ---
-title: PageCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: PageCollection 메서드. 페이지를 컬렉션에 추가합니다.
+title: "PageCollection.Add"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PageCollection 메서드. 페이지를 컬렉션에 추가합니다"
 type: docs
 weight: 70
 url: /ko/net/aspose.pdf/pagecollection/add/
@@ -14,15 +14,15 @@ url: /ko/net/aspose.pdf/pagecollection/add/
 public Page Add(Page entity)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| entity | Page | 추가해야 할 페이지입니다. |
+| 엔터티 | 페이지 | 추가될 페이지. |
 
-### Return Value
+### 반환 값
 
-추가된 페이지입니다.
+추가된 페이지.
 
-### See Also
+### 또 보기
 
 * class [Page](../../page/)
 * class [PageCollection](../)
@@ -33,17 +33,17 @@ public Page Add(Page entity)
 
 ## Add() {#add}
 
-빈 페이지를 추가합니다. 문서에 이미 다양한 크기의 페이지가 포함되어 있는 경우, 가장 자주 발생하는 페이지의 크기가 선택됩니다. 두 개의 서로 다른 페이지만 있는 경우, 첫 번째 페이지의 크기가 사용됩니다.
+빈 페이지를 추가합니다. 문서에 크기가 다른 페이지가 이미 포함되어 있는 경우, 가장 많이 나타나는 페이지의 크기가 선택됩니다. 두 종류의 페이지만 있는 경우, 첫 번째 페이지의 크기가 사용됩니다.
 
 ```csharp
 public Page Add()
 ```
 
-### Return Value
+### 반환 값
 
-추가된 페이지입니다.
+추가된 페이지.
 
-### See Also
+### 또 보기
 
 * class [Page](../../page/)
 * class [PageCollection](../)
@@ -60,11 +60,11 @@ public Page Add()
 public void Add(ICollection<Page> pages)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| pages | ICollection`1 | 추가해야 할 모든 페이지를 포함하는 목록입니다. |
+| 페이지 | ICollection`1 | 추가되어야 하는 모든 페이지를 포함하는 리스트. |
 
-### See Also
+### 또 보기
 
 * class [Page](../../page/)
 * class [PageCollection](../)
@@ -81,13 +81,15 @@ public void Add(ICollection<Page> pages)
 public void Add(Page[] pages)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| pages | Page[] | 추가될 페이지의 배열입니다. |
+| 페이지 | Page[] | 추가될 페이지 배열. |
 
-### See Also
+### 또 보기
 
 * class [Page](../../page/)
 * class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

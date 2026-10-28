@@ -1,21 +1,23 @@
 ---
-title: ElementList.Count
-second_title: Aspose.PDF for .NET API Reference
-description: ElementList 속성. ElementList의 요소 수를 가져옵니다.
+title: "ElementList.Count"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ElementList 속성. ElementList에 포함된 요소의 수를 가져옵니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.logicalstructure/elementlist/count/
 ---
-## ElementList.Count 속성
+## ElementList.Count property
 
-ElementList의 요소 수를 가져옵니다.
+ElementList의 요소 개수를 가져옵니다.
 
 ```csharp
 public abstract int Count { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [ElementList](../)
-* 네임스페이스 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [ElementList](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

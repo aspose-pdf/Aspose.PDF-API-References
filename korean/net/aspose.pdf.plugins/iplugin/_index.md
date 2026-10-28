@@ -1,14 +1,14 @@
 ---
-title: Interface IPlugin
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.IPlugin 인터페이스. 구체적인 플러그인이 구현해야 하는 일반 플러그인 인터페이스입니다.
+title: "인터페이스 IPlugin"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Plugins.IPlugin 인터페이스. 구체적인 플러그인이 구현해야 하는 공통 메서드를 정의하는 일반 플러그인 인터페이스입니다"
 type: docs
-weight: 8860
+weight: 8990
 url: /ko/net/aspose.pdf.plugins/iplugin/
 ---
-## IPlugin 인터페이스
+## IPlugin interface
 
-구체적인 플러그인이 구현해야 하는 일반 플러그인 인터페이스입니다.
+구체적인 플러그인이 구현해야 하는 공통 메서드를 정의하는 일반 플러그인 인터페이스.
 
 ```csharp
 public interface IPlugin
@@ -18,9 +18,11 @@ public interface IPlugin
 
 | 이름 | 설명 |
 | --- | --- |
-| [Process](../../aspose.pdf.plugins/iplugin/process/)(IPluginOptions) | 정의된 옵션으로 프로세스를 처리하는 플러그인에 대한 요금 부과 |
+| [Process](../../aspose.pdf.plugins/iplugin/process/)(IPluginOptions) | 정의된 옵션으로 플러그인을 처리합니다 |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

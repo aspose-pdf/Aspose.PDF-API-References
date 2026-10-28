@@ -1,35 +1,37 @@
 ---
-title: Class PageRange
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PageRange 클래스. 헤더 및 푸터 설정을 위한 페이지 범위를 나타냅니다.
+title: "클래스 PageRange"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.PageRange 클래스. 머리글 및 바닥글 설정을 위한 페이지 범위를 나타냅니다."
 type: docs
-weight: 8240
+weight: 8380
 url: /ko/net/aspose.pdf/pagerange/
 ---
 ## PageRange class
 
-헤더 및 푸터 설정을 위한 페이지 범위를 나타냅니다.
+머리글 및 바닥글 설정을 위한 페이지 범위를 나타냅니다.
 
 ```csharp
 public sealed class PageRange
 ```
 
-## Constructors
+## 생성자
 
-| Name | Description |
+| 이름 | 설명 |
 | --- | --- |
-| [PageRange](pagerange/)() | 기본 생성자입니다. |
+| [PageRange](pagerange/)() | 기본 생성자. |
 
-## Properties
+## 속성
 
-| Name | Description |
+| 이름 | 설명 |
 | --- | --- |
-| [End](../../aspose.pdf/pagerange/end/) { get; set; } | 종료 페이지 번호를 가져오거나 설정합니다. |
-| [Even](../../aspose.pdf/pagerange/even/) { get; set; } | 짝수 페이지에 대한 설정을 가져오거나 설정합니다. |
-| [Odd](../../aspose.pdf/pagerange/odd/) { get; set; } | 홀수 페이지에 대한 설정을 가져오거나 설정합니다. |
+| [End](../../aspose.pdf/pagerange/end/) { get; set; } | 끝 페이지 번호를 가져오거나 설정합니다. |
+| [Even](../../aspose.pdf/pagerange/even/) { get; set; } | 짝수 페이지 설정을 가져오거나 설정합니다. |
+| [Odd](../../aspose.pdf/pagerange/odd/) { get; set; } | 홀수 페이지 설정을 가져오거나 설정합니다. |
 | [Start](../../aspose.pdf/pagerange/start/) { get; set; } | 시작 페이지 번호를 가져오거나 설정합니다. |
 
-### See Also
+### 또 보기
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

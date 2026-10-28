@@ -1,14 +1,14 @@
 ---
-title: ISummaryCopilot.SaveSummaryAsync
-second_title: Aspose.PDF for .NET API Reference
-description: ISummaryCopilot 메서드. 요약을 PDF 파일로 비동기적으로 저장합니다.
+title: "ISummaryCopilot.SaveSummaryAsync"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ISummaryCopilot 메서드. 비동기적으로 요약을 PDF 파일에 저장합니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.ai/isummarycopilot/savesummaryasync/
 ---
 ## SaveSummaryAsync(string, CancellationToken?) {#savesummaryasync_1}
 
-요약을 PDF 파일로 비동기적으로 저장합니다.
+요약을 PDF 파일에 비동기적으로 저장합니다.
 
 ```csharp
 public Task SaveSummaryAsync(string outputFileName, CancellationToken? cancellationToken = default)
@@ -16,24 +16,24 @@ public Task SaveSummaryAsync(string outputFileName, CancellationToken? cancellat
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| outputFileName | String | 요약을 저장할 출력 파일의 이름입니다. |
-| cancellationToken | Nullable`1 | 취소 토큰(선택 사항)입니다. |
+| outputFileName | String | 요약을 저장할 출력 파일의 이름. |
+| cancellationToken | Nullable`1 | 취소 토큰(선택 사항). |
 
 ### 반환 값
 
-비동기 작업을 나타내는 작업입니다.
+비동기 작업을 나타내는 Task.
 
-### 참조
+### 또 보기
 
-* 인터페이스 [ISummaryCopilot](../)
-* 네임스페이스 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../../)
+* interface [ISummaryCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SaveSummaryAsync(string, SaveFormat, CancellationToken?) {#savesummaryasync}
 
-지정된 형식으로 파일에 요약을 비동기적으로 저장합니다.
+요약을 지정된 형식의 파일에 비동기적으로 저장합니다.
 
 ```csharp
 public Task SaveSummaryAsync(string outputFileName, SaveFormat saveFormat, 
@@ -42,17 +42,19 @@ public Task SaveSummaryAsync(string outputFileName, SaveFormat saveFormat,
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| outputFileName | String | 요약을 저장할 출력 파일의 이름입니다. |
-| saveFormat | SaveFormat | 요약을 저장할 형식입니다. |
-| cancellationToken | Nullable`1 | 취소 토큰(선택 사항)입니다. |
+| outputFileName | String | 요약을 저장할 출력 파일의 이름. |
+| saveFormat | SaveFormat | 요약을 저장할 형식. |
+| cancellationToken | Nullable`1 | 취소 토큰(선택 사항). |
 
 ### 반환 값
 
-비동기 작업을 나타내는 작업입니다.
+비동기 작업을 나타내는 Task.
 
-### 참조
+### 또 보기
 
-* 열거형 [SaveFormat](../../../aspose.pdf/saveformat/)
-* 인터페이스 [ISummaryCopilot](../)
-* 네임스페이스 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../../)
+* enum [SaveFormat](../../../aspose.pdf/saveformat/)
+* interface [ISummaryCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: DestinationCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: DestinationCollection 속성. 인덱스로 목적지 객체를 가져옵니다.
+title: "DestinationCollection.Item"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "DestinationCollection 속성. 인덱스로 목적지 객체를 가져옵니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf/destinationcollection/item/
 ---
-## DestinationCollection 인덱서
+## DestinationCollection indexer
 
 인덱스로 목적지 객체를 가져옵니다.
 
@@ -20,10 +20,12 @@ public KeyValuePair<string, object> this[int index] { get; }
 
 ### 반환 값
 
-목적지.
+Destination.
 
-### 참조
+### 또 보기
 
-* 클래스 [DestinationCollection](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [DestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

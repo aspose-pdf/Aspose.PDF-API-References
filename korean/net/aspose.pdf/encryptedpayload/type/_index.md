@@ -1,12 +1,12 @@
 ---
-title: EncryptedPayload.Type
-second_title: Aspose.PDF for .NET API Reference
-description: EncryptedPayload 속성. 유형을 가져옵니다.
+title: "EncryptedPayload.Type"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "EncryptedPayload 속성. 유형을 가져옵니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf/encryptedpayload/type/
 ---
-## EncryptedPayload.Type 속성
+## EncryptedPayload.Type property
 
 유형을 가져옵니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf/encryptedpayload/type/
 public string Type { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [EncryptedPayload](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [EncryptedPayload](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

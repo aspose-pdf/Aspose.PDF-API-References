@@ -1,21 +1,23 @@
 ---
-title: TextStyle.FontName
-second_title: Aspose.PDF for .NET API Reference
-description: TextStyle 속성. 글꼴의 이름
+title: "TextStyle.FontName"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TextStyle 속성. 글꼴 이름"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.annotations/textstyle/fontname/
 ---
-## TextStyle.FontName 속성
+## TextStyle.FontName property
 
-글꼴의 이름.
+글꼴 이름.
 
 ```csharp
 public string FontName { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [TextStyle](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TextStyle](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

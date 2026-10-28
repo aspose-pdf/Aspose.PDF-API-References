@@ -1,7 +1,7 @@
 ---
-title: FreeTextAnnotation.FreeTextAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: FreeTextAnnotation 생성자. Generator와 함께 사용할 생성자
+title: "FreeTextAnnotation.FreeTextAnnotation"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FreeTextAnnotation 생성자. Generator와 함께 사용할 생성자"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.annotations/freetextannotation/freetextannotation/
@@ -16,10 +16,10 @@ public FreeTextAnnotation(Document document, DefaultAppearance appearance)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| document | Document | 주석이 생성될 문서. |
-| appearance | DefaultAppearance | 기본 모양 |
+| document | Document | Document에서 주석이 생성될 위치. |
+| 모양 | DefaultAppearance | 기본 모양 |
 
-### 참조
+### 또 보기
 
 * class [Document](../../../aspose.pdf/document/)
 * class [DefaultAppearance](../../defaultappearance/)
@@ -31,7 +31,7 @@ public FreeTextAnnotation(Document document, DefaultAppearance appearance)
 
 ## FreeTextAnnotation(Page, Rectangle, DefaultAppearance) {#constructor_1}
 
-지정된 페이지에 새로운 FreeText 주석을 생성합니다.
+지정된 Page에 새로운 FreeText 주석을 생성합니다.
 
 ```csharp
 public FreeTextAnnotation(Page page, Rectangle rect, DefaultAppearance appearance)
@@ -39,11 +39,11 @@ public FreeTextAnnotation(Page page, Rectangle rect, DefaultAppearance appearanc
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| page | Page | 주석이 생성될 문서의 페이지. |
-| rect | Rectangle | 페이지에서 주석의 위치를 정의하는 주석 사각형. |
-| appearance | DefaultAppearance | 텍스트 형식에 사용될 기본 모양. |
+| 페이지 | 페이지 | 문서의 Page에서 주석을 생성해야 합니다. |
+| rect | Rectangle | Annotation rectangle는 페이지에서 주석의 위치를 정의합니다. |
+| 모양 | DefaultAppearance | 텍스트 형식 지정에 사용할 기본 모양. |
 
-### 참조
+### 또 보기
 
 * class [Page](../../../aspose.pdf/page/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
@@ -51,3 +51,5 @@ public FreeTextAnnotation(Page page, Rectangle rect, DefaultAppearance appearanc
 * class [FreeTextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

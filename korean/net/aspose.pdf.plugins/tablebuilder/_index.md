@@ -1,12 +1,12 @@
 ---
-title: Class TableBuilder
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.TableBuilder 클래스. 클래스는 PDF 페이지의 테이블 빌더를 나타냅니다.
+title: "클래스 TableBuilder"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Plugins.TableBuilder 클래스. pdf 페이지에서 표를 만들기 위한 빌더를 나타내는 클래스입니다."
 type: docs
-weight: 9330
+weight: 9480
 url: /ko/net/aspose.pdf.plugins/tablebuilder/
 ---
-## TableBuilder 클래스
+## TableBuilder class
 
 클래스는 PDF 페이지의 테이블 빌더를 나타냅니다.
 
@@ -18,13 +18,15 @@ public class TableBuilder
 
 | 이름 | 설명 |
 | --- | --- |
-| virtual [AddRow](../../aspose.pdf.plugins/tablebuilder/addrow/)() | 테이블에 새 행을 추가합니다. |
+| virtual [AddRow](../../aspose.pdf.plugins/tablebuilder/addrow/)() | 표에 새 행을 추가합니다. |
 | [AddTable](../../aspose.pdf.plugins/tablebuilder/addtable/)() | 문서에 새 테이블을 추가합니다. |
 | [InsertPageAfter](../../aspose.pdf.plugins/tablebuilder/insertpageafter/)(int) | 지정된 페이지 뒤에 페이지를 삽입합니다. |
 | [InsertPageBefore](../../aspose.pdf.plugins/tablebuilder/insertpagebefore/)(int) | 지정된 페이지 앞에 페이지를 삽입합니다. |
-| [implicit operator](../../aspose.pdf.plugins/tablebuilder/op_implicit/) | 빌더 `TableBuilder`를 옵션 [`TableOptions`](../tableoptions/)으로 변환합니다. |
+| [implicit operator](../../aspose.pdf.plugins/tablebuilder/op_implicit/) | `TableBuilder` 빌더를 옵션인 [`TableOptions`](../tableoptions/) 로 변환합니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

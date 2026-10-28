@@ -1,21 +1,23 @@
 ---
-title: DocumentPrivilege.AllowAssembly
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentPrivilege 속성. 어셈블리를 허용할지 여부에 대한 권한을 설정합니다. true는 허용하고 false는 금지입니다.
+title: "DocumentPrivilege.AllowAssembly"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "DocumentPrivilege 속성. 어셈블리 허용 여부를 설정합니다. true는 허용, false는 금지합니다."
 type: docs
 weight: 110
 url: /ko/net/aspose.pdf.facades/documentprivilege/allowassembly/
 ---
-## DocumentPrivilege.AllowAssembly 속성
+## DocumentPrivilege.AllowAssembly property
 
-어셈블리를 허용할지 여부에 대한 권한을 설정합니다. true는 허용하고 false는 금지입니다.
+조립을 허용할지 여부를 설정합니다. true는 허용, false는 금지입니다.
 
 ```csharp
 public bool AllowAssembly { get; set; }
 ```
 
-### 참조
+### 또 보기
 
 * class [DocumentPrivilege](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

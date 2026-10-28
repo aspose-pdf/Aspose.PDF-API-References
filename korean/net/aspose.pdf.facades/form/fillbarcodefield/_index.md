@@ -1,14 +1,14 @@
 ---
-title: Form.FillBarcodeField
-second_title: Aspose.PDF for .NET API Reference
-description: Form 메서드. 완전한 필드 이름에 따라 바코드 필드를 채웁니다.
+title: "Form.FillBarcodeField"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Form 메서드. 바코드 필드를 전체 지정된 필드 이름에 따라 채웁니다."
 type: docs
 weight: 120
 url: /ko/net/aspose.pdf.facades/form/fillbarcodefield/
 ---
-## Form.FillBarcodeField 메서드
+## Form.FillBarcodeField method
 
-완전한 필드 이름에 따라 바코드 필드를 채웁니다.
+전체 한정 필드 이름에 따라 바코드 필드를 채웁니다.
 
 ```csharp
 public bool FillBarcodeField(string fieldName, string data)
@@ -16,8 +16,8 @@ public bool FillBarcodeField(string fieldName, string data)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| fieldName | String | 완전한 필드 이름입니다. |
-| data | String | 새로운 바코드 값입니다. |
+| fieldName | String | 전체 한정된 필드 이름. |
+| data | String | 새 바코드 값입니다. |
 
 ### 반환 값
 
@@ -30,8 +30,10 @@ Form form = new Form("PdfForm.pdf");
 form.FillBarcodeField("textField", "42207252");
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Form](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

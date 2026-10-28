@@ -1,14 +1,14 @@
 ---
-title: Class PdfAConverter
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.PdfAConverter 클래스. PDF/A 형식으로 PDF 문서의 변환을 처리하고 PDF/A 적합성을 검증하는 플러그인을 나타냅니다.
+title: "클래스 PdfAConverter"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Plugins.PdfAConverter 클래스. PDF 문서를 PDF/A 형식으로 변환하고 PDF/A 적합성을 검증하는 플러그인을 나타냅니다."
 type: docs
-weight: 9000
+weight: 9150
 url: /ko/net/aspose.pdf.plugins/pdfaconverter/
 ---
-## PdfAConverter 클래스
+## PdfAConverter class
 
-PDF/A 형식으로 PDF 문서의 변환을 처리하고 PDF/A 적합성을 검증하는 플러그인을 나타냅니다.
+PDF 문서를 PDF/A 형식으로 변환하고 PDF/A 적합성을 검증하는 플러그인을 나타냅니다.
 
 ```csharp
 public sealed class PdfAConverter : IPlugin
@@ -18,7 +18,7 @@ public sealed class PdfAConverter : IPlugin
 
 | 이름 | 설명 |
 | --- | --- |
-| [PdfAConverter](pdfaconverter/)() | 기본 생성자입니다. |
+| [PdfAConverter](pdfaconverter/)() | 기본 생성자. |
 
 ## 메서드
 
@@ -28,27 +28,27 @@ public sealed class PdfAConverter : IPlugin
 
 ## 예제
 
-이 예제는 PDF 문서가 PDF/A 형식(PDF/A-1a인 경우)에 적합한지 검증하는 방법을 보여줍니다:
+이 예제는 PDF 문서가 PDF/A 형식(PDF/A-1a) 준수를 검증하는 방법을 보여줍니다:
 
 ```csharp
-// Create the options class to set up the validation process
+// 검증 프로세스를 설정하기 위해 옵션 클래스를 생성합니다
 var options = new PdfAValidateOptions
 {
     PdfAVersion = PdfAStandardVersion.PDF_A_1A
 };
 
-// Add one or more files to be validated
+// 검증할 하나 이상의 파일을 추가합니다
 options.AddInput(new FileDataSource("path_to_your_first_pdf_file.pdf")); // replace with your actual file path
 options.AddInput(new FileDataSource("path_to_your_second_pdf_file.pdf"));
-// add more files as needed
+// 필요에 따라 파일을 더 추가합니다
 
-// Create the plugin instance
+// 플러그인 인스턴스를 생성합니다
 var plugin = new PdfAConverter();
 
-// Run the validation and get results
+// 검증을 실행하고 결과를 가져옵니다
 var resultContainer = plugin.Process(options);
 
-// Check the resultContainer.ResultCollection property for validation results for each file:
+// 각 파일에 대한 검증 결과는 resultContainer.ResultCollection 속성을 확인하십시오:
 for (var i = 0; i < resultContainer.ResultCollection.Count; i++)
 {
     var result = resultContainer.ResultCollection[i];
@@ -57,30 +57,32 @@ for (var i = 0; i < resultContainer.ResultCollection.Count; i++)
 }
 ```
 
-이 예제는 PDF 문서를 PDF/A 형식(PDF/A-3b인 경우)으로 변환하는 방법을 보여줍니다:
+이 예제는 PDF 문서를 PDF/A 형식(PDF/A-3b)으로 변환하는 방법을 보여줍니다:
 
 ```csharp
-// Create the options class to set up the conversion process
+// 변환 프로세스를 설정하기 위해 옵션 클래스를 생성합니다
 var options = new PdfAConvertOptions
 {
     PdfAVersion = PdfAStandardVersion.PDF_A_3B
 };
 
-// Add the source file
+// 소스 파일을 추가합니다
 options.AddInput(new FileDataSource("path_to_your_pdf_file.pdf")); // replace with your actual file path
 
-// Add the path to save the converted file
+// 변환된 파일을 저장할 경로를 추가합니다
 options.AddOutput(new FileDataSource("path_to_the_converted_file.pdf"));
 
-// Create the plugin instance
+// 플러그인 인스턴스를 생성합니다
 var plugin = new PdfAConverter();
 
-// Run the conversion
+// 변환을 실행합니다
 plugin.Process(options);
 ```
 
-### 참조
+### 또 보기
 
-* 인터페이스 [IPlugin](../iplugin/)
-* 네임스페이스 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* 어셈블리 [Aspose.PDF](../../)
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

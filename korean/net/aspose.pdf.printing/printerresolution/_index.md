@@ -1,9 +1,9 @@
 ---
-title: Class PrinterResolution
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Printing.PrinterResolution 클래스. 프린터가 지원하는 해상도를 나타냅니다.
+title: "클래스 PrinterResolution"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Printing.PrinterResolution 클래스. 프린터에서 지원하는 해상도를 나타냅니다."
 type: docs
-weight: 9660
+weight: 9810
 url: /ko/net/aspose.pdf.printing/printerresolution/
 ---
 ## PrinterResolution class
@@ -14,27 +14,29 @@ url: /ko/net/aspose.pdf.printing/printerresolution/
 public class PrinterResolution
 ```
 
-## Constructors
+## 생성자
 
-| Name | Description |
+| 이름 | 설명 |
 | --- | --- |
-| [PrinterResolution](printerresolution/)() | 기본 속성으로 `PrinterResolution` 클래스의 새 인스턴스를 초기화합니다. |
+| [PrinterResolution](printerresolution/)() | `PrinterResolution` 클래스의 새 인스턴스를 기본 속성으로 초기화합니다. |
 
-## Properties
+## 속성
 
-| Name | Description |
+| 이름 | 설명 |
 | --- | --- |
-| [Kind](../../aspose.pdf.printing/printerresolution/kind/) { get; set; } | 프린터 해상도의 종류를 나타내는 값을 가져옵니다. |
-| [X](../../aspose.pdf.printing/printerresolution/x/) { get; set; } | 수평 방향의 프린터 해상도를 인치당 도트 수로 가져옵니다. |
-| [Y](../../aspose.pdf.printing/printerresolution/y/) { get; set; } | 수직 방향의 프린터 해상도를 인치당 도트 수로 가져옵니다. |
+| [Kind](../../aspose.pdf.printing/printerresolution/kind/) { get; set; } | 프린터 해상도 종류를 나타내는 값을 가져옵니다. |
+| [X](../../aspose.pdf.printing/printerresolution/x/) { get; set; } | 가로 방향의 프린터 해상도를 인치당 도트(dpi) 단위로 가져옵니다. |
+| [Y](../../aspose.pdf.printing/printerresolution/y/) { get; set; } | 세로 방향의 프린터 해상도를 인치당 도트(dpi) 단위로 가져옵니다. |
 
-## Methods
+## 메서드
 
-| Name | Description |
+| 이름 | 설명 |
 | --- | --- |
 | override [ToString](../../aspose.pdf.printing/printerresolution/tostring/)() | PrinterResolution에 대한 흥미로운 정보를 문자열 형태로 제공합니다. |
 
-### See Also
+### 또 보기
 
 * namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../)
+
+

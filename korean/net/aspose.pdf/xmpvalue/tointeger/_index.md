@@ -1,12 +1,12 @@
 ---
-title: XmpValue.ToInteger
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue 메서드. 정수로 변환
+title: "XmpValue.ToInteger"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "XmpValue 메서드. 정수로 변환합니다."
 type: docs
 weight: 170
 url: /ko/net/aspose.pdf/xmpvalue/tointeger/
 ---
-## XmpValue.ToInteger 메서드
+## XmpValue.ToInteger method
 
 정수로 변환합니다.
 
@@ -18,8 +18,10 @@ public int ToInteger()
 
 정수 값.
 
-### 참조
+### 또 보기
 
-* 클래스 [XmpValue](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

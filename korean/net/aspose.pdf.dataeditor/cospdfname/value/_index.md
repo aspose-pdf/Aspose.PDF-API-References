@@ -1,12 +1,12 @@
 ---
-title: CosPdfName.Value
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfName 속성. 값을 가져옵니다
+title: "CosPdfName.Value"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "CosPdfName 속성. 값을 가져옵니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.dataeditor/cospdfname/value/
 ---
-## CosPdfName.Value 속성
+## CosPdfName.Value property
 
 값을 가져옵니다.
 
@@ -14,12 +14,14 @@ url: /ko/net/aspose.pdf.dataeditor/cospdfname/value/
 public string Value { get; }
 ```
 
-### 속성 값
+### Property Value
 
-값입니다.
+값.
 
-### 참조
+### 또 보기
 
-* 클래스 [CosPdfName](../)
-* 네임스페이스 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [CosPdfName](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

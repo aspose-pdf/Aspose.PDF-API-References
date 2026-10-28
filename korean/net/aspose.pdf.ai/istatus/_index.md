@@ -1,12 +1,12 @@
 ---
-title: Interface IStatus
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.IStatus 인터페이스. 작업의 상태를 나타냅니다.
+title: "IStatus 인터페이스"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.AI.IStatus 인터페이스. 작업의 상태를 나타냅니다."
 type: docs
-weight: 560
+weight: 610
 url: /ko/net/aspose.pdf.ai/istatus/
 ---
-## IStatus 인터페이스
+## IStatus interface
 
 작업의 상태를 나타냅니다.
 
@@ -20,7 +20,9 @@ public interface IStatus
 | --- | --- |
 | [Status](../../aspose.pdf.ai/istatus/status/) { get; set; } | 작업의 상태를 가져오거나 설정합니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class IncompleteDetails
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.IncompleteDetails 클래스. 실행이 불완전한 이유에 대한 세부정보. 실행이 불완전하지 않으면 null이 됩니다.
+title: "클래스 IncompleteDetails"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.AI.IncompleteDetails 클래스. 실행이 불완전한 이유에 대한 세부 정보입니다. 실행이 불완전하지 않은 경우 null이 됩니다."
 type: docs
-weight: 650
+weight: 700
 url: /ko/net/aspose.pdf.ai/incompletedetails/
 ---
-## IncompleteDetails 클래스
+## IncompleteDetails class
 
-실행이 불완전한 이유에 대한 세부정보. 실행이 불완전하지 않으면 null이 됩니다.
+실행이 불완전한 이유에 대한 세부 정보입니다. 실행이 불완전하지 않으면 null이 됩니다.
 
 ```csharp
 public class IncompleteDetails
@@ -18,7 +18,7 @@ public class IncompleteDetails
 
 | 이름 | 설명 |
 | --- | --- |
-| [IncompleteDetails](incompletedetails/)() | 기본 생성자입니다. |
+| [IncompleteDetails](incompletedetails/)() | 기본 생성자. |
 
 ## 속성
 
@@ -26,7 +26,9 @@ public class IncompleteDetails
 | --- | --- |
 | [Reason](../../aspose.pdf.ai/incompletedetails/reason/) { get; set; } | 메시지가 불완전한 이유를 가져오거나 설정합니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

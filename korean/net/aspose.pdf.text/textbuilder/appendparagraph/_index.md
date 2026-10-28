@@ -1,14 +1,14 @@
 ---
-title: TextBuilder.AppendParagraph
-second_title: Aspose.PDF for .NET API Reference
-description: TextBuilder 메서드. Pdf 페이지에 텍스트 단락을 추가합니다.
+title: "TextBuilder.AppendParagraph"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TextBuilder 메서드. 텍스트 단락을 Pdf 페이지에 추가합니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.text/textbuilder/appendparagraph/
 ---
-## TextBuilder.AppendParagraph 메서드
+## TextBuilder.AppendParagraph method
 
-Pdf 페이지에 텍스트 단락을 추가합니다.
+텍스트 단락을 PDF 페이지에 추가합니다.
 
 ```csharp
 public void AppendParagraph(TextParagraph textParagraph)
@@ -16,42 +16,44 @@ public void AppendParagraph(TextParagraph textParagraph)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| textParagraph | TextParagraph | 텍스트 단락 객체입니다. |
+| textParagraph | TextParagraph | 텍스트 단락 객체. |
 
 ## 예제
 
-이 예제는 텍스트 단락 객체를 생성하고 이를 Pdf 페이지에 추가하는 방법을 보여줍니다.
+예제에서는 텍스트 단락 객체를 생성하고 이를 Pdf 페이지에 추가하는 방법을 보여줍니다.
 
 ```csharp
 Document doc = new Document(inFile);
 
 Page page = (Page)doc.Pages[1];
 
-// create text paragraph
+// 텍스트 단락을 생성합니다
 TextParagraph paragraph = new TextParagraph();
            
-// set the paragraph rectangle
+// 단락 사각형을 설정합니다
 paragraph.Rectangle = new Rectangle(100, 600, 200, 700);
 
-// set word wrapping options
+// 단어 줄바꿈 옵션을 설정합니다
 paragraph.FormattingOptions.WrapMode = TextFormattingOptions.WordWrapMode.ByWords;
 
-// append string lines
+// 문자열 라인을 추가합니다
 paragraph.AppendLine("the quick brown fox jumps over the lazy dog");
 paragraph.AppendLine("line2");
 paragraph.AppendLine("line3");
 
-// append the paragraph to the Pdf page with the TextBuilder
+// TextBuilder를 사용하여 단락을 Pdf 페이지에 추가합니다
 TextBuilder textBuilder = new TextBuilder(page);
 textBuilder.AppendParagraph(paragraph);
 
-// save Pdf document
+// Pdf 문서를 저장합니다
 doc.Save(outFile);
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [TextParagraph](../../textparagraph/)
-* 클래스 [TextBuilder](../)
-* 네임스페이스 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TextParagraph](../../textparagraph/)
+* class [TextBuilder](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

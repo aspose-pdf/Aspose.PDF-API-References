@@ -1,34 +1,36 @@
 ---
-title: Class TimestampSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.TimestampSettings 클래스. 서명 과정에서 사용하는 ocsp 설정을 나타냅니다.
+title: "클래스 TimestampSettings"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.TimestampSettings 클래스. 서명 과정에서 사용되는 OCSP 설정을 나타냅니다"
 type: docs
-weight: 11100
+weight: 11290
 url: /ko/net/aspose.pdf/timestampsettings/
 ---
 ## TimestampSettings class
 
-서명 과정에서 사용하는 ocsp 설정을 나타냅니다.
+서명 과정에서 사용되는 OCSP 설정을 나타냅니다.
 
 ```csharp
 public class TimestampSettings
 ```
 
-## Constructors
+## 생성자
 
-| Name | Description |
+| 이름 | 설명 |
 | --- | --- |
-| [TimestampSettings](timestampsettings/)(string, string, DigestHashAlgorithm) | `TimestampSettings` 클래스의 새 인스턴스를 초기화합니다. |
+| [TimestampSettings](timestampsettings/)(string, string, DigestHashAlgorithm) | 새 `TimestampSettings` 클래스의 인스턴스를 초기화합니다. |
 
-## Properties
+## 속성
 
-| Name | Description |
+| 이름 | 설명 |
 | --- | --- |
-| [BasicAuthCredentials](../../aspose.pdf/timestampsettings/basicauthcredentials/) { get; set; } | 기본 인증 자격 증명을 가져오거나 설정합니다. 사용자 이름과 비밀번호는 "username:password" 문자열로 결합됩니다. |
-| [DigestHashAlgorithm](../../aspose.pdf/timestampsettings/digesthashalgorithm/) { get; set; } | 내부 해시 함수에 대한 다이제스트 알고리즘을 가져오거나 설정합니다. |
+| [BasicAuthCredentials](../../aspose.pdf/timestampsettings/basicauthcredentials/) { get; set; } | 기본 인증 자격 증명을 가져오거나 설정합니다. 사용자 이름과 비밀번호가 "username:password" 문자열로 결합됩니다. |
+| [DigestHashAlgorithm](../../aspose.pdf/timestampsettings/digesthashalgorithm/) { get; set; } | 내부 해시 함수에 사용할 다이제스트 알고리즘을 가져오거나 설정합니다. |
 | [ServerUrl](../../aspose.pdf/timestampsettings/serverurl/) { get; set; } | 타임스탬프 서버 URL을 가져오거나 설정합니다. |
 
-### See Also
+### 또 보기
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: Metadata.Values
-second_title: Aspose.PDF for .NET API Reference
-description: 메타데이터 속성. 메타데이터에서 값을 가져옵니다.
+title: "Metadata.Values"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Metadata 속성. 메타데이터의 값을 가져옵니다"
 type: docs
 weight: 100
 url: /ko/net/aspose.pdf/metadata/values/
 ---
-## 메타데이터.값 속성
+## Metadata.Values property
 
-메타데이터에서 값을 가져옵니다.
+메타데이터의 값을 가져옵니다.
 
 ```csharp
 public ICollection<XmpValue> Values { get; }
 ```
 
-### 참조
+### 또 보기
 
 * class [XmpValue](../../xmpvalue/)
 * class [Metadata](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: PdfFormatConversionOptions.FontEmbeddingOptions
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFormatConversionOptions 속성. PDF 문서에 일부 글꼴을 포함할 수 없는 경우의 옵션
+title: "PdfFormatConversionOptions.FontEmbeddingOptions"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfFormatConversionOptions 속성. 일부 글꼴을 PDF 문서에 포함시킬 수 없는 경우에 대한 옵션"
 type: docs
-weight: 70
+weight: 80
 url: /ko/net/aspose.pdf/pdfformatconversionoptions/fontembeddingoptions/
 ---
-## PdfFormatConversionOptions.FontEmbeddingOptions 속성
+## PdfFormatConversionOptions.FontEmbeddingOptions property
 
-PDF 문서에 일부 글꼴을 포함할 수 없는 경우의 옵션입니다.
+일부 글꼴을 PDF 문서에 포함할 수 없는 경우에 대한 옵션.
 
 ```csharp
 public FontEmbeddingOptions FontEmbeddingOptions { get; }
 ```
 
-### 참조
+### 또 보기
 
 * class [FontEmbeddingOptions](../../fontembeddingoptions/)
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

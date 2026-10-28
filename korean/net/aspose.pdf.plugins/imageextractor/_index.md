@@ -1,12 +1,12 @@
 ---
-title: Class ImageExtractor
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.ImageExtractor 클래스. ImageExtractor 플러그인을 나타냅니다.
+title: "클래스 ImageExtractor"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Plugins.ImageExtractor 클래스. ImageExtractor 플러그인을 나타냅니다."
 type: docs
-weight: 8890
+weight: 9020
 url: /ko/net/aspose.pdf.plugins/imageextractor/
 ---
-## ImageExtractor 클래스
+## ImageExtractor class
 
 ImageExtractor 플러그인을 나타냅니다.
 
@@ -24,7 +24,7 @@ public class ImageExtractor : PdfExtractor
 
 | 이름 | 설명 |
 | --- | --- |
-| [Dispose](../../aspose.pdf.plugins/pdfextractor/dispose/)() | IDisposable의 구현. 실제로 PdfExtractor에는 필요하지 않습니다. |
+| [Dispose](../../aspose.pdf.plugins/pdfextractor/dispose/)() | IDisposable 구현. 실제로 PdfExtractor에 필요하지 않습니다. |
 | [Process](../../aspose.pdf.plugins/pdfextractor/process/)(IPluginOptions) | 지정된 매개변수로 PdfExtractor 처리를 시작합니다. |
 
 ## 비고
@@ -33,28 +33,30 @@ public class ImageExtractor : PdfExtractor
 
 ## 예제
 
-이 예제는 PDF 문서에서 이미지를 추출하는 방법을 보여줍니다.
+예제는 PDF 문서에서 이미지를 추출하는 방법을 보여줍니다.
 
 ```csharp
-// create ImageExtractor object to extract images
+// 이미지를 추출하기 위해 ImageExtractor 객체를 생성합니다
 using (ImageExtractor extractor = new ImageExtractor())
 {
-    // create ImageExtractorOptions
+    // ImageExtractorOptions를 생성합니다
     imageExtractorOptions = new ImageExtractorOptions();
     
-    // add input file path to data sources
+    // 입력 파일 경로를 데이터 소스에 추가합니다.
     imageExtractor.AddDataSource(new FileDataSource(inputPath));
     
-    // perform extraction process
+    // 추출 프로세스를 수행합니다.
     ResultContainer resultContainer = extractor.Process(imageExtractorOptions);
     
-    // get the image from the ResultContainer object
+    // ResultContainer 객체에서 이미지를 가져옵니다
     var imageExtracted = resultContainer.ResultCollection[0].ToFile();
 }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfExtractor](../pdfextractor/)
-* 네임스페이스 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* 어셈블리 [Aspose.PDF](../../)
+* class [PdfExtractor](../pdfextractor/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

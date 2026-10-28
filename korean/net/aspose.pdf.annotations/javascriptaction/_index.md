@@ -1,40 +1,42 @@
 ---
-title: Class JavascriptAction
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.JavascriptAction 클래스. 자바스크립트 동작을 나타내는 클래스
+title: "클래스 JavascriptAction"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Annotations.JavascriptAction 클래스. 자바스크립트 동작을 나타내는 클래스"
 type: docs
-weight: 1930
+weight: 2020
 url: /ko/net/aspose.pdf.annotations/javascriptaction/
 ---
 ## JavascriptAction class
 
-자바스크립트 동작을 나타내는 클래스.
+JavaScript 동작을 나타내는 클래스.
 
 ```csharp
 public sealed class JavascriptAction : PdfAction
 ```
 
-## Constructors
+## 생성자
 
-| Name | Description |
+| 이름 | 설명 |
 | --- | --- |
 | [JavascriptAction](javascriptaction/)(string) | 생성자. |
 
-## Properties
+## 속성
 
-| Name | Description |
+| 이름 | 설명 |
 | --- | --- |
-| [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | 순서의 다음 동작. |
+| [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | 시퀀스상의 다음 작업. |
 | [Script](../../aspose.pdf.annotations/javascriptaction/script/) { get; set; } | 자바스크립트 코드를 가져오거나 설정합니다. |
 
-## Methods
+## 메서드
 
-| Name | Description |
+| 이름 | 설명 |
 | --- | --- |
-| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | ECMAScript 동작을 위한 문자열을 가져옵니다. |
+| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | ECMAScript 작업에 대한 문자열을 가져옵니다. |
 
-### See Also
+### 또 보기
 
 * class [PdfAction](../pdfaction/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

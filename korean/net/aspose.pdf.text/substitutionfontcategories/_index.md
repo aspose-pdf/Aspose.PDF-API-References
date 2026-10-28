@@ -1,14 +1,14 @@
 ---
-title: Enum SubstitutionFontCategories
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.SubstitutionFontCategories 열거형. 대체할 수 있는 글꼴 범주를 나타냅니다.
+title: "열거형 SubstitutionFontCategories"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Text.SubstitutionFontCategories enum. 대체될 수 있는 글꼴 카테고리를 나타냅니다."
 type: docs
-weight: 10720
+weight: 10900
 url: /ko/net/aspose.pdf.text/substitutionfontcategories/
 ---
-## SubstitutionFontCategories 열거형
+## SubstitutionFontCategories enumeration
 
-대체할 수 있는 글꼴 범주를 나타냅니다.
+대체될 수 있는 폰트 카테고리를 나타냅니다.
 
 ```csharp
 public enum SubstitutionFontCategories
@@ -18,10 +18,12 @@ public enum SubstitutionFontCategories
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
-| TheSameNamedEmbeddedFonts | `0` | 시스템 글꼴과 이름이 같은 글꼴입니다. 이러한 글꼴은 대부분 시스템 글꼴과 같은 이름으로 대체하는 것이 안전합니다. |
+| TheSameNamedEmbeddedFonts | `0` | 시스템 글꼴과 이름이 동일한 글꼴입니다. 이러한 글꼴은 동일한 이름의 시스템 글꼴로 대체해도 대부분 안전합니다. |
 | AllEmbeddedFonts | `1` | 모든 포함된 글꼴이 대체됩니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

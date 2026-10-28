@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.DeleteThreadMessageAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient 메서드. 스레드 내에서 메시지를 비동기적으로 삭제합니다.
+title: "OpenAIClient.DeleteThreadMessageAsync"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "OpenAIClient 메서드. 스레드 내 메시지를 비동기적으로 삭제합니다"
 type: docs
 weight: 160
 url: /ko/net/aspose.pdf.ai/openaiclient/deletethreadmessageasync/
 ---
-## OpenAIClient.DeleteThreadMessageAsync 메서드
+## OpenAIClient.DeleteThreadMessageAsync method
 
-스레드 내에서 메시지를 비동기적으로 삭제합니다.
+스레드 내 메시지를 비동기적으로 삭제합니다.
 
 ```csharp
 public Task<DeleteStatusResponse> DeleteThreadMessageAsync(string threadId, string threadMessageId, 
@@ -23,18 +23,20 @@ public Task<DeleteStatusResponse> DeleteThreadMessageAsync(string threadId, stri
 
 ### 반환 값
 
-비동기 작업을 나타내는 태스크입니다. 태스크 결과에는 삭제 작업의 상태가 포함됩니다.
+비동기 작업을 나타내는 작업입니다. 작업 결과에는 삭제 작업의 상태가 포함됩니다.
 
 ### 예외
 
 | 예외 | 조건 |
 | --- | --- |
 | [AIClientException](../../aiclientexception/) | 스레드 ID가 null이거나 비어 있을 때 발생합니다. |
-| [AIClientException](../../aiclientexception/) | 스레드 메시지 ID가 null이거나 비어 있을 때 발생합니다. |
+| [AIClientException](../../aiclientexception/) | thread message Id가 null이거나 비어 있을 때 발생합니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [DeleteStatusResponse](../../deletestatusresponse/)
-* 클래스 [OpenAIClient](../)
-* 네임스페이스 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [DeleteStatusResponse](../../deletestatusresponse/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

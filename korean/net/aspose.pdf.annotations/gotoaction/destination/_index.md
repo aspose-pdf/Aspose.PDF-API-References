@@ -1,22 +1,24 @@
 ---
-title: GoToAction.Destination
-second_title: Aspose.PDF for .NET API Reference
-description: GoToAction 속성. 점프할 대상을 가져오거나 설정합니다.
+title: "GoToAction.Destination"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "GoToAction 속성. 이동할 목적지를 가져오거나 설정합니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.annotations/gotoaction/destination/
 ---
-## GoToAction.Destination 속성
+## GoToAction.Destination property
 
-점프할 대상을 가져오거나 설정합니다.
+점프할 대상지를 가져오거나 설정합니다.
 
 ```csharp
 public virtual IAppointment Destination { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 인터페이스 [IAppointment](../../iappointment/)
-* 클래스 [GoToAction](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* interface [IAppointment](../../iappointment/)
+* class [GoToAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

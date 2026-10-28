@@ -1,14 +1,14 @@
 ---
-title: Color.FromArgb
-second_title: Aspose.PDF for .NET API Reference
-description: Color 메서드. RGB 색상 구성 요소에서 유효한 pdf Color 객체를 가져옵니다.
+title: "Color.FromArgb"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Color 메서드. RGB 색상 구성 요소에서 유효한 pdf Color 객체를 가져옵니다."
 type: docs
 weight: 1440
 url: /ko/net/aspose.pdf/color/fromargb/
 ---
 ## FromArgb(int, int, int) {#fromargb}
 
-RGB 색상 구성 요소에서 유효한 pdf Color 객체를 가져옵니다.
+RGB 색 구성 요소에서 유효한 pdf Color 객체를 가져옵니다.
 
 ```csharp
 public static Color FromArgb(int r, int g, int b)
@@ -22,19 +22,19 @@ public static Color FromArgb(int r, int g, int b)
 
 ### 반환 값
 
-각 구성 요소 값이 [0..255] 범위에 있는 Color 객체입니다.
+각 구성 요소 값이 [0..255] 범위에 있는 Color 객체.
 
-### 참조
+### 또 보기
 
-* 클래스 [Color](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FromArgb(int, int, int, int) {#fromargb_1}
 
-RGB 색상 구성 요소에서 유효한 pdf Color 객체를 가져옵니다.
+RGB 색 구성 요소에서 유효한 pdf Color 객체를 가져옵니다.
 
 ```csharp
 public static Color FromArgb(int a, int r, int g, int b)
@@ -49,10 +49,12 @@ public static Color FromArgb(int a, int r, int g, int b)
 
 ### 반환 값
 
-각 구성 요소 값이 [0..255] 범위에 있는 Color 객체입니다.
+각 구성 요소 값이 [0..255] 범위에 있는 Color 객체.
 
-### 참조
+### 또 보기
 
-* 클래스 [Color](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

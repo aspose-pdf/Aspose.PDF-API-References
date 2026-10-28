@@ -1,12 +1,12 @@
 ---
-title: Metered.GetConsumptionQuantity
-second_title: Aspose.PDF for .NET API Reference
-description: Metered 메서드. 소비 파일 크기를 가져옵니다.
+title: "Metered.GetConsumptionQuantity"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Metered 메서드. 소비 파일 크기를 가져옵니다."
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf/metered/getconsumptionquantity/
 ---
-## Metered.GetConsumptionQuantity 메서드
+## Metered.GetConsumptionQuantity method
 
 소비 파일 크기를 가져옵니다.
 
@@ -18,8 +18,10 @@ public static decimal GetConsumptionQuantity()
 
 소비량.
 
-### 참조
+### 또 보기
 
-* 클래스 [Metered](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Metered](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

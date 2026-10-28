@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.A5Extra
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes 필드. A5 엑스트라 용지 174 mm x 235 mm
+title: "PaperSizes.A5Extra"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PaperSizes 필드. A5 추가 용지 174 mm × 235 mm"
 type: docs
 weight: 140
 url: /ko/net/aspose.pdf.printing/papersizes/a5extra/
 ---
-## PaperSizes.A5Extra 필드
+## PaperSizes.A5Extra field
 
-A5 엑스트라 용지 (174 mm x 235 mm).
+A5 엑스트라 용지 (174 mm × 235 mm).
 
 ```csharp
 public static readonly PaperSize A5Extra;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PaperSize](../../papersize/)
-* 클래스 [PaperSizes](../)
-* 네임스페이스 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

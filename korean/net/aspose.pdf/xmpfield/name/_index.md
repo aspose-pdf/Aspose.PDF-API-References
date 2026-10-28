@@ -1,12 +1,12 @@
 ---
-title: XmpField.Name
-second_title: Aspose.PDF for .NET API Reference
-description: XmpField 속성. 이름을 가져옵니다.
+title: "XmpField.Name"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "XmpField 속성. 이름을 가져옵니다"
 type: docs
 weight: 60
 url: /ko/net/aspose.pdf/xmpfield/name/
 ---
-## XmpField.Name 속성
+## XmpField.Name property
 
 이름을 가져옵니다.
 
@@ -14,12 +14,14 @@ url: /ko/net/aspose.pdf/xmpfield/name/
 public string Name { get; }
 ```
 
-### 속성 값
+### Property Value
 
-이름입니다.
+이름.
 
-### 참조
+### 또 보기
 
-* 클래스 [XmpField](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [XmpField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

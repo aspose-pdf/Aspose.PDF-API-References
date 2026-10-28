@@ -1,12 +1,12 @@
 ---
-title: SetColor.B
-second_title: Aspose.PDF for .NET API Reference
-description: SetColor 속성. 파란색 구성 요소를 가져오거나 설정합니다.
+title: "SetColor.B"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "SetColor 속성. 파란색 구성 요소를 가져오거나 설정합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.operators/setcolor/b/
 ---
-## SetColor.B 속성
+## SetColor.B property
 
 파란색 구성 요소를 가져오거나 설정합니다.
 
@@ -14,12 +14,14 @@ url: /ko/net/aspose.pdf.operators/setcolor/b/
 public double B { get; set; }
 ```
 
-### 속성 값
+### Property Value
 
-0.0에서 1.0까지의 파란색 수준
+파란색 수준은 0.0에서 1.0 사이입니다
 
-### 참조
+### 또 보기
 
-* 클래스 [SetColor](../)
-* 네임스페이스 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [SetColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

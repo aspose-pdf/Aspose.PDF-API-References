@@ -1,7 +1,7 @@
 ---
-title: PdfContentEditor.CreateApplicationLink
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor 메서드. PDF 문서에서 애플리케이션을 실행하는 링크를 생성합니다.
+title: "PdfContentEditor.CreateApplicationLink"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfContentEditor 메서드. PDF 문서에서 애플리케이션을 실행하는 링크를 생성합니다."
 type: docs
 weight: 110
 url: /ko/net/aspose.pdf.facades/pdfcontenteditor/createapplicationlink/
@@ -15,15 +15,15 @@ public void CreateApplicationLink(Rectangle rect, string application, int page, 
     Enum[] actionName)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | rect | Rectangle | 활성 클릭을 위한 사각형입니다. |
-| application | String | 실행할 애플리케이션의 경로입니다. |
-| page | Int32 | 링크와 연결된 사각형이 생성될 원본 페이지의 번호입니다. |
+| 애플리케이션 | String | 실행될 애플리케이션의 경로입니다. |
+| 페이지 | Int32 | 링크가 바인딩된 사각형이 생성될 원본 페이지 번호. |
 | clr | Color | 활성 클릭을 위한 사각형의 색상입니다. |
-| actionName | Enum[] | Acrobat 뷰어에서 메뉴 항목을 실행하는 데 해당하는 동작(PredefinedAction 열거형의 멤버) 배열입니다. |
+| actionName | Enum[] | Acrobat 뷰어에서 메뉴 항목을 실행하는 데 해당하는 동작 배열 (PredefinedAction 열거형의 멤버). |
 
-## Examples
+## 예제
 
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
@@ -34,7 +34,7 @@ editor.CreateApplicationLink(new System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### See Also
+### 또 보기
 
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -50,14 +50,14 @@ PDF 문서에서 애플리케이션을 실행하는 링크를 생성합니다.
 public void CreateApplicationLink(Rectangle rect, string application, int page, Color clr)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | rect | Rectangle | 활성 클릭을 위한 사각형입니다. |
-| application | String | 실행할 애플리케이션의 경로입니다. |
-| page | Int32 | 링크와 연결된 사각형이 생성될 원본 페이지의 번호입니다. |
+| 애플리케이션 | String | 실행될 애플리케이션의 경로입니다. |
+| 페이지 | Int32 | 링크가 바인딩된 사각형이 생성될 원본 페이지 번호. |
 | clr | Color | 활성 클릭을 위한 사각형의 색상입니다. |
 
-## Examples
+## 예제
 
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
@@ -67,7 +67,7 @@ editor.CreateApplicationLink(new System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### See Also
+### 또 보기
 
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -83,13 +83,13 @@ PDF 문서에서 애플리케이션을 실행하는 링크를 생성합니다.
 public void CreateApplicationLink(Rectangle rect, string application, int page)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | rect | Rectangle | 활성 클릭을 위한 사각형입니다. |
-| application | String | 실행할 애플리케이션의 경로입니다. |
-| page | Int32 | 링크와 연결된 사각형이 생성될 원본 페이지의 번호입니다. |
+| 애플리케이션 | String | 실행될 애플리케이션의 경로입니다. |
+| 페이지 | Int32 | 링크가 바인딩된 사각형이 생성될 원본 페이지 번호. |
 
-## Examples
+## 예제
 
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
@@ -98,8 +98,10 @@ editor.CreateApplicationLink(new System.Drawing.Rectangle(0, 0, 100, 100), "expl
 editor.Save("example_out.pdf");
 ```
 
-### See Also
+### 또 보기
 
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FitExplicitDestination.FitExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: FitExplicitDestination 생성자. 로컬 명시적 대상을 생성합니다.
+title: "FitExplicitDestination.FitExplicitDestination"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FitExplicitDestination 생성자. 로컬 명시적 목적지를 생성합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.annotations/fitexplicitdestination/fitexplicitdestination/
 ---
 ## FitExplicitDestination(Page) {#constructor_1}
 
-로컬 명시적 대상을 생성합니다.
+로컬 명시적 목적지를 생성합니다.
 
 ```csharp
 public FitExplicitDestination(Page page)
@@ -16,20 +16,20 @@ public FitExplicitDestination(Page page)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| page | Page | 대상 페이지 객체입니다. |
+| 페이지 | 페이지 | 목적지 페이지 객체. |
 
-### 참조
+### 또 보기
 
-* 클래스 [Page](../../../aspose.pdf/page/)
-* 클래스 [FitExplicitDestination](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [FitExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FitExplicitDestination(int) {#constructor_2}
 
-원격 명시적 대상을 생성합니다.
+원격 명시적 목적지를 생성합니다.
 
 ```csharp
 public FitExplicitDestination(int pageNumber)
@@ -37,10 +37,12 @@ public FitExplicitDestination(int pageNumber)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| pageNumber | Int32 | 원격 문서의 대상 페이지 번호입니다. |
+| pageNumber | Int32 | 원격 문서의 목적지 페이지 번호. |
 
-### 참조
+### 또 보기
 
-* 클래스 [FitExplicitDestination](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FitExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

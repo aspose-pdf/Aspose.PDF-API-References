@@ -1,14 +1,14 @@
 ---
-title: Enum SaveOptions.HtmlBorderLineType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.SaveOptionsHtmlBorderLineType 열거형. 결과 문서에서 테두리 또는 다른 선을 그리는 데 사용할 수 있는 선 유형을 나타냅니다.
+title: "열거형 SaveOptions.HtmlBorderLineType"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.SaveOptionsHtmlBorderLineType 열거형. 결과 문서에서 테두리 또는 기타 선을 그리는 데 사용할 수 있는 선 유형을 나타냅니다."
 type: docs
-weight: 9900
+weight: 10050
 url: /ko/net/aspose.pdf/saveoptions.htmlborderlinetype/
 ---
-## SaveOptions.HtmlBorderLineType 열거형
+## SaveOptions.HtmlBorderLineType enumeration
 
-결과 문서에서 테두리 또는 다른 선을 그리는 데 사용할 수 있는 선 유형을 나타냅니다.
+결과 문서에서 테두리 또는 기타 선을 그리는 데 사용할 수 있는 선 유형을 나타냅니다.
 
 ```csharp
 public enum HtmlBorderLineType
@@ -23,13 +23,15 @@ public enum HtmlBorderLineType
 | Dashed | `2` | 대시선이 표시됩니다. |
 | Solid | `3` | 실선이 표시됩니다. |
 | Double | `4` | 이중선이 표시됩니다. |
-| Groove | `5` | 홈선이 표시됩니다. |
-| Ridge | `6` | 능선선이 표시됩니다. |
-| Inset | `7` | 인셋선이 표시됩니다. |
-| Outset | `8` | 아웃셋선이 표시됩니다. |
+| Groove | `5` | 그루브 선이 표시됩니다. |
+| Ridge | `6` | 리지 선이 표시됩니다. |
+| Inset | `7` | 인셋 선이 표시됩니다. |
+| Outset | `8` | 아웃셋 선이 표시됩니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [SaveOptions](../saveoptions/)
-* 네임스페이스 [Aspose.Pdf](../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../)
+* class [SaveOptions](../saveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

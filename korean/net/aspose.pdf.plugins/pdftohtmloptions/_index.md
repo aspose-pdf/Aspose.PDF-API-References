@@ -1,14 +1,14 @@
 ---
-title: Class PdfToHtmlOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.PdfToHtmlOptions 클래스. Html 플러그인을 위한 PDF에서 HTML 변환기 옵션을 나타냅니다.
+title: "클래스 PdfToHtmlOptions"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Plugins.PdfToHtmlOptions 클래스. Html 플러그인을 위한 PDF를 HTML로 변환하는 옵션을 나타냅니다."
 type: docs
-weight: 9100
+weight: 9250
 url: /ko/net/aspose.pdf.plugins/pdftohtmloptions/
 ---
-## PdfToHtmlOptions 클래스
+## PdfToHtmlOptions class
 
-[`Html`](../html/) 플러그인을 위한 PDF에서 HTML 변환기 옵션을 나타냅니다.
+[`Html`](../html/) 플러그인을 위한 PDF to HTML 변환기 옵션을 나타냅니다.
 
 ```csharp
 public sealed class PdfToHtmlOptions : PdfConverterOptions
@@ -18,7 +18,7 @@ public sealed class PdfToHtmlOptions : PdfConverterOptions
 
 | 이름 | 설명 |
 | --- | --- |
-| [PdfToHtmlOptions](pdftohtmloptions/#constructor)() | 기본 옵션으로 `PdfToHtmlOptions` 객체의 새 인스턴스를 초기화합니다. |
+| [PdfToHtmlOptions](pdftohtmloptions/#constructor)() | `PdfToHtmlOptions` 객체의 새 인스턴스를 기본 옵션으로 초기화합니다. |
 | [PdfToHtmlOptions](pdftohtmloptions/#constructor_1)(SaveDataType) | 지정된 출력 데이터 유형에 대해 `PdfToHtmlOptions` 객체의 새 인스턴스를 초기화합니다. |
 
 ## 속성
@@ -28,7 +28,7 @@ public sealed class PdfToHtmlOptions : PdfConverterOptions
 | [Inputs](../../aspose.pdf.plugins/pdfconverteroptions/inputs/) { get; } | PdfConverterOptions 플러그인 데이터 컬렉션을 반환합니다. |
 | override [OperationName](../../aspose.pdf.plugins/pdftohtmloptions/operationname/) { get; } | 작업의 이름을 가져옵니다. |
 | [OutputDataType](../../aspose.pdf.plugins/pdftohtmloptions/outputdatatype/) { get; } | 출력 데이터 유형을 가져옵니다. |
-| [Outputs](../../aspose.pdf.plugins/pdfconverteroptions/outputs/) { get; } | 저장 작업 결과를 위한 추가된 대상의 컬렉션을 가져옵니다. |
+| [Outputs](../../aspose.pdf.plugins/pdfconverteroptions/outputs/) { get; } | 저장 작업 결과를 위한 추가된 대상 컬렉션을 가져옵니다. |
 
 ## 메서드
 
@@ -43,8 +43,10 @@ public sealed class PdfToHtmlOptions : PdfConverterOptions
 | --- | --- |
 | enum [SaveDataType](../../aspose.pdf.plugins/pdftohtmloptions.savedatatype) | HTML 파일의 출력 유형을 정의합니다. |
 
-### 참조
+### 또 보기
 
 * class [PdfConverterOptions](../pdfconverteroptions/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,20 +1,20 @@
 ---
-title: Enum PropertyFlag
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.PropertyFlag 열거형. 가능한 필드 플래그의 열거
+title: "열거형 PropertyFlag"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Facades.PropertyFlag 열거형. 가능한 필드 플래그의 열거"
 type: docs
-weight: 4660
+weight: 4780
 url: /ko/net/aspose.pdf.facades/propertyflag/
 ---
-## PropertyFlag 열거형
+## PropertyFlag enumeration
 
-가능한 필드 플래그의 열거.
+가능한 필드 플래그의 열거형입니다.
 
 ```csharp
 public enum PropertyFlag
 ```
 
-### 값들
+### 값
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
@@ -23,7 +23,9 @@ public enum PropertyFlag
 | NoExport | `2` | 필드는 내보낼 수 없습니다. |
 | InvalidFlag | `3` | 잘못된 필드 플래그입니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

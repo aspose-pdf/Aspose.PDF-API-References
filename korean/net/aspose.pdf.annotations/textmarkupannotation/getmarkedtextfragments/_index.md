@@ -1,12 +1,12 @@
 ---
-title: TextMarkupAnnotation.GetMarkedTextFragments
-second_title: Aspose.PDF for .NET API Reference
-description: TextMarkupAnnotation 메서드. 마크업 주석 아래의 텍스트를 TextFragmentCollection으로 가져옵니다.
+title: "TextMarkupAnnotation.GetMarkedTextFragments"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TextMarkupAnnotation 메서드. 마크업 주석 아래의 텍스트를 TextFragmentCollection으로 가져옵니다."
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf.annotations/textmarkupannotation/getmarkedtextfragments/
 ---
-## TextMarkupAnnotation.GetMarkedTextFragments 메서드
+## TextMarkupAnnotation.GetMarkedTextFragments method
 
 마크업 주석 아래의 텍스트를 [`TextFragmentCollection`](../../../aspose.pdf.text/textfragmentcollection/)으로 가져옵니다.
 
@@ -16,11 +16,13 @@ public TextFragmentCollection GetMarkedTextFragments()
 
 ### 반환 값
 
-[`TextFragmentCollection`](../../../aspose.pdf.text/textfragmentcollection/)은 마크업 주석 아래에 있는 [`TextFragment`](../../../aspose.pdf.text/textfragment/)를 포함합니다.
+[`TextFragmentCollection`](../../../aspose.pdf.text/textfragmentcollection/) containing [`TextFragment`](../../../aspose.pdf.text/textfragment/)s that is under markup annotation.
 
-### 참조
+### 또 보기
 
-* 클래스 [TextFragmentCollection](../../../aspose.pdf.text/textfragmentcollection/)
-* 클래스 [TextMarkupAnnotation](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TextFragmentCollection](../../../aspose.pdf.text/textfragmentcollection/)
+* class [TextMarkupAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

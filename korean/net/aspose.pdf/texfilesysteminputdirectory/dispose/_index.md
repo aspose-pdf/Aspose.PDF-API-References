@@ -1,12 +1,12 @@
 ---
-title: TeXFileSystemInputDirectory.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: TeXFileSystemInputDirectory 메서드. 인스턴스를 해제합니다.
+title: "TeXFileSystemInputDirectory.Dispose"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TeXFileSystemInputDirectory 메서드. 인스턴스를 해제합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf/texfilesysteminputdirectory/dispose/
 ---
-## TeXFileSystemInputDirectory.Dispose 메서드
+## TeXFileSystemInputDirectory.Dispose method
 
 인스턴스를 해제합니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf/texfilesysteminputdirectory/dispose/
 public virtual void Dispose()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [TeXFileSystemInputDirectory](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TeXFileSystemInputDirectory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

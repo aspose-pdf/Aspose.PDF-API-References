@@ -1,12 +1,12 @@
 ---
-title: ArtifactCollection.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: ArtifactCollection 속성. 컬렉션의 동기화 객체를 가져옵니다.
+title: "ArtifactCollection.SyncRoot"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ArtifactCollection 속성. 컬렉션의 동기화 개체를 가져옵니다"
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf/artifactcollection/syncroot/
 ---
-## ArtifactCollection.SyncRoot 속성
+## ArtifactCollection.SyncRoot property
 
 컬렉션의 동기화 객체를 가져옵니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf/artifactcollection/syncroot/
 public object SyncRoot { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [ArtifactCollection](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [ArtifactCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

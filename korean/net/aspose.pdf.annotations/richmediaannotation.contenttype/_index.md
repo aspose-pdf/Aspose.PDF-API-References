@@ -1,14 +1,14 @@
 ---
-title: Enum RichMediaAnnotation.ContentType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.RichMediaAnnotationContentType 열거형. 멀티미디어의 유형
+title: "열거형 RichMediaAnnotation.ContentType"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Annotations.RichMediaAnnotationContentType 열거형. 멀티미디어 유형"
 type: docs
-weight: 2500
+weight: 2590
 url: /ko/net/aspose.pdf.annotations/richmediaannotation.contenttype/
 ---
-## RichMediaAnnotation.Content.Type 열거형
+## RichMediaAnnotation.ContentType enumeration
 
-멀티미디어의 유형.
+멀티미디어 유형.
 
 ```csharp
 public enum ContentType
@@ -18,12 +18,14 @@ public enum ContentType
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
-| 오디오 | `0` | 오디오 데이터. |
-| 비디오 | `1` | 비디오 데이터. |
-| 알 수 없음 | `2` | 알 수 없거나 지원되지 않는 데이터 유형. |
+| Audio | `0` | 오디오 데이터. |
+| Video | `1` | 비디오 데이터. |
+| Unknown | `2` | 알 수 없거나 지원되지 않는 데이터 유형. |
 
-### 참조
+### 또 보기
 
-* 클래스 [RichMediaAnnotation](../richmediaannotation/)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../)
+* class [RichMediaAnnotation](../richmediaannotation/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

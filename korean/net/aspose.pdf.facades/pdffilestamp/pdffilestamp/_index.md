@@ -1,7 +1,7 @@
 ---
-title: PdfFileStamp.PdfFileStamp
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileStamp 생성자. PdfFileStamp의 생성자. 입력 파일과 출력 파일은 해당 속성을 통해 지정할 수 있습니다.
+title: "PdfFileStamp.PdfFileStamp"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfFileStamp 생성자. PdfFileStamp의 생성자입니다. 입력 파일과 출력 파일은 해당 속성을 통해 지정할 수 있습니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.facades/pdffilestamp/pdffilestamp/
@@ -20,7 +20,7 @@ fileStamp.OutputFile = "output.pdf";
 public PdfFileStamp()
 ```
 
-### See Also
+### 또 보기
 
 * class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -30,7 +30,7 @@ public PdfFileStamp()
 
 ## PdfFileStamp(Document) {#constructor_1}
 
-*document*를 기반으로 새로운 [`PdfFileStamp`](../) 객체를 초기화합니다.
+새 [`PdfFileStamp`](../) 객체를 *document*를 기반으로 초기화합니다.
 
 ```csharp
 public PdfFileStamp(Document document)
@@ -40,9 +40,11 @@ public PdfFileStamp(Document document)
 | --- | --- | --- |
 | document | Document | Pdf 문서. |
 
-### See Also
+### 또 보기
 
 * class [Document](../../../aspose.pdf/document/)
 * class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

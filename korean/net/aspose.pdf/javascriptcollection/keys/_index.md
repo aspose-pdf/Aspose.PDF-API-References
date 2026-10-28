@@ -1,12 +1,12 @@
 ---
-title: JavaScriptCollection.Keys
-second_title: Aspose.PDF for .NET API Reference
-description: JavaScriptCollection 속성. JavaScript 컬렉션의 키 목록
+title: "JavaScriptCollection.Keys"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "JavaScriptCollection 속성. JavaScript 컬렉션의 키 목록"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf/javascriptcollection/keys/
 ---
-## JavaScriptCollection.Keys 속성
+## JavaScriptCollection.Keys property
 
 JavaScript 컬렉션의 키 목록입니다.
 
@@ -14,8 +14,10 @@ JavaScript 컬렉션의 키 목록입니다.
 public IList<string> Keys { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [JavaScriptCollection](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [JavaScriptCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

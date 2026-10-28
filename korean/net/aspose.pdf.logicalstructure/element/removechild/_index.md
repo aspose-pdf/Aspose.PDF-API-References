@@ -1,14 +1,14 @@
 ---
-title: Element.RemoveChild
-second_title: Aspose.PDF for .NET API Reference
-description: Element 메서드. 자식 제거
+title: "Element.RemoveChild"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Element 메서드. 지정된 위치에서 자식을 제거합니다"
 type: docs
 weight: 70
 url: /ko/net/aspose.pdf.logicalstructure/element/removechild/
 ---
-## Element.RemoveChild 메서드
+## Element.RemoveChild method
 
-자식 제거.
+해당 위치의 자식을 제거합니다.
 
 ```csharp
 public void RemoveChild(int index)
@@ -18,8 +18,10 @@ public void RemoveChild(int index)
 | --- | --- | --- |
 | index | Int32 | 자식 요소 인덱스. |
 
-### 참조
+### 또 보기
 
-* 클래스 [Element](../)
-* 네임스페이스 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Element](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

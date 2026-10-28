@@ -1,14 +1,14 @@
 ---
-title: OutlineCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineCollection 속성. 인덱스를 통해 컬렉션에서 아웃라인 항목을 가져옵니다.
+title: "OutlineCollection.Item"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "OutlineCollection 속성. 인덱스로 컬렉션에서 개요 항목을 가져옵니다."
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf/outlinecollection/item/
 ---
-## OutlineCollection 인덱서
+## OutlineCollection indexer
 
-인덱스를 통해 컬렉션에서 아웃라인 항목을 가져옵니다.
+인덱스로 컬렉션에서 개요 항목을 가져옵니다.
 
 ```csharp
 public OutlineItemCollection this[int index] { get; }
@@ -18,9 +18,11 @@ public OutlineItemCollection this[int index] { get; }
 | --- | --- |
 | index | 요청된 항목의 인덱스. |
 
-### 참조
+### 또 보기
 
-* 클래스 [OutlineItemCollection](../../outlineitemcollection/)
-* 클래스 [OutlineCollection](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../../outlineitemcollection/)
+* class [OutlineCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

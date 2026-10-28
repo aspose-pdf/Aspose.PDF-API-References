@@ -1,14 +1,14 @@
 ---
-title: MarkupAnnotation.MarkupAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: MarkupAnnotation 생성자. 마크업 주석을 위한 생성자
+title: "MarkupAnnotation.MarkupAnnotation"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "MarkupAnnotation 생성자. 마크업 주석에 대한 생성자입니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.annotations/markupannotation/markupannotation/
 ---
-## MarkupAnnotation 생성자
+## MarkupAnnotation constructor
 
-마크업 주석을 위한 생성자.
+마크업 주석의 생성자.
 
 ```csharp
 public MarkupAnnotation(Document document)
@@ -16,11 +16,13 @@ public MarkupAnnotation(Document document)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| document | Document | 주석이 생성될 문서. |
+| document | Document | Document에서 주석이 생성될 위치. |
 
-### 참조
+### 또 보기
 
-* 클래스 [Document](../../../aspose.pdf/document/)
-* 클래스 [MarkupAnnotation](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [MarkupAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

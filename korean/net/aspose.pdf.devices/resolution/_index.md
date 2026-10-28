@@ -1,12 +1,12 @@
 ---
-title: Class Resolution
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Devices.Resolution 클래스. 이미지 해상도를 보유하는 클래스입니다.
+title: "Resolution 클래스"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Devices.Resolution 클래스. 이미지 해상도를 보유하는 클래스를 나타냅니다."
 type: docs
-weight: 3660
+weight: 3780
 url: /ko/net/aspose.pdf.devices/resolution/
 ---
-## 해상도 클래스
+## Resolution class
 
 이미지 해상도를 보유하는 클래스를 나타냅니다.
 
@@ -28,7 +28,9 @@ public sealed class Resolution
 | [X](../../aspose.pdf.devices/resolution/x/) { get; set; } | 수평 이미지 해상도를 가져오거나 설정합니다. |
 | [Y](../../aspose.pdf.devices/resolution/y/) { get; set; } | 수직 이미지 해상도를 가져오거나 설정합니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../)
+
+

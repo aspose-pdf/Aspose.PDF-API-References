@@ -1,12 +1,12 @@
 ---
-title: Enum SaveFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.SaveFormat 열거형. .doc 또는 .docx 파일 형식을 지정할 수 있습니다.
+title: "열거형 SaveFormat"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Plugins.SaveFormat 열거형. .doc 또는 .docx 파일 형식을 지정할 수 있습니다."
 type: docs
-weight: 9220
+weight: 9370
 url: /ko/net/aspose.pdf.plugins/saveformat/
 ---
-## SaveFormat 열거형
+## SaveFormat enumeration
 
 .doc 또는 .docx 파일 형식을 지정할 수 있습니다.
 
@@ -18,10 +18,12 @@ public enum SaveFormat
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
-| Doc | `0` | \c \[MS-DOC]: Word (.doc) 이진 파일 형식 |
+| Doc | `0` | \c \[MS-DOC]: Word (.doc) 바이너리 파일 형식 |
 | DocX | `1` | Office Open XML (.docx) 파일 형식 |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

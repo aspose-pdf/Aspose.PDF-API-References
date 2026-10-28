@@ -1,14 +1,14 @@
 ---
-title: SetGlyphsPositionShowText.SetGlyphsPositionShowText
-second_title: Aspose.PDF for .NET API Reference
-description: SetGlyphsPositionShowText 생성자. TJ 연산자를 위한 생성자
+title: "SetGlyphsPositionShowText.SetGlyphsPositionShowText"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "SetGlyphsPositionShowText 생성자. TJ 연산자를 위한 생성자"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.operators/setglyphspositionshowtext/setglyphspositionshowtext/
 ---
-## SetGlyphsPositionShowText 생성자
+## SetGlyphsPositionShowText constructor
 
-TJ 연산자를 위한 생성자.
+TJ 연산자에 대한 생성자입니다.
 
 ```csharp
 public SetGlyphsPositionShowText(IEnumerable<GlyphPosition> glyphPositions)
@@ -16,11 +16,13 @@ public SetGlyphsPositionShowText(IEnumerable<GlyphPosition> glyphPositions)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| glyphPositions | IEnumerable`1 | 글리프 위치 목록. |
+| glyphPositions | IEnumerable`1 | Glyph 위치 목록. |
 
-### 참조
+### 또 보기
 
-* 클래스 [GlyphPosition](../../glyphposition/)
-* 클래스 [SetGlyphsPositionShowText](../)
-* 네임스페이스 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [GlyphPosition](../../glyphposition/)
+* class [SetGlyphsPositionShowText](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

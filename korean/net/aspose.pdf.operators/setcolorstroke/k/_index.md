@@ -1,21 +1,23 @@
 ---
-title: SetColorStroke.K
-second_title: Aspose.PDF for .NET API Reference
-description: SetColorStroke 속성. 검정 구성 요소를 가져오거나 설정합니다.
+title: "SetColorStroke.K"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "SetColorStroke 속성. 검은색 구성 요소를 가져오거나 설정합니다"
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf.operators/setcolorstroke/k/
 ---
-## SetColorStroke.K 속성
+## SetColorStroke.K property
 
-검정 구성 요소를 가져오거나 설정합니다.
+검은색 구성 요소를 가져오거나 설정합니다.
 
 ```csharp
 public double K { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [SetColorStroke](../)
-* 네임스페이스 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [SetColorStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,27 +1,29 @@
 ---
-title: Enum CapStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.CapStyle 열거형. 잉크 주석 선의 선 끝 스타일
+title: "열거형 CapStyle"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Annotations.CapStyle 열거형. Ink 주석 라인의 선 끝 스타일"
 type: docs
-weight: 1540
+weight: 1630
 url: /ko/net/aspose.pdf.annotations/capstyle/
 ---
-## CapStyle 열거형
+## CapStyle enumeration
 
-잉크 주석 선의 선 끝 스타일.
+잉크 주석 선의 라인 엔딩 스타일입니다.
 
 ```csharp
 public enum CapStyle
 ```
 
-### 값들
+### 값
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
-| Rectangular | `1` | 끝이 직사각형입니다. |
-| Rounded | `2` | 끝이 둥글게 처리됩니다. |
+| Rectangular | `1` | 끝은 사각형입니다. |
+| Rounded | `2` | 끝은 둥근 형태입니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

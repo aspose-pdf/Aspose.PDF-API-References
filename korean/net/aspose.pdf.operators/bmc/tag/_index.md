@@ -1,12 +1,12 @@
 ---
-title: BMC.Tag
-second_title: Aspose.PDF for .NET API Reference
-description: BMC 속성. 표시된 콘텐츠 태그를 가져오거나 설정합니다
+title: "BMC.Tag"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "BMC 속성. 표시된 콘텐츠 태그를 가져오거나 설정합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.operators/bmc/tag/
 ---
-## BMC.Tag 속성
+## BMC.Tag property
 
 표시된 콘텐츠 태그를 가져오거나 설정합니다
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.operators/bmc/tag/
 public string Tag { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [BMC](../)
-* 네임스페이스 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [BMC](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

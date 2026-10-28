@@ -1,12 +1,12 @@
 ---
-title: Page.Header
-second_title: Aspose.PDF for .NET API Reference
-description: 페이지 속성. 페이지 헤더를 가져오거나 설정합니다.
+title: "Page.Header"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Page 속성. 페이지 헤더를 가져오거나 설정합니다"
 type: docs
 weight: 150
 url: /ko/net/aspose.pdf/page/header/
 ---
-## Page.Header 속성
+## Page.Header property
 
 페이지 헤더를 가져오거나 설정합니다.
 
@@ -14,13 +14,15 @@ url: /ko/net/aspose.pdf/page/header/
 public HeaderFooter Header { get; set; }
 ```
 
-### 속성 값
+### Property Value
 
 페이지 헤더입니다.
 
-### 참조
+### 또 보기
 
 * class [HeaderFooter](../../headerfooter/)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

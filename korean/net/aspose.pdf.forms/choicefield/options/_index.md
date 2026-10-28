@@ -1,12 +1,12 @@
 ---
-title: ChoiceField.Options
-second_title: Aspose.PDF for .NET API Reference
-description: ChoiceField 속성. 선택 옵션 컬렉션을 가져옵니다.
+title: "ChoiceField.Options"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ChoiceField 속성. 선택 옵션 컬렉션을 가져옵니다."
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf.forms/choicefield/options/
 ---
-## ChoiceField.Options 속성
+## ChoiceField.Options property
 
 선택 옵션 컬렉션을 가져옵니다.
 
@@ -14,9 +14,11 @@ url: /ko/net/aspose.pdf.forms/choicefield/options/
 public virtual OptionCollection Options { get; }
 ```
 
-### 참조
+### 또 보기
 
 * class [OptionCollection](../../optioncollection/)
 * class [ChoiceField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfExtractor.ExtractText
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor 메서드. 유니코드 인코딩을 사용하여 Pdf 문서에서 텍스트를 추출합니다.
+title: "PdfExtractor.ExtractText"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfExtractor 메서드. Unicode 인코딩을 사용하여 Pdf 문서에서 텍스트를 추출합니다."
 type: docs
 weight: 130
 url: /ko/net/aspose.pdf.facades/pdfextractor/extracttext/
 ---
 ## ExtractText() {#extracttext}
 
-유니코드 인코딩을 사용하여 Pdf 문서에서 텍스트를 추출합니다.
+Unicode 인코딩을 사용하여 Pdf 문서에서 텍스트를 추출합니다.
 
 ```csharp
 public void ExtractText()
@@ -61,11 +61,11 @@ While extractor.HasNextPageText()
 End While
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfExtractor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -79,7 +79,7 @@ public void ExtractText(Encoding encoding)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| encoding | Encoding | 추출된 텍스트의 인코딩입니다. |
+| encoding | 인코딩 | 추출된 텍스트의 인코딩입니다. |
 
 ## 예제
 
@@ -128,8 +128,10 @@ While extractor.HasNextPageText()
 End While
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfExtractor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

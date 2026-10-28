@@ -1,12 +1,12 @@
 ---
-title: Class FileCitation
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.FileCitation 클래스. 파일 인용을 나타냅니다.
+title: "클래스 FileCitation"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.AI.FileCitation 클래스. 파일 인용을 나타냅니다."
 type: docs
-weight: 360
+weight: 380
 url: /ko/net/aspose.pdf.ai/filecitation/
 ---
-## FileCitation 클래스
+## FileCitation class
 
 파일 인용을 나타냅니다.
 
@@ -18,15 +18,17 @@ public class FileCitation
 
 | 이름 | 설명 |
 | --- | --- |
-| [FileCitation](filecitation/)() | 기본 생성자입니다. |
+| [FileCitation](filecitation/)() | 기본 생성자. |
 
 ## 속성
 
 | 이름 | 설명 |
 | --- | --- |
-| [FileId](../../aspose.pdf.ai/filecitation/fileid/) { get; set; } | 인용이 포함된 특정 파일의 ID를 가져오거나 설정합니다. |
+| [FileId](../../aspose.pdf.ai/filecitation/fileid/) { get; set; } | 인용이 발생한 특정 파일의 ID를 가져오거나 설정합니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.BorderWidthThin
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade 필드. 얇은 테두리 너비를 정의합니다.
+title: "FormFieldFacade.BorderWidthThin"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FormFieldFacade 필드. 얇은 테두리 너비를 정의합니다"
 type: docs
 weight: 370
 url: /ko/net/aspose.pdf.facades/formfieldfacade/borderwidththin/
 ---
-## FormFieldFacade.BorderWidthThin 필드
+## FormFieldFacade.BorderWidthThin field
 
 얇은 테두리 너비를 정의합니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.facades/formfieldfacade/borderwidththin/
 public const float BorderWidthThin;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [FormFieldFacade](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

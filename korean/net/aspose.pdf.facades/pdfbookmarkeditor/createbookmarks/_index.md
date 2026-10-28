@@ -1,14 +1,14 @@
 ---
-title: PdfBookmarkEditor.CreateBookmarks
-second_title: Aspose.PDF for .NET API Reference
-description: PdfBookmarkEditor 메서드. 모든 페이지에 대한 북마크를 생성합니다.
+title: "PdfBookmarkEditor.CreateBookmarks"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfBookmarkEditor 메서드. 모든 페이지에 대한 북마크를 생성합니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.facades/pdfbookmarkeditor/createbookmarks/
 ---
 ## CreateBookmarks() {#createbookmarks}
 
-모든 페이지에 대한 북마크를 생성합니다.
+모든 페이지에 북마크를 생성합니다.
 
 ```csharp
 public void CreateBookmarks()
@@ -23,7 +23,7 @@ editor.CreateBookmarks();
 editor.Save("example_out.pdf");
 ```
 
-### 참조
+### 또 보기
 
 * class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -41,7 +41,7 @@ public void CreateBookmarks(Bookmark bookmark)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| bookmark | Bookmark | 문서에 추가될 북마크입니다. |
+| 북마크 | 북마크 | 북마크가 문서에 추가됩니다. |
 
 ## 예제
 
@@ -66,7 +66,7 @@ editor.CreateBookmarks(bm);
 editor.Save("example_out.pdf");
 ```
 
-### 참조
+### 또 보기
 
 * class [Bookmark](../../bookmark/)
 * class [PdfBookmarkEditor](../)
@@ -77,7 +77,7 @@ editor.Save("example_out.pdf");
 
 ## CreateBookmarks(Color, bool, bool) {#createbookmarks_2}
 
-지정된 색상과 스타일(굵게, 기울임꼴)로 모든 페이지에 대한 북마크를 생성합니다.
+지정된 색상 및 스타일(굵게, 기울임)로 모든 페이지에 북마크를 생성합니다.
 
 ```csharp
 public void CreateBookmarks(Color color, bool boldFlag, bool italicFlag)
@@ -85,9 +85,9 @@ public void CreateBookmarks(Color color, bool boldFlag, bool italicFlag)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| color | Color | 제목의 색상입니다. |
-| boldFlag | Boolean | 굵게 속성의 플래그입니다. |
-| italicFlag | Boolean | 기울임꼴 속성의 플래그입니다. |
+| color | Color | 제목의 색상. |
+| boldFlag | Boolean | 굵게 속성의 플래그. |
+| italicFlag | Boolean | 이탤릭 속성의 플래그. |
 
 ## 예제
 
@@ -98,8 +98,10 @@ editor.CreateBookmarks(System.Drawing.Color.Red, true, true);
 editor.Save("example_out.pdf");
 ```
 
-### 참조
+### 또 보기
 
 * class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: StructureElement.Title
-second_title: Aspose.PDF for .NET API Reference
-description: StructureElement 속성. 구조 요소의 제목을 가져오거나 설정합니다.
+title: "StructureElement.Title"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "StructureElement 속성. 구조 요소의 제목을 가져오거나 설정합니다."
 type: docs
 weight: 100
 url: /ko/net/aspose.pdf.logicalstructure/structureelement/title/
 ---
-## StructureElement.Title 속성
+## StructureElement.Title property
 
 구조 요소의 제목을 가져오거나 설정합니다.
 
@@ -14,12 +14,14 @@ url: /ko/net/aspose.pdf.logicalstructure/structureelement/title/
 public string Title { get; set; }
 ```
 
-### 속성 값
+### Property Value
 
 구조 요소의 제목.
 
-### 참조
+### 또 보기
 
-* 클래스 [StructureElement](../)
-* 네임스페이스 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [StructureElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

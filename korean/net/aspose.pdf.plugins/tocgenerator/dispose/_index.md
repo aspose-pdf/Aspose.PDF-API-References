@@ -1,21 +1,23 @@
 ---
-title: TocGenerator.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: TocGenerator 메서드. IDisposable의 구현. 사실 TocGenerator에는 필요하지 않습니다.
+title: "TocGenerator.Dispose"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TocGenerator 메서드. IDisposable 구현. 실제로 TocGenerator에 필요하지 않습니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.plugins/tocgenerator/dispose/
 ---
-## TocGenerator.Dispose 메서드
+## TocGenerator.Dispose method
 
-IDisposable의 구현. 사실, TocGenerator에는 필요하지 않습니다.
+IDisposable 구현. 실제로 TocGenerator에 필요하지 않습니다.
 
 ```csharp
 public void Dispose()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [TocGenerator](../)
-* 네임스페이스 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TocGenerator](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

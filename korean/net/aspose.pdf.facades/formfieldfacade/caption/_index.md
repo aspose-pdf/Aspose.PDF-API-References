@@ -1,21 +1,23 @@
 ---
-title: FormFieldFacade.Caption
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade 속성. 양식 필드의 일반 캡션
+title: "FormFieldFacade.Caption"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FormFieldFacade 속성. 폼 필드의 일반 캡션"
 type: docs
 weight: 90
 url: /ko/net/aspose.pdf.facades/formfieldfacade/caption/
 ---
-## FormFieldFacade.Caption 속성
+## FormFieldFacade.Caption property
 
-양식 필드의 일반 캡션.
+폼 필드의 일반 캡션.
 
 ```csharp
 public string Caption { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [FormFieldFacade](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

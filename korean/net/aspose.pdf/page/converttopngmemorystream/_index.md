@@ -1,14 +1,14 @@
 ---
-title: Page.ConvertToPNGMemoryStream
-second_title: Aspose.PDF for .NET API Reference
-description: 페이지 메서드. DSR OMR OCR 이미지 스트림을 위한 페이지를 PNG로 변환
+title: "Page.ConvertToPNGMemoryStream"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Page 메서드. 페이지를 DSR OMR OCR 이미지 스트림용 PNG로 변환합니다."
 type: docs
 weight: 400
 url: /ko/net/aspose.pdf/page/converttopngmemorystream/
 ---
-## Page.ConvertToPNGMemoryStream 메서드
+## Page.ConvertToPNGMemoryStream method
 
-페이지를 DSR, OMR, OCR 이미지 스트림을 위한 PNG로 변환합니다.
+DSR, OMR, OCR 이미지 스트림을 위해 페이지를 PNG로 변환합니다.
 
 ```csharp
 public MemoryStream ConvertToPNGMemoryStream()
@@ -18,8 +18,10 @@ public MemoryStream ConvertToPNGMemoryStream()
 
 이미지 스트림.
 
-### 참조
+### 또 보기
 
-* 클래스 [Page](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

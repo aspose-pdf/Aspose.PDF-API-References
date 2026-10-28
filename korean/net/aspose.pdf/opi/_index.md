@@ -1,14 +1,14 @@
 ---
-title: Class Opi
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Opi 클래스. Open Prepress Interface OPI는 고해상도 이미지에 대한 저해상도 자리 표시자 또는 프록시를 생성하는 메커니즘입니다.
+title: "클래스 Opi"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Opi 클래스. Open Prepress Interface OPI는 고해상도 이미지에 대한 저해상도 자리표시자 또는 프록시를 생성하는 메커니즘을 나타냅니다."
 type: docs
-weight: 7940
+weight: 8080
 url: /ko/net/aspose.pdf/opi/
 ---
-## Opi 클래스
+## Opi class
 
-Open Prepress Interface (OPI)는 고해상도 이미지에 대한 저해상도 자리 표시자 또는 프록시를 생성하는 메커니즘입니다.
+Open Prepress Interface (OPI)는 고해상도 이미지를 위한 저해상도 자리표시자 또는 프록시를 생성하는 메커니즘을 나타냅니다.
 
 ```csharp
 public sealed class Opi
@@ -24,11 +24,13 @@ public sealed class Opi
 
 | 이름 | 설명 |
 | --- | --- |
-| [FileSpecification](../../aspose.pdf/opi/filespecification/) { get; } | 저해상도 프록시 이미지가 포함된 외부 파일을 가져옵니다. |
-| [Position](../../aspose.pdf/opi/position/) { get; } | 잘린 이미지의 페이지 위치를 지정하는 형태의 여덟 개 숫자 배열을 가져옵니다. |
-| [Version](../../aspose.pdf/opi/version/) { get; } | 이 사전이 참조하는 OPI의 버전을 가져옵니다. |
+| [FileSpecification](../../aspose.pdf/opi/filespecification/) { get; } | 저해상도 프록시 이미지를 포함하는 외부 파일을 가져옵니다. |
+| [Position](../../aspose.pdf/opi/position/) { get; } | 잘라낸 이미지의 페이지 내 위치를 지정하는 형식의 8개 숫자 배열을 가져옵니다. |
+| [Version](../../aspose.pdf/opi/version/) { get; } | 이 사전이 참조하는 OPI 버전을 가져옵니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf](../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

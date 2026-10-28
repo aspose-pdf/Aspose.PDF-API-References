@@ -1,21 +1,23 @@
 ---
-title: HtmlLoadOptions.BasePath
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlLoadOptions 속성. html 파일의 기본 경로/url
+title: "HtmlLoadOptions.BasePath"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "HtmlLoadOptions 속성. HTML 파일의 기본 경로/URL"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf/htmlloadoptions/basepath/
 ---
-## HtmlLoadOptions.BasePath 속성
+## HtmlLoadOptions.BasePath property
 
-html 파일의 기본 경로/url입니다.
+HTML 파일의 기본 경로/URL입니다.
 
 ```csharp
 public string BasePath { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [HtmlLoadOptions](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [HtmlLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

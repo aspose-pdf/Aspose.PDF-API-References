@@ -1,12 +1,12 @@
 ---
-title: TableCellBuilder.AddParagraph
-second_title: Aspose.PDF for .NET API Reference
-description: TableCellBuilder 메서드. 테이블 셀에 단락 추가
+title: "TableCellBuilder.AddParagraph"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TableCellBuilder 메서드. 테이블 셀에 단락을 추가합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.plugins/tablecellbuilder/addparagraph/
 ---
-## TableCellBuilder.AddParagraph 메서드
+## TableCellBuilder.AddParagraph method
 
 테이블 셀에 단락을 추가합니다.
 
@@ -16,15 +16,17 @@ public TableCellBuilder AddParagraph(params BaseParagraph[] paragraph)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| paragraph | BaseParagraph[] |  |
+| 단락 | BaseParagraph[] |  |
 
 ### 반환 값
 
 현재 [`TableCellBuilder`](../)의 인스턴스입니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [BaseParagraph](../../../aspose.pdf/baseparagraph/)
-* 클래스 [TableCellBuilder](../)
-* 네임스페이스 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [BaseParagraph](../../../aspose.pdf/baseparagraph/)
+* class [TableCellBuilder](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: Matrix.Elements
-second_title: Aspose.PDF for .NET API Reference
-description: 행렬 속성. 행렬의 요소
+title: "Matrix.Elements"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Matrix 속성. 행렬의 요소"
 type: docs
 weight: 110
 url: /ko/net/aspose.pdf/matrix/elements/
 ---
-## Matrix.Elements 속성
+## Matrix.Elements property
 
-행렬의 요소.
+Matrix의 요소들입니다.
 
 ```csharp
 public float[] Elements { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Matrix](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

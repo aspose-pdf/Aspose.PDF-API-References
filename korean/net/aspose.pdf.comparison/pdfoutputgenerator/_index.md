@@ -1,12 +1,12 @@
 ---
-title: Class PdfOutputGenerator
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Comparison.PdfOutputGenerator 클래스. 텍스트 차이의 PDF 표현을 생성하는 클래스를 나타냅니다.
+title: "클래스 PdfOutputGenerator"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Comparison.PdfOutputGenerator 클래스. 텍스트 차이점의 PDF 표현을 생성하는 클래스를 나타냅니다."
 type: docs
-weight: 3280
+weight: 3390
 url: /ko/net/aspose.pdf.comparison/pdfoutputgenerator/
 ---
-## PdfOutputGenerator 클래스
+## PdfOutputGenerator class
 
 텍스트 차이의 PDF 표현을 생성하는 클래스를 나타냅니다.
 
@@ -30,8 +30,10 @@ public class PdfOutputGenerator : IFileOutputGenerator
 | [GenerateOutput](../../aspose.pdf.comparison/pdfoutputgenerator/generateoutput/#generateoutput)(List&lt;DiffOperation&gt;, string) | 텍스트 간의 차이를 기반으로 출력을 생성하고 파일에 저장합니다. |
 | [GenerateOutput](../../aspose.pdf.comparison/pdfoutputgenerator/generateoutput/#generateoutput_1)(List&lt;List&lt;DiffOperation&gt;&gt;, string) | 텍스트 간의 차이를 기반으로 출력을 생성하고 파일에 저장합니다. |
 
-### 참조
+### 또 보기
 
-* 인터페이스 [IFileOutputGenerator](../ifileoutputgenerator/)
-* 네임스페이스 [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
-* 어셈블리 [Aspose.PDF](../../)
+* interface [IFileOutputGenerator](../ifileoutputgenerator/)
+* namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../)
+
+

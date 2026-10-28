@@ -1,21 +1,23 @@
 ---
-title: Document.FlattenTransparency
-second_title: Aspose.PDF for .NET API Reference
-description: 문서 메서드. 투명한 내용을 비투명한 비트맵 및 벡터 그래픽으로 교체합니다.
+title: "Document.FlattenTransparency"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Document 메서드. 투명한 콘텐츠를 비투명 래스터 및 벡터 그래픽으로 교체합니다."
 type: docs
-weight: 650
+weight: 670
 url: /ko/net/aspose.pdf/document/flattentransparency/
 ---
-## Document.FlattenTransparency 메서드
+## Document.FlattenTransparency method
 
-투명한 내용을 비투명한 비트맵 및 벡터 그래픽으로 교체합니다.
+투명 콘텐츠를 비투명 래스터 및 벡터 그래픽으로 교체합니다.
 
 ```csharp
 public void FlattenTransparency()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Document](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

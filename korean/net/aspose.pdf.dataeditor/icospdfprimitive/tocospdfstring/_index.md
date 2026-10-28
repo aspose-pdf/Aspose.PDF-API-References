@@ -1,14 +1,14 @@
 ---
-title: ICosPdfPrimitive.ToCosPdfString
-second_title: Aspose.PDF for .NET API Reference
-description: ICosPdfPrimitive 메서드. 이 인스턴스를 CosPdfString으로 변환하려고 시도합니다.
+title: "ICosPdfPrimitive.ToCosPdfString"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ICosPdfPrimitive 메서드. 이 인스턴스를 CosPdfString으로 캐스팅하려 시도합니다"
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf.dataeditor/icospdfprimitive/tocospdfstring/
 ---
-## ICosPdfPrimitive.ToCosPdfString 메서드
+## ICosPdfPrimitive.ToCosPdfString method
 
-이 인스턴스를 [`CosPdfString`](../../cospdfstring/)으로 변환하려고 시도합니다.
+이 인스턴스를 [`CosPdfString`](../../cospdfstring/)로 캐스팅하려 시도합니다.
 
 ```csharp
 public CosPdfString ToCosPdfString()
@@ -16,11 +16,13 @@ public CosPdfString ToCosPdfString()
 
 ### 반환 값
 
-인스턴스가 [`CosPdfString`](../../cospdfstring/)이 아닌 경우 null, 그렇지 않으면 [`CosPdfString`](../../cospdfstring/)입니다.
+인스턴스가 [`CosPdfString`](../../cospdfstring/)가 아니면 null, 그렇지 않으면 [`CosPdfString`](../../cospdfstring/)를 반환합니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [CosPdfString](../../cospdfstring/)
-* 인터페이스 [ICosPdfPrimitive](../)
-* 네임스페이스 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [CosPdfString](../../cospdfstring/)
+* interface [ICosPdfPrimitive](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class TextProperties
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.TextProperties 클래스. 텍스트 크기, 색상, 스타일 등의 텍스트 속성을 나타냅니다.
+title: "클래스 TextProperties"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Facades.TextProperties 클래스. 텍스트 크기, 색상, 스타일 등과 같은 텍스트 속성을 나타냅니다."
 type: docs
-weight: 4760
+weight: 4880
 url: /ko/net/aspose.pdf.facades/textproperties/
 ---
-## TextProperties 클래스
+## TextProperties class
 
-텍스트 크기, 색상, 스타일 등의 텍스트 속성을 나타냅니다.
+텍스트 크기, 색상, 스타일 등과 같은 텍스트 속성을 나타냅니다.
 
 ```csharp
 public sealed class TextProperties
@@ -29,7 +29,9 @@ public sealed class TextProperties
 | [IsTextSizeSpecified](../../aspose.pdf.facades/textproperties/istextsizespecified/) { get; } | [`TextSize`](./textsize/) 속성이 지정되었는지 여부를 나타내는 값을 가져오거나 설정합니다. |
 | [TextSize](../../aspose.pdf.facades/textproperties/textsize/) { get; set; } | 텍스트 크기를 가져오거나 설정합니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

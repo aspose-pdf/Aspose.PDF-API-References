@@ -1,21 +1,23 @@
 ---
-title: TocInfo.IsCountTocPages
-second_title: Aspose.PDF for .NET API Reference
-description: TocInfo 속성. 카운트 또는 전달된 toc 페이지를 가져오거나 설정합니다.
+title: "TocInfo.IsCountTocPages"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TocInfo 속성. toc 페이지를 계산할지 또는 전달할지를 가져오거나 설정합니다."
 type: docs
 weight: 60
 url: /ko/net/aspose.pdf/tocinfo/iscounttocpages/
 ---
-## TocInfo.IsCountTocPages 속성
+## TocInfo.IsCountTocPages property
 
-카운트 또는 전달된 toc 페이지를 가져오거나 설정합니다.
+목차 페이지 수 또는 전달된 페이지 수인지 여부를 가져오거나 설정합니다.
 
 ```csharp
 public bool IsCountTocPages { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [TocInfo](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TocInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

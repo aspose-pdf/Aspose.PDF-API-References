@@ -1,14 +1,14 @@
 ---
-title: Interface IFacade
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.IFacade 인터페이스. 일반적인 파사드 인터페이스로, 공통 파사드 메서드를 정의합니다.
+title: "인터페이스 IFacade"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Facades.IFacade 인터페이스. 공통 파사드 메서드를 정의하는 일반 파사드 인터페이스"
 type: docs
-weight: 4360
+weight: 4480
 url: /ko/net/aspose.pdf.facades/ifacade/
 ---
-## IFacade 인터페이스
+## IFacade interface
 
-일반적인 파사드 인터페이스로, 공통 파사드 메서드를 정의합니다.
+공통 파사드 메서드를 정의하는 일반 파사드 인터페이스입니다.
 
 ```csharp
 public interface IFacade : IDisposable
@@ -18,12 +18,14 @@ public interface IFacade : IDisposable
 
 | 이름 | 설명 |
 | --- | --- |
-| [BindPdf](../../aspose.pdf.facades/ifacade/bindpdf/#bindpdf)(Document) | 편집을 위해 PDF 문서를 바인딩합니다. |
-| [BindPdf](../../aspose.pdf.facades/ifacade/bindpdf/#bindpdf_1)(Stream) | 편집을 위해 PDF 문서를 바인딩합니다. |
-| [BindPdf](../../aspose.pdf.facades/ifacade/bindpdf/#bindpdf_2)(string) | 편집을 위해 PDF 문서를 바인딩합니다. |
-| [Close](../../aspose.pdf.facades/ifacade/close/)() | 현재 파사드와 관련된 모든 리소스를 해제합니다. |
+| [BindPdf](../../aspose.pdf.facades/ifacade/bindpdf/#bindpdf)(Document) | PDF Document을 편집용으로 바인딩합니다. |
+| [BindPdf](../../aspose.pdf.facades/ifacade/bindpdf/#bindpdf_1)(Stream) | PDF Document을 편집용으로 바인딩합니다. |
+| [BindPdf](../../aspose.pdf.facades/ifacade/bindpdf/#bindpdf_2)(string) | PDF Document을 편집용으로 바인딩합니다. |
+| [Close](../../aspose.pdf.facades/ifacade/close/)() | 현재 파사드와 연결된 모든 리소스를 해제합니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

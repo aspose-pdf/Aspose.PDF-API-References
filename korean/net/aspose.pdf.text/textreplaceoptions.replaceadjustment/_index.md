@@ -1,14 +1,14 @@
 ---
-title: Enum TextReplaceOptions.ReplaceAdjustment
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.TextReplaceOptionsReplaceAdjustment 열. 더 짧은 텍스트 조각으로 교체한 후 수행할 작업을 결정합니다. None - 아무 작업도 하지 않으며, 교체된 텍스트가 나머지 줄과 겹칠 수 있습니다. AdjustSpaceWidth - 줄 길이를 유지하기 위해 단어 사이의 공백을 조정하려고 시도합니다. WholeWordsHyphenation - 단락의 올바른 필드를 유지하기 위해 단어를 단락 줄 사이에 분배하려고 시도합니다. ShiftRestOfLine - 텍스트의 길이에 따라 나머지 줄을 이동합니다. 줄의 길이는 변경될 수 있습니다. 기본값은 ShiftRestOfLine입니다.
+title: "Enum TextReplaceOptions.ReplaceAdjustment"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Text.TextReplaceOptionsReplaceAdjustment 열거형. 텍스트 조각을 더 짧게 교체한 후 수행될 작업을 결정합니다. None  작업 없음, 교체된 텍스트가 줄의 나머지와 겹칠 수 있음 AdjustSpaceWidth  단어 사이의 공백을 조정하여 줄 길이를 유지하려 시도합니다 WholeWordsHyphenation  단락 줄 사이에 단어를 배분하여 단락의 오른쪽 여백을 유지하려 시도합니다 ShiftRestOfLine  텍스트 길이 변경에 따라 줄의 나머지를 이동합니다. 줄 길이가 변경될 수 있습니다 기본값은 ShiftRestOfLine입니다"
 type: docs
-weight: 11020
+weight: 11210
 url: /ko/net/aspose.pdf.text/textreplaceoptions.replaceadjustment/
 ---
-## TextReplaceOptions.ReplaceAdjustment 열거형
+## TextReplaceOptions.ReplaceAdjustment enumeration
 
-더 짧은 텍스트 조각으로 교체한 후 수행할 작업을 결정합니다. None - 아무 작업도 하지 않으며, 교체된 텍스트가 나머지 줄과 겹칠 수 있습니다; AdjustSpaceWidth - 줄 길이를 유지하기 위해 단어 사이의 공백을 조정하려고 시도합니다; WholeWordsHyphenation - 단락의 올바른 필드를 유지하기 위해 단어를 단락 줄 사이에 분배하려고 시도합니다; ShiftRestOfLine - 텍스트의 길이에 따라 나머지 줄을 이동합니다. 줄의 길이는 변경될 수 있습니다; 기본값은 ShiftRestOfLine입니다.
+텍스트 조각을 더 짧게 교체한 후 수행될 작업을 결정합니다. None - 작업 없음, 교체된 텍스트가 줄의 나머지와 겹칠 수 있음; AdjustSpaceWidth - 단어 사이의 공백을 조정하여 줄 길이를 유지하려 시도합니다; WholeWordsHyphenation - 단락 줄 사이에 단어를 배분하여 단락의 오른쪽 여백을 유지하려 시도합니다; ShiftRestOfLine - 텍스트 길이 변경에 따라 줄의 나머지를 이동합니다. 줄 길이가 변경될 수 있습니다; 기본값은 ShiftRestOfLine입니다.
 
 ```csharp
 [Flags]
@@ -19,14 +19,16 @@ public enum ReplaceAdjustment
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
-| None | `0` | 아무 작업도 하지 않으며, 교체된 텍스트가 나머지 줄과 겹칠 수 있습니다 |
-| AdjustSpaceWidth | `1` | 줄 길이를 유지하기 위해 단어 사이의 공백을 조정하려고 시도합니다 |
-| WholeWordsHyphenation | `2` | 단락의 올바른 필드를 유지하기 위해 단어를 단락 줄 사이에 분배하려고 시도합니다 |
-| IsFormFillingMode | `4` | 단락 너비를 사용하여 사용 가능한 공백에 단어를 퍼뜨리려고 시도합니다. 텍스트가 넘치면 숨겨집니다. |
-| ShiftRestOfLine | `8` | (기본값) 텍스트의 길이에 따라 나머지 줄을 이동합니다. 줄의 길이는 변경될 수 있습니다 |
+| None | `0` | 작업 없음, 교체된 텍스트가 줄의 나머지와 겹칠 수 있음 |
+| AdjustSpaceWidth | `1` | 단어 사이의 공백을 조정하여 줄 길이를 유지하려 시도합니다 |
+| WholeWordsHyphenation | `2` | 단락 줄 사이에 단어를 배분하여 단락의 오른쪽 여백을 유지하려 시도합니다 |
+| IsFormFillingMode | `4` | 단락 너비를 사용하여 사용 가능한 공백에 단어를 퍼뜨리려 시도합니다. 텍스트가 넘칠 경우 숨겨집니다. |
+| ShiftRestOfLine | `8` | (기본값) 텍스트 길이 변경에 따라 줄의 나머지를 이동합니다. 줄 길이가 변경될 수 있습니다 |
 
-### 참조
+### 또 보기
 
-* 클래스 [TextReplaceOptions](../textreplaceoptions/)
-* 네임스페이스 [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../)
+* class [TextReplaceOptions](../textreplaceoptions/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: ImageDescriptionResult.IsPdfDocumentPath
-second_title: Aspose.PDF for .NET API Reference
-description: ImageDescriptionResult 속성. ImageDescriptionResult가 PDF 문서 경로를 포함하는지 여부를 나타내는 값을 가져옵니다.
+title: "ImageDescriptionResult.IsPdfDocumentPath"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ImageDescriptionResult 속성. ImageDescriptionResult에 PDF 문서 경로가 포함되어 있는지 여부를 나타내는 값을 가져옵니다."
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf.ai/imagedescriptionresult/ispdfdocumentpath/
 ---
-## ImageDescriptionResult.IsPdfDocumentPath 속성
+## ImageDescriptionResult.IsPdfDocumentPath property
 
-ImageDescriptionResult가 PDF 문서 경로를 포함하는지 여부를 나타내는 값을 가져옵니다.
+ImageDescriptionResult에 PDF 문서 경로가 포함되어 있는지 여부를 나타내는 값을 가져옵니다.
 
 ```csharp
 public bool IsPdfDocumentPath { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [ImageDescriptionResult](../)
-* 네임스페이스 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [ImageDescriptionResult](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

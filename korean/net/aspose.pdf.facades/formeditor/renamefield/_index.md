@@ -1,12 +1,12 @@
 ---
-title: FormEditor.RenameField
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor 메서드. 필드의 이름을 변경합니다.
+title: "FormEditor.RenameField"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FormEditor 메서드. 필드의 이름을 변경합니다"
 type: docs
 weight: 230
 url: /ko/net/aspose.pdf.facades/formeditor/renamefield/
 ---
-## FormEditor.RenameField 메서드
+## FormEditor.RenameField method
 
 필드의 이름을 변경합니다.
 
@@ -26,8 +26,10 @@ FormEditor formEditor = new FormEditor("PdfForm.pdf", "PdfForm_updated.pdf");
 formEditor.RenameField("textField", "textField_Renamed");
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [FormEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

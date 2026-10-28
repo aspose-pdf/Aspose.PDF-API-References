@@ -1,12 +1,12 @@
 ---
-title: Class FormEditor
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.FormEditor 클래스. FormEditor 플러그인을 나타냅니다.
+title: "클래스 FormEditor"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Plugins.FormEditor 클래스. FormEditor 플러그인을 나타냅니다."
 type: docs
-weight: 8620
+weight: 8750
 url: /ko/net/aspose.pdf.plugins/formeditor/
 ---
-## FormEditor 클래스
+## FormEditor class
 
 FormEditor 플러그인을 나타냅니다.
 
@@ -18,7 +18,7 @@ public sealed class FormEditor : IPlugin
 
 | 이름 | 설명 |
 | --- | --- |
-| [FormEditor](formeditor/)() | 기본 생성자입니다. |
+| [FormEditor](formeditor/)() | 기본 생성자. |
 
 ## 메서드
 
@@ -26,8 +26,10 @@ public sealed class FormEditor : IPlugin
 | --- | --- |
 | [Process](../../aspose.pdf.plugins/formeditor/process/)(IPluginOptions) | 지정된 매개변수로 FormEditor 처리를 시작합니다. |
 
-### 참조
+### 또 보기
 
-* 인터페이스 [IPlugin](../iplugin/)
-* 네임스페이스 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* 어셈블리 [Aspose.PDF](../../)
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

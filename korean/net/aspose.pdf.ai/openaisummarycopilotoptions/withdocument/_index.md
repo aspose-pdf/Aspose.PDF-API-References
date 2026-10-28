@@ -1,9 +1,9 @@
 ---
-title: OpenAISummaryCopilotOptions.WithDocument
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAISummaryCopilotOptions 메서드. 요약 코파일럿 옵션을 위한 문서 컬렉션에 텍스트 문서를 추가합니다.
+title: "OpenAISummaryCopilotOptions.WithDocument"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "OpenAISummaryCopilotOptions 메서드. 요약 코파일럿 옵션을 위한 문서 컬렉션에 텍스트 문서를 추가합니다."
 type: docs
-weight: 60
+weight: 70
 url: /ko/net/aspose.pdf.ai/openaisummarycopilotoptions/withdocument/
 ---
 ## WithDocument(TextDocument) {#withdocument_1}
@@ -14,15 +14,15 @@ url: /ko/net/aspose.pdf.ai/openaisummarycopilotoptions/withdocument/
 public OpenAISummaryCopilotOptions WithDocument(TextDocument textDocument)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| textDocument | TextDocument | 추가할 텍스트 문서입니다. |
+| textDocument | TextDocument | 추가할 텍스트 문서. |
 
-### Return Value
+### 반환 값
 
-현재 인스턴스의 [`OpenAISummaryCopilotOptions`](../)입니다.
+현재 [`OpenAISummaryCopilotOptions`](../) 인스턴스입니다.
 
-### See Also
+### 또 보기
 
 * class [TextDocument](../../textdocument/)
 * class [OpenAISummaryCopilotOptions](../)
@@ -39,15 +39,15 @@ public OpenAISummaryCopilotOptions WithDocument(TextDocument textDocument)
 public OpenAISummaryCopilotOptions WithDocument(PdfDocument pdfDocument)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| pdfDocument | PdfDocument | 추가할 PDF 문서입니다. |
+| pdfDocument | PdfDocument | 추가할 PDF 문서. |
 
-### Return Value
+### 반환 값
 
-현재 인스턴스의 [`OpenAISummaryCopilotOptions`](../)입니다.
+현재 [`OpenAISummaryCopilotOptions`](../) 인스턴스입니다.
 
-### See Also
+### 또 보기
 
 * class [PdfDocument](../../pdfdocument/)
 * class [OpenAISummaryCopilotOptions](../)
@@ -64,16 +64,18 @@ public OpenAISummaryCopilotOptions WithDocument(PdfDocument pdfDocument)
 public OpenAISummaryCopilotOptions WithDocument(string filePath)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| filePath | String | 추가할 문서의 파일 경로입니다. |
+| filePath | String | 추가할 문서의 파일 경로. |
 
-### Return Value
+### 반환 값
 
-현재 인스턴스의 [`OpenAISummaryCopilotOptions`](../)입니다.
+현재 [`OpenAISummaryCopilotOptions`](../) 인스턴스입니다.
 
-### See Also
+### 또 보기
 
 * class [OpenAISummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

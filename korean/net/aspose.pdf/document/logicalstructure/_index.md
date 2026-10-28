@@ -1,22 +1,24 @@
 ---
-title: Document.LogicalStructure
-second_title: Aspose.PDF for .NET API Reference
-description: 문서 속성. 문서의 논리적 구조를 가져옵니다
+title: "Document.LogicalStructure"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Document 속성. 문서의 논리 구조를 가져옵니다."
 type: docs
-weight: 350
+weight: 370
 url: /ko/net/aspose.pdf/document/logicalstructure/
 ---
-## Document.LogicalStructure 속성
+## Document.LogicalStructure property
 
-문서의 논리적 구조를 가져옵니다.
+document의 논리 구조를 가져옵니다.
 
 ```csharp
 public RootElement LogicalStructure { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [RootElement](../../../aspose.pdf.structure/rootelement/)
-* 클래스 [Document](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [RootElement](../../../aspose.pdf.structure/rootelement/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

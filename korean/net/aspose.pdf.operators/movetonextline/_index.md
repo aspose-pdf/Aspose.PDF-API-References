@@ -1,14 +1,14 @@
 ---
-title: Class MoveToNextLine
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.MoveToNextLine 클래스. 다음 줄의 시작으로 이동하는 T 연산자를 나타내는 클래스
+title: "클래스 MoveToNextLine"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Operators.MoveToNextLine 클래스. T 연산자 다음 줄 시작으로 이동을 나타내는 클래스"
 type: docs
-weight: 7510
+weight: 7650
 url: /ko/net/aspose.pdf.operators/movetonextline/
 ---
-## MoveToNextLine 클래스
+## MoveToNextLine class
 
-T* 연산자(다음 줄의 시작으로 이동)를 나타내는 클래스입니다.
+T* 연산자를 나타내는 클래스 (다음 줄 시작으로 이동).
 
 ```csharp
 public class MoveToNextLine : TextPlaceOperator
@@ -24,7 +24,7 @@ public class MoveToNextLine : TextPlaceOperator
 
 | 이름 | 설명 |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | 페이지 연산자 목록에서의 연산자 인덱스입니다. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Page 연산자 목록에서 연산자 인덱스입니다. |
 
 ## 메서드
 
@@ -34,8 +34,10 @@ public class MoveToNextLine : TextPlaceOperator
 | override [ToString](../../aspose.pdf.operators/movetonextline/tostring/)() | 연산자의 텍스트를 반환합니다. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | 이 인스턴스를 주어진 객체와 비교합니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [TextPlaceOperator](../textplaceoperator/)
-* 네임스페이스 [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* 어셈블리 [Aspose.PDF](../../)
+* class [TextPlaceOperator](../textplaceoperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

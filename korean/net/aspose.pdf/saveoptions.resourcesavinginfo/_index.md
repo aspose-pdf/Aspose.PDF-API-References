@@ -1,12 +1,12 @@
 ---
-title: Class SaveOptions.ResourceSavingInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.SaveOptionsResourceSavingInfo 클래스. 이 클래스는 PDF를 다른 형식（예 HTML）으로 변환하는 동안 발생하는 외부 리소스 파일 저장과 관련된 데이터 집합을 나타냅니다.
+title: "클래스 SaveOptions.ResourceSavingInfo"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.SaveOptionsResourceSavingInfo 클래스. 이 클래스는 PDF를 다른 형식(예: HTML)으로 변환하는 동안 발생하는 외부 리소스 파일 저장과 관련된 데이터 집합을 나타냅니다."
 type: docs
-weight: 9940
+weight: 10090
 url: /ko/net/aspose.pdf/saveoptions.resourcesavinginfo/
 ---
-## SaveOptions.ResourceSavingInfo 클래스
+## SaveOptions.ResourceSavingInfo class
 
 이 클래스는 PDF를 다른 형식(예: HTML)으로 변환하는 동안 발생하는 외부 리소스 파일 저장과 관련된 데이터 집합을 나타냅니다.
 
@@ -18,18 +18,20 @@ public class ResourceSavingInfo
 
 | 이름 | 설명 |
 | --- | --- |
-| [ResourceType](../../aspose.pdf/saveoptions.resourcesavinginfo/resourcetype) { get; } | 변환기에 의해 설정됩니다. 변환기에서 사용자 정의 메서드의 코드로 전달되는 예상 파일 이름입니다. 사용자 정의 코드에서 파일을 처리하거나 저장할 위치를 결정하는 데 사용할 수 있습니다. |
+| [ResourceType](../../aspose.pdf/saveoptions.resourcesavinginfo/resourcetype) { get; } | 컨버터에 의해 설정됩니다. 컨버터에서 사용자 정의 메서드 코드로 전달되는 파일 이름이며, 사용자 정의 코드에서 파일을 어떻게 처리하거나 어디에 저장할지 결정하는 데 사용할 수 있습니다. |
 
 ## 필드
 
 | 이름 | 설명 |
 | --- | --- |
-| [ContentStream](../../aspose.pdf/saveoptions.resourcesavinginfo/contentstream) | 변환기에 의해 설정됩니다. 저장된 파일의 이진 콘텐츠를 나타냅니다. |
-| [CustomProcessingCancelled](../../aspose.pdf/saveoptions.resourcesavinginfo/customprocessingcancelled) | 이 플래그는 사용자 정의 코드에서 제안된 파일이 사용자 정의 코드가 아닌 변환기의 코드로 표준 방식으로 처리되어야 하는 경우 "true"로 설정해야 합니다. 따라서 true로 설정하면 사용자 정의 코드가 참조된 파일을 처리하지 않았으며 변환기가 이를 직접 처리해야 함을 의미합니다(저장할 위치와 참조 파일의 이름 모두에 대해). |
-| [SupposedFileName](../../aspose.pdf/saveoptions.resourcesavinginfo/supposedfilename) | 변환기에 의해 설정됩니다. 변환기에서 사용자 정의 메서드의 코드로 전달되는 예상 파일 이름입니다. 사용자 정의 코드에서 파일을 처리하거나 저장할 위치를 결정하는 데 사용할 수 있습니다. |
+| [ContentStream](../../aspose.pdf/saveoptions.resourcesavinginfo/contentstream) | 컨버터에 의해 설정됩니다. 저장된 파일의 바이너리 내용을 나타냅니다. |
+| [CustomProcessingCancelled](../../aspose.pdf/saveoptions.resourcesavinginfo/customprocessingcancelled) | 이 플래그는 특정 이유로 제안된 파일을 사용자 정의 코드가 아니라 컨버터의 코드 자체로 표준 방식에 따라 처리해야 하는 경우 사용자 정의 코드에서 "true"로 설정해야 합니다. 따라서 설정을 true로 하면 사용자 정의 코드가 해당 파일을 처리하지 않았으며 컨버터가 자체적으로 파일을 저장하고 파일명을 지정하는 등 모든 작업을 처리해야 함을 의미합니다. |
+| [SupposedFileName](../../aspose.pdf/saveoptions.resourcesavinginfo/supposedfilename) | 컨버터에 의해 설정됩니다. 컨버터에서 사용자 정의 메서드 코드로 전달되는 파일 이름이며, 사용자 정의 코드에서 파일을 어떻게 처리하거나 어디에 저장할지 결정하는 데 사용할 수 있습니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [SaveOptions](../saveoptions/)
-* 네임스페이스 [Aspose.Pdf](../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../)
+* class [SaveOptions](../saveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

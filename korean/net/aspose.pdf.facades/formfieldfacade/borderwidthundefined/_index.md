@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.BorderWidthUndefined
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade 필드. 정의되지 않은 테두리 너비
+title: "FormFieldFacade.BorderWidthUndefined"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FormFieldFacade 필드. 정의되지 않은 테두리 두께"
 type: docs
 weight: 380
 url: /ko/net/aspose.pdf.facades/formfieldfacade/borderwidthundefined/
 ---
-## FormFieldFacade.BorderWidthUndefined 필드
+## FormFieldFacade.BorderWidthUndefined field
 
 정의되지 않은 테두리 너비입니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.facades/formfieldfacade/borderwidthundefined/
 public const float BorderWidthUndefined;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [FormFieldFacade](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

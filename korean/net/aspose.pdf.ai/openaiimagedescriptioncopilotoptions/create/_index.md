@@ -1,7 +1,7 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.Create
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIImageDescriptionCopilotOptions 메서드. OpenAIImageDescriptionCopilotOptions의 새 인스턴스를 생성합니다.
+title: "OpenAIImageDescriptionCopilotOptions.Create"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "OpenAIImageDescriptionCopilotOptions 메서드. 새로운 OpenAIImageDescriptionCopilotOptions 인스턴스를 생성합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/create/
@@ -14,11 +14,11 @@ url: /ko/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/create/
 public static OpenAIImageDescriptionCopilotOptions Create()
 ```
 
-### Return Value
+### 반환 값
 
-[`OpenAIImageDescriptionCopilotOptions`](../)의 새 인스턴스입니다.
+새로운 [`OpenAIImageDescriptionCopilotOptions`](../) 인스턴스.
 
-### See Also
+### 또 보기
 
 * class [OpenAIImageDescriptionCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
@@ -28,23 +28,25 @@ public static OpenAIImageDescriptionCopilotOptions Create()
 
 ## Create(Action&lt;OpenAIImageDescriptionCopilotOptions&gt;) {#create_1}
 
-[`OpenAIImageDescriptionCopilotOptions`](../)의 인스턴스를 생성하고 제공된 델리게이트를 사용하여 구성합니다.
+`[`OpenAIImageDescriptionCopilotOptions`](../)`의 인스턴스를 생성하고 제공된 대리자를 사용해 구성합니다.
 
 ```csharp
 public static OpenAIImageDescriptionCopilotOptions Create(
     Action<OpenAIImageDescriptionCopilotOptions> config)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| config | Action`1 | 옵션을 구성하는 델리게이트입니다. |
+| 구성 | Action`1 | 옵션을 구성하기 위한 대리자입니다. |
 
-### Return Value
+### 반환 값
 
-구성된 [`OpenAIImageDescriptionCopilotOptions`](../)의 인스턴스입니다.
+구성된 [`OpenAIImageDescriptionCopilotOptions`](../) 인스턴스.
 
-### See Also
+### 또 보기
 
 * class [OpenAIImageDescriptionCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

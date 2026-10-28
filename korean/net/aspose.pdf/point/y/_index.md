@@ -1,12 +1,12 @@
 ---
-title: Point.Y
-second_title: Aspose.PDF for .NET API Reference
-description: 포인트 속성. Y 좌표 값
+title: "Point.Y"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Point 속성. Y 좌표 값"
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf/point/y/
 ---
-## Point.Y 속성
+## Point.Y property
 
 Y 좌표 값.
 
@@ -14,8 +14,10 @@ Y 좌표 값.
 public double Y { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Point](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Point](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

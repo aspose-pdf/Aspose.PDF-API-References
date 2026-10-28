@@ -1,12 +1,12 @@
 ---
-title: Class PdfQueryPageSettingsEventArgs
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Printing.PdfQueryPageSettingsEventArgs class. Provides data for the PdfQueryPageSettings event
+title: "클래스 PdfQueryPageSettingsEventArgs"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Printing.PdfQueryPageSettingsEventArgs 클래스. PdfQueryPageSettings 이벤트에 대한 데이터를 제공합니다."
 type: docs
-weight: 9640
+weight: 9790
 url: /ko/net/aspose.pdf.printing/pdfquerypagesettingseventargs/
 ---
-## PdfQueryPageSettingsEventArgs 클래스
+## PdfQueryPageSettingsEventArgs class
 
 [`PdfQueryPageSettings`](../../aspose.pdf.facades/pdfviewer/pdfquerypagesettings/) 이벤트에 대한 데이터를 제공합니다.
 
@@ -24,9 +24,11 @@ public class PdfQueryPageSettingsEventArgs : CancelEventArgs
 
 | 이름 | 설명 |
 | --- | --- |
-| [PageSettings](../../aspose.pdf.printing/pdfquerypagesettingseventargs/pagesettings/) { get; set; } | 인쇄할 페이지의 페이지 설정을 가져오거나 설정합니다. |
+| [PageSettings](../../aspose.pdf.printing/pdfquerypagesettingseventargs/pagesettings/) { get; set; } | 인쇄될 page의 page 설정을 가져오거나 설정합니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../)
+
+

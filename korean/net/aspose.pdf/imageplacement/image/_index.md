@@ -1,22 +1,24 @@
 ---
-title: ImagePlacement.Image
-second_title: Aspose.PDF for .NET API Reference
-description: ImagePlacement 속성. 관련된 XImage 리소스 객체를 가져옵니다.
+title: "ImagePlacement.Image"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ImagePlacement 속성. 관련 XImage 리소스 객체를 가져옵니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf/imageplacement/image/
 ---
-## ImagePlacement.Image 속성
+## ImagePlacement.Image property
 
-관련된 XImage 리소스 객체를 가져옵니다.
+관련 XImage 리소스 객체를 가져옵니다.
 
 ```csharp
 public XImage Image { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [XImage](../../ximage/)
-* 클래스 [ImagePlacement](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [XImage](../../ximage/)
+* class [ImagePlacement](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

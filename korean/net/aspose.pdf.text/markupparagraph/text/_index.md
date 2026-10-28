@@ -1,12 +1,12 @@
 ---
-title: MarkupParagraph.Text
-second_title: Aspose.PDF for .NET API Reference
-description: MarkupParagraph 속성. 단락 텍스트를 가져오거나 설정합니다.
+title: "MarkupParagraph.Text"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "MarkupParagraph property. 단락 텍스트를 가져오거나 설정합니다."
 type: docs
 weight: 60
 url: /ko/net/aspose.pdf.text/markupparagraph/text/
 ---
-## MarkupParagraph.Text 속성
+## MarkupParagraph.Text property
 
 단락 텍스트를 가져오거나 설정합니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.text/markupparagraph/text/
 public string Text { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [MarkupParagraph](../)
-* 네임스페이스 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [MarkupParagraph](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

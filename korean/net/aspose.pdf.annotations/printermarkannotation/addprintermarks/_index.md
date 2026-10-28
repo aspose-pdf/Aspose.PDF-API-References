@@ -1,7 +1,7 @@
 ---
-title: PrinterMarkAnnotation.AddPrinterMarks
-second_title: Aspose.PDF for .NET API Reference
-description: PrinterMarkAnnotation 메서드. 지정된 문서의 모든 페이지에 프린터 마크를 추가합니다.
+title: "PrinterMarkAnnotation.AddPrinterMarks"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PrinterMarkAnnotation 메서드. 지정된 문서의 모든 페이지에 프린터 마크를 추가합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.annotations/printermarkannotation/addprintermarks/
@@ -16,26 +16,26 @@ public static void AddPrinterMarks(Document document, PrinterMarksKind marksKind
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| document | Document | 프린터 마크가 추가될 문서입니다. |
-| marksKind | PrinterMarksKind | 추가할 프린터 마크의 종류입니다. |
+| document | Document | 프린터 마크가 추가될 문서. |
+| marksKind | PrinterMarksKind | 추가할 프린터 마크의 종류. |
 
 ### 예외
 
 | 예외 | 조건 |
 | --- | --- |
-| ArgumentNullException | *document*가 null일 때 발생합니다. |
+| ArgumentNullException | *document*가 null인 경우 발생합니다. |
 
 ## 비고
 
-이 메서드는 제공된 [`PrinterMarksKind`](../../printermarkskind/) 플래그에 따라 다양한 유형의 프린터 마크를 추가합니다. None이 제공되면 마크가 추가되지 않습니다.
+이 메서드는 제공된 [`PrinterMarksKind`](../../printermarkskind/) 플래그를 기반으로 다양한 유형의 프린터 마크를 추가합니다. None이 제공되면 마크가 추가되지 않습니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [Document](../../../aspose.pdf/document/)
-* 열거형 [PrinterMarksKind](../../printermarkskind/)
-* 클래스 [PrinterMarkAnnotation](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* enum [PrinterMarksKind](../../printermarkskind/)
+* class [PrinterMarkAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -49,23 +49,25 @@ public static void AddPrinterMarks(Page page, PrinterMarksKind marksKind)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| page | Page | 프린터 마크가 추가될 페이지입니다. |
-| marksKind | PrinterMarksKind | 추가할 프린터 마크의 종류입니다. |
+| 페이지 | 페이지 | 프린터 마크가 추가될 페이지. |
+| marksKind | PrinterMarksKind | 추가할 프린터 마크의 종류. |
 
 ### 예외
 
 | 예외 | 조건 |
 | --- | --- |
-| ArgumentNullException | *page*가 null일 때 발생합니다. |
+| ArgumentNullException | *page*가 null인 경우 발생합니다. |
 
 ## 비고
 
-이 메서드는 제공된 [`PrinterMarksKind`](../../printermarkskind/) 플래그에 따라 다양한 유형의 프린터 마크를 추가합니다. None이 제공되면 마크가 추가되지 않습니다.
+이 메서드는 제공된 [`PrinterMarksKind`](../../printermarkskind/) 플래그를 기반으로 다양한 유형의 프린터 마크를 추가합니다. None이 제공되면 마크가 추가되지 않습니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [Page](../../../aspose.pdf/page/)
-* 열거형 [PrinterMarksKind](../../printermarkskind/)
-* 클래스 [PrinterMarkAnnotation](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* enum [PrinterMarksKind](../../printermarkskind/)
+* class [PrinterMarkAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

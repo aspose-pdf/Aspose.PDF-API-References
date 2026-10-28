@@ -1,12 +1,12 @@
 ---
-title: Form.GetField
-second_title: Aspose.PDF for .NET API Reference
-description: Form 메서드. 필드 이름에 따라 필드 값을 가져옵니다.
+title: "Form.GetField"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Form 메서드. 필드 이름에 따라 필드 값을 가져옵니다."
 type: docs
 weight: 200
 url: /ko/net/aspose.pdf.facades/form/getfield/
 ---
-## Form.GetField 메서드
+## Form.GetField method
 
 필드 이름에 따라 필드 값을 가져옵니다.
 
@@ -16,11 +16,11 @@ public string GetField(string fieldName)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| fieldName | 문자열 | 완전한 필드 이름입니다. |
+| fieldName | String | 전체 한정된 필드 이름. |
 
 ### 반환 값
 
-필드의 값입니다.
+필드 값입니다.
 
 ## 예제
 
@@ -29,8 +29,10 @@ Form form = new Form("PdfForm.pdf");
 Console.WriteLine("Field value = " + form.GetField("Field1"));
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Form](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

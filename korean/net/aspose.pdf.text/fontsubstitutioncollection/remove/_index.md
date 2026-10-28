@@ -1,12 +1,12 @@
 ---
-title: FontSubstitutionCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: FontSubstitutionCollection 메서드. 글꼴 대체 요소를 삭제합니다.
+title: "FontSubstitutionCollection.Remove"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FontSubstitutionCollection 메서드. 글꼴 대체 요소를 삭제합니다"
 type: docs
 weight: 100
 url: /ko/net/aspose.pdf.text/fontsubstitutioncollection/remove/
 ---
-## FontSubstitutionCollection.Remove 메서드
+## FontSubstitutionCollection.Remove method
 
 글꼴 대체 요소를 삭제합니다.
 
@@ -20,11 +20,13 @@ public bool Remove(FontSubstitution item)
 
 ### 반환 값
 
-True - 요소가 제거된 경우; 그렇지 않으면 false입니다.
+True - 요소가 제거된 경우; 그렇지 않으면 false.
 
-### 참조
+### 또 보기
 
-* 클래스 [FontSubstitution](../../fontsubstitution/)
-* 클래스 [FontSubstitutionCollection](../)
-* 네임스페이스 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FontSubstitution](../../fontsubstitution/)
+* class [FontSubstitutionCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

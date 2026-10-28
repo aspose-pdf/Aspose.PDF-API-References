@@ -1,19 +1,21 @@
 ---
-title: OpenAIChatCopilot.DeleteContextAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilot 메서드.
+title: "OpenAIChatCopilot.DeleteContextAsync"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "OpenAIChatCopilot 메서드."
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.ai/openaichatcopilot/deletecontextasync/
 ---
-## OpenAIChatCopilot.DeleteContextAsync 메서드
+## OpenAIChatCopilot.DeleteContextAsync method
 
 ```csharp
 public Task DeleteContextAsync(CancellationToken? cancellationToken)
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [OpenAIChatCopilot](../)
-* 네임스페이스 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [OpenAIChatCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

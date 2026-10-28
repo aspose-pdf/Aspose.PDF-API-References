@@ -1,12 +1,12 @@
 ---
-title: CompletionCreateRequest.MaxTokens
-second_title: Aspose.PDF for .NET API Reference
-description: CompletionCreateRequest 속성. 완료에서 생성할 최대 토큰 수를 가져오거나 설정합니다.
+title: "CompletionCreateRequest.MaxTokens"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "CompletionCreateRequest 속성. 완성에서 생성할 최대 토큰 수를 가져오거나 설정합니다."
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf.ai/completioncreaterequest/maxtokens/
 ---
-## CompletionCreateRequest.MaxTokens 속성
+## CompletionCreateRequest.MaxTokens property
 
 완료에서 생성할 최대 토큰 수를 가져오거나 설정합니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.ai/completioncreaterequest/maxtokens/
 public int? MaxTokens { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [CompletionCreateRequest](../)
-* 네임스페이스 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [CompletionCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

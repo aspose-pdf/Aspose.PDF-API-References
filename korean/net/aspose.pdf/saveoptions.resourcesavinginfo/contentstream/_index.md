@@ -1,21 +1,23 @@
 ---
-title: SaveOptions.ResourceSavingInfo.ContentStream
-second_title: Aspose.PDF for .NET API Reference
-description: ResourceSavingInfo 필드. 변환기에 의해 설정됨. 저장된 파일의 이진 콘텐츠를 나타냄
+title: "SaveOptions.ResourceSavingInfo.ContentStream"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ResourceSavingInfo 필드. 컨버터에 의해 설정됩니다. 저장된 파일의 바이너리 콘텐츠를 나타냅니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf/saveoptions.resourcesavinginfo/contentstream/
 ---
-## SaveOptions.ResourceSavingInfo.ContentStream 필드
+## SaveOptions.ResourceSavingInfo.ContentStream field
 
-변환기에 의해 설정됨. 저장된 파일의 이진 콘텐츠를 나타냄.
+컨버터에 의해 설정됩니다. 저장된 파일의 바이너리 내용을 나타냅니다.
 
 ```csharp
 public Stream ContentStream;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [ResourceSavingInfo](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [ResourceSavingInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,20 +1,20 @@
 ---
-title: EpubLoadOptions.EpubLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: EpubLoadOptions 생성자. EPUB 파일을 PDF 문서로 변환하기 위한 기본 로드 옵션을 생성합니다. 기본 PDF 페이지 크기 A4 300dpi 2480 X 3508
+title: "EpubLoadOptions.EpubLoadOptions"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "EpubLoadOptions 생성자. EPUB 파일을 pdf 문서로 변환하기 위한 기본 로드 옵션을 생성합니다. 기본 pdf 페이지 크기 A4 300dpi 2480 X 3508"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf/epubloadoptions/epubloadoptions/
 ---
 ## EpubLoadOptions() {#constructor}
 
-EPUB 파일을 PDF 문서로 변환하기 위한 기본 로드 옵션을 생성합니다. 기본 PDF 페이지 크기 - A4 300dpi 2480 X 3508.
+EPUB 파일을 PDF 문서로 변환하기 위한 기본 로드 옵션을 생성합니다. 기본 PDF 페이지 크기 - A4 300dpi 2480 × 3508.
 
 ```csharp
 public EpubLoadOptions()
 ```
 
-### See Also
+### 또 보기
 
 * class [EpubLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -30,12 +30,14 @@ public EpubLoadOptions()
 public EpubLoadOptions(SizeF pageSize)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| pageSize | SizeF | PDF 페이지의 너비와 높이를 정의합니다. |
+| pageSize | SizeF | pdf 페이지의 너비와 높이를 정의합니다. |
 
-### See Also
+### 또 보기
 
 * class [EpubLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

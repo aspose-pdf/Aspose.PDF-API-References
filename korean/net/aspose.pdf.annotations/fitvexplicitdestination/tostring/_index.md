@@ -1,12 +1,12 @@
 ---
-title: FitVExplicitDestination.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: FitVExplicitDestination 메서드. 객체 상태를 문자열 값으로 변환합니다. 예 1 FitV 100
+title: "FitVExplicitDestination.ToString"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FitVExplicitDestination 메서드. 객체 상태를 문자열 값으로 변환합니다. 예시 1 FitV 100"
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.annotations/fitvexplicitdestination/tostring/
 ---
-## FitVExplicitDestination.ToString 메서드
+## FitVExplicitDestination.ToString method
 
 객체 상태를 문자열 값으로 변환합니다. 예: "1 FitV 100".
 
@@ -18,8 +18,10 @@ public override string ToString()
 
 객체 상태를 나타내는 문자열 값.
 
-### 참조
+### 또 보기
 
-* 클래스 [FitVExplicitDestination](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FitVExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

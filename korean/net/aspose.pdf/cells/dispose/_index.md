@@ -1,12 +1,12 @@
 ---
-title: Cells.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: Cells 메서드. Dispose 메서드
+title: "Cells.Dispose"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Cells 메서드. Dispose 메서드"
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf/cells/dispose/
 ---
-## Cells.Dispose 메서드
+## Cells.Dispose method
 
 Dispose 메서드
 
@@ -14,8 +14,10 @@ Dispose 메서드
 public void Dispose()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Cells](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Cells](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

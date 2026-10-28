@@ -1,14 +1,14 @@
 ---
-title: DocumentInfo.IsPredefinedKey
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentInfo 메서드. 키가 미리 정의된 것인지（제목, 저자 등） 아닌지 확인합니다.
+title: "DocumentInfo.IsPredefinedKey"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "DocumentInfo 메서드. 키가 미리 정의된 Title, Author 등인지 확인합니다(사용자 정의가 아님)."
 type: docs
 weight: 180
 url: /ko/net/aspose.pdf/documentinfo/ispredefinedkey/
 ---
-## DocumentInfo.IsPredefinedKey 메서드
+## DocumentInfo.IsPredefinedKey method
 
-키가 미리 정의된 것인지(제목, 저자 등) 아닌지 확인합니다.
+키가 사전 정의된 것인지(제목, 저자 등) 사용자 정의가 아닌지 확인합니다.
 
 ```csharp
 public static bool IsPredefinedKey(string key)
@@ -16,14 +16,16 @@ public static bool IsPredefinedKey(string key)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| key | String | 선택된 키 |
+| 키 | String | 선택된 키 |
 
 ### 반환 값
 
-키가 미리 정의된 경우 True입니다.
+키가 미리 정의된 경우 true입니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [DocumentInfo](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [DocumentInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

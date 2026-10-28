@@ -1,14 +1,14 @@
 ---
-title: Color.op_Inequality
-second_title: Aspose.PDF for .NET API Reference
-description: Color 메서드. 두 개의 색상이 같지 않으면 true를 반환합니다.
+title: "Color.op_Inequality"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Color 메서드. 두 Color가 같지 않으면 true를 반환합니다."
 type: docs
 weight: 1570
 url: /ko/net/aspose.pdf/color/op_inequality/
 ---
-## 색상 불일치 연산자
+## Color Inequality operator
 
-두 개의 색상이 같지 않으면 true를 반환합니다.
+두 색상이 다르면 true를 반환합니다.
 
 ```csharp
 public static bool operator !=(Color x, Color y)
@@ -21,10 +21,12 @@ public static bool operator !=(Color x, Color y)
 
 ### 반환 값
 
-Color 객체가 같지 않은 경우 true입니다.
+Color 객체가 같지 않을 경우 true.
 
-### 참조
+### 또 보기
 
-* 클래스 [Color](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

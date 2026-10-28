@@ -1,14 +1,14 @@
 ---
-title: ITaggedContent.CreateArtElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent 메서드. ArtElement를 생성합니다.
+title: "ITaggedContent.CreateArtElement"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ITaggedContent 메서드. ArtElement을(를) 생성합니다."
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf.tagged/itaggedcontent/createartelement/
 ---
-## ITaggedContent.CreateArtElement 메서드
+## ITaggedContent.CreateArtElement method
 
-[`ArtElement`](../../../aspose.pdf.logicalstructure/artelement/)를 생성합니다.
+Creates [`ArtElement`](../../../aspose.pdf.logicalstructure/artelement/)을(를) 생성합니다.
 
 ```csharp
 public ArtElement CreateArtElement()
@@ -16,11 +16,13 @@ public ArtElement CreateArtElement()
 
 ### 반환 값
 
-생성된 구조 요소입니다.
+구조 요소가 생성되었습니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [ArtElement](../../../aspose.pdf.logicalstructure/artelement/)
-* 인터페이스 [ITaggedContent](../)
-* 네임스페이스 [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [ArtElement](../../../aspose.pdf.logicalstructure/artelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

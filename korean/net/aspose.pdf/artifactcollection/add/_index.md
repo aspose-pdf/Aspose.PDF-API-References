@@ -1,12 +1,12 @@
 ---
-title: ArtifactCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: ArtifactCollection 메서드. 아티팩트를 컬렉션에 추가합니다.
+title: "ArtifactCollection.Add"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ArtifactCollection 메서드. 컬렉션에 아티팩트를 추가합니다"
 type: docs
 weight: 60
 url: /ko/net/aspose.pdf/artifactcollection/add/
 ---
-## ArtifactCollection.Add 메서드
+## ArtifactCollection.Add method
 
 아티팩트를 컬렉션에 추가합니다.
 
@@ -16,11 +16,13 @@ public void Add(Artifact artifact)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| artifact | Artifact | 컬렉션에 추가해야 하는 아티팩트입니다. |
+| 아티팩트 | 아티팩트 | 컬렉션에 추가되어야 할 아티팩트. |
 
-### 참조
+### 또 보기
 
-* 클래스 [Artifact](../../artifact/)
-* 클래스 [ArtifactCollection](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Artifact](../../artifact/)
+* class [ArtifactCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

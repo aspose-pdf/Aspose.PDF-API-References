@@ -1,12 +1,12 @@
 ---
-title: Page.CropBox
-second_title: Aspose.PDF for .NET API Reference
-description: 페이지 속성. 페이지의 크롭 박스를 가져오거나 설정합니다.
+title: "Page.CropBox"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Page 속성. 페이지의 크롭 박스를 가져오거나 설정합니다"
 type: docs
 weight: 100
 url: /ko/net/aspose.pdf/page/cropbox/
 ---
-## Page.CropBox 속성
+## Page.CropBox property
 
 페이지의 크롭 박스를 가져오거나 설정합니다.
 
@@ -23,9 +23,11 @@ Document document = new Document("sample.pdf");
 Rectangle cropBox = document.Pages[1].CropBox;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Rectangle](../../rectangle/)
-* 클래스 [Page](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Rectangle](../../rectangle/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Color.ToRgb
-second_title: Aspose.PDF for .NET API Reference
-description: 색상 메서드. 색상을 rgb로 변환합니다.
+title: "Color.ToRgb"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Color 메서드. 색상을 rgb로 변환합니다."
 type: docs
 weight: 1540
 url: /ko/net/aspose.pdf/color/torgb/
 ---
-## Color.ToRgb 메서드
+## Color.ToRgb method
 
 색상을 rgb로 변환합니다.
 
@@ -18,8 +18,10 @@ public Color ToRgb()
 
 Rgb 색상 값.
 
-### 참조
+### 또 보기
 
-* 클래스 [Color](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

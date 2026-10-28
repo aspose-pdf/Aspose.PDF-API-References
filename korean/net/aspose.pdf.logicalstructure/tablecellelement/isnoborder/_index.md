@@ -1,21 +1,23 @@
 ---
-title: TableCellElement.IsNoBorder
-second_title: Aspose.PDF for .NET API Reference
-description: TableCellElement 속성. 셀의 테두리 유무를 가져오거나 설정합니다.
+title: "TableCellElement.IsNoBorder"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TableCellElement 속성. 셀에 테두리가 있는지 여부를 가져오거나 설정합니다."
 type: docs
 weight: 60
 url: /ko/net/aspose.pdf.logicalstructure/tablecellelement/isnoborder/
 ---
-## TableCellElement.IsNoBorder 속성
+## TableCellElement.IsNoBorder property
 
-셀의 테두리 유무를 가져오거나 설정합니다.
+셀에 테두리가 있는지를 가져오거나 설정합니다.
 
 ```csharp
 public bool IsNoBorder { get; set; }
 ```
 
-### 참조
+### 또 보기
 
 * class [TableCellElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

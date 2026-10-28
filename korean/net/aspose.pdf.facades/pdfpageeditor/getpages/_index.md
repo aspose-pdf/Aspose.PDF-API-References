@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.GetPages
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor 메서드. 총 페이지 수를 반환합니다.
+title: "PdfPageEditor.GetPages"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfPageEditor 메서드. 페이지 총 수를 반환합니다"
 type: docs
 weight: 150
 url: /ko/net/aspose.pdf.facades/pdfpageeditor/getpages/
 ---
-## PdfPageEditor.GetPages 메서드
+## PdfPageEditor.GetPages method
 
-총 페이지 수를 반환합니다.
+페이지의 총 수를 반환합니다.
 
 ```csharp
 public int GetPages()
@@ -28,8 +28,10 @@ editor.BindPdf("sample.pdf");
 Console.WriteLine("Document has: " + editor.GetPages());
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfPageEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

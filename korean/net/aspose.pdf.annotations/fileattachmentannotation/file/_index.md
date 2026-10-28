@@ -1,22 +1,24 @@
 ---
-title: FileAttachmentAnnotation.File
-second_title: Aspose.PDF for .NET API Reference
-description: FileAttachmentAnnotation 속성. 이 주석과 관련된 파일의 사양
+title: "FileAttachmentAnnotation.File"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FileAttachmentAnnotation 속성. 이 주석과 연결된 파일의 사양입니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.annotations/fileattachmentannotation/file/
 ---
-## FileAttachmentAnnotation.File 속성
+## FileAttachmentAnnotation.File property
 
-이 주석과 관련된 파일의 사양입니다.
+이 주석과 연결된 파일의 사양입니다.
 
 ```csharp
 public FileSpecification File { get; set; }
 ```
 
-### 참조
+### 또 보기
 
 * class [FileSpecification](../../../aspose.pdf/filespecification/)
 * class [FileAttachmentAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Border.HCornerRadius
-second_title: Aspose.PDF for .NET API Reference
-description: Border 속성. 수평 모서리 반경을 가져오거나 설정합니다.
+title: "Border.HCornerRadius"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Border 속성. 수평 코너 반경을 가져오거나 설정합니다."
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf.annotations/border/hcornerradius/
 ---
-## Border.HCornerRadius 속성
+## Border.HCornerRadius property
 
 수평 모서리 반경을 가져오거나 설정합니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.annotations/border/hcornerradius/
 public double HCornerRadius { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Border](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Border](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

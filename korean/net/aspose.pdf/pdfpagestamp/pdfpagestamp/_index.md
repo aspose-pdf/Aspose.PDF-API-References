@@ -1,14 +1,14 @@
 ---
-title: PdfPageStamp.PdfPageStamp
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageStamp 생성자. PdfPageStamp의 생성자
+title: "PdfPageStamp.PdfPageStamp"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfPageStamp 생성자. PdfPageStamp의 생성자"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf/pdfpagestamp/pdfpagestamp/
 ---
 ## PdfPageStamp(Page) {#constructor}
 
-PdfPageStamp의 생성자.
+스트림에서 Document의 지정된 page를 사용하여 Pdf page stamp을 생성합니다.
 
 ```csharp
 public PdfPageStamp(Page pdfPage)
@@ -16,9 +16,9 @@ public PdfPageStamp(Page pdfPage)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| pdfPage | Page | 스탬핑에 사용되는 페이지. |
+| pdfPage | 페이지 | 스탬프에 사용되는 페이지. |
 
-### 참조
+### 또 보기
 
 * class [Page](../../page/)
 * class [PdfPageStamp](../)
@@ -29,7 +29,7 @@ public PdfPageStamp(Page pdfPage)
 
 ## PdfPageStamp(string, int) {#constructor_2}
 
-지정된 파일의 문서에서 지정된 페이지로부터 Pdf 페이지 스탬프를 생성합니다.
+콘텐츠가 배경으로 스탬프되는지를 나타내는 bool 값을 설정하거나 가져옵니다. 값이 true이면 스탬프 콘텐츠가 하단에 배치됩니다. 기본값은 false이며, 스탬프 콘텐츠가 상단에 배치됩니다.
 
 ```csharp
 public PdfPageStamp(string fileName, int pageIndex)
@@ -37,10 +37,10 @@ public PdfPageStamp(string fileName, int pageIndex)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| fileName | String | PDF 파일의 이름과 페이지. |
+| fileName | String | PDF 파일의 이름 및 페이지. |
 | pageIndex | Int32 | 페이지의 인덱스. |
 
-### 참조
+### 또 보기
 
 * class [PdfPageStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -50,7 +50,7 @@ public PdfPageStamp(string fileName, int pageIndex)
 
 ## PdfPageStamp(Stream, int) {#constructor_1}
 
-스트림에서 문서의 지정된 페이지로부터 Pdf 페이지 스탬프를 생성합니다.
+지정된 파일에서 Document의 지정된 page를 사용하여 Pdf page stamp을 생성합니다.
 
 ```csharp
 public PdfPageStamp(Stream stream, int pageIndex)
@@ -58,11 +58,13 @@ public PdfPageStamp(Stream stream, int pageIndex)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| stream | Stream | PDF를 포함하는 스트림 |
+| stream | Stream | PDF를 포함하는 스트림. |
 | pageIndex | Int32 | 페이지의 인덱스. |
 
-### 참조
+### 또 보기
 
 * class [PdfPageStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

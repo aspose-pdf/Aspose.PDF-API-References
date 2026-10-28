@@ -1,12 +1,12 @@
 ---
-title: TextSegmentCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: TextSegmentCollection 메서드. 컬렉션에 특정 값이 포함되어 있는지 확인합니다.
+title: "TextSegmentCollection.Contains"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TextSegmentCollection 메서드. 컬렉션에 특정 값이 포함되어 있는지 확인합니다."
 type: docs
 weight: 80
 url: /ko/net/aspose.pdf.text/textsegmentcollection/contains/
 ---
-## TextSegmentCollection.Contains 메서드
+## TextSegmentCollection.Contains method
 
 컬렉션에 특정 값이 포함되어 있는지 확인합니다.
 
@@ -20,11 +20,13 @@ public bool Contains(TextSegment item)
 
 ### 반환 값
 
-item이 컬렉션에서 발견되면 true; 그렇지 않으면 false입니다.
+컬렉션에서 항목을 찾으면 true, 그렇지 않으면 false.
 
-### 참조
+### 또 보기
 
-* 클래스 [TextSegment](../../textsegment/)
-* 클래스 [TextSegmentCollection](../)
-* 네임스페이스 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TextSegment](../../textsegment/)
+* class [TextSegmentCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

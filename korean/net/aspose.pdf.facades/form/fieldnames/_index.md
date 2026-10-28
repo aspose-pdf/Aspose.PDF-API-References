@@ -1,14 +1,14 @@
 ---
-title: Form.FieldNames
-second_title: Aspose.PDF for .NET API Reference
-description: Form 속성. 양식의 필드 이름 목록을 가져옵니다.
+title: "Form.FieldNames"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Form 속성. 양식에 있는 필드 이름 목록을 가져옵니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.facades/form/fieldnames/
 ---
-## Form.FieldNames 속성
+## Form.FieldNames property
 
-양식의 필드 이름 목록을 가져옵니다.
+양식에 있는 필드 이름 목록을 가져옵니다.
 
 ```csharp
 public string[] FieldNames { get; }
@@ -25,8 +25,10 @@ foreach(string field in fields)
 }
 ```
 
-### 참조
+### 또 보기
 
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

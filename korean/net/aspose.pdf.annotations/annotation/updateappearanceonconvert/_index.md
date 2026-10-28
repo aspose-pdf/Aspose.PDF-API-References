@@ -1,21 +1,23 @@
 ---
-title: Annotation.UpdateAppearanceOnConvert
-second_title: Aspose.PDF for .NET API Reference
-description: 주석 속성. true인 경우 주석 모양이 PF 문서를 이미지로 변환하기 전에 업데이트됩니다. 이렇게 하면 필드를 올바르게 변환할 수 있지만 아마도 더 많은 시간이 필요할 것입니다.
+title: "Annotation.UpdateAppearanceOnConvert"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Annotation 속성. true인 경우 PF 문서를 이미지로 변환하기 전에 주석 외관이 업데이트됩니다. 이는 필드를 올바르게 변환하도록 허용하지만 아마도 더 많은 시간이 소요됩니다"
 type: docs
 weight: 230
 url: /ko/net/aspose.pdf.annotations/annotation/updateappearanceonconvert/
 ---
-## Annotation.UpdateAppearanceOnConvert 속성
+## Annotation.UpdateAppearanceOnConvert property
 
-true인 경우 주석 모양이 PF 문서를 이미지로 변환하기 전에 업데이트됩니다. 이렇게 하면 필드를 올바르게 변환할 수 있지만 아마도 더 많은 시간이 필요할 것입니다.
+true인 경우, PF document를 이미지로 변환하기 전에 주석 모양이 업데이트됩니다. 이는 필드를 올바르게 변환하도록 허용하지만 아마도 더 많은 시간이 소요될 수 있습니다.
 
 ```csharp
 public static bool UpdateAppearanceOnConvert { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Annotation](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Annotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

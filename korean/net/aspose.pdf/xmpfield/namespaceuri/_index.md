@@ -1,12 +1,12 @@
 ---
-title: XmpField.NamespaceUri
-second_title: Aspose.PDF for .NET API Reference
-description: XmpField 속성. 네임스페이스 URI를 가져옵니다.
+title: "XmpField.NamespaceUri"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "XmpField 속성. 네임스페이스 URI를 가져옵니다"
 type: docs
 weight: 70
 url: /ko/net/aspose.pdf/xmpfield/namespaceuri/
 ---
-## XmpField.NamespaceUri 속성
+## XmpField.NamespaceUri property
 
 네임스페이스 URI를 가져옵니다.
 
@@ -14,12 +14,14 @@ url: /ko/net/aspose.pdf/xmpfield/namespaceuri/
 public string NamespaceUri { get; set; }
 ```
 
-### 속성 값
+### Property Value
 
 네임스페이스 URI입니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [XmpField](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [XmpField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

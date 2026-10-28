@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.PrintDocumentWithSetup
-second_title: Aspose.PDF for .NET API Reference
-description: PdfViewer 메서드. 설정 대화 상자와 함께 Pdf 문서를 인쇄합니다. 대화 상자를 사용하여 프린터를 선택하십시오.
+title: "PdfViewer.PrintDocumentWithSetup"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfViewer 메서드. 설정 대화 상자를 사용하여 Pdf Document를 인쇄합니다. 대화 상자를 통해 프린터를 선택하십시오."
 type: docs
 weight: 340
 url: /ko/net/aspose.pdf.facades/pdfviewer/printdocumentwithsetup/
 ---
-## PdfViewer.PrintDocumentWithSetup 메서드
+## PdfViewer.PrintDocumentWithSetup method
 
-설정 대화 상자와 함께 Pdf 문서를 인쇄합니다. 대화 상자를 사용하여 프린터를 선택하십시오.
+설정 대화 상자를 사용하여 Pdf 문서를 인쇄합니다. 대화 상자를 통해 프린터를 선택하십시오.
 
 ```csharp
 public void PrintDocumentWithSetup()
@@ -36,8 +36,10 @@ iewer.PrintDocumentWithSetup()
 iewer.Close()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfViewer](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: XmpField.op_Inequality
-second_title: Aspose.PDF for .NET API Reference
-description: XmpField 메서드. 연산자를 구현합니다.
+title: "XmpField.op_Inequality"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "XmpField 메서드. 연산자를 구현합니다"
 type: docs
 weight: 150
 url: /ko/net/aspose.pdf/xmpfield/op_inequality/
 ---
-## XmpField 불일치 연산자
+## XmpField Inequality operator
 
-연산자 !=을 구현합니다.
+연산자 !=를 구현합니다.
 
 ```csharp
 public static bool operator !=(XmpField field1, XmpField field2)
@@ -23,8 +23,10 @@ public static bool operator !=(XmpField field1, XmpField field2)
 
 연산자의 결과입니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [XmpField](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [XmpField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

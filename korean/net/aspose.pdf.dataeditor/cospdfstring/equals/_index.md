@@ -1,12 +1,12 @@
 ---
-title: CosPdfString.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfString 메서드. 지정된 객체가 현재 객체와 같은지 확인합니다.
+title: "CosPdfString.Equals"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "CosPdfString 메서드. 지정된 객체가 현재 객체와 같은지 확인합니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf.dataeditor/cospdfstring/equals/
 ---
-## CosPdfString.Equals 메서드
+## CosPdfString.Equals method
 
 지정된 객체가 현재 객체와 같은지 확인합니다.
 
@@ -16,14 +16,16 @@ public override bool Equals(object obj)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| obj | Object | 현재 객체와 비교할 객체입니다. |
+| obj | Object | 현재 객체와 비교할 객체. |
 
 ### 반환 값
 
-지정된 객체가 현재 객체와 같으면 true; 그렇지 않으면 false입니다.
+지정된 객체가 현재 객체와 같으면 true; 그렇지 않으면 false.
 
-### 참조
+### 또 보기
 
-* 클래스 [CosPdfString](../)
-* 네임스페이스 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [CosPdfString](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

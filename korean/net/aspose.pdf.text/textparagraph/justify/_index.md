@@ -1,21 +1,23 @@
 ---
-title: TextParagraph.Justify
-second_title: Aspose.PDF for .NET API Reference
-description: TextParagraph 속성. 텍스트가 정렬되어 있는지 여부를 가져오거나 설정합니다.
+title: "TextParagraph.Justify"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TextParagraph property. 텍스트가 양쪽 정렬인지 여부의 값을 가져오거나 설정합니다"
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf.text/textparagraph/justify/
 ---
-## TextParagraph.Justify 속성
+## TextParagraph.Justify property
 
-텍스트가 정렬되어 있는지 여부를 가져오거나 설정합니다.
+텍스트가 양쪽 정렬인지 여부 값을 가져오거나 설정합니다.
 
 ```csharp
 public bool Justify { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [TextParagraph](../)
-* 네임스페이스 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TextParagraph](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PdfBookmarkEditor.ModifyBookmarks
-second_title: Aspose.PDF for .NET API Reference
-description: PdfBookmarkEditor 메서드. 지정된 북마크 제목에 따라 북마크 제목을 수정합니다.
+title: "PdfBookmarkEditor.ModifyBookmarks"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfBookmarkEditor 메서드. 지정된 북마크 제목에 따라 북마크 제목을 수정합니다"
 type: docs
 weight: 80
 url: /ko/net/aspose.pdf.facades/pdfbookmarkeditor/modifybookmarks/
 ---
-## PdfBookmarkEditor.ModifyBookmarks 메서드
+## PdfBookmarkEditor.ModifyBookmarks method
 
 지정된 북마크 제목에 따라 북마크 제목을 수정합니다.
 
@@ -16,8 +16,8 @@ public void ModifyBookmarks(string sTitle, string dTitle)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| sTitle | 문자열 | 원본 북마크 제목. |
-| dTitle | 문자열 | 수정된 북마크 제목. |
+| sTitle | String | 원본 북마크 제목. |
+| dTitle | String | 수정된 북마크 제목. |
 
 ## 예제
 
@@ -28,8 +28,10 @@ editor.ModifyBookmarks("existing bookmark title", "new bookmark title");
 editor.Save("example_out.pdf");
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfBookmarkEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: OperatorCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: OperatorCollection 메서드. 컬렉션에서 연산자를 삭제합니다.
+title: "OperatorCollection.Delete"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "OperatorCollection 메서드. 컬렉션에서 연산자를 삭제합니다."
 type: docs
 weight: 110
 url: /ko/net/aspose.pdf/operatorcollection/delete/
@@ -20,7 +20,7 @@ public void Delete(int index)
 
 ## 예제
 
-예제는 인덱스를 사용하여 연산자를 삭제하는 방법을 보여줍니다.
+예제는 인덱스로 연산자를 삭제하는 방법을 보여줍니다.
 
 ```csharp
 Document doc = new Document("input.pdf");
@@ -28,17 +28,17 @@ OperatorCollection oc = doc.Pages[1].Contents;
 oc.Delete(3);
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [OperatorCollection](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Delete(Operator[]) {#delete}
 
-컬렉션에서 연산자를 삭제합니다.
+컬렉션에서 연산자들을 삭제합니다.
 
 ```csharp
 public void Delete(Operator[] ops)
@@ -58,18 +58,18 @@ OperatorCollection oc = doc.Pages[1].Contents;
 oc.Delete(new Operator[] { oc[1] } );
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Operator](../../operator/)
-* 클래스 [OperatorCollection](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Operator](../../operator/)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Delete(IList&lt;Operator&gt;) {#delete_2}
 
-컬렉션에서 연산자를 삭제합니다.
+컬렉션에서 연산자들을 삭제합니다.
 
 ```csharp
 public void Delete(IList<Operator> list)
@@ -77,7 +77,7 @@ public void Delete(IList<Operator> list)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| list | IList`1 | 삭제할 연산자 목록 |
+| 목록 | IList`1 | 삭제할 연산자 목록 |
 
 ## 예제
 
@@ -91,9 +91,11 @@ opList.Add(oc[1]);
 oc.Delete(opList);
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Operator](../../operator/)
-* 클래스 [OperatorCollection](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Operator](../../operator/)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

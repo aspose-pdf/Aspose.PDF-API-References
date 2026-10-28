@@ -1,14 +1,14 @@
 ---
-title: PdfGeneratorOptions.AddInput
-second_title: Aspose.PDF for .NET API Reference
-description: PdfGeneratorOptions 메서드. PdfGenerator 플러그인 데이터 컬렉션에 새로운 데이터 소스를 추가합니다.
+title: "PdfGeneratorOptions.AddInput"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfGeneratorOptions 메서드. PdfGenerator 플러그인 데이터 컬렉션에 새 데이터 소스를 추가합니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.plugins/pdfgeneratoroptions/addinput/
 ---
-## PdfGeneratorOptions.AddInput 메서드
+## PdfGeneratorOptions.AddInput method
 
-PdfGenerator 플러그인 데이터 컬렉션에 새로운 데이터 소스를 추가합니다.
+PdfGenerator 플러그인 데이터 컬렉션에 새 데이터 소스를 추가합니다.
 
 ```csharp
 public void AddInput(IDataSource dataSource)
@@ -18,9 +18,11 @@ public void AddInput(IDataSource dataSource)
 | --- | --- | --- |
 | dataSource | IDataSource | 추가할 데이터 소스입니다. |
 
-### 참조
+### 또 보기
 
-* 인터페이스 [IDataSource](../../idatasource/)
-* 클래스 [PdfGeneratorOptions](../)
-* 네임스페이스 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 어셈블리 [Aspose.PDF](../../../)
+* interface [IDataSource](../../idatasource/)
+* class [PdfGeneratorOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

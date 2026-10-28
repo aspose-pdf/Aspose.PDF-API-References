@@ -1,12 +1,12 @@
 ---
-title: Metadata.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: 메타데이터 메서드. 메타데이터를 지웁니다
+title: "Metadata.Clear"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Metadata 메서드. 메타데이터를 지웁니다"
 type: docs
 weight: 120
 url: /ko/net/aspose.pdf/metadata/clear/
 ---
-## Metadata.Clear 메서드
+## Metadata.Clear method
 
 메타데이터를 지웁니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf/metadata/clear/
 public void Clear()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Metadata](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

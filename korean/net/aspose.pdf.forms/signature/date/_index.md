@@ -1,21 +1,23 @@
 ---
-title: Signature.Date
-second_title: Aspose.PDF for .NET API Reference
-description: 서명 속성. 서명 시간
+title: "Signature.Date"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Signature 속성. 서명 시간."
 type: docs
 weight: 80
 url: /ko/net/aspose.pdf.forms/signature/date/
 ---
-## Signature.Date 속성
+## Signature.Date property
 
-서명 시간.
+서명 시각입니다.
 
 ```csharp
 public DateTime Date { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Signature](../)
-* 네임스페이스 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Signature](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

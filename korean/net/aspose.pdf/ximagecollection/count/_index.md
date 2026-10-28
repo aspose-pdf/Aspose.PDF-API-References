@@ -1,21 +1,23 @@
 ---
-title: XImageCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: XImageCollection 속성. 컬렉션의 이미지 수
+title: "XImageCollection.Count"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "XImageCollection 속성. 컬렉션에 있는 이미지 수."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf/ximagecollection/count/
 ---
-## XImageCollection.Count 속성
+## XImageCollection.Count property
 
-컬렉션의 이미지 수입니다.
+컬렉션에 포함된 이미지 수.
 
 ```csharp
 public int Count { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [XImageCollection](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Page.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Page 메서드. 텍스트 객체와 작업할 수 있는 기능을 제공하는 TextFragmentAbsorber 방문자 객체를 수락합니다.
+title: "Page.Accept"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Page 메서드. 텍스트 객체 작업 기능을 제공하는 TextFragmentAbsorber 방문자 객체를 받아들입니다."
 type: docs
 weight: 330
 url: /ko/net/aspose.pdf/page/accept/
 ---
 ## Accept(TextFragmentAbsorber) {#accept_3}
 
-[`TextFragmentAbsorber`](../../../aspose.pdf.text/textfragmentabsorber/) 방문자 객체를 수락하며, 텍스트 객체와 작업할 수 있는 기능을 제공합니다.
+[`TextFragmentAbsorber`](../../../aspose.pdf.text/textfragmentabsorber/) 방문자 객체를 받아 텍스트 객체 작업 기능을 제공합니다.
 
 ```csharp
 public void Accept(TextFragmentAbsorber visitor)
@@ -16,20 +16,20 @@ public void Accept(TextFragmentAbsorber visitor)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| visitor | TextFragmentAbsorber | 텍스트 흡수기 객체. |
+| 방문자 | TextFragmentAbsorber | 텍스트 흡수기 객체. |
 
-### 참조
+### 또 보기
 
-* 클래스 [TextFragmentAbsorber](../../../aspose.pdf.text/textfragmentabsorber/)
-* 클래스 [Page](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TextFragmentAbsorber](../../../aspose.pdf.text/textfragmentabsorber/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Accept(ImagePlacementAbsorber) {#accept_1}
 
-[`ImagePlacementAbsorber`](../../imageplacementabsorber/) 방문자 객체를 수락하며, 이미지 배치 객체와 작업할 수 있는 기능을 제공합니다.
+[`ImagePlacementAbsorber`](../../imageplacementabsorber/) 방문자 객체를 받아 이미지 배치 객체 작업 기능을 제공합니다.
 
 ```csharp
 public void Accept(ImagePlacementAbsorber visitor)
@@ -37,20 +37,20 @@ public void Accept(ImagePlacementAbsorber visitor)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| visitor | ImagePlacementAbsorber | 이미지 배치 흡수기 객체. |
+| 방문자 | ImagePlacementAbsorber | 이미지 배치 흡수 객체. |
 
-### 참조
+### 또 보기
 
-* 클래스 [ImagePlacementAbsorber](../../imageplacementabsorber/)
-* 클래스 [Page](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [ImagePlacementAbsorber](../../imageplacementabsorber/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Accept(TextAbsorber) {#accept_2}
 
-[`TextAbsorber`](../../../aspose.pdf.text/textabsorber/) 방문자 객체를 수락하며, 텍스트 객체와 작업할 수 있는 기능을 제공합니다.
+[`TextAbsorber`](../../../aspose.pdf.text/textabsorber/) 방문자 객체를 받아 텍스트 객체 작업 기능을 제공합니다.
 
 ```csharp
 public void Accept(TextAbsorber visitor)
@@ -58,20 +58,20 @@ public void Accept(TextAbsorber visitor)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| visitor | TextAbsorber | 텍스트 흡수기 객체. |
+| 방문자 | TextAbsorber | 텍스트 흡수기 객체. |
 
-### 참조
+### 또 보기
 
-* 클래스 [TextAbsorber](../../../aspose.pdf.text/textabsorber/)
-* 클래스 [Page](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TextAbsorber](../../../aspose.pdf.text/textabsorber/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Accept(AnnotationSelector) {#accept}
 
-[`AnnotationSelector`](../../../aspose.pdf.annotations/annotationselector/) 방문자 객체를 수락하며, 주석과 작업할 수 있는 기능을 제공합니다.
+주석 작업 기능을 제공하는 [`AnnotationSelector`](../../../aspose.pdf.annotations/annotationselector/) 방문자 객체를 받아들입니다.
 
 ```csharp
 public void Accept(AnnotationSelector visitor)
@@ -79,11 +79,13 @@ public void Accept(AnnotationSelector visitor)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| visitor | AnnotationSelector | 주석 선택기 객체. |
+| 방문자 | AnnotationSelector | 주석 선택자 객체. |
 
-### 참조
+### 또 보기
 
-* 클래스 [AnnotationSelector](../../../aspose.pdf.annotations/annotationselector/)
-* 클래스 [Page](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [AnnotationSelector](../../../aspose.pdf.annotations/annotationselector/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

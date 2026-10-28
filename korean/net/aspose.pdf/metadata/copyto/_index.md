@@ -1,20 +1,22 @@
 ---
-title: Metadata.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: 메타데이터 메서드.
+title: "Metadata.CopyTo"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Metadata 메서드."
 type: docs
 weight: 150
 url: /ko/net/aspose.pdf/metadata/copyto/
 ---
-## Metadata.CopyTo 메서드
+## Metadata.CopyTo method
 
 ```csharp
 public void CopyTo(KeyValuePair<string, XmpValue>[] array, int index)
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [XmpValue](../../xmpvalue/)
-* 클래스 [Metadata](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [XmpValue](../../xmpvalue/)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

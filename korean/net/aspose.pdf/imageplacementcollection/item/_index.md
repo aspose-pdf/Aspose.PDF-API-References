@@ -1,14 +1,14 @@
 ---
-title: ImagePlacementCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: ImagePlacementCollection 속성. 지정된 인덱스에서 텍스트 조각 요소를 가져옵니다.
+title: "ImagePlacementCollection.Item"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ImagePlacementCollection 속성. 지정된 인덱스의 텍스트 조각 요소를 가져옵니다."
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf/imageplacementcollection/item/
 ---
-## ImagePlacementCollection 인덱서
+## ImagePlacementCollection indexer
 
-지정된 인덱스에서 텍스트 조각 요소를 가져옵니다.
+지정된 인덱스에 있는 텍스트 조각 요소를 가져옵니다.
 
 ```csharp
 public ImagePlacement this[int index] { get; }
@@ -22,9 +22,11 @@ public ImagePlacement this[int index] { get; }
 
 ImagePlacement 객체.
 
-### 참조
+### 또 보기
 
-* 클래스 [ImagePlacement](../../imageplacement/)
-* 클래스 [ImagePlacementCollection](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [ImagePlacement](../../imageplacement/)
+* class [ImagePlacementCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

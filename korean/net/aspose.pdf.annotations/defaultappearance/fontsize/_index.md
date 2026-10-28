@@ -1,12 +1,12 @@
 ---
-title: DefaultAppearance.FontSize
-second_title: Aspose.PDF for .NET API Reference
-description: DefaultAppearance 속성. 기본 모양에서 글꼴 크기를 가져옵니다.
+title: "DefaultAppearance.FontSize"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "DefaultAppearance 속성. 기본 외관에서 폰트 크기를 가져옵니다"
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf.annotations/defaultappearance/fontsize/
 ---
-## DefaultAppearance.FontSize 속성
+## DefaultAppearance.FontSize property
 
 기본 모양에서 글꼴 크기를 가져옵니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.annotations/defaultappearance/fontsize/
 public double FontSize { get; set; }
 ```
 
-### 참조
+### 또 보기
 
 * class [DefaultAppearance](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

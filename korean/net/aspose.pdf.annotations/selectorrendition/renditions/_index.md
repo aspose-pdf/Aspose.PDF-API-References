@@ -1,22 +1,24 @@
 ---
-title: SelectorRendition.Renditions
-second_title: Aspose.PDF for .NET API Reference
-description: SelectorRendition 속성. 렌디션 배열을 가져옵니다.
+title: "SelectorRendition.Renditions"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "SelectorRendition 속성. 렌더리스트 배열을 가져옵니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.annotations/selectorrendition/renditions/
 ---
-## SelectorRendition.Renditions 속성
+## SelectorRendition.Renditions property
 
-렌디션 배열을 가져옵니다.
+렌더링 배열을 가져옵니다.
 
 ```csharp
 public Rendition[] Renditions { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Rendition](../../rendition/)
-* 클래스 [SelectorRendition](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Rendition](../../rendition/)
+* class [SelectorRendition](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

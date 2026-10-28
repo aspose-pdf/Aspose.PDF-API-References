@@ -1,12 +1,12 @@
 ---
-title: Class PageSettingsExtensions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Printing.PageSettingsExtensions 클래스. PageSettings에 대한 확장 메서드를 나타냅니다.
+title: "클래스 PageSettingsExtensions"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Printing.PageSettingsExtensions 클래스. PageSettings에 대한 확장 메서드를 나타냅니다."
 type: docs
-weight: 9550
+weight: 9700
 url: /ko/net/aspose.pdf.printing/pagesettingsextensions/
 ---
-## PageSettingsExtensions 클래스
+## PageSettingsExtensions class
 
 [`PageSettings`](../pagesettings/)에 대한 확장 메서드를 나타냅니다.
 
@@ -18,10 +18,12 @@ public static class PageSettingsExtensions
 
 | 이름 | 설명 |
 | --- | --- |
-| static [ToAsposePageSettings](../../aspose.pdf.printing/pagesettingsextensions/toasposepagesettings/)(this PageSettings) | Windows 전용 System.Drawing.Printing.PageSettings를 [`PageSettings`](../pagesettings/)로 변환합니다. |
-| static [ToNativePageSettings](../../aspose.pdf.printing/pagesettingsextensions/tonativepagesettings/)(this PageSettings) | [`PageSettings`](../pagesettings/)를 Windows 전용 System.Drawing.Printing.PageSettings로 변환합니다. |
+| static [ToAsposePageSettings](../../aspose.pdf.printing/pagesettingsextensions/toasposepagesettings/)(this PageSettings) | Windows 전용 System.Drawing.Printing.PageSettings을 [`PageSettings`](../pagesettings/)으로 변환합니다. |
+| static [ToNativePageSettings](../../aspose.pdf.printing/pagesettingsextensions/tonativepagesettings/)(this PageSettings) | [`PageSettings`](../pagesettings/)을 Windows 전용 System.Drawing.Printing.PageSettings으로 변환합니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../)
+
+

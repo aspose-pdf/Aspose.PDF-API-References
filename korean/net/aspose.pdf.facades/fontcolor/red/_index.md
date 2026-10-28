@@ -1,21 +1,23 @@
 ---
-title: FontColor.Red
-second_title: Aspose.PDF for .NET API Reference
-description: FontColor 속성. 색상의 빨간 구성 요소
+title: "FontColor.Red"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FontColor 속성. 색상의 빨간색 구성 요소"
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf.facades/fontcolor/red/
 ---
-## FontColor.Red 속성
+## FontColor.Red property
 
-색상의 빨간 구성 요소입니다.
+색상의 빨간색 구성 요소.
 
 ```csharp
 public int Red { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [FontColor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FontColor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

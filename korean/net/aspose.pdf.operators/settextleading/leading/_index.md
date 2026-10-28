@@ -1,21 +1,23 @@
 ---
-title: SetTextLeading.Leading
-second_title: Aspose.PDF for .NET API Reference
-description: SetTextLeading 속성. 텍스트 리딩을 가져오거나 설정합니다.
+title: "SetTextLeading.Leading"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "SetTextLeading 속성. 텍스트 리딩 값을 가져오거나 설정합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.operators/settextleading/leading/
 ---
-## SetTextLeading.Leading 속성
+## SetTextLeading.Leading property
 
-텍스트 리딩을 가져오거나 설정합니다.
+텍스트 선행을 가져오거나 설정합니다.
 
 ```csharp
 public double Leading { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [SetTextLeading](../)
-* 네임스페이스 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [SetTextLeading](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

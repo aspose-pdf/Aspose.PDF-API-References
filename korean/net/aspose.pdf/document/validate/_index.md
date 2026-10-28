@@ -1,29 +1,29 @@
 ---
-title: Document.Validate
-second_title: Aspose.PDF for .NET API Reference
-description: 문서 메서드. 지정된 파일로 문서 유효성 검사
+title: "Document.Validate"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Document 메서드. 지정된 파일에 문서를 검증합니다."
 type: docs
-weight: 890
+weight: 910
 url: /ko/net/aspose.pdf/document/validate/
 ---
 ## Validate(string, PdfFormat) {#validate_2}
 
-지정된 파일로 문서 유효성 검사.
+문서를 지정된 파일에 검증합니다.
 
 ```csharp
 public bool Validate(string outputLogFileName, PdfFormat format)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| outputLogFileName | String | 주석이 저장될 파일의 경로. |
-| format | PdfFormat | PDF 형식. |
+| outputLogFileName | String | 주석이 저장될 파일 경로. |
+| 포맷 | PdfFormat | PDF 형식. |
 
-### Return Value
+### 반환 값
 
 작업 결과
 
-### See Also
+### 또 보기
 
 * enum [PdfFormat](../../pdfformat/)
 * class [Document](../)
@@ -34,22 +34,22 @@ public bool Validate(string outputLogFileName, PdfFormat format)
 
 ## Validate(Stream, PdfFormat) {#validate_1}
 
-지정된 파일로 문서 유효성 검사.
+문서를 지정된 파일에 검증합니다.
 
 ```csharp
 public bool Validate(Stream outputLogStream, PdfFormat format)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | outputLogStream | Stream | 주석이 저장될 스트림. |
-| format | PdfFormat | PDF 형식. |
+| 포맷 | PdfFormat | PDF 형식. |
 
-### Return Value
+### 반환 값
 
 작업 결과
 
-### See Also
+### 또 보기
 
 * enum [PdfFormat](../../pdfformat/)
 * class [Document](../)
@@ -60,23 +60,25 @@ public bool Validate(Stream outputLogStream, PdfFormat format)
 
 ## Validate(PdfFormatConversionOptions) {#validate}
 
-지정된 파일로 문서 유효성 검사.
+문서를 지정된 파일에 검증합니다.
 
 ```csharp
 public bool Validate(PdfFormatConversionOptions options)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| options | PdfFormatConversionOptions | PDF 문서 변환을 위한 옵션 세트 |
+| 옵션 | PdfFormatConversionOptions | PDF 문서를 변환하기 위한 옵션 집합 |
 
-### Return Value
+### 반환 값
 
 작업 결과
 
-### See Also
+### 또 보기
 
 * class [PdfFormatConversionOptions](../../pdfformatconversionoptions/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

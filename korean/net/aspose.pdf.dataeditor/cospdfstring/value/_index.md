@@ -1,12 +1,12 @@
 ---
-title: CosPdfString.Value
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfString 속성. 문자열 ANSII를 가져옵니다.
+title: "CosPdfString.Value"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "CosPdfString 속성. 문자열 ANSII를 가져옵니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.dataeditor/cospdfstring/value/
 ---
-## CosPdfString.Value 속성
+## CosPdfString.Value property
 
 문자열(ANSII)을 가져옵니다.
 
@@ -14,12 +14,14 @@ url: /ko/net/aspose.pdf.dataeditor/cospdfstring/value/
 public string Value { get; }
 ```
 
-### 속성 값
+### Property Value
 
-문자열입니다.
+문자열.
 
-### 참조
+### 또 보기
 
-* 클래스 [CosPdfString](../)
-* 네임스페이스 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [CosPdfString](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

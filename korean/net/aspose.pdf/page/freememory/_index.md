@@ -1,21 +1,23 @@
 ---
-title: Page.FreeMemory
-second_title: Aspose.PDF for .NET API Reference
-description: Page 메서드. 캐시된 데이터를 지웁니다
+title: "Page.FreeMemory"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Page 메서드. 캐시된 데이터를 정리합니다."
 type: docs
 weight: 440
 url: /ko/net/aspose.pdf/page/freememory/
 ---
-## Page.FreeMemory 메서드
+## Page.FreeMemory method
 
-캐시된 데이터를 지웁니다
+캐시된 데이터를 지웁니다.
 
 ```csharp
 public void FreeMemory()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Page](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

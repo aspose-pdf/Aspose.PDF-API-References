@@ -1,21 +1,23 @@
 ---
-title: VectorStoreFileResponse.UsageBytes
-second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreFileResponse 속성. 바이트 단위의 총 벡터 저장소 사용량을 가져오거나 설정합니다. 이는 원본 파일 크기와 다를 수 있습니다.
+title: "VectorStoreFileResponse.UsageBytes"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "VectorStoreFileResponse 속성. 전체 벡터 스토어 사용량을 바이트 단위로 가져오거나 설정합니다. 이는 원본 파일 크기와 다를 수 있습니다."
 type: docs
 weight: 70
 url: /ko/net/aspose.pdf.ai/vectorstorefileresponse/usagebytes/
 ---
-## VectorStoreFileResponse.UsageBytes 속성
+## VectorStoreFileResponse.UsageBytes property
 
-바이트 단위의 총 벡터 저장소 사용량을 가져오거나 설정합니다. 이는 원본 파일 크기와 다를 수 있습니다.
+총 벡터 스토어 사용량(바이트)을 가져오거나 설정합니다. 이는 원본 파일 크기와 다를 수 있음을 유의하십시오.
 
 ```csharp
 public int UsageBytes { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [VectorStoreFileResponse](../)
-* 네임스페이스 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [VectorStoreFileResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

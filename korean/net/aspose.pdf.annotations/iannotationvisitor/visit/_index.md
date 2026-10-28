@@ -1,14 +1,14 @@
 ---
-title: IAnnotationVisitor.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: IAnnotationVisitor 메서드. 링크 주석 방문/선택
+title: "IAnnotationVisitor.Visit"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "IAnnotationVisitor method. 링크 주석을 방문/선택합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.annotations/iannotationvisitor/visit/
 ---
 ## Visit(LinkAnnotation) {#visit_8}
 
-링크 주석을 방문/선택합니다.
+Link Annotation을 방문/선택합니다.
 
 ```csharp
 public void Visit(LinkAnnotation link)
@@ -16,20 +16,20 @@ public void Visit(LinkAnnotation link)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| link | LinkAnnotation | LinkAnnotation 객체 예제/템플릿. |
+| 링크 | LinkAnnotation | LinkAnnotation 객체 예제/템플릿. |
 
-### 참조
+### 또 보기
 
-* 클래스 [LinkAnnotation](../../linkannotation/)
-* 인터페이스 [IAnnotationVisitor](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [LinkAnnotation](../../linkannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(FileAttachmentAnnotation) {#visit_3}
 
-첨부 주석을 방문/선택합니다.
+Attachment Annotation을 방문/선택합니다.
 
 ```csharp
 public void Visit(FileAttachmentAnnotation attachment)
@@ -37,14 +37,14 @@ public void Visit(FileAttachmentAnnotation attachment)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| attachment | FileAttachmentAnnotation | FileAttachmentAnnotation 객체 예제/템플릿. |
+| 첨부 파일 | FileAttachmentAnnotation | FileAttachmentAnnotation 객체 예제/템플릿. |
 
-### 참조
+### 또 보기
 
-* 클래스 [FileAttachmentAnnotation](../../fileattachmentannotation/)
-* 인터페이스 [IAnnotationVisitor](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FileAttachmentAnnotation](../../fileattachmentannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -58,20 +58,20 @@ public void Visit(TextAnnotation text)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| text | TextAnnotation | TextAnnotation 객체 예제/템플릿. |
+| 텍스트 | TextAnnotation | TextAnnotation 객체 예제/템플릿. |
 
-### 참조
+### 또 보기
 
-* 클래스 [TextAnnotation](../../textannotation/)
-* 인터페이스 [IAnnotationVisitor](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TextAnnotation](../../textannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(FreeTextAnnotation) {#visit_4}
 
-프리텍스트 주석을 방문/선택합니다.
+FreeText Annotation을 방문/선택합니다.
 
 ```csharp
 public void Visit(FreeTextAnnotation freetext)
@@ -79,20 +79,20 @@ public void Visit(FreeTextAnnotation freetext)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| freetext | FreeTextAnnotation | FreeTextAnnotation 객체 예제/템플릿. |
+| 자유 텍스트 | FreeTextAnnotation | FreeTextAnnotation 객체 예제/템플릿. |
 
-### 참조
+### 또 보기
 
-* 클래스 [FreeTextAnnotation](../../freetextannotation/)
-* 인터페이스 [IAnnotationVisitor](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FreeTextAnnotation](../../freetextannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(HighlightAnnotation) {#visit_5}
 
-하이라이트 주석을 방문/선택합니다.
+Highlight Annotation을 방문/선택합니다.
 
 ```csharp
 public void Visit(HighlightAnnotation highlight)
@@ -100,14 +100,14 @@ public void Visit(HighlightAnnotation highlight)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| highlight | HighlightAnnotation | HighlightAnnotation 객체 예제/템플릿. |
+| 하이라이트 | HighlightAnnotation | HighlightAnnotation 객체 예제/템플릿. |
 
-### 참조
+### 또 보기
 
-* 클래스 [HighlightAnnotation](../../highlightannotation/)
-* 인터페이스 [IAnnotationVisitor](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [HighlightAnnotation](../../highlightannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -121,14 +121,14 @@ public void Visit(UnderlineAnnotation underline)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| underline | UnderlineAnnotation | UnderlineAnnotation 객체 예제/템플릿. |
+| 밑줄 | UnderlineAnnotation | UnderlineAnnotation 객체 예제/템플릿. |
 
-### 참조
+### 또 보기
 
-* 클래스 [UnderlineAnnotation](../../underlineannotation/)
-* 인터페이스 [IAnnotationVisitor](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [UnderlineAnnotation](../../underlineannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -142,20 +142,20 @@ public void Visit(StrikeOutAnnotation strikeOut)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| strikeOut | StrikeOutAnnotation | StrikeOutAnnotation 객체 예제/템플릿. |
+| 취소선 | StrikeOutAnnotation | StrikeOutAnnotation 객체 예제/템플릿. |
 
-### 참조
+### 또 보기
 
-* 클래스 [StrikeOutAnnotation](../../strikeoutannotation/)
-* 인터페이스 [IAnnotationVisitor](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [StrikeOutAnnotation](../../strikeoutannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SquigglyAnnotation) {#visit_17}
 
-물결 주석을 방문/선택합니다.
+구불구불 주석을 방문/선택합니다.
 
 ```csharp
 public void Visit(SquigglyAnnotation squiggly)
@@ -163,14 +163,14 @@ public void Visit(SquigglyAnnotation squiggly)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| squiggly | SquigglyAnnotation | SquigglyAnnotation 객체 예제/템플릿. |
+| 물결선 | SquigglyAnnotation | SquigglyAnnotation 객체 예제/템플릿. |
 
-### 참조
+### 또 보기
 
-* 클래스 [SquigglyAnnotation](../../squigglyannotation/)
-* 인터페이스 [IAnnotationVisitor](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [SquigglyAnnotation](../../squigglyannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -184,20 +184,20 @@ public void Visit(PopupAnnotation popup)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| popup | PopupAnnotation | PopupAnnotation 객체 예제/템플릿. |
+| 팝업 | PopupAnnotation | PopupAnnotation 객체 예시/템플릿. |
 
-### 참조
+### 또 보기
 
-* 클래스 [PopupAnnotation](../../popupannotation/)
-* 인터페이스 [IAnnotationVisitor](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PopupAnnotation](../../popupannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(LineAnnotation) {#visit_7}
 
-선 주석을 방문/선택합니다.
+Line Annotation을 방문/선택합니다.
 
 ```csharp
 public void Visit(LineAnnotation line)
@@ -205,20 +205,20 @@ public void Visit(LineAnnotation line)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| line | LineAnnotation | LineAnnotation 객체 예제/템플릿. |
+| 줄 | LineAnnotation | LineAnnotation 객체 예시/템플릿. |
 
-### 참조
+### 또 보기
 
-* 클래스 [LineAnnotation](../../lineannotation/)
-* 인터페이스 [IAnnotationVisitor](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [LineAnnotation](../../lineannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(CircleAnnotation) {#visit_2}
 
-원 주석을 방문/선택합니다.
+Circle Annotation을 방문/선택합니다.
 
 ```csharp
 public void Visit(CircleAnnotation circle)
@@ -226,14 +226,14 @@ public void Visit(CircleAnnotation circle)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| circle | CircleAnnotation | CircleAnnotation 객체 예제/템플릿. |
+| 원 | CircleAnnotation | CircleAnnotation 객체 예시/템플릿. |
 
-### 참조
+### 또 보기
 
-* 클래스 [CircleAnnotation](../../circleannotation/)
-* 인터페이스 [IAnnotationVisitor](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [CircleAnnotation](../../circleannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -247,20 +247,20 @@ public void Visit(SquareAnnotation square)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| square | SquareAnnotation | SquareAnnotation 객체 예제/템플릿. |
+| 정사각형 | SquareAnnotation | SquareAnnotation 객체 예시/템플릿. |
 
-### 참조
+### 또 보기
 
-* 클래스 [SquareAnnotation](../../squareannotation/)
-* 인터페이스 [IAnnotationVisitor](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [SquareAnnotation](../../squareannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(InkAnnotation) {#visit_6}
 
-잉크 주석을 방문/선택합니다.
+Ink Annotation을 방문/선택합니다.
 
 ```csharp
 public void Visit(InkAnnotation ink)
@@ -268,14 +268,14 @@ public void Visit(InkAnnotation ink)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| ink | InkAnnotation | InkAnnotation 객체 예제/템플릿. |
+| 잉크 | InkAnnotation | InkAnnotation 객체 예시/템플릿. |
 
-### 참조
+### 또 보기
 
-* 클래스 [InkAnnotation](../../inkannotation/)
-* 인터페이스 [IAnnotationVisitor](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [InkAnnotation](../../inkannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -289,14 +289,14 @@ public void Visit(PolylineAnnotation polyline)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| polyline | PolylineAnnotation | PolylineAnnotation 객체 예제/템플릿. |
+| 폴리라인 | PolylineAnnotation | PolylineAnnotation 객체 예시/템플릿. |
 
-### 참조
+### 또 보기
 
-* 클래스 [PolylineAnnotation](../../polylineannotation/)
-* 인터페이스 [IAnnotationVisitor](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PolylineAnnotation](../../polylineannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -310,20 +310,20 @@ public void Visit(PolygonAnnotation polygon)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| polygon | PolygonAnnotation | PolygonAnnotation 객체 예제/템플릿. |
+| 다각형 | PolygonAnnotation | PolygonAnnotation 객체 예시/템플릿. |
 
-### 참조
+### 또 보기
 
-* 클래스 [PolygonAnnotation](../../polygonannotation/)
-* 인터페이스 [IAnnotationVisitor](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PolygonAnnotation](../../polygonannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(CaretAnnotation) {#visit_1}
 
-캐럿 주석을 방문/선택합니다.
+Caret Annotation을 방문/선택합니다.
 
 ```csharp
 public void Visit(CaretAnnotation caret)
@@ -331,14 +331,14 @@ public void Visit(CaretAnnotation caret)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| caret | CaretAnnotation | CaretAnnotation 객체 예제/템플릿. |
+| 캐럿 | CaretAnnotation | CaretAnnotation 객체 예시/템플릿. |
 
-### 참조
+### 또 보기
 
-* 클래스 [CaretAnnotation](../../caretannotation/)
-* 인터페이스 [IAnnotationVisitor](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [CaretAnnotation](../../caretannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -352,14 +352,14 @@ public void Visit(StampAnnotation stamp)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| stamp | StampAnnotation | StampAnnotation 객체 예제/템플릿. |
+| 스탬프 | StampAnnotation | StampAnnotation 객체 예시/템플릿. |
 
-### 참조
+### 또 보기
 
-* 클래스 [StampAnnotation](../../stampannotation/)
-* 인터페이스 [IAnnotationVisitor](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [StampAnnotation](../../stampannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -373,20 +373,20 @@ public void Visit(WidgetAnnotation widget)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| widget | WidgetAnnotation | WidgetAnnotation 객체 예제/템플릿. |
+| 위젯 | WidgetAnnotation | WidgetAnnotation 객체 예시/템플릿. |
 
-### 참조
+### 또 보기
 
-* 클래스 [WidgetAnnotation](../../widgetannotation/)
-* 인터페이스 [IAnnotationVisitor](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [WidgetAnnotation](../../widgetannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(MovieAnnotation) {#visit_9}
 
-영화 주석을 방문/선택합니다.
+Movie Annotation을 방문/선택합니다.
 
 ```csharp
 public void Visit(MovieAnnotation movie)
@@ -394,14 +394,14 @@ public void Visit(MovieAnnotation movie)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| movie | MovieAnnotation | MovieAnnotation 객체 예제/템플릿. |
+| 영화 | MovieAnnotation | MovieAnnotation 객체 예제/템플릿. |
 
-### 참조
+### 또 보기
 
-* 클래스 [MovieAnnotation](../../movieannotation/)
-* 인터페이스 [IAnnotationVisitor](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [MovieAnnotation](../../movieannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -415,14 +415,14 @@ public void Visit(ScreenAnnotation screen)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| screen | ScreenAnnotation | ScreenAnnotation 객체 예제/템플릿. |
+| 스크린 | ScreenAnnotation | ScreenAnnotation 객체 예제/템플릿. |
 
-### 참조
+### 또 보기
 
-* 클래스 [ScreenAnnotation](../../screenannotation/)
-* 인터페이스 [IAnnotationVisitor](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [ScreenAnnotation](../../screenannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -436,20 +436,20 @@ public void Visit(TrimMarkAnnotation trimMark)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| trimMark | TrimMarkAnnotation | [`TrimMarkAnnotation`](../../trimmarkannotation/) 객체 예제/템플릿. |
+| trimMark | TrimMarkAnnotation | 이 [`TrimMarkAnnotation`](../../trimmarkannotation/) 객체 예제/템플릿. |
 
-### 참조
+### 또 보기
 
-* 클래스 [TrimMarkAnnotation](../../trimmarkannotation/)
-* 인터페이스 [IAnnotationVisitor](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TrimMarkAnnotation](../../trimmarkannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(BleedMarkAnnotation) {#visit}
 
-블리드 마크 주석을 방문/선택합니다.
+Bleed mark Annotation을 방문/선택합니다.
 
 ```csharp
 public void Visit(BleedMarkAnnotation bleedMark)
@@ -457,14 +457,14 @@ public void Visit(BleedMarkAnnotation bleedMark)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| bleedMark | BleedMarkAnnotation | [`BleedMarkAnnotation`](../../bleedmarkannotation/) 객체 예제/템플릿. |
+| bleedMark | BleedMarkAnnotation | 이 [`BleedMarkAnnotation`](../../bleedmarkannotation/) 객체 예제/템플릿. |
 
-### 참조
+### 또 보기
 
-* 클래스 [BleedMarkAnnotation](../../bleedmarkannotation/)
-* 인터페이스 [IAnnotationVisitor](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [BleedMarkAnnotation](../../bleedmarkannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -478,14 +478,14 @@ public void Visit(RegistrationMarkAnnotation registrationMark)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| registrationMark | RegistrationMarkAnnotation | [`RegistrationMarkAnnotation`](../../registrationmarkannotation/) 객체 예제/템플릿. |
+| registrationMark | RegistrationMarkAnnotation | 이 [`RegistrationMarkAnnotation`](../../registrationmarkannotation/) 객체 예제/템플릿. |
 
-### 참조
+### 또 보기
 
-* 클래스 [RegistrationMarkAnnotation](../../registrationmarkannotation/)
-* 인터페이스 [IAnnotationVisitor](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [RegistrationMarkAnnotation](../../registrationmarkannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -499,11 +499,13 @@ public void Visit(PageInformationAnnotation pageInformation)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| pageInformation | PageInformationAnnotation | [`PageInformationAnnotation`](../../pageinformationannotation/) 객체 예제/템플릿. |
+| pageInformation | PageInformationAnnotation | 이 [`PageInformationAnnotation`](../../pageinformationannotation/) 객체 예제/템플릿. |
 
-### 참조
+### 또 보기
 
-* 클래스 [PageInformationAnnotation](../../pageinformationannotation/)
-* 인터페이스 [IAnnotationVisitor](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PageInformationAnnotation](../../pageinformationannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

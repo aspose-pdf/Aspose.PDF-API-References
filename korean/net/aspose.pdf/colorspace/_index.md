@@ -1,14 +1,14 @@
 ---
-title: Enum ColorSpace
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ColorSpace 열거형. 색상 공간 열거형
+title: "열거형 ColorSpace"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.ColorSpace 열거형. 색 공간 열거형"
 type: docs
-weight: 3090
+weight: 3200
 url: /ko/net/aspose.pdf/colorspace/
 ---
-## ColorSpace 열거형
+## ColorSpace enumeration
 
-색상 공간 열거형.
+색상 공간 열거형입니다.
 
 ```csharp
 public enum ColorSpace
@@ -18,11 +18,13 @@ public enum ColorSpace
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
-| DeviceRGB | `0` | 장치 의존 RGB 색상 공간. |
-| DeviceCMYK | `1` | 장치 의존 CMYK 색상 공간. |
-| DeviceGray | `2` | 장치 의존 회색 색상 공간. |
+| DeviceRGB | `0` | 디바이스 종속 RGB 색 공간. |
+| DeviceCMYK | `1` | 디바이스 종속 CMYK 색 공간. |
+| DeviceGray | `2` | 디바이스 종속 회색 색 공간. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf](../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

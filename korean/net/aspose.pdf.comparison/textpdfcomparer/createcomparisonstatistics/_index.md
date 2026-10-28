@@ -1,7 +1,7 @@
 ---
-title: TextPdfComparer.CreateComparisonStatistics
-second_title: Aspose.PDF for .NET API Reference
-description: TextPdfComparer 메서드. 비교 통계 가져오기
+title: "TextPdfComparer.CreateComparisonStatistics"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TextPdfComparer 메서드. 비교 통계를 가져옵니다."
 type: docs
 weight: 70
 url: /ko/net/aspose.pdf.comparison/textpdfcomparer/createcomparisonstatistics/
@@ -16,19 +16,19 @@ public static TextItemComparisonStatistics CreateComparisonStatistics(List<DiffO
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| diffs | List`1 | 변경 사항 목록입니다. |
+| 차이 | List`1 | 변경 목록. |
 
 ### 반환 값
 
-통계입니다.
+통계.
 
-### 참조
+### 또 보기
 
-* 클래스 [TextItemComparisonStatistics](../../textitemcomparisonstatistics/)
-* 클래스 [DiffOperation](../../diffoperation/)
-* 클래스 [TextPdfComparer](../)
-* 네임스페이스 [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TextItemComparisonStatistics](../../textitemcomparisonstatistics/)
+* class [DiffOperation](../../diffoperation/)
+* class [TextPdfComparer](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -43,16 +43,18 @@ public static DocumentComparisonStatistics CreateComparisonStatistics(
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| diffs | List`1 | 변경 사항 목록입니다. |
+| 차이 | List`1 | 변경 목록. |
 
 ### 반환 값
 
-통계입니다.
+통계.
 
-### 참조
+### 또 보기
 
-* 클래스 [DocumentComparisonStatistics](../../documentcomparisonstatistics/)
-* 클래스 [DiffOperation](../../diffoperation/)
-* 클래스 [TextPdfComparer](../)
-* 네임스페이스 [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [DocumentComparisonStatistics](../../documentcomparisonstatistics/)
+* class [DiffOperation](../../diffoperation/)
+* class [TextPdfComparer](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

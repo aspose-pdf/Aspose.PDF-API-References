@@ -1,12 +1,12 @@
 ---
-title: Form.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: Form 속성. 동기화 객체를 반환합니다.
+title: "Form.SyncRoot"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Form 속성. 동기화 객체를 반환합니다."
 type: docs
-weight: 150
+weight: 170
 url: /ko/net/aspose.pdf.forms/form/syncroot/
 ---
-## Form.SyncRoot 속성
+## Form.SyncRoot property
 
 동기화 객체를 반환합니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.forms/form/syncroot/
 public object SyncRoot { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Form](../)
-* 네임스페이스 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

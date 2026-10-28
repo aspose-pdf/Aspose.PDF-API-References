@@ -1,7 +1,7 @@
 ---
-title: FormattedText.FormattedText
-second_title: Aspose.PDF for .NET API Reference
-description: FormattedText 생성자. FormattedText 초기화
+title: "FormattedText.FormattedText"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FormattedText 생성자. FormattedText를 초기화합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.facades/formattedtext/formattedtext/
@@ -14,11 +14,11 @@ FormattedText를 초기화합니다.
 public FormattedText()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [FormattedText](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -32,13 +32,13 @@ public FormattedText(string text)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| text | 문자열 | FormattedText에 포함된 텍스트입니다. |
+| 텍스트 | String | FormattedText에 포함된 텍스트. |
 
-### 참조
+### 또 보기
 
-* 클래스 [FormattedText](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -53,21 +53,21 @@ public FormattedText(string text, FontColor fontColor, FontStyle fontStyle,
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| text | 문자열 | 문자열의 텍스트 내용입니다. |
-| fontColor | FontColor | 텍스트의 색상입니다. |
-| fontStyle | FontStyle | 텍스트의 스타일입니다. |
+| 텍스트 | String | 문자열의 텍스트 내용. |
+| fontColor | FontColor | 텍스트의 색상. |
+| fontStyle | FontStyle | 텍스트의 스타일. |
 | encodingType | EncodingType | 인코딩 유형 (EncodingType 열거형의 값). |
-| embedded | 불리언 | 글꼴이 포함되면 true입니다. |
-| textSize | 단일 | 텍스트의 크기입니다. |
+| embedded | Boolean | 글꼴이 포함될 경우 true. |
+| textSize | Single | 텍스트의 크기. |
 
-### 참조
+### 또 보기
 
-* 클래스 [FontColor](../../fontcolor/)
-* 열거형 [FontStyle](../../fontstyle/)
-* 열거형 [EncodingType](../../encodingtype/)
-* 클래스 [FormattedText](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FontColor](../../fontcolor/)
+* enum [FontStyle](../../fontstyle/)
+* enum [EncodingType](../../encodingtype/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -82,22 +82,22 @@ public FormattedText(string text, FontColor fontColor, FontStyle textFont,
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| text | 문자열 | 문자열의 텍스트 내용입니다. |
-| fontColor | FontColor | 텍스트의 색상입니다. |
-| textFont | FontStyle | 텍스트의 글꼴입니다. |
-| textEncoding | EncodingType | 텍스트의 인코딩입니다. |
-| embedded | 불리언 | 텍스트가 포함되면 true입니다. |
-| textSize | 단일 | 텍스트의 크기입니다. |
-| lineSpacing | 단일 | 추가 간격입니다. |
+| 텍스트 | String | 문자열의 텍스트 내용. |
+| fontColor | FontColor | 텍스트의 색상. |
+| textFont | FontStyle | 텍스트의 글꼴. |
+| textEncoding | EncodingType | 텍스트의 인코딩. |
+| embedded | Boolean | 텍스트가 포함될 경우 true. |
+| textSize | Single | 텍스트의 크기. |
+| lineSpacing | Single | 추가 간격. |
 
-### 참조
+### 또 보기
 
-* 클래스 [FontColor](../../fontcolor/)
-* 열거형 [FontStyle](../../fontstyle/)
-* 열거형 [EncodingType](../../encodingtype/)
-* 클래스 [FormattedText](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FontColor](../../fontcolor/)
+* enum [FontStyle](../../fontstyle/)
+* enum [EncodingType](../../encodingtype/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -112,20 +112,20 @@ public FormattedText(string text, Color color, FontStyle textFont, EncodingType 
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| text | 문자열 | 문자열의 텍스트 내용입니다. |
-| color | Color | 텍스트의 색상입니다. |
-| textFont | FontStyle | 텍스트의 글꼴입니다. |
-| textEncoding | EncodingType | 텍스트의 인코딩입니다. |
-| embedded | 불리언 | 텍스트가 포함되면 true입니다. |
-| textSize | 단일 | 텍스트의 크기입니다. |
+| 텍스트 | String | 문자열의 텍스트 내용. |
+| color | Color | 텍스트의 색상. |
+| textFont | FontStyle | 텍스트의 글꼴. |
+| textEncoding | EncodingType | 텍스트의 인코딩. |
+| embedded | Boolean | 텍스트가 포함될 경우 true. |
+| textSize | Single | 텍스트의 크기. |
 
-### 참조
+### 또 보기
 
-* 열거형 [FontStyle](../../fontstyle/)
-* 열거형 [EncodingType](../../encodingtype/)
-* 클래스 [FormattedText](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* enum [FontStyle](../../fontstyle/)
+* enum [EncodingType](../../encodingtype/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -140,21 +140,21 @@ public FormattedText(string text, Color textColor, FontStyle textFont, EncodingT
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| text | 문자열 | 문자열의 텍스트 내용입니다. |
-| textColor | Color | 텍스트의 색상입니다. |
-| textFont | FontStyle | 텍스트의 글꼴입니다. |
-| textEncoding | EncodingType | 텍스트의 인코딩입니다. |
-| embedded | 불리언 | 글꼴이 포함되면 true입니다. |
-| textSize | 단일 | 텍스트의 크기입니다. |
-| lineSpacing | 단일 | 추가 간격입니다. |
+| 텍스트 | String | 문자열의 텍스트 내용. |
+| textColor | Color | 텍스트의 색상. |
+| textFont | FontStyle | 텍스트의 글꼴. |
+| textEncoding | EncodingType | 텍스트의 인코딩. |
+| embedded | Boolean | true이면 글꼴이 포함됩니다. |
+| textSize | Single | 텍스트의 크기. |
+| lineSpacing | Single | 추가 간격. |
 
-### 참조
+### 또 보기
 
-* 열거형 [FontStyle](../../fontstyle/)
-* 열거형 [EncodingType](../../encodingtype/)
-* 클래스 [FormattedText](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* enum [FontStyle](../../fontstyle/)
+* enum [EncodingType](../../encodingtype/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -169,22 +169,22 @@ public FormattedText(string text, FontColor textColor, FontColor backColor, Font
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| text | 문자열 | 문자열의 텍스트 내용입니다. |
-| textColor | FontColor | 텍스트의 색상입니다. |
-| backColor | FontColor | 배경의 색상입니다. |
-| textFont | FontStyle | 텍스트의 글꼴입니다. |
-| textEncoding | EncodingType | 텍스트의 인코딩입니다. |
-| embedded | 불리언 | 글꼴이 포함되면 true입니다. |
-| textSize | 단일 | 텍스트의 크기입니다. |
+| 텍스트 | String | 문자열의 텍스트 내용. |
+| textColor | FontColor | 텍스트의 색상. |
+| backColor | FontColor | 배경 색상. |
+| textFont | FontStyle | 텍스트의 글꼴. |
+| textEncoding | EncodingType | 텍스트의 인코딩. |
+| embedded | Boolean | true이면 글꼴이 포함됩니다. |
+| textSize | Single | 텍스트의 크기. |
 
-### 참조
+### 또 보기
 
-* 클래스 [FontColor](../../fontcolor/)
-* 열거형 [FontStyle](../../fontstyle/)
-* 열거형 [EncodingType](../../encodingtype/)
-* 클래스 [FormattedText](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FontColor](../../fontcolor/)
+* enum [FontStyle](../../fontstyle/)
+* enum [EncodingType](../../encodingtype/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -199,23 +199,23 @@ public FormattedText(string text, FontColor textColor, FontColor backColor, Font
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| text | 문자열 | 텍스트 내용입니다. |
-| textColor | FontColor | 텍스트의 색상입니다. |
-| backColor | FontColor | 배경의 색상입니다. |
-| textFont | FontStyle | 텍스트의 글꼴입니다. |
-| textEncoding | EncodingType | 텍스트의 인코딩입니다. |
-| embedded | 불리언 | 글꼴이 포함되면 true입니다. |
-| textSize | 단일 | 텍스트의 크기입니다. |
-| lineSpacing | 단일 | 추가 간격입니다. |
+| 텍스트 | String | 텍스트 내용. |
+| textColor | FontColor | 텍스트의 색상. |
+| backColor | FontColor | 배경 색상. |
+| textFont | FontStyle | 텍스트의 글꼴. |
+| textEncoding | EncodingType | 텍스트의 인코딩. |
+| embedded | Boolean | true이면 글꼴이 포함됩니다. |
+| textSize | Single | 텍스트의 크기. |
+| lineSpacing | Single | 추가 간격. |
 
-### 참조
+### 또 보기
 
-* 클래스 [FontColor](../../fontcolor/)
-* 열거형 [FontStyle](../../fontstyle/)
-* 열거형 [EncodingType](../../encodingtype/)
-* 클래스 [FormattedText](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FontColor](../../fontcolor/)
+* enum [FontStyle](../../fontstyle/)
+* enum [EncodingType](../../encodingtype/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -230,21 +230,21 @@ public FormattedText(string text, Color textColor, Color backColor, FontStyle te
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| text | 문자열 | 문자열의 텍스트 내용입니다. |
-| textColor | Color | 텍스트의 색상입니다. |
-| backColor | Color | 배경의 색상입니다. |
-| textFont | FontStyle | 텍스트의 글꼴입니다. |
-| encoding | EncodingType | 텍스트의 인코딩입니다. |
-| embedded | 불리언 | 글꼴이 포함되면 true입니다. |
-| textSize | 단일 | 텍스트의 크기입니다. |
+| 텍스트 | String | 문자열의 텍스트 내용. |
+| textColor | Color | 텍스트의 색상. |
+| backColor | Color | 배경 색상. |
+| textFont | FontStyle | 텍스트의 글꼴. |
+| encoding | EncodingType | 텍스트의 인코딩. |
+| embedded | Boolean | 글꼴이 포함될 경우 True. |
+| textSize | Single | 텍스트의 크기. |
 
-### 참조
+### 또 보기
 
-* 열거형 [FontStyle](../../fontstyle/)
-* 열거형 [EncodingType](../../encodingtype/)
-* 클래스 [FormattedText](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* enum [FontStyle](../../fontstyle/)
+* enum [EncodingType](../../encodingtype/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -259,22 +259,22 @@ public FormattedText(string text, Color textColor, Color backColor, FontStyle te
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| text | 문자열 | 문자열의 텍스트 내용입니다. |
-| textColor | Color | 텍스트의 색상입니다. |
-| backColor | Color | 배경의 색상입니다. |
-| textFont | FontStyle | 텍스트의 글꼴입니다. |
-| textEncoding | EncodingType | 텍스트의 인코딩입니다. |
-| embedded | 불리언 | 글꼴이 포함되면 true입니다. |
-| textSize | 단일 | 텍스트의 크기입니다. |
-| lineSpacing | 단일 | 추가 간격입니다. |
+| 텍스트 | String | 문자열의 텍스트 내용. |
+| textColor | Color | 텍스트의 색상. |
+| backColor | Color | 배경 색상. |
+| textFont | FontStyle | 텍스트의 글꼴. |
+| textEncoding | EncodingType | 텍스트의 인코딩. |
+| embedded | Boolean | True인 경우 글꼴이 포함됩니다. |
+| textSize | Single | 텍스트의 크기. |
+| lineSpacing | Single | 추가 간격. |
 
-### 참조
+### 또 보기
 
-* 열거형 [FontStyle](../../fontstyle/)
-* 열거형 [EncodingType](../../encodingtype/)
-* 클래스 [FormattedText](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* enum [FontStyle](../../fontstyle/)
+* enum [EncodingType](../../encodingtype/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -289,20 +289,20 @@ public FormattedText(string text, Color textColor, Color backColor, string fontN
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| text | 문자열 | 텍스트 내용입니다. |
-| textColor | Color | 텍스트의 색상입니다. |
-| backColor | Color | 배경의 색상입니다. |
-| fontName | 문자열 | 텍스트의 글꼴입니다. |
-| textEncoding | EncodingType | 텍스트의 인코딩입니다. |
-| embedded | 불리언 | 글꼴이 포함되면 true입니다. |
-| fontSize | 단일 | 텍스트의 크기입니다. |
+| 텍스트 | String | 텍스트 내용. |
+| textColor | Color | 텍스트의 색상. |
+| backColor | Color | 배경 색상. |
+| fontName | String | 텍스트의 글꼴. |
+| textEncoding | EncodingType | 텍스트의 인코딩. |
+| embedded | Boolean | true이면 글꼴이 포함됩니다. |
+| fontSize | Single | 텍스트의 크기. |
 
-### 참조
+### 또 보기
 
-* 열거형 [EncodingType](../../encodingtype/)
-* 클래스 [FormattedText](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* enum [EncodingType](../../encodingtype/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -316,15 +316,15 @@ public FormattedText(string text, Color textColor, Color backColor)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| text | 문자열 | 텍스트 내용입니다. |
-| textColor | Color | 텍스트의 색상입니다. |
-| backColor | Color | 배경의 색상입니다. |
+| 텍스트 | String | 텍스트 내용. |
+| textColor | Color | 텍스트의 색상. |
+| backColor | Color | 배경 색상. |
 
-### 참조
+### 또 보기
 
-* 클래스 [FormattedText](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -339,16 +339,18 @@ public FormattedText(string text, Color textColor, string fontName, EncodingType
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| text | 문자열 | 텍스트 내용입니다. |
-| textColor | Color | 텍스트의 색상입니다. |
-| fontName | 문자열 | 텍스트의 글꼴입니다. |
-| textEncoding | EncodingType | 텍스트의 인코딩입니다. |
-| embedded | 불리언 | 글꼴이 포함되면 true입니다. |
-| fontSize | 단일 | 텍스트의 크기입니다. |
+| 텍스트 | String | 텍스트 내용. |
+| textColor | Color | 텍스트의 색상. |
+| fontName | String | 텍스트의 글꼴. |
+| textEncoding | EncodingType | 텍스트의 인코딩. |
+| embedded | Boolean | true이면 글꼴이 포함됩니다. |
+| fontSize | Single | 텍스트의 크기. |
 
-### 참조
+### 또 보기
 
-* 열거형 [EncodingType](../../encodingtype/)
-* 클래스 [FormattedText](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* enum [EncodingType](../../encodingtype/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

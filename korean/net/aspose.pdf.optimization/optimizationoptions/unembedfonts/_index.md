@@ -1,21 +1,23 @@
 ---
-title: OptimizationOptions.UnembedFonts
-second_title: Aspose.PDF for .NET API Reference
-description: OptimizationOptions 속성. true로 설정하면 글꼴이 포함되지 않음
+title: "OptimizationOptions.UnembedFonts"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "OptimizationOptions 속성. true로 설정하면 글꼴이 임베드되지 않게 됩니다."
 type: docs
-weight: 140
+weight: 130
 url: /ko/net/aspose.pdf.optimization/optimizationoptions/unembedfonts/
 ---
-## OptimizationOptions.UnembedFonts 속성
+## OptimizationOptions.UnembedFonts property
 
-true로 설정하면 글꼴이 포함되지 않음.
+true로 설정하면 글꼴을 포함하지 않게 합니다.
 
 ```csharp
 public bool UnembedFonts { get; set; }
 ```
 
-### 참조
+### 또 보기
 
 * class [OptimizationOptions](../)
 * namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
 * assembly [Aspose.PDF](../../../)
+
+

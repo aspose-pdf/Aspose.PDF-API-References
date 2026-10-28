@@ -1,14 +1,14 @@
 ---
-title: PdfConverter.SaveAsTIFF
-second_title: Aspose.PDF for .NET API Reference
-description: PdfConverter 메서드. PDF 문서의 각 페이지를 이미지로 변환하고 이미지를 단일 TIFF 파일로 저장합니다.
+title: "PdfConverter.SaveAsTIFF"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfConverter 메서드. pdf 문서의 각 페이지를 이미지로 변환하고 이미지를 단일 TIFF 파일로 저장합니다."
 type: docs
 weight: 160
 url: /ko/net/aspose.pdf.facades/pdfconverter/saveastiff/
 ---
 ## SaveAsTIFF(string) {#saveastiff_10}
 
-PDF 문서의 각 페이지를 이미지로 변환하고 이미지를 단일 TIFF 파일로 저장합니다.
+PDF 문서의 각 페이지를 이미지로 변환하고 이미지를 단일 TIFF 파일에 저장합니다.
 
 ```csharp
 public void SaveAsTIFF(string outputFile)
@@ -16,7 +16,7 @@ public void SaveAsTIFF(string outputFile)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| outputFile | String | TIFF 이미지를 저장할 파일입니다. |
+| outputFile | String | TIFF 이미지를 저장할 파일. |
 
 ## 예제
 
@@ -34,7 +34,7 @@ converter.DoConvert()
 converter.SaveAsTIFF(@"D:\Test\test.tiff")
 ```
 
-### 참조
+### 또 보기
 
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -44,7 +44,7 @@ converter.SaveAsTIFF(@"D:\Test\test.tiff")
 
 ## SaveAsTIFF(string, CompressionType) {#saveastiff_11}
 
-PDF 문서의 각 페이지를 이미지로 변환하고 이미지를 단일 TIFF 파일로 저장합니다.
+PDF 문서의 각 페이지를 이미지로 변환하고 이미지를 단일 TIFF 파일에 저장합니다.
 
 ```csharp
 public void SaveAsTIFF(string outputFile, CompressionType compressionType)
@@ -52,8 +52,8 @@ public void SaveAsTIFF(string outputFile, CompressionType compressionType)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| outputFile | String | 출력 파일입니다. |
-| compressionType | CompressionType | 압축 유형입니다. |
+| outputFile | String | 출력 파일. |
+| compressionType | CompressionType | 압축 유형. |
 
 ## 예제
 
@@ -70,7 +70,7 @@ converter.DoConvert()
 converter.SaveAsTIFF(@"D:\Test\test.tiff")
 ```
 
-### 참조
+### 또 보기
 
 * enum [CompressionType](../../../aspose.pdf.devices/compressiontype/)
 * class [PdfConverter](../)
@@ -81,7 +81,7 @@ converter.SaveAsTIFF(@"D:\Test\test.tiff")
 
 ## SaveAsTIFF(string, int, int) {#saveastiff_16}
 
-PDF 문서의 각 페이지를 지정된 크기의 이미지로 변환하고 이미지를 단일 TIFF 파일로 저장합니다.
+PDF 문서의 각 페이지를 차원으로 이미지로 변환하고 이미지를 단일 TIFF 파일에 저장합니다.
 
 ```csharp
 public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight)
@@ -89,11 +89,11 @@ public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| outputFile | String | TIFF 이미지를 저장할 파일 이름입니다. |
+| outputFile | String | TIFF 이미지를 저장할 파일 이름 |
 | imageWidth | Int32 | 이미지 너비, 단위는 픽셀입니다. |
 | imageHeight | Int32 | 이미지 높이, 단위는 픽셀입니다. |
 
-### 참조
+### 또 보기
 
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -103,7 +103,7 @@ public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight)
 
 ## SaveAsTIFF(string, PageSize) {#saveastiff_14}
 
-PDF 문서의 각 페이지를 페이지 크기로 이미지로 변환하고 이미지를 단일 TIFF 파일로 저장합니다.
+PDF 문서의 각 페이지를 페이지 크기로 이미지로 변환하고 이미지를 단일 TIFF 파일에 저장합니다.
 
 ```csharp
 public void SaveAsTIFF(string outputFile, PageSize pageSize)
@@ -111,10 +111,10 @@ public void SaveAsTIFF(string outputFile, PageSize pageSize)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| outputFile | String | TIFF 이미지를 저장할 파일 이름입니다. |
-| pageSize | PageSize | 이미지의 페이지 크기입니다. |
+| outputFile | String | TIFF 이미지를 저장할 파일 이름 |
+| pageSize | PageSize | 이미지의 페이지 크기. |
 
-### 참조
+### 또 보기
 
 * class [PageSize](../../../aspose.pdf/pagesize/)
 * class [PdfConverter](../)
@@ -125,7 +125,7 @@ public void SaveAsTIFF(string outputFile, PageSize pageSize)
 
 ## SaveAsTIFF(string, PageSize, TiffSettings) {#saveastiff_15}
 
-PDF 문서의 각 페이지를 페이지 크기로 이미지로 변환하고 이미지를 단일 TIFF 파일로 저장합니다.
+PDF 문서의 각 페이지를 페이지 크기로 이미지로 변환하고 이미지를 단일 TIFF 파일에 저장합니다.
 
 ```csharp
 public void SaveAsTIFF(string outputFile, PageSize pageSize, TiffSettings settings)
@@ -133,11 +133,11 @@ public void SaveAsTIFF(string outputFile, PageSize pageSize, TiffSettings settin
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| outputFile | String | TIFF 이미지를 저장할 파일 이름입니다. |
-| pageSize | PageSize | 이미지의 페이지 크기입니다. |
-| settings | TiffSettings | TIFF 매개변수를 정의하는 설정 객체입니다. |
+| outputFile | String | TIFF 이미지를 저장할 파일 이름 |
+| pageSize | PageSize | 이미지의 페이지 크기. |
+| settings | TiffSettings | TIFF 매개변수를 정의하는 Settings 객체. |
 
-### 참조
+### 또 보기
 
 * class [PageSize](../../../aspose.pdf/pagesize/)
 * class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
@@ -149,7 +149,7 @@ public void SaveAsTIFF(string outputFile, PageSize pageSize, TiffSettings settin
 
 ## SaveAsTIFF(string, int, int, CompressionType) {#saveastiff_17}
 
-PDF 문서의 각 페이지를 지정된 크기의 이미지로 변환하고 이미지를 단일 TIFF 파일로 저장합니다.
+PDF 문서의 각 페이지를 차원으로 이미지로 변환하고 이미지를 단일 TIFF 파일에 저장합니다.
 
 ```csharp
 public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight, 
@@ -158,12 +158,12 @@ public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight,
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| outputFile | String | TIFF 이미지를 저장할 파일 이름입니다. |
+| outputFile | String | TIFF 이미지를 저장할 파일 이름 |
 | imageWidth | Int32 | 이미지 너비, 단위는 픽셀입니다. |
 | imageHeight | Int32 | 이미지 높이, 단위는 픽셀입니다. |
-| compressionType | CompressionType | 압축 유형입니다. |
+| compressionType | CompressionType | 압축 유형. |
 
-### 참조
+### 또 보기
 
 * enum [CompressionType](../../../aspose.pdf.devices/compressiontype/)
 * class [PdfConverter](../)
@@ -174,7 +174,7 @@ public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight,
 
 ## SaveAsTIFF(string, int, int, TiffSettings) {#saveastiff_18}
 
-PDF 문서의 각 페이지를 지정된 크기의 이미지로 변환하고 이미지를 단일 TIFF 파일로 저장합니다.
+PDF 문서의 각 페이지를 차원으로 이미지로 변환하고 이미지를 단일 TIFF 파일에 저장합니다.
 
 ```csharp
 public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight, TiffSettings settings)
@@ -182,12 +182,12 @@ public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight, TiffS
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| outputFile | String | TIFF 이미지를 저장할 파일 이름입니다. |
+| outputFile | String | TIFF 이미지를 저장할 파일 이름 |
 | imageWidth | Int32 | 이미지 너비, 단위는 픽셀입니다. |
 | imageHeight | Int32 | 이미지 높이, 단위는 픽셀입니다. |
-| settings | TiffSettings | TIFF 매개변수를 정의하는 설정 객체입니다. |
+| settings | TiffSettings | TIFF 매개변수를 정의하는 Settings 객체. |
 
-### 참조
+### 또 보기
 
 * class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
 * class [PdfConverter](../)
@@ -198,7 +198,7 @@ public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight, TiffS
 
 ## SaveAsTIFF(string, int, int, TiffSettings, IIndexBitmapConverter) {#saveastiff_19}
 
-PDF 문서의 각 페이지를 지정된 크기의 이미지로 변환하고 이미지를 단일 TIFF 파일로 저장합니다.
+PDF 문서의 각 페이지를 차원으로 이미지로 변환하고 이미지를 단일 TIFF 파일에 저장합니다.
 
 ```csharp
 public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight, TiffSettings settings, 
@@ -207,13 +207,13 @@ public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight, TiffS
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| outputFile | String | TIFF 이미지를 저장할 파일 이름입니다. |
+| outputFile | String | TIFF 이미지를 저장할 파일 이름 |
 | imageWidth | Int32 | 이미지 너비, 단위는 픽셀입니다. |
 | imageHeight | Int32 | 이미지 높이, 단위는 픽셀입니다. |
-| settings | TiffSettings | TIFF 매개변수를 정의하는 설정 객체입니다. |
-| converter | IIndexBitmapConverter | 외부 변환기입니다. |
+| settings | TiffSettings | TIFF 매개변수를 정의하는 Settings 객체. |
+| converter | IIndexBitmapConverter | 외부 변환기 |
 
-### 참조
+### 또 보기
 
 * class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
 * interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
@@ -225,7 +225,7 @@ public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight, TiffS
 
 ## SaveAsTIFF(Stream) {#saveastiff}
 
-PDF 문서의 각 페이지를 이미지로 변환하고 이미지를 단일 TIFF 스트림으로 저장합니다.
+PDF 문서의 각 페이지를 이미지로 변환하고 이미지를 단일 TIFF 스트림에 저장합니다.
 
 ```csharp
 public void SaveAsTIFF(Stream outputStream)
@@ -233,9 +233,9 @@ public void SaveAsTIFF(Stream outputStream)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| outputStream | Stream | TIFF 이미지를 저장할 스트림입니다. |
+| outputStream | Stream | TIFF 이미지를 저장하기 위한 스트림입니다. |
 
-### 참조
+### 또 보기
 
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -245,7 +245,7 @@ public void SaveAsTIFF(Stream outputStream)
 
 ## SaveAsTIFF(Stream, CompressionType) {#saveastiff_1}
 
-PDF 문서의 각 페이지를 이미지로 변환하고 이미지를 단일 TIFF 파일로 저장합니다.
+PDF 문서의 각 페이지를 이미지로 변환하고 이미지를 단일 TIFF 파일에 저장합니다.
 
 ```csharp
 public void SaveAsTIFF(Stream outputStream, CompressionType compressionType)
@@ -254,9 +254,9 @@ public void SaveAsTIFF(Stream outputStream, CompressionType compressionType)
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | outputStream | Stream | 출력 스트림입니다. |
-| compressionType | CompressionType | 압축 유형입니다. |
+| compressionType | CompressionType | 압축 유형. |
 
-### 참조
+### 또 보기
 
 * enum [CompressionType](../../../aspose.pdf.devices/compressiontype/)
 * class [PdfConverter](../)
@@ -267,7 +267,7 @@ public void SaveAsTIFF(Stream outputStream, CompressionType compressionType)
 
 ## SaveAsTIFF(Stream, PageSize) {#saveastiff_4}
 
-PDF 문서의 각 페이지를 페이지 크기로 이미지로 변환하고 이미지를 단일 TIFF 스트림으로 저장합니다.
+PDF 문서의 각 페이지를 페이지 크기로 이미지로 변환하고 이미지를 단일 TIFF 스트림에 저장합니다.
 
 ```csharp
 public void SaveAsTIFF(Stream outputStream, PageSize pageSize)
@@ -275,10 +275,10 @@ public void SaveAsTIFF(Stream outputStream, PageSize pageSize)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| outputStream | Stream | TIFF 이미지를 저장할 스트림입니다. |
-| pageSize | PageSize | 이미지의 페이지 크기입니다. |
+| outputStream | Stream | TIFF 이미지를 저장하기 위한 스트림입니다. |
+| pageSize | PageSize | 이미지의 페이지 크기. |
 
-### 참조
+### 또 보기
 
 * class [PageSize](../../../aspose.pdf/pagesize/)
 * class [PdfConverter](../)
@@ -289,7 +289,7 @@ public void SaveAsTIFF(Stream outputStream, PageSize pageSize)
 
 ## SaveAsTIFF(Stream, PageSize, TiffSettings) {#saveastiff_5}
 
-PDF 문서의 각 페이지를 페이지 크기로 이미지로 변환하고 이미지를 단일 TIFF 스트림으로 저장합니다.
+PDF 문서의 각 페이지를 페이지 크기로 이미지로 변환하고 이미지를 단일 TIFF 스트림에 저장합니다.
 
 ```csharp
 public void SaveAsTIFF(Stream outputStream, PageSize pageSize, TiffSettings settings)
@@ -297,11 +297,11 @@ public void SaveAsTIFF(Stream outputStream, PageSize pageSize, TiffSettings sett
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| outputStream | Stream | TIFF 이미지를 저장할 스트림입니다. |
-| pageSize | PageSize | 이미지의 페이지 크기입니다. |
-| settings | TiffSettings | TIFF 매개변수를 정의하는 설정 객체입니다. |
+| outputStream | Stream | TIFF 이미지를 저장하기 위한 스트림입니다. |
+| pageSize | PageSize | 이미지의 페이지 크기. |
+| settings | TiffSettings | TIFF 매개변수를 정의하는 Settings 객체. |
 
-### 참조
+### 또 보기
 
 * class [PageSize](../../../aspose.pdf/pagesize/)
 * class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
@@ -313,7 +313,7 @@ public void SaveAsTIFF(Stream outputStream, PageSize pageSize, TiffSettings sett
 
 ## SaveAsTIFF(Stream, int, int) {#saveastiff_6}
 
-PDF 문서의 각 페이지를 지정된 크기의 이미지로 변환하고 이미지를 단일 TIFF 스트림으로 저장합니다.
+PDF 문서의 각 페이지를 차원으로 이미지로 변환하고 이미지를 단일 TIFF 스트림에 저장합니다.
 
 ```csharp
 public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight)
@@ -321,11 +321,11 @@ public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| outputStream | Stream | TIFF 이미지를 저장할 스트림입니다. |
+| outputStream | Stream | TIFF 이미지를 저장하기 위한 스트림입니다. |
 | imageWidth | Int32 | 이미지 너비, 단위는 픽셀입니다. |
 | imageHeight | Int32 | 이미지 높이, 단위는 픽셀입니다. |
 
-### 참조
+### 또 보기
 
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -335,7 +335,7 @@ public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight)
 
 ## SaveAsTIFF(Stream, int, int, CompressionType) {#saveastiff_7}
 
-PDF 문서의 각 페이지를 지정된 크기의 이미지로 변환하고 이미지를 단일 TIFF 스트림으로 저장합니다.
+PDF 문서의 각 페이지를 차원으로 이미지로 변환하고 이미지를 단일 TIFF 스트림에 저장합니다.
 
 ```csharp
 public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight, 
@@ -344,12 +344,12 @@ public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight,
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| outputStream | Stream | TIFF 이미지를 저장할 스트림입니다. |
+| outputStream | Stream | TIFF 이미지를 저장하기 위한 스트림입니다. |
 | imageWidth | Int32 | 이미지 너비, 단위는 픽셀입니다. |
 | imageHeight | Int32 | 이미지 높이, 단위는 픽셀입니다. |
-| compressionType | CompressionType | 압축 유형입니다. |
+| compressionType | CompressionType | 압축 유형. |
 
-### 참조
+### 또 보기
 
 * enum [CompressionType](../../../aspose.pdf.devices/compressiontype/)
 * class [PdfConverter](../)
@@ -360,7 +360,7 @@ public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight,
 
 ## SaveAsTIFF(Stream, int, int, TiffSettings) {#saveastiff_8}
 
-PDF 문서의 각 페이지를 지정된 크기의 이미지로 변환하고 이미지를 단일 TIFF 스트림으로 저장합니다.
+PDF 문서의 각 페이지를 차원으로 이미지로 변환하고 이미지를 단일 TIFF 스트림에 저장합니다.
 
 ```csharp
 public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight, TiffSettings settings)
@@ -368,12 +368,12 @@ public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight, Tif
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| outputStream | Stream | TIFF 이미지를 저장할 스트림입니다. |
+| outputStream | Stream | TIFF 이미지를 저장하기 위한 스트림입니다. |
 | imageWidth | Int32 | 이미지 너비, 단위는 픽셀입니다. |
 | imageHeight | Int32 | 이미지 높이, 단위는 픽셀입니다. |
-| settings | TiffSettings | TIFF 매개변수를 정의하는 설정 객체입니다. |
+| settings | TiffSettings | TIFF 매개변수를 정의하는 Settings 객체. |
 
-### 참조
+### 또 보기
 
 * class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
 * class [PdfConverter](../)
@@ -384,7 +384,7 @@ public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight, Tif
 
 ## SaveAsTIFF(Stream, int, int, TiffSettings, IIndexBitmapConverter) {#saveastiff_9}
 
-PDF 문서의 각 페이지를 지정된 크기의 이미지로 변환하고 이미지를 단일 TIFF 스트림으로 저장합니다.
+PDF 문서의 각 페이지를 차원으로 이미지로 변환하고 이미지를 단일 TIFF 스트림에 저장합니다.
 
 ```csharp
 public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight, TiffSettings settings, 
@@ -393,13 +393,13 @@ public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight, Tif
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| outputStream | Stream | TIFF 이미지를 저장할 스트림입니다. |
+| outputStream | Stream | TIFF 이미지를 저장하기 위한 스트림입니다. |
 | imageWidth | Int32 | 이미지 너비, 단위는 픽셀입니다. |
 | imageHeight | Int32 | 이미지 높이, 단위는 픽셀입니다. |
-| settings | TiffSettings | TIFF 매개변수를 정의하는 설정 객체입니다. |
-| converter | IIndexBitmapConverter | 외부 변환기입니다. |
+| settings | TiffSettings | TIFF 매개변수를 정의하는 Settings 객체. |
+| converter | IIndexBitmapConverter | 외부 변환기 |
 
-### 참조
+### 또 보기
 
 * class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
 * interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
@@ -411,7 +411,7 @@ public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight, Tif
 
 ## SaveAsTIFF(string, TiffSettings) {#saveastiff_12}
 
-PDF 문서의 각 페이지를 이미지로 변환하고 이미지를 단일 TIFF 파일로 저장합니다.
+PDF 문서의 각 페이지를 이미지로 변환하고 이미지를 단일 TIFF 파일에 저장합니다.
 
 ```csharp
 public void SaveAsTIFF(string outputFile, TiffSettings settings)
@@ -419,10 +419,10 @@ public void SaveAsTIFF(string outputFile, TiffSettings settings)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| outputFile | String | TIFF 이미지를 저장할 파일 이름입니다. |
-| settings | TiffSettings | TIFF 매개변수를 정의하는 설정 객체입니다. |
+| outputFile | String | TIFF 이미지를 저장할 파일 이름 |
+| settings | TiffSettings | TIFF 매개변수를 정의하는 Settings 객체. |
 
-### 참조
+### 또 보기
 
 * class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
 * class [PdfConverter](../)
@@ -433,7 +433,7 @@ public void SaveAsTIFF(string outputFile, TiffSettings settings)
 
 ## SaveAsTIFF(string, TiffSettings, IIndexBitmapConverter) {#saveastiff_13}
 
-PDF 문서의 각 페이지를 이미지로 변환하고 이미지를 단일 TIFF 파일로 저장합니다.
+PDF 문서의 각 페이지를 이미지로 변환하고 이미지를 단일 TIFF 파일에 저장합니다.
 
 ```csharp
 public void SaveAsTIFF(string outputFile, TiffSettings settings, IIndexBitmapConverter converter)
@@ -441,11 +441,11 @@ public void SaveAsTIFF(string outputFile, TiffSettings settings, IIndexBitmapCon
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| outputFile | String | TIFF 이미지를 저장할 파일 이름입니다. |
-| settings | TiffSettings | TIFF 매개변수를 정의하는 설정 객체입니다. |
-| converter | IIndexBitmapConverter | 외부 변환기입니다. |
+| outputFile | String | TIFF 이미지를 저장할 파일 이름 |
+| settings | TiffSettings | TIFF 매개변수를 정의하는 Settings 객체. |
+| converter | IIndexBitmapConverter | 외부 변환기 |
 
-### 참조
+### 또 보기
 
 * class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
 * interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
@@ -457,7 +457,7 @@ public void SaveAsTIFF(string outputFile, TiffSettings settings, IIndexBitmapCon
 
 ## SaveAsTIFF(Stream, TiffSettings) {#saveastiff_2}
 
-PDF 문서의 각 페이지를 이미지로 변환하고 이미지를 단일 TIFF 스트림으로 저장합니다.
+PDF 문서의 각 페이지를 이미지로 변환하고 이미지를 단일 TIFF 스트림에 저장합니다.
 
 ```csharp
 public void SaveAsTIFF(Stream outputStream, TiffSettings settings)
@@ -465,10 +465,10 @@ public void SaveAsTIFF(Stream outputStream, TiffSettings settings)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| outputStream | Stream | TIFF 이미지를 저장할 스트림입니다. |
-| settings | TiffSettings | TIFF 매개변수를 정의하는 설정 객체입니다. |
+| outputStream | Stream | TIFF 이미지를 저장하기 위한 스트림입니다. |
+| settings | TiffSettings | TIFF 매개변수를 정의하는 Settings 객체. |
 
-### 참조
+### 또 보기
 
 * class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
 * class [PdfConverter](../)
@@ -479,7 +479,7 @@ public void SaveAsTIFF(Stream outputStream, TiffSettings settings)
 
 ## SaveAsTIFF(Stream, TiffSettings, IIndexBitmapConverter) {#saveastiff_3}
 
-PDF 문서의 각 페이지를 이미지로 변환하고 이미지를 단일 TIFF 스트림으로 저장합니다.
+PDF 문서의 각 페이지를 이미지로 변환하고 이미지를 단일 TIFF 스트림에 저장합니다.
 
 ```csharp
 public void SaveAsTIFF(Stream outputStream, TiffSettings settings, IIndexBitmapConverter converter)
@@ -487,14 +487,16 @@ public void SaveAsTIFF(Stream outputStream, TiffSettings settings, IIndexBitmapC
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| outputStream | Stream | TIFF 이미지를 저장할 스트림입니다. |
-| settings | TiffSettings | TIFF 매개변수를 정의하는 설정 객체입니다. |
-| converter | IIndexBitmapConverter | 외부 변환기입니다. |
+| outputStream | Stream | TIFF 이미지를 저장하기 위한 스트림입니다. |
+| settings | TiffSettings | TIFF 매개변수를 정의하는 Settings 객체. |
+| converter | IIndexBitmapConverter | 외부 변환기 |
 
-### 참조
+### 또 보기
 
 * class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
 * interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

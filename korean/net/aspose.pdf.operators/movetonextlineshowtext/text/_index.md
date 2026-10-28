@@ -1,12 +1,12 @@
 ---
-title: MoveToNextLineShowText.Text
-second_title: Aspose.PDF for .NET API Reference
-description: MoveToNextLineShowText 속성. 연산자 텍스트를 가져옵니다.
+title: "MoveToNextLineShowText.Text"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "MoveToNextLineShowText 속성. 연산자 텍스트를 가져옵니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.operators/movetonextlineshowtext/text/
 ---
-## MoveToNextLineShowText.Text 속성
+## MoveToNextLineShowText.Text property
 
 연산자 텍스트를 가져옵니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.operators/movetonextlineshowtext/text/
 public override string Text { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [MoveToNextLineShowText](../)
-* 네임스페이스 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [MoveToNextLineShowText](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

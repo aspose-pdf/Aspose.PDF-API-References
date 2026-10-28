@@ -1,14 +1,14 @@
 ---
-title: Enum WordWrapMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.WordWrapMode 열거형. 단어 줄 바꿈 전략을 정의합니다
+title: "열거형 WordWrapMode"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Facades.WordWrapMode 열거형. 단어 줄 바꿈 전략을 정의합니다"
 type: docs
-weight: 4780
+weight: 4900
 url: /ko/net/aspose.pdf.facades/wordwrapmode/
 ---
-## WordWrapMode 열거형
+## WordWrapMode enumeration
 
-단어 줄 바꿈 전략을 정의합니다
+단어 줄 바꿈 전략을 정의합니다.
 
 ```csharp
 public enum WordWrapMode
@@ -18,10 +18,12 @@ public enum WordWrapMode
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
-| Default | `0` | 기본 알고리즘 (단어를 중간에 나누는 것을 허용) |
-| ByWords | `1` | 단어 줄 바꿈은 완전한 단어만 감쌉니다. 완전한 단어를 감쌀 수 없는 경우, 단어를 중간에 감싸려고 시도합니다 |
+| Default | `0` | 기본 알고리즘(단어를 중간에 끊는 것을 허용합니다) |
+| ByWords | `1` | 단어 줄 바꿈은 전체 단어만 줄 바꿈합니다. 전체 단어를 줄 바꿈할 수 없을 경우, 단어를 중간에 끊어 줄 바꿈을 시도합니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class StartEndPageEventArgs
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Printing.StartEndPageEventArgs 클래스. PdfViewer 클래스의 StartPage 및 EndPage 이벤트에 대한 데이터를 제공합니다.
+title: "클래스 StartEndPageEventArgs"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Printing.StartEndPageEventArgs 클래스. PdfViewer 클래스의 StartPage 및 EndPage 이벤트에 대한 데이터를 제공합니다"
 type: docs
-weight: 9710
+weight: 9860
 url: /ko/net/aspose.pdf.printing/startendpageeventargs/
 ---
-## StartEndPageEventArgs 클래스
+## StartEndPageEventArgs class
 
-[`PdfViewer`](../../aspose.pdf.facades/pdfviewer/) 클래스의 [`StartPage`](../../aspose.pdf.facades/pdfviewer/startpage/) 및 [`EndPage`](../../aspose.pdf.facades/pdfviewer/endpage/) 이벤트에 대한 데이터를 제공합니다.
+다음에 대한 데이터를 제공합니다: [`StartPage`](../../aspose.pdf.facades/pdfviewer/startpage/) 및 [`EndPage`](../../aspose.pdf.facades/pdfviewer/endpage/) 이벤트, [`PdfViewer`](../../aspose.pdf.facades/pdfviewer/) 클래스의.
 
 ```csharp
 public sealed class StartEndPageEventArgs : EventArgs
@@ -24,12 +24,14 @@ public sealed class StartEndPageEventArgs : EventArgs
 
 | 이름 | 설명 |
 | --- | --- |
-| readonly [CurrentCopy](../../aspose.pdf.printing/startendpageeventargs/currentcopy/) | 현재 인쇄 중인 복사본의 번호를 가져옵니다. |
-| readonly [CurrentPage](../../aspose.pdf.printing/startendpageeventargs/currentpage/) | 현재 인쇄 중인 페이지의 번호를 가져옵니다. |
-| readonly [TotalCopies](../../aspose.pdf.printing/startendpageeventargs/totalcopies/) | 인쇄할 총 복사본 수를 가져옵니다. |
-| readonly [TotalPages](../../aspose.pdf.printing/startendpageeventargs/totalpages/) | 인쇄할 총 페이지 수를 가져옵니다. |
+| readonly [CurrentCopy](../../aspose.pdf.printing/startendpageeventargs/currentcopy/) | 현재 인쇄 중인 사본의 번호를 가져옵니다. |
+| readonly [CurrentPage](../../aspose.pdf.printing/startendpageeventargs/currentpage/) | 현재 인쇄 중인 페이지 번호를 가져옵니다. |
+| readonly [TotalCopies](../../aspose.pdf.printing/startendpageeventargs/totalcopies/) | 인쇄될 사본의 총 수를 가져옵니다. |
+| readonly [TotalPages](../../aspose.pdf.printing/startendpageeventargs/totalpages/) | 인쇄될 페이지의 총 수를 가져옵니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../)
+
+

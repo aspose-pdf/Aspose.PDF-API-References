@@ -1,12 +1,12 @@
 ---
-title: Class PatternColorSpace
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Drawing.PatternColorSpace 클래스. 기본 패턴 클래스를 나타냅니다.
+title: "클래스 PatternColorSpace"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Drawing.PatternColorSpace 클래스. 기본 패턴 클래스를 나타냅니다"
 type: docs
-weight: 3980
+weight: 4100
 url: /ko/net/aspose.pdf.drawing/patterncolorspace/
 ---
-## PatternColorSpace 클래스
+## PatternColorSpace class
 
 기본 패턴 클래스를 나타냅니다.
 
@@ -14,7 +14,9 @@ url: /ko/net/aspose.pdf.drawing/patterncolorspace/
 public abstract class PatternColorSpace
 ```
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../)
+
+

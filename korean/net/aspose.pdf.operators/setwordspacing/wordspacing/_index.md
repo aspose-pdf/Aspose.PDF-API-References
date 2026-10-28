@@ -1,12 +1,12 @@
 ---
-title: SetWordSpacing.WordSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: SetWordSpacing 속성. 단어 간격을 가져오거나 설정합니다.
+title: "SetWordSpacing.WordSpacing"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "SetWordSpacing 속성. 단어 간격을 가져오거나 설정합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.operators/setwordspacing/wordspacing/
 ---
-## SetWordSpacing.WordSpacing 속성
+## SetWordSpacing.WordSpacing property
 
 단어 간격을 가져오거나 설정합니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.operators/setwordspacing/wordspacing/
 public double WordSpacing { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [SetWordSpacing](../)
-* 네임스페이스 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [SetWordSpacing](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Resolution.X
-second_title: Aspose.PDF for .NET API Reference
-description: 해상도 속성. 수평 이미지 해상도를 가져오거나 설정합니다.
+title: "Resolution.X"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Resolution 속성. 수평 이미지 해상도를 가져오거나 설정합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.devices/resolution/x/
 ---
-## Resolution.X 속성
+## Resolution.X property
 
 수평 이미지 해상도를 가져오거나 설정합니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.devices/resolution/x/
 public int X { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Resolution](../)
-* 네임스페이스 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Resolution](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

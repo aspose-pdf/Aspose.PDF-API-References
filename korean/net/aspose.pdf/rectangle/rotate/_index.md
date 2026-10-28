@@ -1,7 +1,7 @@
 ---
-title: Rectangle.Rotate
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle 메서드. 지정된 각도로 사각형 회전
+title: "Rectangle.Rotate"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Rectangle 메서드. 지정된 각도만큼 사각형을 회전시킵니다."
 type: docs
 weight: 260
 url: /ko/net/aspose.pdf/rectangle/rotate/
@@ -14,11 +14,11 @@ url: /ko/net/aspose.pdf/rectangle/rotate/
 public void Rotate(Rotation angle)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| angle | Rotation | 회전 각도. Rotation 열거형의 멤버입니다. |
+| 각도 | 회전 | 회전 각도. Rotation 열거형의 멤버. |
 
-### See Also
+### 또 보기
 
 * enum [Rotation](../../rotation/)
 * class [Rectangle](../)
@@ -35,12 +35,14 @@ public void Rotate(Rotation angle)
 public void Rotate(int angle)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| angle | Int32 | 0도에서 360도 사이의 회전 각도입니다. |
+| 각도 | Int32 | 0도에서 360도 사이의 회전 각도(도 단위). |
 
-### See Also
+### 또 보기
 
 * class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

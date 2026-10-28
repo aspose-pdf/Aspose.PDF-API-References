@@ -1,21 +1,23 @@
 ---
-title: XFA.FieldNames
-second_title: Aspose.PDF for .NET API Reference
-description: XFA 속성. 양식 템플릿의 필드 이름 목록
+title: "XFA.FieldNames"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "XFA 속성. 양식 템플릿에 있는 필드 이름 목록"
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.forms/xfa/fieldnames/
 ---
-## XFA.FieldNames 속성
+## XFA.FieldNames property
 
-양식 템플릿의 필드 이름 목록입니다.
+양식 템플릿에 있는 필드 이름 목록.
 
 ```csharp
 public string[] FieldNames { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [XFA](../)
-* 네임스페이스 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [XFA](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

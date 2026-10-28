@@ -1,12 +1,12 @@
 ---
-title: TextItemComparisonStatistics.DeletedCharactersCount
-second_title: Aspose.PDF for .NET API Reference
-description: TextItemComparisonStatistics 속성. 삭제된 문자 수를 가져오고 설정합니다.
+title: "TextItemComparisonStatistics.DeletedCharactersCount"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TextItemComparisonStatistics 속성. 삭제된 문자 수를 가져오고 설정합니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.comparison/textitemcomparisonstatistics/deletedcharacterscount/
 ---
-## TextItemComparisonStatistics.DeletedCharactersCount 속성
+## TextItemComparisonStatistics.DeletedCharactersCount property
 
 삭제된 문자 수를 가져오고 설정합니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.comparison/textitemcomparisonstatistics/deletedcharacter
 public int DeletedCharactersCount { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [TextItemComparisonStatistics](../)
-* 네임스페이스 [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TextItemComparisonStatistics](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

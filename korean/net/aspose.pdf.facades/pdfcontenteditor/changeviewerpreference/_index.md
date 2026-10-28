@@ -1,12 +1,12 @@
 ---
-title: PdfContentEditor.ChangeViewerPreference
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor 메서드. 보기 기본 설정을 변경합니다.
+title: "PdfContentEditor.ChangeViewerPreference"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfContentEditor 메서드. 보기 기본 설정을 변경합니다."
 type: docs
 weight: 90
 url: /ko/net/aspose.pdf.facades/pdfcontenteditor/changeviewerpreference/
 ---
-## PdfContentEditor.ChangeViewerPreference 메서드
+## PdfContentEditor.ChangeViewerPreference method
 
 보기 기본 설정을 변경합니다.
 
@@ -16,7 +16,7 @@ public void ChangeViewerPreference(int viewerAttribution)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| viewerAttribution | Int32 | ViewerPreference 클래스에서 정의된 보기 기본 설정입니다. |
+| viewerAttribution | Int32 | ViewerPreference 클래스에 정의된 보기 속성. |
 
 ## 예제
 
@@ -28,8 +28,10 @@ editor.ChangeViewerPreference(ViewerPreference.PageModeUseNone);
 editor.Save("example_out.pdf");
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfContentEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

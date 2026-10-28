@@ -1,21 +1,23 @@
 ---
-title: AttributeName.TextAlign_End
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeName 필드. Attribute TextAlign End 끝 가장자리에 정렬됨
+title: "AttributeName.TextAlign_End"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "AttributeName field. 속성 TextAlign End  끝 가장자리에 정렬됨"
 type: docs
 weight: 560
 url: /ko/net/aspose.pdf.logicalstructure/attributename/textalign_end/
 ---
-## AttributeName.TextAlign_End 필드
+## AttributeName.TextAlign_End field
 
-Attribute TextAlign: End - 끝 가장자리에 정렬됨.
+속성 TextAlign: End - 끝 가장자리에 정렬됨.
 
 ```csharp
 public static readonly AttributeName TextAlign_End;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [AttributeName](../)
-* 네임스페이스 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

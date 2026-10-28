@@ -1,12 +1,12 @@
 ---
-title: StructureAttributeCollection.CreateAttributes
-second_title: Aspose.PDF for .NET API Reference
-description: StructureAttributeCollection 메서드. 표준 속성 소유자에 의해 구조 요소의 StructureAttributes를 생성하고 반환합니다.
+title: "StructureAttributeCollection.CreateAttributes"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "StructureAttributeCollection 메서드. 표준 속성 소유자에 의해 구조 요소의 StructureAttributes를 생성하고 반환합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.logicalstructure/structureattributecollection/createattributes/
 ---
-## StructureAttributeCollection.CreateAttributes 메서드
+## StructureAttributeCollection.CreateAttributes method
 
 표준 속성 소유자에 의해 구조 요소의 [`StructureAttributes`](../../structureattributes/)를 생성하고 반환합니다.
 
@@ -20,12 +20,14 @@ public StructureAttributes CreateAttributes(AttributeOwnerStandard ownerStandard
 
 ### 반환 값
 
-구조 요소의 [`StructureAttributes`](../../structureattributes/). 필요할 경우 구조 속성이 생성됩니다.
+[`StructureAttributes`](../../structureattributes/) of structure element. Structure Attributes will be created if it needed.
 
-### 참조
+### 또 보기
 
-* 클래스 [StructureAttributes](../../structureattributes/)
-* 클래스 [AttributeOwnerStandard](../../attributeownerstandard/)
-* 클래스 [StructureAttributeCollection](../)
-* 네임스페이스 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [StructureAttributes](../../structureattributes/)
+* class [AttributeOwnerStandard](../../attributeownerstandard/)
+* class [StructureAttributeCollection](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

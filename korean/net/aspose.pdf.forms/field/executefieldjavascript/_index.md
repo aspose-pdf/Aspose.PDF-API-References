@@ -1,14 +1,14 @@
 ---
-title: Field.ExecuteFieldJavaScript
-second_title: Aspose.PDF for .NET API Reference
-description: 필드 메서드. 필드에 대해 지정된 JavaScript 작업을 실행합니다.
+title: "Field.ExecuteFieldJavaScript"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Field 메서드. 지정된 JavaScript 작업을 필드에 대해 실행합니다."
 type: docs
 weight: 170
 url: /ko/net/aspose.pdf.forms/field/executefieldjavascript/
 ---
-## Field.ExecuteFieldJavaScript 메서드
+## Field.ExecuteFieldJavaScript method
 
-필드에 대해 지정된 JavaScript 작업을 실행합니다.
+필드에 대해 지정된 JavaScript 동작을 실행합니다.
 
 ```csharp
 public void ExecuteFieldJavaScript(JavascriptAction javaScriptAction)
@@ -18,9 +18,11 @@ public void ExecuteFieldJavaScript(JavascriptAction javaScriptAction)
 | --- | --- | --- |
 | javaScriptAction | JavascriptAction | 실행할 JavaScript 작업입니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [JavascriptAction](../../../aspose.pdf.annotations/javascriptaction/)
-* 클래스 [Field](../)
-* 네임스페이스 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [JavascriptAction](../../../aspose.pdf.annotations/javascriptaction/)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

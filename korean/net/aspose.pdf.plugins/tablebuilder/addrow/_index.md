@@ -1,14 +1,14 @@
 ---
-title: TableBuilder.AddRow
-second_title: Aspose.PDF for .NET API Reference
-description: TableBuilder 메서드. 테이블에 새 행 추가
+title: "TableBuilder.AddRow"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TableBuilder 메서드. 테이블에 새 행을 추가합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.plugins/tablebuilder/addrow/
 ---
-## TableBuilder.AddRow 메서드
+## TableBuilder.AddRow method
 
-테이블에 새 행을 추가합니다.
+표에 새 행을 추가합니다.
 
 ```csharp
 public virtual TableRowBuilder AddRow()
@@ -16,11 +16,13 @@ public virtual TableRowBuilder AddRow()
 
 ### 반환 값
 
-현재 [`TableRowBuilder`](../../tablerowbuilder/)의 인스턴스입니다.
+현재 [`TableRowBuilder`](../../tablerowbuilder/) 인스턴스입니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [TableRowBuilder](../../tablerowbuilder/)
-* 클래스 [TableBuilder](../)
-* 네임스페이스 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TableRowBuilder](../../tablerowbuilder/)
+* class [TableBuilder](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

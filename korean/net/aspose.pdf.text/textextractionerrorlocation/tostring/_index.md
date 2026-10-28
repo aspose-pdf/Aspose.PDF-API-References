@@ -1,12 +1,12 @@
 ---
-title: TextExtractionErrorLocation.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: TextExtractionErrorLocation 메서드. 문자열 표현을 반환합니다.
+title: "TextExtractionErrorLocation.ToString"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TextExtractionErrorLocation 메서드. 문자열 표현을 반환합니다."
 type: docs
 weight: 90
 url: /ko/net/aspose.pdf.text/textextractionerrorlocation/tostring/
 ---
-## TextExtractionErrorLocation.ToString 메서드
+## TextExtractionErrorLocation.ToString method
 
 문자열 표현을 반환합니다.
 
@@ -18,8 +18,10 @@ public override string ToString()
 
 문자열 표현.
 
-### 참조
+### 또 보기
 
-* 클래스 [TextExtractionErrorLocation](../)
-* 네임스페이스 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TextExtractionErrorLocation](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

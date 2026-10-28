@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.C3Envelope
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes 필드. C3 봉투 324 mm x 458 mm
+title: "PaperSizes.C3Envelope"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PaperSizes 필드. C3 봉투 324 mm × 458 mm"
 type: docs
 weight: 320
 url: /ko/net/aspose.pdf.printing/papersizes/c3envelope/
 ---
-## PaperSizes.C3Envelope 필드
+## PaperSizes.C3Envelope field
 
-C3 봉투 (324 mm x 458 mm).
+C3 봉투 (324 mm × 458 mm).
 
 ```csharp
 public static readonly PaperSize C3Envelope;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PaperSize](../../papersize/)
-* 클래스 [PaperSizes](../)
-* 네임스페이스 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

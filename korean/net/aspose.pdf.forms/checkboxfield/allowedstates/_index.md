@@ -1,12 +1,12 @@
 ---
-title: CheckboxField.AllowedStates
-second_title: Aspose.PDF for .NET API Reference
-description: CheckboxField 속성. 허용된 상태 목록을 반환합니다.
+title: "CheckboxField.AllowedStates"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "CheckboxField 속성. 허용된 상태 목록을 반환합니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.forms/checkboxfield/allowedstates/
 ---
-## CheckboxField.AllowedStates 속성
+## CheckboxField.AllowedStates property
 
 허용된 상태 목록을 반환합니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.forms/checkboxfield/allowedstates/
 public List<string> AllowedStates { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [CheckboxField](../)
-* 네임스페이스 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [CheckboxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

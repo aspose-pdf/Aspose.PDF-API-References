@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.CancelRunAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient 메서드. 스레드 내에서 기존 실행을 비동기적으로 취소합니다.
+title: "OpenAIClient.CancelRunAsync"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "OpenAIClient 메서드. 스레드 내 기존 실행을 비동기적으로 취소합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.ai/openaiclient/cancelrunasync/
 ---
-## OpenAIClient.CancelRunAsync 메서드
+## OpenAIClient.CancelRunAsync method
 
-스레드 내에서 기존 실행을 비동기적으로 취소합니다.
+스레드 내 기존 실행을 비동기적으로 취소합니다.
 
 ```csharp
 public Task<RunResponse> CancelRunAsync(string threadId, string runId, 
@@ -30,11 +30,13 @@ public Task<RunResponse> CancelRunAsync(string threadId, string runId,
 | 예외 | 조건 |
 | --- | --- |
 | [AIClientException](../../aiclientexception/) | 스레드 ID가 null이거나 비어 있을 때 발생합니다. |
-| [AIClientException](../../aiclientexception/) | 실행 ID가 null이거나 비어 있을 때 발생합니다. |
+| [AIClientException](../../aiclientexception/) | run Id가 null이거나 비어 있을 때 발생합니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [RunResponse](../../runresponse/)
-* 클래스 [OpenAIClient](../)
-* 네임스페이스 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [RunResponse](../../runresponse/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

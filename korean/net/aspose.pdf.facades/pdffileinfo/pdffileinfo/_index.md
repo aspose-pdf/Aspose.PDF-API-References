@@ -1,20 +1,20 @@
 ---
-title: PdfFileInfo.PdfFileInfo
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileInfo 생성자. 기본 값으로 Aspose.Pdf.Facades.PdfFileInfo 클래스의 새 인스턴스를 초기화합니다.
+title: "PdfFileInfo.PdfFileInfo"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfFileInfo 생성자. 기본값으로 Aspose.Pdf.Facades.PdfFileInfo 클래스의 새 인스턴스를 초기화합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.facades/pdffileinfo/pdffileinfo/
 ---
 ## PdfFileInfo() {#constructor}
 
-Aspose.Pdf.Facades.PdfFileInfo 클래스의 새 인스턴스를 기본 값으로 초기화합니다.
+Aspose.Pdf.Facades.PdfFileInfo 클래스의 새 인스턴스를 기본값으로 초기화합니다.
 
 ```csharp
 public PdfFileInfo()
 ```
 
-### See Also
+### 또 보기
 
 * class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -30,11 +30,11 @@ Aspose.Pdf.Facades.PdfFileInfo 클래스의 새 인스턴스를 초기화합니�
 public PdfFileInfo(Stream inputStream)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| inputStream | Stream | 입력 파일이 위치한 스트림입니다. |
+| inputStream | Stream | 입력 파일이 배치되는 스트림. |
 
-### See Also
+### 또 보기
 
 * class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -50,12 +50,12 @@ Aspose.Pdf.Facades.PdfFileInfo 클래스의 새 인스턴스를 초기화합니�
 public PdfFileInfo(Stream inputStream, string password)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| inputStream | Stream | 입력 파일이 위치한 스트림입니다. |
-| password | String | 파일 접근을 위한 비밀번호입니다. |
+| inputStream | Stream | 입력 파일이 배치되는 스트림. |
+| password | String | 파일에 접근하기 위한 비밀번호. |
 
-### See Also
+### 또 보기
 
 * class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -63,7 +63,31 @@ public PdfFileInfo(Stream inputStream, string password)
 
 ---
 
-## PdfFileInfo(string) {#constructor_4}
+## PdfFileInfo(Stream, string, ICustomSecurityHandler) {#constructor_4}
+
+Aspose.Pdf.Facades.PdfFileInfo 클래스의 새 인스턴스를 초기화합니다.
+
+```csharp
+public PdfFileInfo(Stream inputStream, string password, 
+    ICustomSecurityHandler customSecurityHandler)
+```
+
+| 매개변수 | 유형 | 설명 |
+| --- | --- | --- |
+| inputStream | Stream | 입력 파일이 배치되는 스트림. |
+| password | String | 파일에 접근하기 위한 비밀번호. |
+| customSecurityHandler | ICustomSecurityHandler | 사용자 지정 보안 처리기. |
+
+### 또 보기
+
+* interface [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## PdfFileInfo(string) {#constructor_5}
 
 Aspose.Pdf.Facades.PdfFileInfo 클래스의 새 인스턴스를 초기화합니다.
 
@@ -71,11 +95,11 @@ Aspose.Pdf.Facades.PdfFileInfo 클래스의 새 인스턴스를 초기화합니�
 public PdfFileInfo(string inputFile)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| inputFile | String | 입력 파일이 포함된 파일의 이름입니다. |
+| inputFile | String | 입력 파일을 포함하는 파일의 이름. |
 
-### See Also
+### 또 보기
 
 * class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -83,7 +107,7 @@ public PdfFileInfo(string inputFile)
 
 ---
 
-## PdfFileInfo(string, string) {#constructor_5}
+## PdfFileInfo(string, string) {#constructor_6}
 
 Aspose.Pdf.Facades.PdfFileInfo 클래스의 새 인스턴스를 초기화합니다.
 
@@ -91,13 +115,36 @@ Aspose.Pdf.Facades.PdfFileInfo 클래스의 새 인스턴스를 초기화합니�
 public PdfFileInfo(string inputFile, string password)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| inputFile | String | 입력 파일이 포함된 파일의 이름입니다. |
-| password | String | 파일 접근을 위한 비밀번호입니다. |
+| inputFile | String | 입력 파일을 포함하는 파일의 이름. |
+| password | String | 파일에 접근하기 위한 비밀번호. |
 
-### See Also
+### 또 보기
 
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## PdfFileInfo(string, string, ICustomSecurityHandler) {#constructor_7}
+
+Aspose.Pdf.Facades.PdfFileInfo 클래스의 새 인스턴스를 초기화합니다.
+
+```csharp
+public PdfFileInfo(string inputFile, string password, ICustomSecurityHandler customSecurityHandler)
+```
+
+| 매개변수 | 유형 | 설명 |
+| --- | --- | --- |
+| inputFile | String | 입력 파일을 포함하는 파일의 이름. |
+| password | String | 파일에 접근하기 위한 비밀번호. |
+| customSecurityHandler | ICustomSecurityHandler | 사용자 지정 보안 처리기. |
+
+### 또 보기
+
+* interface [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
 * class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -106,19 +153,21 @@ public PdfFileInfo(string inputFile, string password)
 
 ## PdfFileInfo(Document) {#constructor_1}
 
-*document*를 기반으로 새 [`PdfFileInfo`](../) 객체를 초기화합니다.
+*document* 를 기반으로 새로운 [`PdfFileInfo`](../) 객체를 초기화합니다.
 
 ```csharp
 public PdfFileInfo(Document document)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| document | Document | Pdf 문서입니다. |
+| document | Document | Pdf 문서. |
 
-### See Also
+### 또 보기
 
 * class [Document](../../../aspose.pdf/document/)
 * class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

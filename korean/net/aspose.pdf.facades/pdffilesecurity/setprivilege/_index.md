@@ -1,28 +1,28 @@
 ---
-title: PdfFileSecurity.SetPrivilege
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSecurity 메서드. 빈 사용자/소유자 비밀번호로 Pdf 파일 보안을 설정합니다. 소유자 비밀번호는 임의의 문자열로 추가됩니다. 프로세스가 실패하면 예외가 발생합니다.
+title: "PdfFileSecurity.SetPrivilege"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfFileSecurity 메서드. 사용자/소유자 비밀번호가 비어 있는 상태에서 PDF 파일 보안을 설정합니다. 소유자 비밀번호는 무작위 문자열로 추가됩니다. 처리에 실패하면 예외를 발생시�니다"
 type: docs
 weight: 80
 url: /ko/net/aspose.pdf.facades/pdffilesecurity/setprivilege/
 ---
 ## SetPrivilege(DocumentPrivilege) {#setprivilege}
 
-빈 사용자/소유자 비밀번호로 Pdf 파일 보안을 설정합니다. 소유자 비밀번호는 임의의 문자열로 추가됩니다. 프로세스가 실패하면 예외가 발생합니다.
+빈 사용자/소유자 비밀번호로 Pdf 파일 보안을 설정합니다. 소유자 비밀번호는 무작위 문자열로 추가됩니다. 처리에 실패하면 예외를 발생시킵니다.
 
 ```csharp
 public bool SetPrivilege(DocumentPrivilege privilege)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| privilege | DocumentPrivilege | 권한을 설정합니다. |
+| 권한 | DocumentPrivilege | 권한 설정. |
 
-### Return Value
+### 반환 값
 
-성공 시 True입니다.
+성공이면 true.
 
-## Examples
+## 예제
 
 ```csharp
 [C#]
@@ -38,7 +38,7 @@ Dim fileSecurity As PdfFileSecurity = New PdfFileSecurity(inFile,outFile)
 fileSecurity.SetPrivilege(DocumentPrivilege.Print)
 ```
 
-### See Also
+### 또 보기
 
 * class [DocumentPrivilege](../../documentprivilege/)
 * class [PdfFileSecurity](../)
@@ -49,23 +49,23 @@ fileSecurity.SetPrivilege(DocumentPrivilege.Print)
 
 ## SetPrivilege(string, string, DocumentPrivilege) {#setprivilege_1}
 
-원래 비밀번호로 Pdf 파일 보안을 설정합니다. 프로세스가 실패하면 예외가 발생합니다.
+원본 비밀번호로 Pdf 파일 보안을 설정합니다. 처리에 실패하면 예외를 발생시킵니다.
 
 ```csharp
 public bool SetPrivilege(string userPassword, string ownerPassword, DocumentPrivilege privilege)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| userPassword | String | 원래 사용자 비밀번호입니다. |
-| ownerPassword | String | 원래 소유자 비밀번호입니다. |
-| privilege | DocumentPrivilege | 권한을 설정합니다. |
+| userPassword | String | 원본 사용자 비밀번호. |
+| ownerPassword | String | 원본 소유자 비밀번호. |
+| 권한 | DocumentPrivilege | 권한 설정. |
 
-### Return Value
+### 반환 값
 
-성공 시 True입니다.
+성공이면 true.
 
-## Examples
+## 예제
 
 ```csharp
 [C#]
@@ -81,9 +81,11 @@ Dim fileSecurity As PdfFileSecurity = New PdfFileSecurity(inFile,outFile)
 fileSecurity.SetPrivilege(userPassword, ownerPassword, DocumentPrivilege.Print)
 ```
 
-### See Also
+### 또 보기
 
 * class [DocumentPrivilege](../../documentprivilege/)
 * class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

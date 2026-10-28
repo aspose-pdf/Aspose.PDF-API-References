@@ -1,12 +1,12 @@
 ---
-title: Page.Paragraphs
-second_title: Aspose.PDF for .NET API Reference
-description: 페이지 속성. 단락을 가져옵니다
+title: "Page.Paragraphs"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Page 속성. 단락을 가져옵니다"
 type: docs
 weight: 220
 url: /ko/net/aspose.pdf/page/paragraphs/
 ---
-## Page.Paragraphs 속성
+## Page.Paragraphs property
 
 단락을 가져옵니다.
 
@@ -14,13 +14,15 @@ url: /ko/net/aspose.pdf/page/paragraphs/
 public Paragraphs Paragraphs { get; set; }
 ```
 
-### 속성 값
+### Property Value
 
-단락입니다.
+단락들.
 
-### 참조
+### 또 보기
 
-* 클래스 [Paragraphs](../../paragraphs/)
-* 클래스 [Page](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Paragraphs](../../paragraphs/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

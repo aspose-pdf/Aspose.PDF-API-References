@@ -1,12 +1,12 @@
 ---
-title: InkAnnotation.InkList
-second_title: Aspose.PDF for .NET API Reference
-description: InkAnnotation 속성. Point 배열로 표현되는 독립적인 선인 제스처 목록을 가져오거나 설정합니다.
+title: "InkAnnotation.InkList"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "InkAnnotation 속성. 제스처 목록을 가져오거나 설정합니다. 제스처는 Point 배열로 표시되는 독립적인 선입니다."
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf.annotations/inkannotation/inklist/
 ---
-## InkAnnotation.InkList 속성
+## InkAnnotation.InkList property
 
 Point[] 배열로 표현되는 독립적인 선인 제스처 목록을 가져오거나 설정합니다.
 
@@ -14,9 +14,11 @@ Point[] 배열로 표현되는 독립적인 선인 제스처 목록을 가져오
 public IList<Point[]> InkList { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Point](../../../aspose.pdf/point/)
-* 클래스 [InkAnnotation](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Point](../../../aspose.pdf/point/)
+* class [InkAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: AttributeKey.SpaceBefore
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey 필드. SpaceBefore 속성 레이아웃 속성 소유자
+title: "AttributeKey.SpaceBefore"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "AttributeKey 필드. SpaceBefore 속성 Layout 속성 소유자"
 type: docs
 weight: 300
 url: /ko/net/aspose.pdf.logicalstructure/attributekey/spacebefore/
 ---
-## AttributeKey.SpaceBefore 필드
+## AttributeKey.SpaceBefore field
 
-SpaceBefore 속성 (레이아웃 속성 소유자).
+SpaceBefore 속성 (Layout 속성 소유자).
 
 ```csharp
 public static readonly AttributeKey SpaceBefore;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [AttributeKey](../)
-* 네임스페이스 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

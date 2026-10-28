@@ -1,21 +1,23 @@
 ---
-title: AttributeKey.ColumnGap
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey 필드. ColumnGap 속성 레이아웃 속성 소유자
+title: "AttributeKey.ColumnGap"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "AttributeKey 필드. ColumnGap 속성 Layout 속성 소유자"
 type: docs
 weight: 120
 url: /ko/net/aspose.pdf.logicalstructure/attributekey/columngap/
 ---
-## AttributeKey.ColumnGap 필드
+## AttributeKey.ColumnGap field
 
-ColumnGap 속성 (레이아웃 속성 소유자).
+ColumnGap 속성 (Layout 속성 소유자).
 
 ```csharp
 public static readonly AttributeKey ColumnGap;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [AttributeKey](../)
-* 네임스페이스 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

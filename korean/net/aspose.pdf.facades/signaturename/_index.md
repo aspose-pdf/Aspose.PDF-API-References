@@ -1,9 +1,9 @@
 ---
-title: Class SignatureName
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.SignatureName 클래스. 서명 이름을 위한 클래스를 나타냅니다.
+title: "클래스 SignatureName"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Facades.SignatureName 클래스. 서명 이름을 나타내는 클래스입니다."
 type: docs
-weight: 4710
+weight: 4830
 url: /ko/net/aspose.pdf.facades/signaturename/
 ---
 ## SignatureName class
@@ -14,32 +14,34 @@ url: /ko/net/aspose.pdf.facades/signaturename/
 public sealed class SignatureName
 ```
 
-## Properties
+## 속성
 
-| Name | Description |
+| 이름 | 설명 |
 | --- | --- |
 | [HasSignature](../../aspose.pdf.facades/signaturename/hassignature/) { get; } | 서명이 존재하는지 여부를 나타냅니다. |
 
-## Methods
+## 메서드
 
-| Name | Description |
+| 이름 | 설명 |
 | --- | --- |
-| override [Equals](../../aspose.pdf.facades/signaturename/equals/)(object) | 이 인스턴스와 지정된 객체가 같은지 여부를 결정합니다. |
+| override [Equals](../../aspose.pdf.facades/signaturename/equals/)(object) | 이 인스턴스와 지정된 객체가 동일한지 여부를 결정합니다. |
 | override [GetHashCode](../../aspose.pdf.facades/signaturename/gethashcode/)() | FullName 속성을 기반으로 이 인스턴스의 해시 코드를 반환합니다. |
-| override [ToString](../../aspose.pdf.facades/signaturename/tostring/)() | `SignatureName` 인스턴스의 문자열 표현을 반환하며, 주로 이름을 사용합니다. |
+| override [ToString](../../aspose.pdf.facades/signaturename/tostring/)() | `SignatureName` 인스턴스의 문자열 표현을 반환합니다. 주로 이름을 사용합니다. |
 
-## Fields
+## 필드
 
-| Name | Description |
+| 이름 | 설명 |
 | --- | --- |
-| readonly [FullName](../../aspose.pdf.facades/signaturename/fullname/) | 서명의 전체 이름을 가져오며, 서명 필드에 대한 고유하고 정확한 식별자를 제공합니다. |
+| readonly [FullName](../../aspose.pdf.facades/signaturename/fullname/) | 서명의 전체 이름을 가져옵니다. 이는 서명 필드에 대한 고유하고 정확한 식별자를 제공합니다. |
 | readonly [Name](../../aspose.pdf.facades/signaturename/name/) | 서명의 이름을 가져옵니다. |
 
-## Remarks
+## 비고
 
-보다 정확한 서명 이름을 나타냅니다. 문자열 이름 대신 사용됩니다. 동일한 문자열 이름을 가진 서명을 표시할 수 있습니다.
+보다 정확한 서명 이름을 나타냅니다. 문자열 이름 대신 사용됩니다. 동일한 문자열 이름을 가진 서명을 구분하여 표시할 수 있습니다.
 
-### See Also
+### 또 보기
 
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

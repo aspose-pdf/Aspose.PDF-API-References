@@ -1,12 +1,12 @@
 ---
-title: DocSaveOptions.AddReturnToLineEnd
-second_title: Aspose.PDF for .NET API Reference
-description: DocSaveOptions 속성. 단락 또는 줄 바꿈 사용
+title: "DocSaveOptions.AddReturnToLineEnd"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "DocSaveOptions 속성. 단락 또는 줄 바꿈을 사용합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf/docsaveoptions/addreturntolineend/
 ---
-## DocSaveOptions.AddReturnToLineEnd 속성
+## DocSaveOptions.AddReturnToLineEnd property
 
 단락 또는 줄 바꿈 사용
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf/docsaveoptions/addreturntolineend/
 public bool AddReturnToLineEnd { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [DocSaveOptions](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [DocSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

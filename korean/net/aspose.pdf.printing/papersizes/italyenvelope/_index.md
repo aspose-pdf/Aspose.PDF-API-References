@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.ItalyEnvelope
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes 필드. 이탈리아 봉투 110 mm x 230 mm
+title: "PaperSizes.ItalyEnvelope"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PaperSizes 필드. 이탈리아 봉투 110 mm × 230 mm"
 type: docs
 weight: 470
 url: /ko/net/aspose.pdf.printing/papersizes/italyenvelope/
 ---
-## PaperSizes.ItalyEnvelope 필드
+## PaperSizes.ItalyEnvelope field
 
-이탈리아 봉투 (110 mm x 230 mm).
+이탈리아 봉투 (110 mm × 230 mm).
 
 ```csharp
 public static readonly PaperSize ItalyEnvelope;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PaperSize](../../papersize/)
-* 클래스 [PaperSizes](../)
-* 네임스페이스 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

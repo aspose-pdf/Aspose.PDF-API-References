@@ -1,14 +1,14 @@
 ---
-title: Interface Document.IDocumentFontUtilities
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.DocumentIDocumentFontUtilities 인터페이스. 글꼴 조정 기능을 보유합니다.
+title: "인터페이스 Document.IDocumentFontUtilities"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.DocumentIDocumentFontUtilities 인터페이스. 글꼴을 조정하는 기능을 제공합니다."
 type: docs
-weight: 3820
+weight: 3940
 url: /ko/net/aspose.pdf/document.idocumentfontutilities/
 ---
-## Document.IDocumentFontUtilities 인터페이스
+## Document.IDocumentFontUtilities interface
 
-글꼴 조정 기능을 보유합니다.
+글꼴을 조정하는 기능을 포함합니다.
 
 ```csharp
 public interface IDocumentFontUtilities
@@ -18,11 +18,13 @@ public interface IDocumentFontUtilities
 
 | 이름 | 설명 |
 | --- | --- |
-| [GetAllFonts](../../aspose.pdf/document.idocumentfontutilities/getallfonts)() | 문서의 모든 글꼴을 반환합니다. |
-| [SubsetFonts](../../aspose.pdf/document.idocumentfontutilities/subsetfonts)(FontSubsetStrategy) | 문서의 모든 글꼴을 서브셋합니다. |
+| [GetAllFonts](../../aspose.pdf/document.idocumentfontutilities/getallfonts)() | 문서에서 모든 글꼴을 반환합니다 |
+| [SubsetFonts](../../aspose.pdf/document.idocumentfontutilities/subsetfonts)(FontSubsetStrategy) | 문서의 모든 글꼴을 서브셋합니다 |
 
-### 참조
+### 또 보기
 
-* 클래스 [Document](../document/)
-* 네임스페이스 [Aspose.Pdf](../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../)
+* class [Document](../document/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

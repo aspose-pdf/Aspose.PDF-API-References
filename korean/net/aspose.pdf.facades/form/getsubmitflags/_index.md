@@ -1,12 +1,12 @@
 ---
-title: Form.GetSubmitFlags
-second_title: Aspose.PDF for .NET API Reference
-description: Form 메서드. 제출 버튼의 제출 플래그를 반환합니다.
+title: "Form.GetSubmitFlags"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Form 메서드. 제출 버튼의 제출 플래그를 반환합니다."
 type: docs
 weight: 270
 url: /ko/net/aspose.pdf.facades/form/getsubmitflags/
 ---
-## Form.GetSubmitFlags 메서드
+## Form.GetSubmitFlags method
 
 제출 버튼의 제출 플래그를 반환합니다.
 
@@ -16,7 +16,7 @@ public SubmitFormFlag GetSubmitFlags(string fieldName)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| fieldName | String | 자격이 있는 필드 이름입니다. |
+| fieldName | String | 정규화된 필드 이름입니다. |
 
 ### 반환 값
 
@@ -31,9 +31,11 @@ System.Console.WriteLine((form.GetSubmitFlags("btnSubmit") | Aspose.Pdf.Facades.
 System.Console.WriteLine((form.GetSubmitFlags("btnSubmit") | Aspose.Pdf.Facades.SubmitFormFlag.Pdf )!= 0 ? " PDF" : " ");        
 ```
 
-### 참조
+### 또 보기
 
 * enum [SubmitFormFlag](../../submitformflag/)
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

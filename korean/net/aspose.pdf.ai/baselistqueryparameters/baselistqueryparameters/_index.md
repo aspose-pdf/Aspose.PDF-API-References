@@ -1,21 +1,23 @@
 ---
-title: BaseListQueryParameters.BaseListQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: BaseListQueryParameters 생성자. 기본 생성자
+title: "BaseListQueryParameters.BaseListQueryParameters"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "BaseListQueryParameters 생성자. 기본 생성자"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.ai/baselistqueryparameters/baselistqueryparameters/
 ---
-## BaseListQueryParameters 생성자
+## BaseListQueryParameters constructor
 
-기본 생성자입니다.
+기본 생성자.
 
 ```csharp
 public BaseListQueryParameters()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [BaseListQueryParameters](../)
-* 네임스페이스 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [BaseListQueryParameters](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

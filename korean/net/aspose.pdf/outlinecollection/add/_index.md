@@ -1,14 +1,14 @@
 ---
-title: OutlineCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineCollection 메서드. 아웃라인 항목을 컬렉션에 추가합니다.
+title: "OutlineCollection.Add"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "OutlineCollection 메서드. 개요 항목을 컬렉션에 추가합니다."
 type: docs
 weight: 90
 url: /ko/net/aspose.pdf/outlinecollection/add/
 ---
-## OutlineCollection.Add 메서드
+## OutlineCollection.Add method
 
-아웃라인 항목을 컬렉션에 추가합니다.
+컬렉션에 개요 항목을 추가합니다.
 
 ```csharp
 public override void Add(OutlineItemCollection outline)
@@ -16,11 +16,13 @@ public override void Add(OutlineItemCollection outline)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| outline | OutlineItemCollection | 추가할 아웃라인 항목입니다. |
+| 개요 | OutlineItemCollection | 추가될 개요 항목입니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [OutlineItemCollection](../../outlineitemcollection/)
-* 클래스 [OutlineCollection](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../../outlineitemcollection/)
+* class [OutlineCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

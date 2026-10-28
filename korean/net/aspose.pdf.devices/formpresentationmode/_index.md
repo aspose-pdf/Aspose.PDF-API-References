@@ -1,14 +1,14 @@
 ---
-title: Enum FormPresentationMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Devices.FormPresentationMode 열거형. 인쇄하거나 이미지 PDF 문서로 변환할 때 양식 프레젠테이션 모드를 지정하는 데 사용됩니다.
+title: "FormPresentationMode 열거형"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Devices.FormPresentationMode 열거형. 이미지 pdf 문서를 인쇄하거나 변환할 때 양식 표시 모드를 지정하는 데 사용됩니다."
 type: docs
-weight: 3590
+weight: 3710
 url: /ko/net/aspose.pdf.devices/formpresentationmode/
 ---
-## FormPresentationMode 열거형
+## FormPresentationMode enumeration
 
-인쇄하거나 이미지 PDF 문서로 변환할 때 양식 프레젠테이션 모드를 지정하는 데 사용됩니다.
+이미지 pdf 문서로 인쇄하거나 변환할 때 양식 표시 모드를 지정하는 데 사용됩니다.
 
 ```csharp
 public enum FormPresentationMode
@@ -18,10 +18,12 @@ public enum FormPresentationMode
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
-| Production | `0` | Production 양식 프레젠테이션 모드를 지정합니다(기본적으로 사용됨). |
-| Editor | `1` | Editor 양식 프레젠테이션 모드를 지정합니다. |
+| Production | `0` | 기본값으로 사용되는 Production 양식 표시 모드를 지정합니다. |
+| Editor | `1` | Editor 양식 표시 모드를 지정합니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: Document.Collection
-second_title: Aspose.PDF for .NET API Reference
-description: 문서 속성. 문서의 컬렉션을 가져옵니다.
+title: "Document.Collection"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Document 속성. 문서 컬렉션을 가져옵니다"
 type: docs
 weight: 70
 url: /ko/net/aspose.pdf/document/collection/
 ---
-## Document.Collection 속성
+## Document.Collection property
 
-문서의 컬렉션을 가져옵니다.
+문서 컬렉션을 가져옵니다.
 
 ```csharp
 public Collection Collection { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Collection](../../collection/)
-* 클래스 [Document](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Collection](../../collection/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,26 +1,28 @@
 ---
-title: PDF3DView.LightingScheme
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DView 속성. 보기의 조명 계획을 가져오거나 설정합니다.
+title: "PDF3DView.LightingScheme"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PDF3DView 속성. 보기의 조명 스키마를 가져오거나 설정합니다."
 type: docs
 weight: 60
 url: /ko/net/aspose.pdf.annotations/pdf3dview/lightingscheme/
 ---
-## PDF3DView.LightingScheme 속성
+## PDF3DView.LightingScheme property
 
-보기의 조명 계획을 가져오거나 설정합니다.
+뷰의 조명 방식을 가져오거나 설정합니다.
 
 ```csharp
 public PDF3DLightingScheme LightingScheme { get; set; }
 ```
 
-### 속성 값
+### Property Value
 
-보기의 조명 계획.
+보기의 조명 스키마.
 
-### 참조
+### 또 보기
 
-* 클래스 [PDF3DLightingScheme](../../pdf3dlightingscheme/)
-* 클래스 [PDF3DView](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PDF3DLightingScheme](../../pdf3dlightingscheme/)
+* class [PDF3DView](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

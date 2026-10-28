@@ -1,27 +1,29 @@
 ---
-title: Paragraphs.Insert
-second_title: Aspose.PDF for .NET API Reference
-description: 단락 메서드. 컬렉션에 단락 삽입
+title: "Paragraphs.Insert"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Paragraphs 메서드. 컬렉션에 단락을 삽입합니다."
 type: docs
 weight: 90
 url: /ko/net/aspose.pdf/paragraphs/insert/
 ---
 ## Paragraphs.Insert method
 
-컬렉션에 단락을 삽입합니다.
+단락을 컬렉션에 삽입합니다.
 
 ```csharp
 public void Insert(int index, BaseParagraph paragraph)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | index | Int32 | 단락의 인덱스. |
-| paragraph | BaseParagraph | 단락. |
+| 단락 | BaseParagraph | 단락. |
 
-### See Also
+### 또 보기
 
 * class [BaseParagraph](../../baseparagraph/)
 * class [Paragraphs](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

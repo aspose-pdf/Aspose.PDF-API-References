@@ -1,9 +1,9 @@
 ---
-title: Class CompletionFunction
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.CompletionFunction 클래스. 함수 객체를 나타냅니다.
+title: "클래스 CompletionFunction"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.AI.CompletionFunction 클래스. 함수 객체를 나타냅니다."
 type: docs
-weight: 230
+weight: 240
 url: /ko/net/aspose.pdf.ai/completionfunction/
 ---
 ## CompletionFunction class
@@ -14,19 +14,21 @@ url: /ko/net/aspose.pdf.ai/completionfunction/
 public class CompletionFunction
 ```
 
-## Constructors
+## 생성자
 
-| Name | Description |
+| 이름 | 설명 |
 | --- | --- |
-| [CompletionFunction](completionfunction/)() | 기본 생성자입니다. |
+| [CompletionFunction](completionfunction/)() | 기본 생성자. |
 
-## Properties
+## 속성
 
-| Name | Description |
+| 이름 | 설명 |
 | --- | --- |
 | [Name](../../aspose.pdf.ai/completionfunction/name/) { get; set; } | 호출할 함수의 이름을 가져오거나 설정합니다. |
 
-### See Also
+### 또 보기
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Form.ExportFdf
-second_title: Aspose.PDF for .NET API Reference
-description: Form 메서드. pdf의 필드 내용을 fdf 스트림으로 내보냅니다.
+title: "Form.ExportFdf"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Form 메서드. pdf의 필드 내용을 fdf 스트림으로 내보냅니다."
 type: docs
 weight: 70
 url: /ko/net/aspose.pdf.facades/form/exportfdf/
 ---
-## Form.ExportFdf 메서드
+## Form.ExportFdf method
 
-pdf의 필드 내용을 fdf 스트림으로 내보냅니다.
+pdf 필드의 내용을 fdf 스트림으로 내보냅니다.
 
 ```csharp
 public void ExportFdf(Stream outputFdfStream)
@@ -27,8 +27,10 @@ form.ExportFdf(stream);
 stream.Close();
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Form](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

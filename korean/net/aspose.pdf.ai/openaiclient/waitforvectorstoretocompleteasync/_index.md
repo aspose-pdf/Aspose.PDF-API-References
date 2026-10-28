@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.WaitForVectorStoreToCompleteAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient 메서드. 특정 벡터 저장소가 비동기적으로 완료될 때까지 대기합니다.
+title: "OpenAIClient.WaitForVectorStoreToCompleteAsync"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "OpenAIClient 메서드. 특정 벡터 저장소가 완료될 때까지 비동기적으로 대기합니다."
 type: docs
-weight: 500
+weight: 510
 url: /ko/net/aspose.pdf.ai/openaiclient/waitforvectorstoretocompleteasync/
 ---
-## OpenAIClient.WaitForVectorStoreToCompleteAsync 메서드
+## OpenAIClient.WaitForVectorStoreToCompleteAsync method
 
-특정 벡터 저장소가 비동기적으로 완료될 때까지 대기합니다.
+특정 벡터 저장소가 완료될 때까지 비동기적으로 기다립니다.
 
 ```csharp
 public Task<VectorStoreResponse> WaitForVectorStoreToCompleteAsync(string vectorStoreId, 
@@ -22,17 +22,19 @@ public Task<VectorStoreResponse> WaitForVectorStoreToCompleteAsync(string vector
 
 ### 반환 값
 
-비동기 작업을 나타내는 작업입니다. 작업 결과에는 벡터 저장소의 최종 상태가 포함됩니다.
+비동기 작업을 나타내는 Task입니다. 작업 결과에는 벡터 저장소의 최종 상태가 포함됩니다.
 
 ### 예외
 
 | 예외 | 조건 |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | 벡터 저장소 ID가 null이거나 비어 있을 때 발생합니다. |
+| [AIClientException](../../aiclientexception/) | 벡터 저장소 Id가 null이거나 비어 있을 때 발생합니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [VectorStoreResponse](../../vectorstoreresponse/)
-* 클래스 [OpenAIClient](../)
-* 네임스페이스 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [VectorStoreResponse](../../vectorstoreresponse/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

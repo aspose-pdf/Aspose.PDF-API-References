@@ -1,14 +1,14 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.WithMaxCompletionTokens
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIImageDescriptionCopilotOptions 메서드. 이미지 설명 코파일럿 옵션의 최대 완료 토큰을 설정합니다.
+title: "OpenAIImageDescriptionCopilotOptions.WithMaxCompletionTokens"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "OpenAIImageDescriptionCopilotOptions 메서드. 이미지 설명 코파일럿 옵션에 대한 최대 완료 토큰을 설정합니다"
 type: docs
 weight: 130
 url: /ko/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withmaxcompletiontokens/
 ---
-## OpenAIImageDescriptionCopilotOptions.WithMaxCompletionTokens 메서드
+## OpenAIImageDescriptionCopilotOptions.WithMaxCompletionTokens method
 
-이미지 설명 코파일럿 옵션의 최대 완료 토큰을 설정합니다.
+이미지 설명 코파일럿 옵션의 최대 완성 토큰을 설정합니다.
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions WithMaxCompletionTokens(int? maxCompletionTokens)
@@ -16,14 +16,16 @@ public OpenAIImageDescriptionCopilotOptions WithMaxCompletionTokens(int? maxComp
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| maxCompletionTokens | Nullable`1 | 설정할 최대 완료 토큰입니다. |
+| maxCompletionTokens | Nullable`1 | 설정할 최대 완성 토큰. |
 
 ### 반환 값
 
-[`OpenAIImageDescriptionCopilotOptions`](../)의 현재 인스턴스입니다.
+현재 [`OpenAIImageDescriptionCopilotOptions`](../) 인스턴스.
 
-### 참조
+### 또 보기
 
-* 클래스 [OpenAIImageDescriptionCopilotOptions](../)
-* 네임스페이스 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

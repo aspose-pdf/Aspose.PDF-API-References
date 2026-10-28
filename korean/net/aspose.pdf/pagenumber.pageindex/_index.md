@@ -1,12 +1,12 @@
 ---
-title: Class PageNumber.PageIndex
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PageNumberPageIndex 클래스. 페이지 번호 형식에서 페이지 인덱스 구성 요소를 나타냅니다.
+title: "클래스 PageNumber.PageIndex"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.PageNumberPageIndex 클래스. 페이지 번호 형식에서 페이지 인덱스 구성 요소를 나타냅니다."
 type: docs
-weight: 8210
+weight: 8350
 url: /ko/net/aspose.pdf/pagenumber.pageindex/
 ---
-## PageNumber.PageIndex 클래스
+## PageNumber.PageIndex class
 
 페이지 번호 형식에서 페이지 인덱스 구성 요소를 나타냅니다.
 
@@ -18,10 +18,12 @@ public sealed class PageIndex
 
 | 이름 | 설명 |
 | --- | --- |
-| [PageIndex](../../aspose.pdf/pagenumber.pageindex/.ctor)() | 기본 생성자입니다. |
+| [PageIndex](../../aspose.pdf/pagenumber.pageindex/.ctor)() | 기본 생성자. |
 
-### 참조
+### 또 보기
 
-* 클래스 [PageNumber](../pagenumber/)
-* 네임스페이스 [Aspose.Pdf](../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../)
+* class [PageNumber](../pagenumber/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

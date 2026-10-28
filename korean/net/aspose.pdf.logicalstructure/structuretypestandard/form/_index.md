@@ -1,21 +1,23 @@
 ---
-title: StructureTypeStandard.Form
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard 필드. 양식 A 위젯 주석으로 상호작용하는 양식 필드를 나타냅니다.
+title: "StructureTypeStandard.Form"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "StructureTypeStandard 필드. Form 인터랙티브 폼 필드를 나타내는 위젯 주석"
 type: docs
 weight: 100
 url: /ko/net/aspose.pdf.logicalstructure/structuretypestandard/form/
 ---
-## StructureTypeStandard.Form 필드
+## StructureTypeStandard.Form field
 
-(양식) 상호작용하는 양식 필드를 나타내는 위젯 주석입니다.
+(Form) 인터랙티브 폼 필드를 나타내는 widget annotation입니다.
 
 ```csharp
 public static readonly StructureTypeStandard Form;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [StructureTypeStandard](../)
-* 네임스페이스 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

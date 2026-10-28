@@ -1,12 +1,12 @@
 ---
-title: PdfActionCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: PdfActionCollection 메서드. 인덱스로 작업 제거
+title: "PdfActionCollection.Delete"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfActionCollection 메서드. 인덱스로 작업을 제거합니다."
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf.annotations/pdfactioncollection/delete/
 ---
-## PdfActionCollection.Delete 메서드
+## PdfActionCollection.Delete method
 
 인덱스로 작업을 제거합니다.
 
@@ -16,10 +16,12 @@ public void Delete(int index)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| index | Int32 | 제거할 작업의 인덱스입니다. |
+| index | Int32 | 제거할 작업의 인덱스. |
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfActionCollection](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

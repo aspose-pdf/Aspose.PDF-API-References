@@ -1,21 +1,23 @@
 ---
-title: LoadOptions.ResourceLoadingResult.MIMETypeIfKnown
-second_title: Aspose.PDF for .NET API Reference
-description: ResourceLoadingResult 필드. 때때로 로드된 리소스의 MIME 타입에 대한 지식은 변환기에 유용합니다. 이 매개변수에 로드 후 MIME 타입（알려진 경우）을 제공할 수 있습니다. MIME 타입이 알려지지 않았거나 제공할 필요가 없는 경우 매개변수를 null로 설정하십시오.
+title: "LoadOptions.ResourceLoadingResult.MIMETypeIfKnown"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ResourceLoadingResult 필드. 로드된 리소스의 MIME 타입에 대한 지식은 변환기에 유용할 수 있습니다. 로드 후 MIME 타입을 알게 되면 이 매개변수에 제공할 수 있습니다. MIME 타입을 알 수 없거나 제공할 필요가 없을 경우 매개변수를 null로 두세요."
 type: docs
 weight: 60
 url: /ko/net/aspose.pdf/loadoptions.resourceloadingresult/mimetypeifknown/
 ---
-## LoadOptions.ResourceLoadingResult.MIMETypeIfKnown 필드
+## LoadOptions.ResourceLoadingResult.MIMETypeIfKnown field
 
-때때로 로드된 리소스의 MIME 타입에 대한 지식은 변환기에 유용합니다. 이 매개변수에 로드 후 MIME 타입(알려진 경우)을 제공할 수 있습니다. MIME 타입이 알려지지 않았거나 제공할 필요가 없는 경우 매개변수를 null로 설정하십시오.
+로드된 리소스의 MIME 타입에 대한 정보가 변환기에 유용할 때가 있습니다. 이 매개변수에 MIME 타입을 제공할 수 있습니다(로드 후에 알려진 경우). MIME 타입을 알 수 없거나 제공할 필요가 없을 경우 이 매개변수를 null으로 두세요.
 
 ```csharp
 public string MIMETypeIfKnown;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [ResourceLoadingResult](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [ResourceLoadingResult](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

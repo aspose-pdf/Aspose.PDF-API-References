@@ -1,14 +1,14 @@
 ---
-title: ImageStamp.ImageStamp
-second_title: Aspose.PDF for .NET API Reference
-description: ImageStamp 생성자. ImageStamp 클래스의 새 인스턴스를 초기화합니다.
+title: "ImageStamp.ImageStamp"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ImageStamp 생성자. ImageStamp 클래스의 새 인스턴스를 초기화합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf/imagestamp/imagestamp/
 ---
 ## ImageStamp(Stream) {#constructor}
 
-[`ImageStamp`](../) 클래스의 새 인스턴스를 초기화합니다.
+`[`ImageStamp`](../)` 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public ImageStamp(Stream image)
@@ -16,13 +16,13 @@ public ImageStamp(Stream image)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| image | Stream | 이미지 데이터가 포함된 스트림입니다. |
+| 이미지 | Stream | 이미지 데이터를 포함하는 스트림입니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [ImageStamp](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [ImageStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,10 +36,12 @@ public ImageStamp(string fileName)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| fileName | String | 이미지가 포함된 파일의 이름입니다. |
+| fileName | String | 이미지를 포함하는 파일의 이름. |
 
-### 참조
+### 또 보기
 
-* 클래스 [ImageStamp](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [ImageStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

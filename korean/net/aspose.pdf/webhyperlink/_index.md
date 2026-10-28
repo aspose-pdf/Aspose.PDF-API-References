@@ -1,12 +1,12 @@
 ---
-title: Class WebHyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.WebHyperlink 클래스. 웹 하이퍼링크 객체를 나타냅니다.
+title: "클래스 WebHyperlink"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.WebHyperlink 클래스. 웹 하이퍼링크 객체를 나타냅니다."
 type: docs
-weight: 11320
+weight: 11510
 url: /ko/net/aspose.pdf/webhyperlink/
 ---
-## WebHyperlink 클래스
+## WebHyperlink class
 
 웹 하이퍼링크 객체를 나타냅니다.
 
@@ -27,8 +27,10 @@ public sealed class WebHyperlink : Hyperlink
 | --- | --- |
 | [Url](../../aspose.pdf/webhyperlink/url/) { get; set; } | 웹 URL을 가져오거나 설정합니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [Hyperlink](../hyperlink/)
-* 네임스페이스 [Aspose.Pdf](../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../)
+* class [Hyperlink](../hyperlink/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

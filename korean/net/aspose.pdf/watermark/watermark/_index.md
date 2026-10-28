@@ -1,14 +1,14 @@
 ---
-title: Watermark.Watermark
-second_title: Aspose.PDF for .NET API Reference
-description: 워터마크 생성자. 이미지와 페이지에서의 위치로 워터마크 객체를 초기화합니다.
+title: "Watermark.Watermark"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Watermark 생성자. 이미지와 페이지상의 위치를 사용하여 워터마크 객체를 초기화합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf/watermark/watermark/
 ---
 ## Watermark(Image, Rectangle) {#constructor_1}
 
-이미지와 페이지에서의 위치로 워터마크 객체를 초기화합니다.
+이미지와 page 상의 위치를 사용하여 워터마크 객체를 초기화합니다.
 
 ```csharp
 public Watermark(Image image, Rectangle rect)
@@ -16,10 +16,10 @@ public Watermark(Image image, Rectangle rect)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| image | Image | 워터마크의 이미지. |
-| rect | Rectangle | 페이지에서의 워터마크 위치. |
+| 이미지 | Image | 워터마크 이미지. |
+| rect | Rectangle | 페이지에서 워터마크의 위치. |
 
-### 참조
+### 또 보기
 
 * class [Rectangle](../../rectangle/)
 * class [Watermark](../)
@@ -30,7 +30,7 @@ public Watermark(Image image, Rectangle rect)
 
 ## Watermark(Image) {#constructor}
 
-이미지로 워터마크 객체를 초기화합니다.
+이미지를 사용하여 워터마크 객체를 초기화합니다.
 
 ```csharp
 public Watermark(Image image)
@@ -38,10 +38,12 @@ public Watermark(Image image)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| image | Image | 워터마크의 이미지. |
+| 이미지 | Image | 워터마크 이미지. |
 
-### 참조
+### 또 보기
 
 * class [Watermark](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: OpenAIChatCopilotOptions.Create
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilotOptions 메서드. OpenAIChatCopilotOptions의 새 인스턴스를 생성합니다.
+title: "OpenAIChatCopilotOptions.Create"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "OpenAIChatCopilotOptions 메서드. OpenAIChatCopilotOptions의 새 인스턴스를 생성합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.ai/openaichatcopilotoptions/create/
@@ -14,11 +14,11 @@ url: /ko/net/aspose.pdf.ai/openaichatcopilotoptions/create/
 public static OpenAIChatCopilotOptions Create()
 ```
 
-### Return Value
+### 반환 값
 
 [`OpenAIChatCopilotOptions`](../)의 새 인스턴스입니다.
 
-### See Also
+### 또 보기
 
 * class [OpenAIChatCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
@@ -28,22 +28,24 @@ public static OpenAIChatCopilotOptions Create()
 
 ## Create(Action&lt;OpenAIChatCopilotOptions&gt;) {#create_1}
 
-[`OpenAIChatCopilotOptions`](../)의 인스턴스를 생성하고 제공된 델리게이트를 사용하여 구성합니다.
+제공된 대리자를 사용하여 [`OpenAIChatCopilotOptions`](../)의 인스턴스를 생성하고 구성합니다.
 
 ```csharp
 public static OpenAIChatCopilotOptions Create(Action<OpenAIChatCopilotOptions> config)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| config | Action`1 | 옵션을 구성하는 델리게이트입니다. |
+| 구성 | Action`1 | 옵션을 구성하기 위한 대리자입니다. |
 
-### Return Value
+### 반환 값
 
-구성된 [`OpenAIChatCopilotOptions`](../)의 인스턴스입니다.
+구성된 [`OpenAIChatCopilotOptions`](../) 인스턴스입니다.
 
-### See Also
+### 또 보기
 
 * class [OpenAIChatCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Heading.Level
-second_title: Aspose.PDF for .NET API Reference
-description: Heading 속성. 레벨을 가져옵니다.
+title: "Heading.Level"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Heading 속성. 레벨을 가져옵니다."
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf/heading/level/
 ---
-## Heading.Level 속성
+## Heading.Level property
 
 레벨을 가져옵니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf/heading/level/
 public int Level { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Heading](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Heading](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

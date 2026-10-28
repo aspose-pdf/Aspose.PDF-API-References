@@ -1,12 +1,12 @@
 ---
-title: Interface IQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.IQueryParameters 인터페이스. API 요청을 위한 쿼리 매개변수를 나타냅니다.
+title: "인터페이스 IQueryParameters"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.AI.IQueryParameters 인터페이스. API 요청을 위한 쿼리 매개변수를 나타냅니다."
 type: docs
-weight: 550
+weight: 600
 url: /ko/net/aspose.pdf.ai/iqueryparameters/
 ---
-## IQueryParameters 인터페이스
+## IQueryParameters interface
 
 API 요청을 위한 쿼리 매개변수를 나타냅니다.
 
@@ -20,7 +20,9 @@ public interface IQueryParameters
 | --- | --- |
 | [GetQueryParameters](../../aspose.pdf.ai/iqueryparameters/getqueryparameters/)() | 쿼리 매개변수를 문자열로 가져옵니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

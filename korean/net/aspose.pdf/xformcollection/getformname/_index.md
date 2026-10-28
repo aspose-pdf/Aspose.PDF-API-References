@@ -1,14 +1,14 @@
 ---
-title: XFormCollection.GetFormName
-second_title: Aspose.PDF for .NET API Reference
-description: XFormCollection 메서드. 이 양식 컬렉션에서 양식의 이름을 반환합니다.
+title: "XFormCollection.GetFormName"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "XFormCollection 메서드. 이 폼 컬렉션에 있는 폼의 이름을 반환합니다."
 type: docs
 weight: 130
 url: /ko/net/aspose.pdf/xformcollection/getformname/
 ---
-## XFormCollection.GetFormName 메서드
+## XFormCollection.GetFormName method
 
-이 양식 컬렉션에서 양식의 이름을 반환합니다.
+이 폼 컬렉션에 있는 폼의 이름을 반환합니다.
 
 ```csharp
 public string GetFormName(XForm form)
@@ -16,15 +16,17 @@ public string GetFormName(XForm form)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| form | XForm | 이름이 검색되는 양식. |
+| 폼 | XForm | 검색된 이름의 폼. |
 
 ### 반환 값
 
-컬렉션의 양식 이름; 컬렉션에 양식이 포함되어 있지 않으면 Null입니다.
+컬렉션에 있는 폼 이름; 컬렉션에 폼이 없으면 Null.
 
-### 참조
+### 또 보기
 
-* 클래스 [XForm](../../xform/)
-* 클래스 [XFormCollection](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [XForm](../../xform/)
+* class [XFormCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

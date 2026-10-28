@@ -1,14 +1,14 @@
 ---
-title: EmbeddedFileCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: EmbeddedFileCollection 속성. 인덱스를 통해 임베디드 파일을 가져옵니다.
+title: "EmbeddedFileCollection.Item"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "EmbeddedFileCollection 속성. 인덱스로 임베디드 파일을 가져옵니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf/embeddedfilecollection/item/
 ---
-## EmbeddedFileCollection 인덱서 (1 중 2)
+## EmbeddedFileCollection indexer (1 of 2)
 
-인덱스를 통해 임베디드 파일을 가져옵니다.
+인덱스로 임베디드 파일을 가져옵니다.
 
 ```csharp
 public FileSpecification this[int index] { get; }
@@ -20,20 +20,20 @@ public FileSpecification this[int index] { get; }
 
 ### 반환 값
 
-가져온 임베디드 파일 사양
+검색된 임베디드 파일 사양
 
-### 참조
+### 또 보기
 
-* 클래스 [FileSpecification](../../filespecification/)
-* 클래스 [EmbeddedFileCollection](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FileSpecification](../../filespecification/)
+* class [EmbeddedFileCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## EmbeddedFileCollection 인덱서 (2 중 2)
+## EmbeddedFileCollection indexer (2 of 2)
 
-이름을 통해 임베디드 파일을 가져옵니다.
+이름으로 임베디드 파일을 가져옵니다.
 
 ```csharp
 public FileSpecification this[string name] { get; }
@@ -41,15 +41,17 @@ public FileSpecification this[string name] { get; }
 
 | 매개변수 | 설명 |
 | --- | --- |
-| name | 임베디드 파일 이름. |
+| 이름 | 임베디드 파일 이름. |
 
 ### 반환 값
 
-가져온 임베디드 파일 사양.
+검색된 임베디드 파일 사양.
 
-### 참조
+### 또 보기
 
-* 클래스 [FileSpecification](../../filespecification/)
-* 클래스 [EmbeddedFileCollection](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FileSpecification](../../filespecification/)
+* class [EmbeddedFileCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

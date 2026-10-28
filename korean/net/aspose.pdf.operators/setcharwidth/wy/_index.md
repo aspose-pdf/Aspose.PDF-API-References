@@ -1,12 +1,12 @@
 ---
-title: SetCharWidth.Wy
-second_title: Aspose.PDF for .NET API Reference
-description: SetCharWidth 속성. 글리프 좌표의 수직 변위
+title: "SetCharWidth.Wy"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "SetCharWidth 속성. 글리프 좌표의 수직 변위"
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.operators/setcharwidth/wy/
 ---
-## SetCharWidth.Wy 속성
+## SetCharWidth.Wy property
 
 글리프 좌표의 수직 변위.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.operators/setcharwidth/wy/
 public double Wy { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [SetCharWidth](../)
-* 네임스페이스 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [SetCharWidth](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

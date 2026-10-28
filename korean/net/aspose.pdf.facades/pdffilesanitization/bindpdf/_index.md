@@ -1,24 +1,24 @@
 ---
-title: PdfFileSanitization.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSanitization 메서드. Pdf 파일을 Sanitization을 위해 바인딩합니다.
+title: "PdfFileSanitization.BindPdf"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfFileSanitization 메서드. Pdf 파일을 정화하기 위해 바인드합니다."
 type: docs
 weight: 60
 url: /ko/net/aspose.pdf.facades/pdffilesanitization/bindpdf/
 ---
 ## BindPdf(string) {#bindpdf_2}
 
-Pdf 파일을 Sanitization을 위해 바인딩합니다.
+Sanitize를 위해 Pdf 파일을 바인드합니다.
 
 ```csharp
 public override void BindPdf(string inputFile)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| inputFile | String | 편집할 pdf 파일입니다. |
+| inputFile | String | 편집할 pdf 파일. |
 
-### See Also
+### 또 보기
 
 * class [PdfFileSanitization](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -28,17 +28,17 @@ public override void BindPdf(string inputFile)
 
 ## BindPdf(Stream) {#bindpdf_1}
 
-Pdf 스트림을 Sanitization을 위해 바인딩합니다.
+정화를 위해 Pdf 스트림을 바인딩합니다.
 
 ```csharp
 public override void BindPdf(Stream inputStream)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| inputStream | Stream | 편집할 pdf 스트림입니다. |
+| inputStream | Stream | 편집할 pdf 스트림. |
 
-### See Also
+### 또 보기
 
 * class [PdfFileSanitization](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -48,19 +48,21 @@ public override void BindPdf(Stream inputStream)
 
 ## BindPdf(Document) {#bindpdf}
 
-파사드를 초기화합니다.
+Facade를 초기화합니다.
 
 ```csharp
 public override void BindPdf(Document srcDoc)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| srcDoc | Document | Aspose.Pdf.Document 객체입니다. |
+| srcDoc | Document | Aspose.Pdf.Document 객체. |
 
-### See Also
+### 또 보기
 
 * class [Document](../../../aspose.pdf/document/)
 * class [PdfFileSanitization](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

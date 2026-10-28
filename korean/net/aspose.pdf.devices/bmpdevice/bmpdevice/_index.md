@@ -1,7 +1,7 @@
 ---
-title: BmpDevice.BmpDevice
-second_title: Aspose.PDF for .NET API Reference
-description: BmpDevice 생성자. 기본 해상도로 BmpDevice 클래스의 새 인스턴스를 초기화합니다.
+title: "BmpDevice.BmpDevice"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "BmpDevice 생성자. 기본 해상도로 BmpDevice 클래스의 새 인스턴스를 초기화합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.devices/bmpdevice/bmpdevice/
@@ -14,7 +14,7 @@ url: /ko/net/aspose.pdf.devices/bmpdevice/bmpdevice/
 public BmpDevice()
 ```
 
-### See Also
+### 또 보기
 
 * class [BmpDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
@@ -24,13 +24,13 @@ public BmpDevice()
 
 ## BmpDevice(Resolution) {#constructor_1}
 
-[`BmpDevice`](../) 클래스의 새 인스턴스를 초기화합니다. 결과 이미지 파일의 해상도는 [`Resolution`](../../resolution/) 클래스를 참조하십시오.
+`[`BmpDevice`](../) 클래스의 새 인스턴스를 초기화합니다. 결과 이미지 파일의 해상도는 [`Resolution`](../../resolution/) 클래스를 참조하십시오.
 
 ```csharp
 public BmpDevice(Resolution resolution)
 ```
 
-### See Also
+### 또 보기
 
 * class [Resolution](../../resolution/)
 * class [BmpDevice](../)
@@ -47,13 +47,13 @@ public BmpDevice(Resolution resolution)
 public BmpDevice(int width, int height, Resolution resolution)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| width | Int32 | 이미지 출력 너비. |
-| height | Int32 | 이미지 출력 높이. |
-| resolution | Resolution | 결과 이미지 파일의 해상도, [`Resolution`](../../resolution/) 클래스를 참조하십시오. |
+| 너비 | Int32 | 이미지 출력 너비. |
+| 높이 | Int32 | 이미지 출력 높이. |
+| resolution | Resolution | 결과 이미지 파일의 해상도는 [`Resolution`](../../resolution/) 클래스를 참조하십시오. |
 
-### See Also
+### 또 보기
 
 * class [Resolution](../../resolution/)
 * class [BmpDevice](../)
@@ -70,12 +70,12 @@ public BmpDevice(int width, int height, Resolution resolution)
 public BmpDevice(PageSize pageSize, Resolution resolution)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | pageSize | PageSize | 출력 이미지의 페이지 크기. |
-| resolution | Resolution | 결과 이미지 파일의 해상도, [`Resolution`](../../resolution/) 클래스를 참조하십시오. |
+| resolution | Resolution | 결과 이미지 파일의 해상도는 [`Resolution`](../../resolution/) 클래스를 참조하십시오. |
 
-### See Also
+### 또 보기
 
 * class [PageSize](../../../aspose.pdf/pagesize/)
 * class [Resolution](../../resolution/)
@@ -93,12 +93,12 @@ public BmpDevice(PageSize pageSize, Resolution resolution)
 public BmpDevice(int width, int height)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| width | Int32 | 이미지 출력 너비. |
-| height | Int32 | 이미지 출력 높이. |
+| 너비 | Int32 | 이미지 출력 너비. |
+| 높이 | Int32 | 이미지 출력 높이. |
 
-### See Also
+### 또 보기
 
 * class [BmpDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
@@ -114,13 +114,15 @@ public BmpDevice(int width, int height)
 public BmpDevice(PageSize pageSize)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | pageSize | PageSize | 출력 이미지의 페이지 크기. |
 
-### See Also
+### 또 보기
 
 * class [PageSize](../../../aspose.pdf/pagesize/)
 * class [BmpDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

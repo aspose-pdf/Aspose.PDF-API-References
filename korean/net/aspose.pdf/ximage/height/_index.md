@@ -1,12 +1,12 @@
 ---
-title: XImage.Height
-second_title: Aspose.PDF for .NET API Reference
-description: XImage 속성. 이미지의 높이를 가져옵니다.
+title: "XImage.Height"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "XImage 속성. 이미지의 높이를 가져옵니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf/ximage/height/
 ---
-## XImage.Height 속성
+## XImage.Height property
 
 이미지의 높이를 가져옵니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf/ximage/height/
 public int Height { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [XImage](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [XImage](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: PdfAnnotationEditor.DeleteAnnotations
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAnnotationEditor 메서드. 문서의 모든 주석을 삭제합니다.
+title: "PdfAnnotationEditor.DeleteAnnotations"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfAnnotationEditor 메서드. 문서의 모든 주석을 삭제합니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.facades/pdfannotationeditor/deleteannotations/
@@ -23,7 +23,7 @@ editor.DeleteAnnotations();
 editor.Save("example_out.pdf");
 ```
 
-### 참조
+### 또 보기
 
 * class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -41,7 +41,7 @@ public void DeleteAnnotations(string annotType)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| annotType | 문자열 | 삭제될 주석의 유형입니다. |
+| annotType | String | 삭제될 주석 유형입니다. |
 
 ## 예제
 
@@ -52,8 +52,10 @@ editor.DeleteAnnotations("Text");
 editor.Save("example_out.pdf");
 ```
 
-### 참조
+### 또 보기
 
 * class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

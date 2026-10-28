@@ -1,12 +1,12 @@
 ---
-title: Class FileFontSource
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.FileFontSource 클래스. 단일 글꼴 파일 소스를 나타냅니다.
+title: "FileFontSource 클래스"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Text.FileFontSource 클래스. 단일 글꼴 파일 소스를 나타냅니다"
 type: docs
-weight: 10490
+weight: 10670
 url: /ko/net/aspose.pdf.text/filefontsource/
 ---
-## FileFontSource 클래스
+## FileFontSource class
 
 단일 글꼴 파일 소스를 나타냅니다.
 
@@ -30,10 +30,12 @@ public sealed class FileFontSource : FontSource
 
 | 이름 | 설명 |
 | --- | --- |
-| override [Equals](../../aspose.pdf.text/filefontsource/equals/)(object) | 글꼴 파일 소스 객체가 동일한지 확인합니다. |
+| override [Equals](../../aspose.pdf.text/filefontsource/equals/)(object) | 글꼴 파일 소스 객체가 같은지 확인합니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [FontSource](../fontsource/)
-* 네임스페이스 [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../)
+* class [FontSource](../fontsource/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

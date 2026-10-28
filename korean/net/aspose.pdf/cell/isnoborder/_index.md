@@ -1,21 +1,23 @@
 ---
-title: Cell.IsNoBorder
-second_title: Aspose.PDF for .NET API Reference
-description: 셀 속성. 셀에 테두리가 있는지 설정하거나 가져옵니다.
+title: "Cell.IsNoBorder"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Cell 속성. 셀에 테두리가 있는지를 가져오거나 설정합니다."
 type: docs
 weight: 80
 url: /ko/net/aspose.pdf/cell/isnoborder/
 ---
-## Cell.IsNoBorder 속성
+## Cell.IsNoBorder property
 
-셀에 테두리가 있는지 설정하거나 가져옵니다.
+셀에 테두리가 있는지를 가져오거나 설정합니다.
 
 ```csharp
 public bool IsNoBorder { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Cell](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Cell](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+
