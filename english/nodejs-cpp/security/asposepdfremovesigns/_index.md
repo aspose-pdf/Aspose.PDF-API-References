@@ -18,7 +18,6 @@ function AsposePdfRemoveSigns(
 **Parameters**: 
 
 * **fileName** file name 
-* **password** user password 
 * **fileNameResult** result file name 
 
 **Return**:
