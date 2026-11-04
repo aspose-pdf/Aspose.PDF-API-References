@@ -12,10 +12,11 @@ url: /javascript-cpp/security/
 | -------------- | -------------- |
 | [AsposePdfEncrypt](./asposepdfencrypt/) | Encrypt a PDF-file. |
 | [AsposePdfDecrypt](./asposepdfdecrypt/) | Decrypt a PDF-file. |
+| [AsposePdfChangePassword](./asposepdfchangepassword/) | Change passwords of the PDF-file. |
 | [AsposePdfSignPKCS7](./asposepdfsignpkcs7/) | Sign a PDF-file with digital signatures. |
 | [AsposePdfSignPKCS7Detached](./asposepdfsignpkcs7detached/) | Sign a PDF-file with detached digital signatures. |
-| [AsposePdfChangePassword](./asposepdfchangepassword/) | Change passwords of the PDF-file. |
 | [AsposePdfRemoveSigns](./asposepdfremovesigns/) | Remove all digital signatures from a PDF-file. |
+| [AsposePdfVerifySigns](./asposepdfverifysigns/) | Verify the validity of digital signatures in a PDF-file. |
 
 ## Detailed Description
 
