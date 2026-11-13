@@ -3,7 +3,7 @@ title: Class Page
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Page class. Class representing page of PDF document
 type: docs
-weight: 9310
+weight: 9320
 url: /net/aspose.pdf/page/
 ---
 ## Page class
@@ -40,6 +40,7 @@ public sealed class Page : IDisposable
 | [Number](../../aspose.pdf/page/number/) { get; } | Get number of the page. |
 | [PageInfo](../../aspose.pdf/page/pageinfo/) { get; set; } | Gets or sets the page info (for generator only, not filled in when reading document). |
 | [Paragraphs](../../aspose.pdf/page/paragraphs/) { get; set; } | Gets the paragraphs. |
+| [ProcessSpecialSymbols](../../aspose.pdf/page/processspecialsymbols/) { get; set; } | Gets or sets a value indicating whether special symbols, such as $p and $P, are processed. The default value is `true`. |
 | [Rect](../../aspose.pdf/page/rect/) { get; set; } | Gets or sets rectangle of the page. For get: page crop box is returned if specified, otherwise page media box is returned. For set: page media box always set. Please note that this property don't consider page rotation. To get page rectangle considering rotation please use ActualRect. |
 | [Resources](../../aspose.pdf/page/resources/) { get; } | Gets page resources. Resources object contains collections of images, forms and fonts. [`Resources`](./resources/) |
 | [Rotate](../../aspose.pdf/page/rotate/) { get; set; } | Gets or sets rotation of the page. |

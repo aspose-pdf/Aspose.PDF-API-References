@@ -3,7 +3,7 @@ title: Enum PdfVersion
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.PdfVersion enum. This enum represents version of pdf file
 type: docs
-weight: 9710
+weight: 9720
 url: /net/aspose.pdf/pdfversion/
 ---
 ## PdfVersion enumeration

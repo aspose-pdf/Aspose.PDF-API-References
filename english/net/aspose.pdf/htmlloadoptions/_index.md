@@ -28,6 +28,7 @@ public sealed class HtmlLoadOptions : LoadOptions
 | [BasePath](../../aspose.pdf/htmlloadoptions/basepath/) { get; } | The base path/url for the html file. |
 | [CreateLogicalStructure](../../aspose.pdf/htmlloadoptions/createlogicalstructure/) { get; set; } | Gets or sets a value indicating whether to create a logical structure in the resulting PDF document. |
 | [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Gets or sets flag to disable any license restrictions for all fonts while loading the file. When `true`, allows to execute operations with font that are prohibited by a license of this font, for example allows to embed a font into a PDF document even if license rules disable embedding for this font. By default `false`. |
+| [DisableUseOfScripts](../../aspose.pdf/htmlloadoptions/disableuseofscripts/) { get; set; } | Gets or sets a value indicating whether to disable the use of scripts. |
 | [HtmlMediaType](../../aspose.pdf/htmlloadoptions/htmlmediatype/) { get; set; } | Gets or sets possible media types used during rendering. |
 | [InputEncoding](../../aspose.pdf/htmlloadoptions/inputencoding/) { get; set; } | Gets or sets the attribute specifying the encoding used for this document at the time of the parsing. If this attribute is null the encoding will determine from document character set atribute. |
 | [IsEmbedFonts](../../aspose.pdf/htmlloadoptions/isembedfonts/) { get; set; } | Gets or sets fonts embedding to result document |
@@ -37,6 +38,7 @@ public sealed class HtmlLoadOptions : LoadOptions
 | [PageInfo](../../aspose.pdf/htmlloadoptions/pageinfo/) { get; set; } | Gets or sets document page info |
 | [PageLayoutOption](../../aspose.pdf/htmlloadoptions/pagelayoutoption/) { get; set; } | Gets or sets layout option. |
 | [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Load operation continues, however the user may also return Abort in which case the Load operation should cease. |
+| [WithoutExternalResources](../../aspose.pdf/htmlloadoptions/withoutexternalresources/) { get; set; } | Gets or sets a value indicating whether to prohibits the use of any external resources during conversion. |
 
 ## Fields
 

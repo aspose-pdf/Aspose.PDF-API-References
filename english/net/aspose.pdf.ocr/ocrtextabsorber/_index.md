@@ -3,7 +3,7 @@ title: Class OcrTextAbsorber
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Ocr.OcrTextAbsorber class. Extracts plain text from PDF pages using OCR over the rendered page bitmap
 type: docs
-weight: 8290
+weight: 8300
 url: /net/aspose.pdf.ocr/ocrtextabsorber/
 ---
 ## OcrTextAbsorber class

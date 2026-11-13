@@ -3,7 +3,7 @@ title: Class OcrTextRecognitionOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Ocr.OcrTextRecognitionOptions class. Options for OcrTextAbsorber
 type: docs
-weight: 8300
+weight: 8310
 url: /net/aspose.pdf.ocr/ocrtextrecognitionoptions/
 ---
 ## OcrTextRecognitionOptions class

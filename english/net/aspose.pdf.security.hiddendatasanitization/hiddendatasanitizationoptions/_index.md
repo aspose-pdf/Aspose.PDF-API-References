@@ -3,7 +3,7 @@ title: Class HiddenDataSanitizationOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Security.HiddenDataSanitization.HiddenDataSanitizationOptions class. Represents the configuration options for sanitizing hidden data within a document
 type: docs
-weight: 10300
+weight: 10310
 url: /net/aspose.pdf.security.hiddendatasanitization/hiddendatasanitizationoptions/
 ---
 ## HiddenDataSanitizationOptions class
