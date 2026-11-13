@@ -3,7 +3,7 @@ title: Page.AsXml
 second_title: Aspose.PDF for .NET API Reference
 description: Page method. Converts current page as xml in utf8 encoding
 type: docs
-weight: 380
+weight: 390
 url: /net/aspose.pdf/page/asxml/
 ---
 ## Page.AsXml method

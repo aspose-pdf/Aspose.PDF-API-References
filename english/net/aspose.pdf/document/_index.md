@@ -124,6 +124,8 @@ public sealed class Document : IDisposable
 | [Convert](../../aspose.pdf/document/convert/#convert_6)(Stream, PdfFormat, ConvertErrorAction, ConvertTransparencyAction) | Convert document and save errors into the specified file. |
 | [Convert](../../aspose.pdf/document/convert/#convert_8)(string, PdfFormat, ConvertErrorAction, ConvertTransparencyAction) | Convert document and save errors into the specified file. |
 | [ConvertPageToPNGMemoryStream](../../aspose.pdf/document/convertpagetopngmemorystream/)(Page) | Convert page to PNG for DSR, OMR, OCR image stream. |
+| [ConvertToSearchablePdf](../../aspose.pdf/document/converttosearchablepdf/#converttosearchablepdf)() | Adds a searchable OCR text layer using the default recognition options. |
+| [ConvertToSearchablePdf](../../aspose.pdf/document/converttosearchablepdf/#converttosearchablepdf_1)(OcrSearchablePdfOptions) | Adds a searchable OCR text layer. |
 | [Decrypt](../../aspose.pdf/document/decrypt/)() | Decrypts the document. Call then Save to obtain decrypted version of the document. |
 | [Dispose](../../aspose.pdf/document/dispose/)() | Closes all resources used by this document. |
 | [Encrypt](../../aspose.pdf/document/encrypt/#encrypt)(Permissions, CryptoAlgorithm, IList&lt;X509Certificate2&gt;) | Encrypts the document. |

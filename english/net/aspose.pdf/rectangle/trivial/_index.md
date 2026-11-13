@@ -1,14 +1,14 @@
 ---
 title: Rectangle.Trivial
 second_title: Aspose.PDF for .NET API Reference
-description: Rectangle property. Initializes trivial rectangle i.e. rectangle with zero position and size
+description: Rectangle property. Gets a new rectangle instance with zero coordinates and dimensions. A new instance is created on each access and can be modified independently
 type: docs
 weight: 30
 url: /net/aspose.pdf/rectangle/trivial/
 ---
 ## Rectangle.Trivial property
 
-Initializes trivial rectangle i.e. rectangle with zero position and size.
+Gets a new rectangle instance with zero coordinates and dimensions. A new instance is created on each access and can be modified independently.
 
 ```csharp
 public static Rectangle Trivial { get; }

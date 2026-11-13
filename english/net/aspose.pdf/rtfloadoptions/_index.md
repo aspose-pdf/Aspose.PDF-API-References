@@ -3,7 +3,7 @@ title: Class RtfLoadOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.RtfLoadOptions class. Load options for RTF format
 type: docs
-weight: 10140
+weight: 10150
 url: /net/aspose.pdf/rtfloadoptions/
 ---
 ## RtfLoadOptions class

@@ -3,7 +3,7 @@ title: HtmlLoadOptions.IsEmbedFonts
 second_title: Aspose.PDF for .NET API Reference
 description: HtmlLoadOptions property. Gets or sets fonts embedding to result document
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.pdf/htmlloadoptions/isembedfonts/
 ---
 ## HtmlLoadOptions.IsEmbedFonts property

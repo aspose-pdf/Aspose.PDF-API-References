@@ -3,7 +3,7 @@ title: HtmlLoadOptions.HtmlMediaType
 second_title: Aspose.PDF for .NET API Reference
 description: HtmlLoadOptions property. Gets or sets possible media types used during rendering
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.pdf/htmlloadoptions/htmlmediatype/
 ---
 ## HtmlLoadOptions.HtmlMediaType property
