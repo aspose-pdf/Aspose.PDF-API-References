@@ -93,6 +93,8 @@ type Document struct {
 | [IsPdfUaCompliant](./organize/ispdfuacompliant/) | Get is a PDF-document PDF/UA compliant. |
 | [ReversePages](./organize/reversepages/) | Reverse the order of pages in PDF-document. |
 | [ReorderPages](./organize/reorderpages/) | Reorder pages in PDF-document. |
+| [RedactText](./organize/redacttext/) | Redact permanently and blacks out sensitive text in PDF-document. |
+| [AddStamp](./organize/addstamp/) | Add stamp to PDF-document. |
 | [PageRotate](./organize/pagerotate/) | Rotate page. |
 | [PageSetSize](./organize/pagesetsize/) | Set size of page. |
 | [PageGrayscale](./organize/pagegrayscale/) | Convert page to black and white. |
@@ -113,6 +115,7 @@ type Document struct {
 | [PageReplaceFont](./organize/pagereplacefont/) | Replace font in page. |
 | [PageMergeLayers](./organize/pagemergelayers/) | Merge all layers on the page into a single layer with the specified new layer name. |
 | [PageLayers](./organize/pagelayers/) | Gets layers' names on page. |
+| [PageAddStamp](./organize/pageaddstamp/) | Add stamp on page. |
 
 
 ## Core PDF functions
@@ -163,6 +166,7 @@ type Document struct {
 | [SignPKCS7Detached](./security/signpkcs7detached/) | Sign a PDF-document using PKCS#7 Detached digital signatures. |
 | [IsSigned](./security/issigned/) | Get signed status of PDF-document. |
 | [RemoveSigns](./security/removesigns/) | Remove signs from PDF-document. |
+| [VerifySigns](./security/verifysigns/) | Verify signs from PDF-document. |
 
 
 ## Miscellaneous
@@ -183,6 +187,14 @@ type ProductInfo struct {
 	ReleaseDate string `json:"releasedate"` // Release date in ISO format (YYYY-MM-DD)
 	Producer    string `json:"producer"`    // Producer
 	IsLicensed  bool   `json:"islicensed"`  // License status (true if licensed)
+}
+```
+
+## PdfSignStatus contains status of signature in PDF-document.
+```go
+type PdfSignStatus struct {
+	Name   string     `json:"sign_name"`   // name of signature
+	Status SignStatus `json:"sign_status"` // status of signature
 }
 ```
 
@@ -284,5 +296,16 @@ const (
     ExtractContentWithDisabilities Permissions = 1 << 9  // 512
     AssembleDocument               Permissions = 1 << 10 // 1024
     PrintingQuality                Permissions = 1 << 11 // 2048
+)
+```
+
+## Enumeration of possible status of signature.
+```go
+type SignStatus string
+
+const (
+	SignStatusValid    SignStatus = "VALID"    // Status is VALID.
+	SignStatusInvalid  SignStatus = "INVALID"  // Status is INVALID.
+	SignStatusInactive SignStatus = "INACTIVE" // Status is INACTIVE.
 )
 ```

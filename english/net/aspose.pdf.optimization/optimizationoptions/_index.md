@@ -3,7 +3,7 @@ title: Class OptimizationOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Optimization.OptimizationOptions class. Class which describes document optimization algorithm. Instance of this class may be used as parameter of OptimizeResources method
 type: docs
-weight: 8120
+weight: 9240
 url: /net/aspose.pdf.optimization/optimizationoptions/
 ---
 ## OptimizationOptions class
@@ -25,6 +25,7 @@ public class OptimizationOptions
 | Name | Description |
 | --- | --- |
 | [AllowReusePageContent](../../aspose.pdf.optimization/optimizationoptions/allowreusepagecontent/) { get; set; } | If true page contents will be reused when document is optimized for equal pages. |
+| [CompressAllContentStreams](../../aspose.pdf.optimization/optimizationoptions/compressallcontentstreams/) { get; set; } | If set to `true`, all uncompressed page content streams will be compressed using the FlateDecode filter during [`OptimizeResources`](../../aspose.pdf/document/optimizeresources/). Default is `false` to preserve backward compatibility. |
 | [CompressObjects](../../aspose.pdf.optimization/optimizationoptions/compressobjects/) { get; set; } | If this flag is set to `true`, Pdf objects will be packed into Objest Streams and compressed to reduce pdf file size. |
 | [ImageCompressionOptions](../../aspose.pdf.optimization/optimizationoptions/imagecompressionoptions/) { get; } | Set of options which describe will images in the document be compressed and parameters of the compression. |
 | [ImageEncoding](../../aspose.pdf.optimization/optimizationoptions/imageencoding/) { get; set; } | Image encodre which will be used. |

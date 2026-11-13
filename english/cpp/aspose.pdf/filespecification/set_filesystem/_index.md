@@ -4,7 +4,7 @@ linktitle: set_FileSystem
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::FileSpecification::set_FileSystem method. Sets name of the file system in C++.'
 type: docs
-weight: 2100
+weight: 2200
 url: /cpp/aspose.pdf/filespecification/set_filesystem/
 ---
 ## FileSpecification::set_FileSystem method

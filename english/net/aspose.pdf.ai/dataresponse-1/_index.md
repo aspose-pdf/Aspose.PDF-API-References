@@ -3,7 +3,7 @@ title: Class DataResponseT
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.DataResponse1T class. Represents a data response containing the specified data
 type: docs
-weight: 310
+weight: 290
 url: /net/aspose.pdf.ai/dataresponse-1/
 ---
 ## DataResponse&lt;T&gt; class

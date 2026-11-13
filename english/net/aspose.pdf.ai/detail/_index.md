@@ -3,7 +3,7 @@ title: Enum Detail
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.Detail enum. Specifies the level of detail for image analysis
 type: docs
-weight: 330
+weight: 310
 url: /net/aspose.pdf.ai/detail/
 ---
 ## Detail enumeration

@@ -3,7 +3,7 @@ title: Class PdfFileEditor.ContentsResizeParameters
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Facades.PdfFileEditorContentsResizeParameters class. Class for specifing page resize parameters. Allow to set the following parameters Size of result page width height in default space units or in percents of initial pages size Left Top Bottom and Right margins in default space units or in percents of initial page size Some values may be left null for automatic calculation. These values will be calculated from rest of page size after calculation explicitly specified values. For example if page width  100 and new page width specified 60 units then left and right margins are automatically calculated 100  60 / 2  15. This class is used in ResizeContents method
 type: docs
-weight: 4600
+weight: 4640
 url: /net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/
 ---
 ## PdfFileEditor.ContentsResizeParameters class
@@ -26,6 +26,7 @@ public class ContentsResizeParameters
 | Name | Description |
 | --- | --- |
 | [BottomMargin](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/bottommargin) { get; set; } | Gets or sets bottom margin on the resultant page. |
+| [ChangeMediaBox](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/changemediabox) { get; set; } | Gets and sets whether to adjust the MediaBox of a PDF page during the resizing operation. The default value is `false` |
 | [ContentsHeight](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentsheight) { get; set; } | Gets or sets height of the content of the source page on the resultant page. |
 | [ContentsWidth](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentswidth) { get; set; } | Gets or sets width of the content of the source page on the resultant page. |
 | [LeftMargin](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/leftmargin) { get; set; } | Gets or sets left margin on the resultant page. |

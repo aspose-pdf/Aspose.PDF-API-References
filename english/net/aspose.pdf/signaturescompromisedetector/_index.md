@@ -3,7 +3,7 @@ title: Class SignaturesCompromiseDetector
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.SignaturesCompromiseDetector class. Represents a class for checking compromising signatures of the document
 type: docs
-weight: 10300
+weight: 10520
 url: /net/aspose.pdf/signaturescompromisedetector/
 ---
 ## SignaturesCompromiseDetector class

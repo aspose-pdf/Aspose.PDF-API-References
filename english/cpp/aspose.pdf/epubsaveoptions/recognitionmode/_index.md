@@ -4,7 +4,7 @@ linktitle: RecognitionMode
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::EpubSaveOptions::RecognitionMode enum. When PDF file (that usually has fixed layout) is being converted, the conversion engine tries to perform grouping and multi-level analysis to restore the original document author''s intent and produce result in flow layout. This property tunes that conversion for this or that desirable method of recognition of content in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/aspose.pdf/epubsaveoptions/recognitionmode/
 ---
 ## RecognitionMode enum

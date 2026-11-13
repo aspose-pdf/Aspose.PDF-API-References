@@ -3,7 +3,7 @@ title: Class SetCMYKColor
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Operators.SetCMYKColor class. Class representing k operator set CMYK color for nonstroking operations
 type: docs
-weight: 7720
+weight: 8840
 url: /net/aspose.pdf.operators/setcmykcolor/
 ---
 ## SetCMYKColor class

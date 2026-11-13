@@ -100,6 +100,7 @@ class String
 | [LastIndexOfAny](./lastindexofany/)(const ArrayPtr\<char_t\>\&) const | Looks for any of passed characters through whole string backwardly. Compares last string character to all characters in anyOf, then compares previous one and so on. Returns index of the first match found. |
 | [LastIndexOfAny](./lastindexofany/)(const ArrayPtr\<char_t\>\&, int32_t) const | Looks for any of passed characters through substring backwardly. Compares last string character to all characters in anyOf, then compares previous one and so on. Returns index of the first match found. |
 | [LastIndexOfAny](./lastindexofany/)(const ArrayPtr\<char_t\>\&, int32_t, int32_t) const | Looks for any of passed characters through substring backwardly. Compares last string character to all characters in anyOf, then compares previous one and so on. Returns index of the first match found. |
+| [Normalize](./normalize/)() const | Normalizes unicode string using normalization form Unicode C. |
 | [Normalize](./normalize/)(System::Text::NormalizationForm) const | Normalizes unicode string using normalization form specified. |
 | [operator ReadOnlySpan< char16_t >](./operatorreadonlyspan_char16_t_/)() const | Converts string to read only span. |
 | [operator!=](./operator!=/)(const String\&) const | Non-equality comparison operator. |

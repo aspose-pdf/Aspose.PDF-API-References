@@ -23,14 +23,22 @@ class PptxSaveOptions : public Aspose::Pdf::UnifiedSaveOptions
 | [get_CustomProgressHandler](./get_customprogresshandler/)() const | This handler can be used to handle conversion progress events f.e. it can be used to show progress bar or messages about current amount of processed pages, example of handler's code that shows progress on console is : |
 | [get_ImageResolution](./get_imageresolution/)() const | Gets the image resolution (dpi). Default is 192 dpi. |
 | [get_OptimizeTextBoxes](./get_optimizetextboxes/)() const | Toggles text columns recognition. |
+| [get_RecognizeUnderlineAndStrikeout](./get_recognizeunderlineandstrikeout/)() const | Gets whether underline and strikeout lines are recognized as text formatting. The default value is true. |
 | [get_SeparateImages](./get_separateimages/)() const | If set to true then images are separated from all other graphics. |
 | [get_SlidesAsImages](./get_slidesasimages/)() const | If set to true then all the content is recognized as images (one per page) |
 | [PptxSaveOptions](./pptxsaveoptions/)() | Constructor. |
 | [set_CustomProgressHandler](./set_customprogresshandler/)(UnifiedSaveOptions::ConversionProgressEventHandler) | This handler can be used to handle conversion progress events f.e. it can be used to show progress bar or messages about current amount of processed pages, example of handler's code that shows progress on console is : |
 | [set_ImageResolution](./set_imageresolution/)(int32_t) | Sets the image resolution (dpi). Default is 192 dpi. |
 | [set_OptimizeTextBoxes](./set_optimizetextboxes/)(bool) | Toggles text columns recognition. |
+| [set_RecognizeUnderlineAndStrikeout](./set_recognizeunderlineandstrikeout/)(bool) | Sets whether underline and strikeout lines are recognized as text formatting. The default value is true. |
 | [set_SeparateImages](./set_separateimages/)(bool) | If set to true then images are separated from all other graphics. |
 | [set_SlidesAsImages](./set_slidesasimages/)(bool) | If set to true then all the content is recognized as images (one per page) |
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [IsMultiThreading](../unifiedsaveoptions/ismultithreading/) | Process pages in few threads. |
+| [TryMergeAdjacentSameBackgroundImages](../unifiedsaveoptions/trymergeadjacentsamebackgroundimages/) | Sometimes PDFs contain background images (of pages or table cells) constructed from several same tiling background images put one near other. In such case renderers of target formats (f.e MsWord for DOCS format) sometimes generates visible boundaries beetween parts of background images, cause their techniques of image edge smoothing (anti-aliasing) is different from Acrobat Reader. If it looks like exported document contains such visible boundaries between parts of same background images, please try use this setting to get rid of that unwanted effect. ATTENTION! This optimization of quality usually essentially slows down conversion, so, please, use this option only when it's really necessary. |
 ## See Also
 
 * Class [UnifiedSaveOptions](../unifiedsaveoptions/)

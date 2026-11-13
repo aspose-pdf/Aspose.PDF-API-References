@@ -36,6 +36,7 @@ class ObjectExt : public System::ObjectType
 | static [Equals](./equals/)(T, const T2\&) | Substitution for C# [Object.Equals](../object/equals/) calls working for any type in C++. Overload for structure types. |
 | static [Equals](./equals/)(const T\&, const T2\&) | Substitution for C# [Object.Equals](../object/equals/) calls working for any type in C++. Overload for scalar types. |
 | static [Equals](./equals/)(const char_t(&), String) | Substitution for C# [Object.Equals](../object/equals/) calls working for any type in C++. Overload for string literal with string comparison. |
+| static [Equals](./equals/)(const System::String\&, const System::String\&) | [Object.Equals](../object/equals/) for [System.String](../string/). |
 | static [Equals](./equals/)(const float\&, const float\&) | Emulates C#-style floating point comparison where two NaNs are considered equal even though according to IEC 60559:1989 NaN is not equal to any value, including NaN. |
 | static [Equals](./equals/)(const double\&, const double\&) | Emulates C#-style floating point comparison where two NaNs are considered equal even though according to IEC 60559:1989 NaN is not equal to any value, including NaN. |
 | static [ExplicitCastToObject](./explicitcasttoobject/)(const T\&) |  |

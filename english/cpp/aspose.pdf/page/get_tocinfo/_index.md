@@ -4,7 +4,7 @@ linktitle: get_TocInfo
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Page::get_TocInfo method. Gets table of contents info in C++.'
 type: docs
-weight: 4000
+weight: 4100
 url: /cpp/aspose.pdf/page/get_tocinfo/
 ---
 ## Page::get_TocInfo method

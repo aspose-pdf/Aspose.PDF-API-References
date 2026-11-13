@@ -20,6 +20,7 @@ url: /rust-cpp/security/
 | [sign_pkcs7_detached](./sign_pkcs7_detached/) | Sign a PDF-document using PKCS#7 Detached digital signatures. |
 | [is_signed](./is_signed/) | Get signed status of PDF-document. |
 | [remove_signs](./remove_signs/) | Remove signs from PDF-document. |
+| [verify_signs](./verify_signs/) | Verify signs from PDF-document. |
 
 
 ## Detailed Description

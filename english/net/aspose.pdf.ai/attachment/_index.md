@@ -3,7 +3,7 @@ title: Class Attachment
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.Attachment class. Represents a list of files attached to the message and the tools they should be added to
 type: docs
-weight: 150
+weight: 120
 url: /net/aspose.pdf.ai/attachment/
 ---
 ## Attachment class

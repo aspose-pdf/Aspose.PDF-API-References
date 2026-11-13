@@ -24,6 +24,11 @@ template<typename T>class ResultTaskAwaiter
 | [GetResult](./getresult/)() const |  |
 | [OnCompleted](./oncompleted/)(const Action<>\&) |  |
 | [ResultTaskAwaiter](./resulttaskawaiter/)(const RTaskPtr\<T\>\&) |  |
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [continueOnCapturedContext](./continueoncapturedcontext/) |  |
 ## See Also
 
 * Namespace [System::Runtime::CompilerServices](../)

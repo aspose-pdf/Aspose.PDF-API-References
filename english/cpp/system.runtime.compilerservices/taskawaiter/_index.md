@@ -24,6 +24,11 @@ class TaskAwaiter
 | [GetResult](./getresult/)() const |  |
 | [OnCompleted](./oncompleted/)(const Action<>\&) |  |
 | [TaskAwaiter](./taskawaiter/)(const TaskPtr\&) |  |
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [continueOnCapturedContext](./continueoncapturedcontext/) |  |
 ## See Also
 
 * Namespace [System::Runtime::CompilerServices](../)

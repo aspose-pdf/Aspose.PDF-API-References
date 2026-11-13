@@ -67,6 +67,11 @@ class TextState : public System::Object
 | [TextState](./textstate/)(const System::String\&) | Creates text state object with font family specification. |
 | [TextState](./textstate/)(const System::String\&, bool, bool) | Creates text state object with font family and font style specification. |
 | [TextState](./textstate/)(const System::String\&, double) | Creates text state object with font family and font size specification. |
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [TabstopDefaultValue](./tabstopdefaultvalue/) | Default value of tabulation in widths of space character of default font. |
 ## See Also
 
 * Class [Object](../../system/object/)

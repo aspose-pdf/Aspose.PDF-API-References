@@ -3,7 +3,7 @@ title: Class TOCElement
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LogicalStructure.TOCElement class. Represents TOC structure element in logical structure
 type: docs
-weight: 6880
+weight: 6900
 url: /net/aspose.pdf.logicalstructure/tocelement/
 ---
 ## TOCElement class
@@ -42,6 +42,7 @@ public sealed class TOCElement : GroupingElement
 | [FindElements&lt;T&gt;](../../aspose.pdf.logicalstructure/element/findelements/)(bool) | Find Elements of a given type |
 | [GenerateId](../../aspose.pdf.logicalstructure/structureelement/generateid/)() | Generate ID for structure element. |
 | [InsertChild](../../aspose.pdf.logicalstructure/element/insertchild/)(Element, int, bool) | Insert Element to collection of children at specified index. |
+| [LinkTocPageTitleToHeaderElement](../../aspose.pdf.logicalstructure/tocelement/linktocpagetitletoheaderelement/)(Page, HeaderElement) | Links the Table of Contents (TOC) page title to a header element for document structure. |
 | [Remove](../../aspose.pdf.logicalstructure/structureelement/remove/)() | Removes: an element from the structure, a reference to it from the parent object, references to it from child objects, the corresponding object from the document. |
 | [RemoveAndMoveItsChildObjectsToItsParent](../../aspose.pdf.logicalstructure/structureelement/removeandmoveitschildobjectstoitsparent/)(bool) | Removes an element from the structure, a reference to it from the parent object, references to it from child objects, and the corresponding object from the document. Inserts child objects of the removed object into its former parent child objects collection starting at the index of the removed object. |
 | [RemoveChild](../../aspose.pdf.logicalstructure/element/removechild/)(int) | Remove child at. |

@@ -22,6 +22,11 @@ class CompromiseCheckResult : public System::Object
 | --- | --- |
 | [get_HasCompromisedSignatures](./get_hascompromisedsignatures/)() | Indicates whether there are any compromised digital signatures in the document. Returns true if at least one signature is compromised; otherwise, false. |
 | [get_SignaturesCoverage](./get_signaturescoverage/)() const | Gets the coverage state of digital signatures in a document. If it is equal to [SignaturesCoverage::Undefined](../signaturescoverage/), then one of the signatures is compromised. |
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [CompromisedSignatures](./compromisedsignatures/) | Gets a collection of digital signatures that have been identified as compromised. This property contains the list of all compromised signatures detected in the document. |
 ## See Also
 
 * Class [Object](../../system/object/)

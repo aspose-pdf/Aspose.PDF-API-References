@@ -3,7 +3,7 @@ title: Class Page
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Page class. Class representing page of PDF document
 type: docs
-weight: 8190
+weight: 9310
 url: /net/aspose.pdf/page/
 ---
 ## Page class
@@ -56,8 +56,9 @@ public sealed class Page : IDisposable
 | --- | --- |
 | [Accept](../../aspose.pdf/page/accept/#accept)(AnnotationSelector) | Accepts [`AnnotationSelector`](../../aspose.pdf.annotations/annotationselector/) visitor object that provides functionality to work with annotations. |
 | [Accept](../../aspose.pdf/page/accept/#accept_1)(ImagePlacementAbsorber) | Accepts [`ImagePlacementAbsorber`](../imageplacementabsorber/) visitor object that provides functionality to work with image placement objects. |
-| [Accept](../../aspose.pdf/page/accept/#accept_2)(TextAbsorber) | Accepts [`TextAbsorber`](../../aspose.pdf.text/textabsorber/) visitor object that provides functionality to work with text objects. |
-| [Accept](../../aspose.pdf/page/accept/#accept_3)(TextFragmentAbsorber) | Accepts [`TextFragmentAbsorber`](../../aspose.pdf.text/textfragmentabsorber/) visitor object that provides functionality to work with text objects. |
+| [Accept](../../aspose.pdf/page/accept/#accept_2)(OcrTextAbsorber) | Accepts an [`OcrTextAbsorber`](../../aspose.pdf.ocr/ocrtextabsorber/) that extracts plain text from this page using OCR. |
+| [Accept](../../aspose.pdf/page/accept/#accept_3)(TextAbsorber) | Accepts [`TextAbsorber`](../../aspose.pdf.text/textabsorber/) visitor object that provides functionality to work with text objects. |
+| [Accept](../../aspose.pdf/page/accept/#accept_4)(TextFragmentAbsorber) | Accepts [`TextFragmentAbsorber`](../../aspose.pdf.text/textfragmentabsorber/) visitor object that provides functionality to work with text objects. |
 | [AddGraphics](../../aspose.pdf/page/addgraphics/)(GraphicElementCollection, Rectangle) | Adds graphics to the page. Works faster than adding elements one by one with [`AddOnPage`](../../aspose.pdf.vector/graphicelement/addonpage/) method. |
 | [AddImage](../../aspose.pdf/page/addimage/#addimage_2)(string, Rectangle) | Adds image onto the page and locates it in the middle of specified rectangle saving image's proportion. |
 | [AddImage](../../aspose.pdf/page/addimage/#addimage)(Stream, Rectangle, Rectangle, bool) | Adds image onto the page and locates it in the middle of specified rectangle saving image's proportion. |

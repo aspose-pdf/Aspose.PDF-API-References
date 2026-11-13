@@ -3,7 +3,7 @@ title: Class BLSElement
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LogicalStructure.BLSElement class. Represents a base class for blocklevel structure elements in logical structure
 type: docs
-weight: 6380
+weight: 6390
 url: /net/aspose.pdf.logicalstructure/blselement/
 ---
 ## BLSElement class

@@ -3,7 +3,7 @@ title: Class PKCS7Detached
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Forms.PKCS7Detached class. Represents the PKCS7 object that conform to the PKCS7 specification in Internet RFC 2315 PKCS 7 Cryptographic Message Syntax Version 1.5. The original signed message digest over the documents byte range is incorporated as the normal PKCS7 SignedData field. No data shall is encapsulated in the PKCS7 SignedData field
 type: docs
-weight: 5310
+weight: 5370
 url: /net/aspose.pdf.forms/pkcs7detached/
 ---
 ## PKCS7Detached class
@@ -20,12 +20,13 @@ public sealed class PKCS7Detached : Signature
 | --- | --- |
 | [PKCS7Detached](pkcs7detached/#constructor)() | Inititalizes new instance of the `PKCS7Detached` class. |
 | [PKCS7Detached](pkcs7detached/#constructor_1)(DigestHashAlgorithm) | Inititalizes new instance of the `PKCS7Detached` class. |
-| [PKCS7Detached](pkcs7detached/#constructor_2)(Stream) | Initializes new instance of the `PKCS7Detached` class. |
-| [PKCS7Detached](pkcs7detached/#constructor_3)(Stream, DigestHashAlgorithm) | Initializes new instance of the `PKCS7Detached` class. |
-| [PKCS7Detached](pkcs7detached/#constructor_4)(Stream, string) | Inititalizes new instance of the `PKCS7Detached` class. |
-| [PKCS7Detached](pkcs7detached/#constructor_6)(string, string) | Inititalizes new instance of the `PKCS7Detached` class. |
-| [PKCS7Detached](pkcs7detached/#constructor_5)(Stream, string, DigestHashAlgorithm) | Inititalizes new instance of the `PKCS7Detached` class. |
-| [PKCS7Detached](pkcs7detached/#constructor_7)(string, string, DigestHashAlgorithm) | Inititalizes new instance of the `PKCS7Detached` class. |
+| [PKCS7Detached](pkcs7detached/#constructor_3)(Stream) | Initializes new instance of the `PKCS7Detached` class. |
+| [PKCS7Detached](pkcs7detached/#constructor_2)(TimestampSettings) | Inititalizes new instance of the `PKCS7Detached` class. |
+| [PKCS7Detached](pkcs7detached/#constructor_4)(Stream, DigestHashAlgorithm) | Initializes new instance of the `PKCS7Detached` class. |
+| [PKCS7Detached](pkcs7detached/#constructor_5)(Stream, string) | Inititalizes new instance of the `PKCS7Detached` class. |
+| [PKCS7Detached](pkcs7detached/#constructor_7)(string, string) | Inititalizes new instance of the `PKCS7Detached` class. |
+| [PKCS7Detached](pkcs7detached/#constructor_6)(Stream, string, DigestHashAlgorithm) | Inititalizes new instance of the `PKCS7Detached` class. |
+| [PKCS7Detached](pkcs7detached/#constructor_8)(string, string, DigestHashAlgorithm) | Inititalizes new instance of the `PKCS7Detached` class. |
 
 ## Properties
 
@@ -51,6 +52,9 @@ public sealed class PKCS7Detached : Signature
 | Name | Description |
 | --- | --- |
 | [GetSignatureAlgorithmInfo](../../aspose.pdf.forms/signature/getsignaturealgorithminfo/)() | Retrieves information about the signature algorithm used in the signature. |
+| [TryVerify](../../aspose.pdf.forms/signature/tryverify/)(out VerificationResult) | Try to verify the document regarding this signature and return true if document is valid or otherwise false. |
+| [TryVerify](../../aspose.pdf.forms/signature/tryverify/)(ValidationOptions, out ValidationResult, out VerificationResult) | Try to verify the document regarding this signature and return true if document is valid or otherwise false. |
+| [TryVerify](../../aspose.pdf.forms/signature/tryverify/)(X509Certificate2, ValidationOptions, out ValidationResult, out VerificationResult) | Try to verify the document regarding this signature and return true if document is valid or otherwise false. Verification is performed using the external public key certificate. |
 | [Verify](../../aspose.pdf.forms/signature/verify/)() | Verify the document regarding this signature and return true if document is valid or otherwise false. |
 | [Verify](../../aspose.pdf.forms/signature/verify/)(ValidationOptions, out ValidationResult) | Verify the document regarding this signature and return true if document is valid or otherwise false. |
 | [Verify](../../aspose.pdf.forms/signature/verify/)(X509Certificate2, ValidationOptions, out ValidationResult) | Verify the document regarding this signature and return true if document is valid or otherwise false. Verification is performed using the external public key certificate. |

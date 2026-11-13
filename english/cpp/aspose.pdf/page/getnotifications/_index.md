@@ -4,7 +4,7 @@ linktitle: GetNotifications
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Page::GetNotifications method. Returns notifications about inside operations with page content. (Only notifications about paragraph events in text adding scenarios are supported now.) in C++.'
 type: docs
-weight: 4400
+weight: 4500
 url: /cpp/aspose.pdf/page/getnotifications/
 ---
 ## Page::GetNotifications method

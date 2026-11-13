@@ -105,6 +105,7 @@ Such operations are very time consuming, so we recommend using Web Worker.
 | [AsposePdfRebuildXrefAndTrailer](./organize/asposepdfrebuildxrefandtrailer/) | Rebuild a PDF-file cross-reference table and trailer structures. |
 | [AsposePdfReversePages](./organize/asposepdfreversepages/) | Reverse the page order of a PDF-file. |
 | [AsposePdfReorderPages](./organize/asposepdfreorderpages/) | Reorder pages in a PDF-file. |
+| [AsposePdfRedactText](./organize/asposepdfredacttext/) | Permanently redact and black out sensitive text in a PDF-file. |
 
 
 ## Metadata PDF functions
@@ -125,9 +126,11 @@ Such operations are very time consuming, so we recommend using Web Worker.
 | -------- | ----------- |
 | [AsposePdfEncrypt](./security/asposepdfencrypt/) | Encrypt a PDF-file. |
 | [AsposePdfDecrypt](./security/asposepdfdecrypt/) | Decrypt a PDF-file. |
+| [AsposePdfChangePassword](./security/asposepdfchangepassword/) | Change passwords of the PDF-file. |
 | [AsposePdfSignPKCS7](./security/asposepdfsignpkcs7/) | Sign a PDF-file with digital signatures. |
 | [AsposePdfSignPKCS7Detached](./security/asposepdfsignpkcs7detached/) | Sign a PDF-file with detached digital signatures. |
-| [AsposePdfChangePassword](./security/asposepdfchangepassword/) | Change passwords of the PDF-file. |
+| [AsposePdfRemoveSigns](./security/asposepdfremovesigns/) | Remove all digital signatures from a PDF-file. |
+| [AsposePdfVerifySigns](./security/asposepdfverifysigns/) | Verify the validity of digital signatures in a PDF-file. |
 
 
 ## Core Functions

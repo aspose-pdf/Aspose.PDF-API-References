@@ -84,6 +84,21 @@ True if **obj** and **another** are both NaN or equal, false otherwise.
 * Class [ObjectExt](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
+## ObjectExt::Equals(const System::String\&, const System::String\&) method
+
+
+[Object.Equals](../../object/equals/) for [System.String](../../string/).
+
+```cpp
+static bool System::ObjectExt::Equals(const System::String &obj, const System::String &another)
+```
+
+## See Also
+
+* Class [String](../../string/)
+* Class [ObjectExt](../)
+* Namespace [System](../../)
+* Library [Aspose.PDF for C++](../../../)
 ## ObjectExt::Equals(const T\&, const T2\&) method
 
 

@@ -3,7 +3,7 @@ title: Class FileSpecification
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.FileSpecification class. Class representing embedded file
 type: docs
-weight: 4970
+weight: 5010
 url: /net/aspose.pdf/filespecification/
 ---
 ## FileSpecification class
@@ -48,6 +48,7 @@ public sealed class FileSpecification : IDisposable
 | Name | Description |
 | --- | --- |
 | [Dispose](../../aspose.pdf/filespecification/dispose/)() | Dispose contents. |
+| [GetFileName](../../aspose.pdf/filespecification/getfilename/)(string, bool) | Gets the file name using the available file specification names, the specified fallback name, or a generated name if no other name is available. |
 | [GetValue](../../aspose.pdf/filespecification/getvalue/)(string) | Gets application-specific parameter. |
 | [SetValue](../../aspose.pdf/filespecification/setvalue/)(string, string) | Sets application-specific parameter. |
 

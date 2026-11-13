@@ -217,6 +217,7 @@ class Document : public System::IDisposable,
 | Field | Description |
 | --- | --- |
 | static [DefaultNodesNumInSubtrees](./defaultnodesnuminsubtrees/) |  |
+| [FontSubstitution](./fontsubstitution/) | Occurs when font replaces another font in document. |
 ## Typedefs
 
 | Typedef | Description |

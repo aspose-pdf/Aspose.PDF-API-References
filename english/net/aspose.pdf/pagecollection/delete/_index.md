@@ -3,7 +3,7 @@ title: PageCollection.Delete
 second_title: Aspose.PDF for .NET API Reference
 description: PageCollection method. Delete specified page
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.pdf/pagecollection/delete/
 ---
 ## Delete(int) {#delete_1}

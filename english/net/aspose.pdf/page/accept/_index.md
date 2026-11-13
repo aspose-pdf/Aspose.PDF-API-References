@@ -1,12 +1,33 @@
 ---
 title: Page.Accept
 second_title: Aspose.PDF for .NET API Reference
-description: Page method. Accepts TextFragmentAbsorber visitor object that provides functionality to work with text objects
+description: Page method. Accepts AnnotationSelector visitor object that provides functionality to work with annotations
 type: docs
 weight: 330
 url: /net/aspose.pdf/page/accept/
 ---
-## Accept(TextFragmentAbsorber) {#accept_3}
+## Accept(AnnotationSelector) {#accept}
+
+Accepts [`AnnotationSelector`](../../../aspose.pdf.annotations/annotationselector/) visitor object that provides functionality to work with annotations.
+
+```csharp
+public void Accept(AnnotationSelector visitor)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| visitor | AnnotationSelector | Annotation selector sobject. |
+
+### See Also
+
+* class [AnnotationSelector](../../../aspose.pdf.annotations/annotationselector/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Accept(TextFragmentAbsorber) {#accept_4}
 
 Accepts [`TextFragmentAbsorber`](../../../aspose.pdf.text/textfragmentabsorber/) visitor object that provides functionality to work with text objects.
 
@@ -48,7 +69,7 @@ public void Accept(ImagePlacementAbsorber visitor)
 
 ---
 
-## Accept(TextAbsorber) {#accept_2}
+## Accept(TextAbsorber) {#accept_3}
 
 Accepts [`TextAbsorber`](../../../aspose.pdf.text/textabsorber/) visitor object that provides functionality to work with text objects.
 
@@ -69,21 +90,27 @@ public void Accept(TextAbsorber visitor)
 
 ---
 
-## Accept(AnnotationSelector) {#accept}
+## Accept(OcrTextAbsorber) {#accept_2}
 
-Accepts [`AnnotationSelector`](../../../aspose.pdf.annotations/annotationselector/) visitor object that provides functionality to work with annotations.
+Accepts an [`OcrTextAbsorber`](../../../aspose.pdf.ocr/ocrtextabsorber/) that extracts plain text from this page using OCR.
 
 ```csharp
-public void Accept(AnnotationSelector visitor)
+public void Accept(OcrTextAbsorber visitor)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| visitor | AnnotationSelector | Annotation selector sobject. |
+| visitor | OcrTextAbsorber | The OCR text absorber to apply to this page. |
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| ArgumentNullException | Thrown when *visitor* is `null`. |
 
 ### See Also
 
-* class [AnnotationSelector](../../../aspose.pdf.annotations/annotationselector/)
+* class [OcrTextAbsorber](../../../aspose.pdf.ocr/ocrtextabsorber/)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

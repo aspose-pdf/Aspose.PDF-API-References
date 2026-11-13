@@ -62,6 +62,9 @@ class Page : public System::IDisposable,
 | [get_Number](./get_number/)() | Get number of the page. |
 | [get_PageInfo](./get_pageinfo/)() | Gets the page info (for generator only, not filled in when reading document). |
 | [get_Paragraphs](./get_paragraphs/)() | Gets the paragraphs. |
+| [get_ProcessSpecialSymbols](./get_processspecialsymbols/)() const | Gets a value indicating whether special symbols, such as $p and $P, are processed. The default value is **true**
+
+. |
 | [get_Rect](./get_rect/)() | Gets rectangle of the page. For get: page crop box is returned if specified, otherwise page media box is returned. For set: page media box always set. Please note that this property don't consider page rotation. To get page rectangle considering rotation please use ActualRect. |
 | [get_Resources](./get_resources/)() override | Gets page resources. [Resources](../resources/) object contains collections of images, forms and fonts. [Resources](../resources/) |
 | [get_Rotate](./get_rotate/)() | Gets rotation of the page. |
@@ -99,6 +102,9 @@ class Page : public System::IDisposable,
 | [set_NoteLineStyle](./set_notelinestyle/)(const System::SharedPtr\<Aspose::Pdf::GraphInfo\>\&) | Sets the line style for notes.(for generator only, not filled in when reading document) |
 | [set_PageInfo](./set_pageinfo/)(const System::SharedPtr\<Aspose::Pdf::PageInfo\>\&) | Sets the page info (for generator only, not filled in when reading document). |
 | [set_Paragraphs](./set_paragraphs/)(const System::SharedPtr\<Aspose::Pdf::Paragraphs\>\&) | Gets the paragraphs. |
+| [set_ProcessSpecialSymbols](./set_processspecialsymbols/)(bool) | Sets a value indicating whether special symbols, such as $p and $P, are processed. The default value is **true**
+
+. |
 | [set_Rect](./set_rect/)(const System::SharedPtr\<Aspose::Pdf::Rectangle\>\&) | Sets rectangle of the page. For get: page crop box is returned if specified, otherwise page media box is returned. For set: page media box always set. Please note that this property don't consider page rotation. To get page rectangle considering rotation please use ActualRect. |
 | [set_Rotate](./set_rotate/)(Aspose::Pdf::Rotation) | Sets rotation of the page. |
 | [set_TabOrder](./set_taborder/)(Aspose::Pdf::TabOrder) | Sets tab order of the page. Possible values: [Row](../row/), Column. Default, Manual. |
@@ -108,6 +114,11 @@ class Page : public System::IDisposable,
 | [set_Watermark](./set_watermark/)(const System::SharedPtr\<Aspose::Pdf::Watermark\>\&) | Sets the watermark of the page. |
 | [SetPageSize](./setpagesize/)(double, double) | Sets page size for page. |
 | [TrySaveVectorGraphics](./trysavevectorgraphics/)(const System::String\&) | Tries to save vector graphics if they are present on the page. The save format is SVG. |
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [OnBeforePageGenerate](./onbeforepagegenerate/) | Event for customize header and footer. |
 ## Typedefs
 
 | Typedef | Description |

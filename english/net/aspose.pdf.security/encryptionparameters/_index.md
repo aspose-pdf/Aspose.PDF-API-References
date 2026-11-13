@@ -3,7 +3,7 @@ title: Class EncryptionParameters
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Security.EncryptionParameters class. Represents an encryption parameters class
 type: docs
-weight: 10140
+weight: 10290
 url: /net/aspose.pdf.security/encryptionparameters/
 ---
 ## EncryptionParameters class

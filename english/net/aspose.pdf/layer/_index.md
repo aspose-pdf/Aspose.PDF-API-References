@@ -3,7 +3,7 @@ title: Class Layer
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Layer class. Represents a layer within a PDF page
 type: docs
-weight: 6190
+weight: 6200
 url: /net/aspose.pdf/layer/
 ---
 ## Layer class
@@ -25,6 +25,7 @@ public class Layer
 | Name | Description |
 | --- | --- |
 | [Contents](../../aspose.pdf/layer/contents/) { get; } | Gets the layer content. |
+| [DefaultState](../../aspose.pdf/layer/defaultstate/) { get; set; } | Gets or sets the default state of the PDF layer. |
 | [Id](../../aspose.pdf/layer/id/) { get; } | Gets the layer id. |
 | [Locked](../../aspose.pdf/layer/locked/) { get; } | Gets a value indicating whether the layer is locked. |
 | [Name](../../aspose.pdf/layer/name/) { get; } | Gets the layer name. |

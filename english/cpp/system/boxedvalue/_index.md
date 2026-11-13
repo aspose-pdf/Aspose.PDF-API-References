@@ -14,7 +14,8 @@ Represents a boxed value. Objects of this class should only be allocated using [
 
 ```cpp
 template<class T>class BoxedValue : public System::BoxedValueBase,
-                                    public std::conditional_t<BoxedValueDetail::ImplementsInterface_v<T, IComparable<T>>, BoxedValueDetail::Comparable<T, BoxedValue<T>>, BoxedValueDetail::NonComparable>
+                                    public std::conditional_t<BoxedValueDetail::ImplementsInterface_v<T, IComparable<T>>, BoxedValueDetail::Comparable<T, BoxedValue<T>>, BoxedValueDetail::NonComparable>,
+                                    public std::conditional_t<std::is_same<T, System::String>::value, BoxedValueDetail::BoxedStringBase, BoxedValueDetail::NonBoxedStringBase>
 ```
 
 

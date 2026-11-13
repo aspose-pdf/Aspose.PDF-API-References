@@ -4,7 +4,7 @@ linktitle: CssSavingStrategy
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::HtmlSaveOptions::CssSavingStrategy typedef. You can assign to this property custom strategy that implements processing or/and saving of one CSS''s part that was created during conversion of PDF to HTML . In such case processing (like saving to stream or disk) must be done in that custom code in C++.'
 type: docs
-weight: 4700
+weight: 7000
 url: /cpp/aspose.pdf/htmlsaveoptions/csssavingstrategy/
 ---
 ## CssSavingStrategy typedef

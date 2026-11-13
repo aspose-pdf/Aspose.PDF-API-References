@@ -24,6 +24,11 @@ class ValueTaskAwaiter
 | [GetResult](./getresult/)() const |  |
 | [OnCompleted](./oncompleted/)(const Action<>\&) |  |
 | [ValueTaskAwaiter](./valuetaskawaiter/)(Threading::Tasks::ValueTask) |  |
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [continueOnCapturedContext](./continueoncapturedcontext/) |  |
 ## See Also
 
 * Namespace [System::Runtime::CompilerServices](../)

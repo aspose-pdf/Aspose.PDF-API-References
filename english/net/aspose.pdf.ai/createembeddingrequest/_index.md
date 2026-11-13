@@ -3,7 +3,7 @@ title: Class CreateEmbeddingRequest
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.CreateEmbeddingRequest class. Represents a request for the Create Embeddings endpoint
 type: docs
-weight: 270
+weight: 250
 url: /net/aspose.pdf.ai/createembeddingrequest/
 ---
 ## CreateEmbeddingRequest class

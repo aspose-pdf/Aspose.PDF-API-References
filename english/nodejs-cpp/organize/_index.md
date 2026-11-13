@@ -57,6 +57,7 @@ url: /nodejs-cpp/organize/
 | [AsposePdfRebuildXrefAndTrailer](./asposepdfrebuildxrefandtrailer/) | Rebuild a PDF-file cross-reference table and trailer structures. |
 | [AsposePdfReversePages](./asposepdfreversepages/) | Reverse the page order of a PDF-file. |
 | [AsposePdfReorderPages](./asposepdfreorderpages/) | Reorder pages in a PDF-file. |
+| [AsposePdfRedactText](./asposepdfredacttext/) | Permanently redact and black out sensitive text in a PDF-file. |
 
 
 ## Detailed Description

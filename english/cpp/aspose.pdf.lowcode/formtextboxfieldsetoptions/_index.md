@@ -28,6 +28,11 @@ class FormTextBoxFieldSetOptions : public Aspose::Pdf::LowCode::FormFieldSetOpti
 | [set_MaxLen](./set_maxlen/)(System::Nullable\<int32_t\>) | Gets/sets the value to determine property MaxLen for modified field (if will be set). |
 | [set_Multiline](./set_multiline/)(System::Nullable\<bool\>) | Gets/sets the value to determine property Multiline for modified field (if will be set). |
 | [set_SpellCheck](./set_spellcheck/)(System::Nullable\<bool\>) | Gets/sets the value to determine property SpellCheck for modified field (if will be set). |
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [Highlighting](../formfieldoptions/highlighting/) | Gets/sets the value to determine property Highlighting for created/modified field (if will be set). |
 ## See Also
 
 * Class [FormFieldSetOptions](../formfieldsetoptions/)

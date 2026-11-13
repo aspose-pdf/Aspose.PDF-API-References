@@ -3,7 +3,7 @@ title: Enum PdfFormat
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.PdfFormat enum. This class represents an pdf format
 type: docs
-weight: 8510
+weight: 9640
 url: /net/aspose.pdf/pdfformat/
 ---
 ## PdfFormat enumeration
@@ -44,6 +44,7 @@ public enum PdfFormat
 | PDF_A_4E | `23` | PDF/A-4e format |
 | PDF_A_4F | `24` | PDF/A-4f format |
 | PDF_X_4 | `25` | PDF/X-4 format |
+| PDF_E_1 | `26` | PDF/E-1 (PDF 1.6) format |
 
 ### See Also
 

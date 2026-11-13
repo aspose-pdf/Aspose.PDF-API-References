@@ -4,7 +4,7 @@ linktitle: GetValue
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::FileSpecification::GetValue method. Gets application-specific parameter in C++.'
 type: docs
-weight: 1600
+weight: 1700
 url: /cpp/aspose.pdf/filespecification/getvalue/
 ---
 ## FileSpecification::GetValue method

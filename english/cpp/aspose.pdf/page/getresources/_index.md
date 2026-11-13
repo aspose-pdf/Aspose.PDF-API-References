@@ -4,7 +4,7 @@ linktitle: GetResources
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Page::GetResources method. Retrieves the resources associated with the page in C++.'
 type: docs
-weight: 4600
+weight: 4700
 url: /cpp/aspose.pdf/page/getresources/
 ---
 ## Page::GetResources method

@@ -4,7 +4,7 @@ linktitle: GetPageRect
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Page::GetPageRect method. Returns rectangle of the page according to its CropBox (or MediaBox if CropBox null) in C++.'
 type: docs
-weight: 4500
+weight: 4600
 url: /cpp/aspose.pdf/page/getpagerect/
 ---
 ## Page::GetPageRect method

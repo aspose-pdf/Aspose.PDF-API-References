@@ -3,7 +3,7 @@ title: PdfFileEditor.ContentsResizeParameters.ContentsHeight
 second_title: Aspose.PDF for .NET API Reference
 description: ContentsResizeParameters property. Gets or sets height of the content of the source page on the resultant page
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentsheight/
 ---
 ## PdfFileEditor.ContentsResizeParameters.ContentsHeight property

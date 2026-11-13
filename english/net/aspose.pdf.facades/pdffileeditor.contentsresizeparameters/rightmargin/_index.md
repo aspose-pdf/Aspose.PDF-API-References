@@ -3,7 +3,7 @@ title: PdfFileEditor.ContentsResizeParameters.RightMargin
 second_title: Aspose.PDF for .NET API Reference
 description: ContentsResizeParameters property. Gets or sets right margin on the resultant page
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/rightmargin/
 ---
 ## PdfFileEditor.ContentsResizeParameters.RightMargin property

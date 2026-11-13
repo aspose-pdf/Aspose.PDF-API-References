@@ -3,7 +3,7 @@ title: Enum ImageCompressionVersion
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Optimization.ImageCompressionVersion enum. Describes versions of image compression algorithm
 type: docs
-weight: 8100
+weight: 9220
 url: /net/aspose.pdf.optimization/imagecompressionversion/
 ---
 ## ImageCompressionVersion enumeration
