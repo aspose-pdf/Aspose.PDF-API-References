@@ -161,6 +161,7 @@ pub struct Document { /* private fields */ }
 | [sign_pkcs7_detached](./security/sign_pkcs7_detached/) | Sign a PDF-document using PKCS#7 Detached digital signatures. |
 | [is_signed](./security/is_signed/) | Get signed status of PDF-document. |
 | [remove_signs](./security/remove_signs/) | Remove signs from PDF-document. |
+| [verify_signs](./security/verify_signs/) | Verify signs from PDF-document. |
 
 
 ## Miscellaneous
@@ -214,6 +215,21 @@ bitflags! {
     }
 }
 ```
+
+## PdfSignStatus contains status of signature in PDF-document.
+```rust
+#[derive(Debug, Clone, PartialEq, Deserialize)]
+pub struct PdfSignStatus {
+    /// name of signature
+    #[serde(rename = "sign_name")]
+    pub name: String,
+
+    /// status of signature
+    #[serde(rename = "sign_status")]
+    pub status: SignStatus,
+}
+```
+
 
 # Enums
 
@@ -344,6 +360,22 @@ pub enum ConvertErrorAction {
     Delete = 0,
     /// Do nothing, keep non-conforming elements.
     None = 1,
+}
+```
+
+## Enumeration of possible status of signature.
+```rust
+#[derive(Debug, Clone, Copy, PartialEq, Eq, serde::Deserialize)]
+pub enum SignStatus {
+    /// Status is VALID.
+    #[serde(rename = "VALID")]
+    Valid,
+    /// Status is INVALID.
+    #[serde(rename = "INVALID")]
+    Invalid,
+    /// Status is INACTIVE.
+    #[serde(rename = "INACTIVE")]
+    Inactive,
 }
 ```
 
