@@ -16,7 +16,7 @@ pub fn verify_signs(&self) -> Result<Vec<PdfSignStatus>, PdfError>
 
 
 **Returns**
-  * **Ok(Vec<PdfSignStatus>)** - the Vec of `PdfSignStatus` structs, if the operation succeeds
+  * **Ok(Vec\<PdfSignStatus\>)** - the `Vec` of `PdfSignStatus` structs, if the operation succeeds
   * **Err(PdfError)** - if the operation fails
 
 **Example**
