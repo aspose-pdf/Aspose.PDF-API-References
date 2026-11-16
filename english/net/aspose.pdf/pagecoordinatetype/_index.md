@@ -3,7 +3,7 @@ title: Enum PageCoordinateType
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.PageCoordinateType enum. Describes page coordinate type
 type: docs
-weight: 9360
+weight: 9370
 url: /net/aspose.pdf/pagecoordinatetype/
 ---
 ## PageCoordinateType enumeration

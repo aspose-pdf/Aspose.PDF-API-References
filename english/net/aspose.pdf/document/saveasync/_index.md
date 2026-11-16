@@ -1,11 +1,44 @@
 ---
 title: Document.SaveAsync
 second_title: Aspose.PDF for .NET API Reference
-description: Document method. Saves the document with a new name setting its save options
+description: Document method. Saves the document with a new name along with a file format
 type: docs
-weight: 860
+weight: 870
 url: /net/aspose.pdf/document/saveasync/
 ---
+## SaveAsync(Stream, SaveFormat, CancellationToken) {#saveasync_1}
+
+Saves the document with a new name along with a file format.
+
+```csharp
+public Task SaveAsync(Stream outputStream, SaveFormat format, CancellationToken cancellationToken)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| outputStream | Stream | Stream where the document will be stored. |
+| format | SaveFormat | Format options. |
+| cancellationToken | CancellationToken | Cancellation token |
+
+### Return Value
+
+Asynchronous task.
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| ArgumentException | ArgumentException when [`HtmlSaveOptions`](../../htmlsaveoptions/) is passed to a method. Save a document to the html stream is not supported. Please use method save to the file. |
+
+### See Also
+
+* enum [SaveFormat](../../saveformat/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
 ## SaveAsync(string, SaveOptions, CancellationToken) {#saveasync_5}
 
 Saves the document with a new name setting its save options.
@@ -138,39 +171,6 @@ public Task SaveAsync(string outputFileName, SaveFormat format, CancellationToke
 ### Return Value
 
 Asynchronous task.
-
-### See Also
-
-* enum [SaveFormat](../../saveformat/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## SaveAsync(Stream, SaveFormat, CancellationToken) {#saveasync_1}
-
-Saves the document with a new name along with a file format.
-
-```csharp
-public Task SaveAsync(Stream outputStream, SaveFormat format, CancellationToken cancellationToken)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| outputStream | Stream | Stream where the document will be stored. |
-| format | SaveFormat | Format options. |
-| cancellationToken | CancellationToken | Cancellation token |
-
-### Return Value
-
-Asynchronous task.
-
-### Exceptions
-
-| exception | condition |
-| --- | --- |
-| ArgumentException | ArgumentException when [`HtmlSaveOptions`](../../htmlsaveoptions/) is passed to a method. Save a document to the html stream is not supported. Please use method save to the file. |
 
 ### See Also
 

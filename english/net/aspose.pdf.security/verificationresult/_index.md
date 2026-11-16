@@ -3,7 +3,7 @@ title: Class VerificationResult
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Security.VerificationResult class. Represents the result of verifying a digital signature in a PDF file
 type: docs
-weight: 10480
+weight: 10490
 url: /net/aspose.pdf.security/verificationresult/
 ---
 ## VerificationResult class

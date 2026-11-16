@@ -3,7 +3,7 @@ title: Page.DeleteGraphics
 second_title: Aspose.PDF for .NET API Reference
 description: Page method. Deletes graphics from the page. Works faster than deleting elements one by one with Remove method
 type: docs
-weight: 410
+weight: 420
 url: /net/aspose.pdf/page/deletegraphics/
 ---
 ## Page.DeleteGraphics method

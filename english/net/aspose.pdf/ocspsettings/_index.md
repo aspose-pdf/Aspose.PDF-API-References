@@ -3,7 +3,7 @@ title: Class OcspSettings
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.OcspSettings class. Represents the ocsp settings using during signing process
 type: docs
-weight: 8310
+weight: 8320
 url: /net/aspose.pdf/ocspsettings/
 ---
 ## OcspSettings class

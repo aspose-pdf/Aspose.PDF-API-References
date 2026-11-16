@@ -3,7 +3,7 @@ title: Page.TocInfo
 second_title: Aspose.PDF for .NET API Reference
 description: Page property. Gets or sets table of contents info
 type: docs
-weight: 280
+weight: 290
 url: /net/aspose.pdf/page/tocinfo/
 ---
 ## Page.TocInfo property

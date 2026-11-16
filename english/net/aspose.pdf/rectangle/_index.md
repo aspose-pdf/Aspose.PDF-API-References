@@ -3,7 +3,7 @@ title: Class Rectangle
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Rectangle class. Class represents rectangle
 type: docs
-weight: 10040
+weight: 10050
 url: /net/aspose.pdf/rectangle/
 ---
 ## Rectangle class
@@ -24,10 +24,10 @@ public sealed class Rectangle : ICloneable
 
 | Name | Description |
 | --- | --- |
-| static [Empty](../../aspose.pdf/rectangle/empty/) { get; } | Empty rectangle |
-| static [Trivial](../../aspose.pdf/rectangle/trivial/) { get; } | Initializes trivial rectangle i.e. rectangle with zero position and size. |
+| static [Empty](../../aspose.pdf/rectangle/empty/) { get; } | Gets the shared static instance of an empty rectangle. This property always returns the same instance, which should not be modified. Use [`Trivial`](./trivial/) to obtain a new rectangle instance that can be modified. |
+| static [Trivial](../../aspose.pdf/rectangle/trivial/) { get; } | Gets a new rectangle instance with zero coordinates and dimensions. A new instance is created on each access and can be modified independently. |
 | [Height](../../aspose.pdf/rectangle/height/) { get; } | Height of rectangle. |
-| [IsEmpty](../../aspose.pdf/rectangle/isempty/) { get; } | Checks if rectangle is empty. |
+| [IsEmpty](../../aspose.pdf/rectangle/isempty/) { get; } | Gets a value indicating whether this rectangle is the shared static empty instance returned by [`Empty`](./empty/). |
 | [IsPoint](../../aspose.pdf/rectangle/ispoint/) { get; } | Checks if rectangle is point i.e. LLX is equal URX and LLY is equal URY. |
 | [IsTrivial](../../aspose.pdf/rectangle/istrivial/) { get; } | Checks if rectangle is trivial i.e. has zero size and position. |
 | [LLX](../../aspose.pdf/rectangle/llx/) { get; set; } | X-coordinate of lower - left corner. |

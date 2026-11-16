@@ -136,7 +136,7 @@ public bool Convert(CallBackGetHocrWithPage callback, bool flattenImages = false
 
 ### Return Value
 
-The operation result. If there are no images in the document returns !:false.
+The operation result. If there are no images in the document returns `false`.
 
 ### See Also
 
@@ -162,7 +162,7 @@ public bool Convert(CallBackGetHocr callback, bool flattenImages = false)
 
 ### Return Value
 
-The operation result. If there are no images in the document returns !:false.
+The operation result. If there are no images in the document returns `false`.
 
 ### See Also
 

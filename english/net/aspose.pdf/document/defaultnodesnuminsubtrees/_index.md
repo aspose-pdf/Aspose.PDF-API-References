@@ -3,7 +3,7 @@ title: Document.DefaultNodesNumInSubtrees
 second_title: Aspose.PDF for .NET API Reference
 description: Document field. 
 type: docs
-weight: 940
+weight: 950
 url: /net/aspose.pdf/document/defaultnodesnuminsubtrees/
 ---
 ## Document.DefaultNodesNumInSubtrees field

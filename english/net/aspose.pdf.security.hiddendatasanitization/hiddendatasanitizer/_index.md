@@ -3,7 +3,7 @@ title: Class HiddenDataSanitizer
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Security.HiddenDataSanitization.HiddenDataSanitizer class. Represents a class for sanitizing hidden data
 type: docs
-weight: 10310
+weight: 10320
 url: /net/aspose.pdf.security.hiddendatasanitization/hiddendatasanitizer/
 ---
 ## HiddenDataSanitizer class

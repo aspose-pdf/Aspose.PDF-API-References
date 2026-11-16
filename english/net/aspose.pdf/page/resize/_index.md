@@ -3,7 +3,7 @@ title: Page.Resize
 second_title: Aspose.PDF for .NET API Reference
 description: Page method. Resizes the page
 type: docs
-weight: 520
+weight: 530
 url: /net/aspose.pdf/page/resize/
 ---
 ## Page.Resize method
