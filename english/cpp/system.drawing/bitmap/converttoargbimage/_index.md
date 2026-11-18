@@ -29,6 +29,5 @@ The copy of the original bitmap with the pixel format changed to Format32bppArgb
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Bitmap](../)
-* Class [Bitmap](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.PDF for C++](../../../)

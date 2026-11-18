@@ -25,6 +25,5 @@ void System::Xml::Schema::XmlSchemaObject::set_Parent(const SharedPtr<XmlSchemaO
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmlSchemaObject](../)
-* Class [XmlSchemaObject](../)
 * Namespace [System::Xml::Schema](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -19,7 +19,6 @@ System::SharedPtr<OutlineCollection> Aspose::Pdf::Document::get_Outlines()
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [OutlineCollection](../../outlinecollection/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -29,6 +29,5 @@ Instance of current [TableOptions](../).
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TableOptions](../)
-* Class [TableOptions](../)
 * Namespace [Aspose::Pdf::LowCode](../../)
 * Library [Aspose.PDF for C++](../../../)

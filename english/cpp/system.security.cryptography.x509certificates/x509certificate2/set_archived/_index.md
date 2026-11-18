@@ -4,7 +4,7 @@ linktitle: set_Archived
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Security::Cryptography::X509Certificates::X509Certificate2::set_Archived method. Sets a value indicating that certificate is archived in C++.'
 type: docs
-weight: 2600
+weight: 2000
 url: /cpp/system.security.cryptography.x509certificates/x509certificate2/set_archived/
 ---
 ## X509Certificate2::set_Archived method

@@ -46,6 +46,5 @@ void System::Net::CookieCollection::Add(System::SharedPtr<CookieCollection> cook
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [CookieCollection](../)
-* Class [CookieCollection](../)
 * Namespace [System::Net](../../)
 * Library [Aspose.PDF for C++](../../../)

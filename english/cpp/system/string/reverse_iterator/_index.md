@@ -13,7 +13,7 @@ url: /cpp/system/string/reverse_iterator/
 Reverse iterator type.
 
 ```cpp
-using System::String::reverse_iterator =  std::reverse_iterator<const char16_t*>
+using System::String::reverse_iterator = std::reverse_iterator<const char16_t*>
 ```
 
 ## See Also

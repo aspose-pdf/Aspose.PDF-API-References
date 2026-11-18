@@ -21,6 +21,5 @@ static SharedPtr<Collections::ObjectModel::ReadOnlyCollection<T>> System::Array<
 * Typedef [SharedPtr](../../sharedptr/)
 * Class [ReadOnlyCollection](../../../system.collections.objectmodel/readonlycollection/)
 * Class [Array](../)
-* Class [Array](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

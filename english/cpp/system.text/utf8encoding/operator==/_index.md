@@ -28,6 +28,5 @@ True if parameters match, false otherwise.
 ## See Also
 
 * Class [UTF8Encoding](../)
-* Class [UTF8Encoding](../)
 * Namespace [System::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

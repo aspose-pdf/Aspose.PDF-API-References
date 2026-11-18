@@ -21,7 +21,5 @@ static SharedPtr<Font> System::Drawing::Font::FromLogFont(const SharedPtr<Object
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Font](../)
-* Class [Object](../../../system/object/)
-* Class [Font](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.PDF for C++](../../../)

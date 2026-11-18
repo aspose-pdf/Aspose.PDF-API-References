@@ -38,7 +38,6 @@ System::IO::BasicSystemIOStreamBuf<Elem, Traits>::BasicSystemIOStreamBuf(BasicSy
 ## See Also
 
 * Class [BasicSystemIOStreamBuf](../)
-* Class [BasicSystemIOStreamBuf](../)
 * Namespace [System::IO](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## BasicSystemIOStreamBuf::BasicSystemIOStreamBuf(const BasicSystemIOStreamBuf\&) constructor
@@ -52,7 +51,6 @@ System::IO::BasicSystemIOStreamBuf<Elem, Traits>::BasicSystemIOStreamBuf(const B
 
 ## See Also
 
-* Class [BasicSystemIOStreamBuf](../)
 * Class [BasicSystemIOStreamBuf](../)
 * Namespace [System::IO](../../)
 * Library [Aspose.PDF for C++](../../../)

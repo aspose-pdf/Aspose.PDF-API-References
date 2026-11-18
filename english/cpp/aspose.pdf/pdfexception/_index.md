@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pdfexception/
 
 
 ```cpp
-typedef System::ExceptionWrapper< Details_PdfException > Aspose::Pdf::PdfException =  System::ExceptionWrapper<Details_PdfException>
+typedef System::ExceptionWrapper< Details_PdfException > Aspose::Pdf::PdfException = System::ExceptionWrapper<Details_PdfException>
 ```
 
 ## See Also

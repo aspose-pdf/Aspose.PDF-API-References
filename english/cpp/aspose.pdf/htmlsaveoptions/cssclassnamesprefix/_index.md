@@ -24,7 +24,7 @@ For example, if You want that all class names start with 'my_prefix_'
 then just assign 'my_prefix_' to this property before conversion.
 If this property will stay untouched(i.e. null will be leaved as value ), then
 converter will generate class names itself
-(it wil be something like ".stl_01 {}" ... ".stl_NN {}")
+(it wil be something like ".stl_01 {}" ... ".stl_NN {}").
 
 ```cpp
 System::String Aspose::Pdf::HtmlSaveOptions::CssClassNamesPrefix

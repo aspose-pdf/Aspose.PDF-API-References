@@ -13,7 +13,7 @@ url: /cpp/system.io.compression/compressionmode/
 An alias for Aspose::Zip::CompressionMode enum.
 
 ```cpp
-using System::IO::Compression::CompressionMode =  Aspose::Zip::CompressionMode
+using System::IO::Compression::CompressionMode = Aspose::Zip::CompressionMode
 ```
 
 ## See Also

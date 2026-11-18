@@ -19,6 +19,5 @@ System::Globalization::TextElementEnumerator::TextElementEnumerator(const TextEl
 ## See Also
 
 * Class [TextElementEnumerator](../)
-* Class [TextElementEnumerator](../)
 * Namespace [System::Globalization](../../)
 * Library [Aspose.PDF for C++](../../../)

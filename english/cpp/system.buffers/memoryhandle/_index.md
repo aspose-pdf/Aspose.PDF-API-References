@@ -4,7 +4,7 @@ linktitle: MemoryHandle
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Buffers::MemoryHandle class. Represents a handle to a block of memory in C++.'
 type: docs
-weight: 100
+weight: 500
 url: /cpp/system.buffers/memoryhandle/
 ---
 ## MemoryHandle class

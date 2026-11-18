@@ -19,9 +19,7 @@ Aspose::Pdf::FontEmbeddingOptions::FontEmbeddingOptions()
 ## Remarks
 
 
-This constructor sets the default value for the [UseDefaultSubstitution](../) property to **false**
-
-. 
+This constructor sets the default value for the [UseDefaultSubstitution](../) property to **false**.
 ## See Also
 
 * Class [FontEmbeddingOptions](../)

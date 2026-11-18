@@ -25,6 +25,5 @@ The cloned [XmlWriterSettings](../) object.
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmlWriterSettings](../)
-* Class [XmlWriterSettings](../)
 * Namespace [System::Xml](../../)
 * Library [Aspose.PDF for C++](../../../)

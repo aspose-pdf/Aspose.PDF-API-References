@@ -24,6 +24,5 @@ void System::IO::BasicSystemIStreamWrapper<Elem, Traits>::swap(BasicSystemIStrea
 ## See Also
 
 * Class [BasicSystemIStreamWrapper](../)
-* Class [BasicSystemIStreamWrapper](../)
 * Namespace [System::IO](../../)
 * Library [Aspose.PDF for C++](../../../)

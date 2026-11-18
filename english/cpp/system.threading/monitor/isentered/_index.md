@@ -19,7 +19,6 @@ static bool System::Threading::Monitor::IsEntered(const System::SharedPtr<Object
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [Monitor](../)
 * Namespace [System::Threading](../../)
 * Library [Aspose.PDF for C++](../../../)

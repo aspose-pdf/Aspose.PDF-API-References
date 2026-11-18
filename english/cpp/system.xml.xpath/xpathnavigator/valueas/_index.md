@@ -29,7 +29,6 @@ The value of the current node as the Type requested.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [TypeInfo](../../../system/typeinfo/)
 * Class [IXmlNamespaceResolver](../../../system.xml/ixmlnamespaceresolver/)
 * Class [XPathNavigator](../)

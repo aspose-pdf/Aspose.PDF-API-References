@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf/ximagecollection/addwithname/
 ## XImageCollection::AddWithName method
 
 
-Adds new image to [Image](../../image/) list. This method adds image as reference to the same PdfObject (which allows to decrease file size)
+Adds new image to [Image](../../image/) list. This method adds image as reference to the same PdfObject (which allows to decrease file size).
 
 ```cpp
 System::String Aspose::Pdf::XImageCollection::AddWithName(const System::SharedPtr<Aspose::Pdf::XImage> &image)

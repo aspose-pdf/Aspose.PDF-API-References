@@ -24,6 +24,5 @@ void System::IO::BasicSystemOStreamWrapper<Elem, Traits>::swap(BasicSystemOStrea
 ## See Also
 
 * Class [BasicSystemOStreamWrapper](../)
-* Class [BasicSystemOStreamWrapper](../)
 * Namespace [System::IO](../../)
 * Library [Aspose.PDF for C++](../../../)

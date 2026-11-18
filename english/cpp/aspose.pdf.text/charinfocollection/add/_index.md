@@ -11,8 +11,7 @@ url: /cpp/aspose.pdf.text/charinfocollection/add/
 ## CharInfoCollection::Add method
 
 
-[Collection](../../../aspose.pdf/collection/) is read-only, throws NotImplementedException
-.
+[Collection](../../../aspose.pdf/collection/) is read-only, throws NotImplementedException.
 
 ```cpp
 void Aspose::Pdf::Text::CharInfoCollection::Add(const System::SharedPtr<CharInfo> &item) override

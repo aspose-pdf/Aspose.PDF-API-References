@@ -26,6 +26,5 @@ void Aspose::Pdf::OutlineItemCollection::Insert(int32_t index, const System::Sha
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [OutlineItemCollection](../)
-* Class [OutlineItemCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

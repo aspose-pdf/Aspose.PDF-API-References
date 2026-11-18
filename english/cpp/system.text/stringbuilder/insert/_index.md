@@ -30,7 +30,6 @@ This pointer.
 
 ## See Also
 
-* Class [StringBuilder](../)
 * Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [StringBuilder](../)
 * Namespace [System::Text](../../)
@@ -57,7 +56,6 @@ This pointer.
 ## See Also
 
 * Class [StringBuilder](../)
-* Class [StringBuilder](../)
 * Namespace [System::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## StringBuilder::Insert(int, const String\&) method
@@ -81,7 +79,6 @@ This pointer.
 
 ## See Also
 
-* Class [StringBuilder](../)
 * Class [String](../../../system/string/)
 * Class [StringBuilder](../)
 * Namespace [System::Text](../../)
@@ -112,7 +109,6 @@ This pointer.
 ## See Also
 
 * Class [StringBuilder](../)
-* Class [StringBuilder](../)
 * Namespace [System::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## StringBuilder::Insert(int32_t, const String\&, int32_t) method
@@ -137,7 +133,6 @@ This pointer.
 
 ## See Also
 
-* Class [StringBuilder](../)
 * Class [String](../../../system/string/)
 * Class [StringBuilder](../)
 * Namespace [System::Text](../../)

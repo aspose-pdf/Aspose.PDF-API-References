@@ -32,7 +32,6 @@ Checks if two objects are equal.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [IEqualityComparer](../)
 * Namespace [System::Collections](../../)
 * Library [Aspose.PDF for C++](../../../)

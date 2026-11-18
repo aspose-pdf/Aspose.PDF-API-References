@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.dataeditor/cospdfdictionary/copyto/
 ## CosPdfDictionary::CopyTo method
 
 
-Copies the elements of the [CosPdfDictionary](../) to an [Array](../../../aspose.pdf/xmpfieldtype/), starting at a particular [Array](../../../aspose.pdf/xmpfieldtype/) index.
+Copies the elements of the [CosPdfDictionary](../) to an [Array](../), starting at a particular [Array](../) index.
 
 ```cpp
 void Aspose::Pdf::DataEditor::CosPdfDictionary::CopyTo(System::ArrayPtr<System::Collections::Generic::KeyValuePair<System::String, System::SharedPtr<ICosPdfPrimitive>>> array, int32_t arrayIndex) override
@@ -19,7 +19,7 @@ void Aspose::Pdf::DataEditor::CosPdfDictionary::CopyTo(System::ArrayPtr<System::
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| array | System::ArrayPtr\<System::Collections::Generic::KeyValuePair\<System::String, System::SharedPtr\<ICosPdfPrimitive\>\>\> | The one-dimensional [Array](../../../aspose.pdf/xmpfieldtype/) that is the destination of the elements copied from [CosPdfDictionary](../). The [Array](../../../aspose.pdf/xmpfieldtype/) must have zero-based indexing. |
+| array | System::ArrayPtr\<System::Collections::Generic::KeyValuePair\<System::String, System::SharedPtr\<ICosPdfPrimitive\>\>\> | The one-dimensional [Array](../) that is the destination of the elements copied from [CosPdfDictionary](../). The [Array](../) must have zero-based indexing. |
 | arrayIndex | int32_t | The zero-based index in array at which copying begins. |
 
 ## See Also

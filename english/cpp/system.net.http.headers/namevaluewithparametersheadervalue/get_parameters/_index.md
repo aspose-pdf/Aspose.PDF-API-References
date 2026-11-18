@@ -28,7 +28,6 @@ Returns parameters from the current instance.
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ICollection](../../../system.collections.generic/icollection/)
-* Class [NameValueHeaderValue](../../namevalueheadervalue/)
 * Class [NameValueWithParametersHeaderValue](../)
 * Namespace [System::Net::Http::Headers](../../)
 * Library [Aspose.PDF for C++](../../../)

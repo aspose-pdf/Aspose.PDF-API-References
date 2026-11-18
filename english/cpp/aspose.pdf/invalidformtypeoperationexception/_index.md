@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/invalidformtypeoperationexception/
 
 
 ```cpp
-using Aspose::Pdf::InvalidFormTypeOperationException =  System::ExceptionWrapper<Details_InvalidFormTypeOperationException>
+using Aspose::Pdf::InvalidFormTypeOperationException = System::ExceptionWrapper<Details_InvalidFormTypeOperationException>
 ```
 
 ## See Also

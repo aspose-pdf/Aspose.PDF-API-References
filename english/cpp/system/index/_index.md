@@ -4,7 +4,7 @@ linktitle: Index
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Index class. Represents an index into a collection. The index can be from the start or from the end. This type should be allocated on stack and passed to functions by value or by reference. Never use System::SmartPtr class to manage objects of this type in C++.'
 type: docs
-weight: 4100
+weight: 4300
 url: /cpp/system/index/
 ---
 ## Index class

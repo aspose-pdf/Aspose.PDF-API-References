@@ -15,6 +15,7 @@ url: /cpp/system/
 | Class | Description |
 | --- | --- |
 | [Activator](./activator/) | Contains methods to create types of objects. |
+| [AppDomain](./appdomain/) |  |
 | [Array](./array/) | Class that represents an array data structure. Objects of this class should only be allocated using [System::MakeArray()](./makearray/) and [System::MakeObject()](./makeobject/) functions. Never create instance of this type on stack or using operator new, as it will result in runtime errors and/or assertion faults. Always wrap this class into [System::SmartPtr](./smartptr/) pointer and use this pointer to pass it to functions as argument. |
 | [ArrayBase](./arraybase/) | The dummy for [System.Array](./array/) class (abstract base class for all arrays) May be filled with functionality by request. |
 | [ArraySegment](./arraysegment/) | Represents a segment of the one-dimensional array. This type should be allocated on stack and passed to functions by value or by reference. Never use [System::SmartPtr](./smartptr/) class to manage objects of this type. |
@@ -45,6 +46,7 @@ url: /cpp/system/
 | [Func](./func/) | Function delegate. This type should be allocated on stack and passed to functions by value or by reference. Never use [System::SmartPtr](./smartptr/) class to manage objects of this type. |
 | [GC](./gc/) | Represents an emulated Garbage Collection which acts more like a stub which effectively does nothing. This is a static type with no instance services. You should never create instances of it by any means. |
 | [Guid](./guid/) | Represents a Globally Unique IDentifier This type should be allocated on stack and passed to functions by value or by reference. Never use [System::SmartPtr](./smartptr/) class to manage objects of this type. |
+| [HexConverter](./hexconverter/) |  |
 | [IAsyncResult](./iasyncresult/) | Represents the status of asynchronous operation. Objects of this class should only be allocated using [System::MakeObject()](./makeobject/) function. Never create instance of this type on stack or using operator new, as it will result in runtime errors and/or assertion faults. Always wrap this class into [System::SmartPtr](./smartptr/) pointer and use this pointer to pass it to functions as argument. |
 | [ICloneable](./icloneable/) | Defies a method that enables object cloning - creating a copy of an object. Objects of this class should only be allocated using [System::MakeObject()](./makeobject/) function. Never create instance of this type on stack or using operator new, as it will result in runtime errors and/or assertion faults. Always wrap this class into [System::SmartPtr](./smartptr/) pointer and use this pointer to pass it to functions as argument. |
 | [IComparable](./icomparable/) | Defines a method that compares two objects. Objects of this class should only be allocated using [System::MakeObject()](./makeobject/) function. Never create instance of this type on stack or using operator new, as it will result in runtime errors and/or assertion faults. Always wrap this class into [System::SmartPtr](./smartptr/) pointer and use this pointer to pass it to functions as argument. |
@@ -60,6 +62,7 @@ url: /cpp/system/
 | [Int64](./int64/) | Contains methods to work with the 64-bit integer. |
 | [LockContext](./lockcontext/) | Guard object implementing C# lock() statement. |
 | [MarshalByRefObject](./marshalbyrefobject/) | Provides access to objects across application domain boundaries in remoting-enabled applications. Objects of this class should only be allocated using [System::MakeObject()](./makeobject/) function. Never create instance of this type on stack or using operator new, as it will result in runtime errors and/or assertion faults. Always wrap this class into [System::SmartPtr](./smartptr/) pointer and use this pointer to pass it to functions as argument. |
+| [Marvin](./marvin/) |  |
 | [Memory](./memory/) | Represents a mutable memory segment backed by an array. |
 | [MulticastDelegate< ReturnType(ArgumentTypes...)>](./multicastdelegate_returntype(argumenttypes...)_/) | Represents a collection of delegates. This type should be allocated on stack and passed to functions by value or by reference. Never use [System::SmartPtr](./smartptr/) class to manage objects of this type. |
 | [Nullable](./nullable/) | Forward declaration. |
@@ -73,6 +76,7 @@ url: /cpp/system/
 | [ReadOnlyMemory](./readonlymemory/) | Represents a read-only memory segment backed by an array. |
 | [ReadOnlySpan](./readonlyspan/) | Forward to use within [Span](./span/) class. |
 | [ScopedCulture](./scopedculture/) | Represents a culture used within the scope. |
+| [SequencePosition](./sequenceposition/) | Represents the position of an element in a sequence. It wraps a reference to a segment object (usually held by a ReadOnlySequence) and an integer offset into that segment. This type should be allocated on stack and passed to functions by value or by reference. Never use [System::SmartPtr](./smartptr/) class to manage objects of this type. |
 | [SmartPtr](./smartptr/) | Pointer class to wrap types being allocated on heap. Use it to manage memory for classes inheriting [Object](./object/). This pointer type follows intrusive pointer semantics. Reference counter is stored either in [Object](./object/) itself or in counter structure which is tied to [Object](./object/) instance tightly. In any case, all [SmartPtr](./smartptr/) instances form single ownership group regardless how they were created which is unlike how std::shared_ptr class behaves. Converting raw pointer to [SmartPtr](./smartptr/) is safe given there are other [SmartPtr](./smartptr/) instances holding shared references to the same object. [SmartPtr](./smartptr/) class instance can be in one of two states: shared pointer and weak pointer. To keep object alive, one should have count of shared references to it positive. Both weak and shared pointers can be used to access pointed object (to call methods, read or write fields, etc.), but weak pointers do not participate to shared pointer reference counting. [Object](./object/) is being deleted when the last 'shared' [SmartPtr](./smartptr/) pointer to it is being destroyed. So, make sure that this doesn't happen when no other shared [SmartPtr](./smartptr/) pointers to object exist, e. g. during object construction or destruction. Use System::Object::ThisProtector sentry objects (in C++ code) or CppCTORSelfReference or CppSelfReference attribute (in C# code being translated) to fix this issue. Similarily, make sure to break loop references by using [System::WeakPtr](./weakptr/) pointer class or [System::SmartPtrMode::Weak](./smartptrmode/) pointer mode (in C++ code) or CppWeakPtr attribute (in C# code being translated). If two or more objects reference each other using 'shared' pointers, they will never be deleted. If pointer type (weak or shared) should be switched in runtime, use [System::SmartPtr<T>::set_Mode()](./smartptr/set_mode/) method or [System::DynamicWeakPtr](./dynamicweakptr/) class. [SmartPtr](./smartptr/) class doesn't contain any virtual methods. You should only inherit it if you're creating a memory management strategy of your own. This type is a pointer to manage other object's deletion. It should be allocated on stack and passed to functions either by value or by const reference. |
 | [SmartPtrInfo](./smartptrinfo/) | Service class to test and alter [SmartPtr](./smartptr/)'s contents without knowing final type. Used for garbage collection and loop references detection, etc. Think of it as of 'pointer to pointer'. We can't use [SmartPtr](./smartptr/)'s basetype as it doesn't have any; instead, we use this 'info' class. |
 | [Span](./span/) | Represents a contiguous region of arbitrary memory similar to C++20's std::span. |
@@ -105,6 +109,7 @@ url: /cpp/system/
 | [DateTimeKind](./datetimekind/) | Enumeration values of which represent the kinds of date and time. |
 | [DayOfWeek](./dayofweek/) | Enumeration that represents a day of week. |
 | [EnvironmentVariableTarget](./environmentvariabletarget/) | Specifies the environment variable location. |
+| [ExceptionArgument](./exceptionargument/) |  |
 | [MidpointRounding](./midpointrounding/) | Specifies the behavior of rounding functions. |
 | [PlatformID](./platformid/) | Represents an operating system platform. |
 | [SmartPtrMode](./smartptrmode/) | [SmartPtr](./smartptr/) pointer type: weak or shared. Defines whether pointer is being counted when it is being decided whether to delete object or not. |
@@ -122,6 +127,8 @@ url: /cpp/system/
 | --- | --- |
 | [Action](./action/) | Delegate type that references methods that have no return value. |
 | [AggregateException](./aggregateexception/) |  |
+| [ArgumentException](./argumentexception/) |  |
+| [ArgumentOutOfRangeException](./argumentoutofrangeexception/) |  |
 | [ArrayPtr](./arrayptr/) | Alias for 'pointer to array' type. |
 | [AsyncCallback](./asynccallback/) | A delegate type that represents a method to be called when asynchronous operation completes. |
 | [BadImageFormatException](./badimageformatexception/) | The exception that is thrown when the file image of a dynamic link library (DLL) or an executable program is invalid. Never wrap the [BadImageFormatException](./badimageformatexception/) class instances into [System::SmartPtr](./smartptr/). |
@@ -189,11 +196,13 @@ url: /cpp/system/
 | Cast_noexcept | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | CastEnumerableTo | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | CastEnumerableTo | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| CastEnumeratorTo | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | CheckedCast | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | Compare | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | Compare | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | const_pointer_cast | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | ConstCast | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| CovariantCast | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | Default | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | Default | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | Discard | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |

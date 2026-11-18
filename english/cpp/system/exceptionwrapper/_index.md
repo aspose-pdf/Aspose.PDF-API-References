@@ -4,7 +4,7 @@ linktitle: ExceptionWrapper
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::ExceptionWrapper class. Template that represents wrapper of exceptions that are derived from Exception class in C++.'
 type: docs
-weight: 2700
+weight: 2800
 url: /cpp/system/exceptionwrapper/
 ---
 ## ExceptionWrapper class
@@ -27,7 +27,7 @@ template<typename T>class ExceptionWrapper
 | explicit [ExceptionWrapper](./exceptionwrapper/)(Args\&&...) | Constructor that forwards parameters to the [Exception](../exception/) class constructors and creates smart pointer that holds new [Exception](../exception/) class instance. |
 | static [operator new](./operatornew/)(std::size_t) |  |
 | static [operator new[]](./operatornew[]/)(std::size_t) |  |
-| [operator SharedPtr< Object >](./operatorsharedptr_object_/)() | Implicit cast operator to [SharedPtr<Object>](../sharedptr/) |
+| [operator SharedPtr< Object >](./operatorsharedptr_object_/)() | Implicit cast operator to [SharedPtr<Object>](../sharedptr/). |
 | [operator->](./operator-_/)() const | Allows to access members of the [Exception](../exception/) object. |
 | [operator=](./operator=/)(const ExceptionWrapper\&) | Assignment operator. |
 | [operator=](./operator=/)(ExceptionWrapper\&&) | Move assignment operator. |

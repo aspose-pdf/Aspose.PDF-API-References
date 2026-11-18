@@ -28,7 +28,6 @@ Destination object.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XYZExplicitDestination](../)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [XYZExplicitDestination](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
@@ -55,7 +54,6 @@ Destination object.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XYZExplicitDestination](../)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [XYZExplicitDestination](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

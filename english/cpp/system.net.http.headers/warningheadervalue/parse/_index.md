@@ -28,7 +28,6 @@ An instance of the [WarningHeaderValue](../) class.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [WarningHeaderValue](../)
 * Class [String](../../../system/string/)
 * Class [WarningHeaderValue](../)
 * Namespace [System::Net::Http::Headers](../../)

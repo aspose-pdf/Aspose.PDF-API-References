@@ -19,7 +19,6 @@ System::SharedPtr<EmbeddedFileCollection> Aspose::Pdf::Document::get_EmbeddedFil
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [EmbeddedFileCollection](../../embeddedfilecollection/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

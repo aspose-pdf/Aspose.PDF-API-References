@@ -47,7 +47,6 @@ Aspose::Pdf::Annotations::SquareAnnotation::SquareAnnotation(const System::Share
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Document](../../../aspose.pdf/document/)
 * Class [SquareAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

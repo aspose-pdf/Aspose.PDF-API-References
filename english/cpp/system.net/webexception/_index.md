@@ -4,7 +4,7 @@ linktitle: WebException
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use System::Net::WebException typedef in C++.'
 type: docs
-weight: 5300
+weight: 5400
 url: /cpp/system.net/webexception/
 ---
 ## WebException typedef
@@ -13,7 +13,7 @@ url: /cpp/system.net/webexception/
 
 
 ```cpp
-using System::Net::WebException =  System::ExceptionWrapper<Details_WebException>
+using System::Net::WebException = System::ExceptionWrapper<Details_WebException>
 ```
 
 ## See Also

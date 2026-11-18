@@ -2,7 +2,7 @@
 title: Aspose::Pdf::Facades::Form::get_SrcStream method
 linktitle: get_SrcStream
 second_title: Aspose.PDF for C++ API Reference
-description: 'Aspose::Pdf::Facades::Form::get_SrcStream method. Gets source stream in C++.'
+description: 'Aspose::Pdf::Facades::Form::get_SrcStream method. Gets source stream.  in C++.'
 type: docs
 weight: 2300
 url: /cpp/aspose.pdf.facades/form/get_srcstream/

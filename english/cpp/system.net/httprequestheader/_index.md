@@ -4,7 +4,7 @@ linktitle: HttpRequestHeader
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Net::HttpRequestHeader enum. Enumerates the request headers in C++.'
 type: docs
-weight: 4400
+weight: 4500
 url: /cpp/system.net/httprequestheader/
 ---
 ## HttpRequestHeader enum

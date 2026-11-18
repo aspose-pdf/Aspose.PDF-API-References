@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf/pdfasymbolicfontencodingstrategy/pdfasymbolicfontencodingst
 ## PdfASymbolicFontEncodingStrategy::PdfASymbolicFontEncodingStrategy() constructor
 
 
-Constructor. Sets default subtable (mac 1,0)
+Constructor. Sets default subtable (mac 1,0).
 
 ```cpp
 Aspose::Pdf::PdfASymbolicFontEncodingStrategy::PdfASymbolicFontEncodingStrategy()

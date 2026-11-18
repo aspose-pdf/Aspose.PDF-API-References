@@ -47,7 +47,6 @@ template<class Q> System::DynamicWeakPtr<T, trunkMode, weakLeafs>::DynamicWeakPt
 
 ## See Also
 
-* Class [SmartPtr](../../smartptr/)
 * Class [DynamicWeakPtr](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

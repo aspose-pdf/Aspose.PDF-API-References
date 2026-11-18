@@ -13,7 +13,7 @@ url: /cpp/system.threading.tasks/task/functiont/
 Internal implementation. Not for user code.
 
 ```cpp
-using System::Threading::Tasks::Task::FunctionT =  std::function<void()>
+using System::Threading::Tasks::Task::FunctionT = std::function<void()>
 ```
 
 ## Remarks

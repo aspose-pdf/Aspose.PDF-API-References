@@ -28,7 +28,6 @@ An object that provides formatting sevices for the specified type
 ## See Also
 
 * Typedef [SharedPtr](../../sharedptr/)
-* Class [Object](../../object/)
 * Class [TypeInfo](../../typeinfo/)
 * Class [IFormatProvider](../)
 * Namespace [System](../../)

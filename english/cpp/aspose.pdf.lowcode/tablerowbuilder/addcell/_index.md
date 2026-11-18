@@ -24,7 +24,6 @@ Instance of created [TableCellBuilder](../../tablecellbuilder/).
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [TableCellBuilder](../../tablecellbuilder/)
 * Class [TableRowBuilder](../)
 * Namespace [Aspose::Pdf::LowCode](../../)
 * Library [Aspose.PDF for C++](../../../)

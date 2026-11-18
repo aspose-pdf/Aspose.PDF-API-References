@@ -10,9 +10,7 @@ url: /cpp/aspose.pdf/fontembeddingoptions/get_usedefaultsubstitution/
 ## FontEmbeddingOptions::get_UseDefaultSubstitution method
 
 
-Indicates whether to substitute non-embedded font using default font substitution strategy. Default value: **false**
-
-.
+Indicates whether to substitute non-embedded font using default font substitution strategy. Default value: **false**.
 
 ```cpp
 bool Aspose::Pdf::FontEmbeddingOptions::get_UseDefaultSubstitution() const

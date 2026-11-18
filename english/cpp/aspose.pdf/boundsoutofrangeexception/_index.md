@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/boundsoutofrangeexception/
 
 
 ```cpp
-using Aspose::Pdf::BoundsOutOfRangeException =  System::ExceptionWrapper<Details_BoundsOutOfRangeException>
+using Aspose::Pdf::BoundsOutOfRangeException = System::ExceptionWrapper<Details_BoundsOutOfRangeException>
 ```
 
 ## See Also

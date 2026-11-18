@@ -4,7 +4,7 @@ linktitle: String
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::String class. String class used across the library. Is a substitute for C# System.String when translating code. For optimization reasons, isn''t considered an Object subclass. This type should be allocated on stack and passed to functions by value or by reference. Never use System::SmartPtr class to manage objects of this type in C++.'
 type: docs
-weight: 6300
+weight: 6700
 url: /cpp/system/string/
 ---
 ## String class
@@ -112,8 +112,8 @@ class String
 | [operator+](./operator+/)(uint32_t) const | Adds unsigned integer value string representation to the end of the string. |
 | [operator+](./operator+/)(double) const | Adds floating point value string representation to the end of the string. |
 | [operator+](./operator+/)(int64_t) const | Adds integer value string representation to the end of the string. |
-| [operator+](./operator+/)(const T\&) const | Adds reference type object string representation to the end of the string. |
-| [operator+](./operator+/)(const T\&) const | Adds reference type object string representation to the end of the string. |
+| [operator+](./operator+/)(const T\&) const | Adds value type object string representation to the end of the string. |
+| [operator+](./operator+/)(const T\&) const | Adds value type object string representation to the end of the string. |
 | [operator+](./operator+/)(T) const | Adds boolean value string representation to the end of the string. |
 | [operator+=](./operator+=/)(char_t) | Concatenation assignment operator. |
 | [operator+=](./operator+=/)(const String\&) | Concatenation assignment operator. |

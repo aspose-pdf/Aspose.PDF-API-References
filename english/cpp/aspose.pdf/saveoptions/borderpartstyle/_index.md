@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf/saveoptions/borderpartstyle/
 ## BorderPartStyle class
 
 
-Represents information of one part of border(top, bottom, left side or right side)
+Represents information of one part of border(top, bottom, left side or right side).
 
 ```cpp
 class BorderPartStyle : public System::Object

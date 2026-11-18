@@ -28,7 +28,6 @@ Pointer to assembly defining specific type.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Assembly](../)
 * Class [TypeInfo](../../../system/typeinfo/)
 * Class [Assembly](../)
 * Namespace [System::Reflection](../../)

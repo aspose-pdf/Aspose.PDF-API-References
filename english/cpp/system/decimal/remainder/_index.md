@@ -29,6 +29,5 @@ The remainder after dividing **d1** by **d2**.
 ## See Also
 
 * Class [Decimal](../)
-* Class [Decimal](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

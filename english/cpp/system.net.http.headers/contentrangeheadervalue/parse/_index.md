@@ -28,7 +28,6 @@ An instance of the [ContentRangeHeaderValue](../) class.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ContentRangeHeaderValue](../)
 * Class [String](../../../system/string/)
 * Class [ContentRangeHeaderValue](../)
 * Namespace [System::Net::Http::Headers](../../)

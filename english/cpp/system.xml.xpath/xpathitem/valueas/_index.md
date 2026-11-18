@@ -28,7 +28,6 @@ The value of the item as the type requested.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [TypeInfo](../../../system/typeinfo/)
 * Class [XPathItem](../)
 * Namespace [System::Xml::XPath](../../)
@@ -55,7 +54,6 @@ The value of the item as the type requested.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [TypeInfo](../../../system/typeinfo/)
 * Class [IXmlNamespaceResolver](../../../system.xml/ixmlnamespaceresolver/)
 * Class [XPathItem](../)

@@ -29,6 +29,5 @@ A newly created TcpListener-class instance.
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TcpListener](../)
-* Class [TcpListener](../)
 * Namespace [System::Net::Sockets](../../)
 * Library [Aspose.PDF for C++](../../../)

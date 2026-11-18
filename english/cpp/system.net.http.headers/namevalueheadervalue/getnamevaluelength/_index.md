@@ -34,7 +34,6 @@ Returns the length of a parsed substring, otherwise 0.
 * Typedef [HeaderFunc](../../headerfunc/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [NameValueHeaderValue](../)
-* Class [NameValueHeaderValue](../)
 * Namespace [System::Net::Http::Headers](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## NameValueHeaderValue::GetNameValueLength(String, int32_t, System::SharedPtr\<NameValueHeaderValue\>\&) method
@@ -61,7 +60,6 @@ Returns the length of a parsed substring, otherwise 0.
 
 * Class [String](../../../system/string/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [NameValueHeaderValue](../)
 * Class [NameValueHeaderValue](../)
 * Namespace [System::Net::Http::Headers](../../)
 * Library [Aspose.PDF for C++](../../../)

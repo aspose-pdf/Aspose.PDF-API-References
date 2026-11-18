@@ -13,7 +13,7 @@ url: /cpp/system.xml.schema/validationeventargs/ptr/
 An alias for shared pointer to an instance of this class.
 
 ```cpp
-using System::Xml::Schema::ValidationEventArgs::Ptr =  SharedPtr<ValidationEventArgs>
+using System::Xml::Schema::ValidationEventArgs::Ptr = SharedPtr<ValidationEventArgs>
 ```
 
 ## See Also

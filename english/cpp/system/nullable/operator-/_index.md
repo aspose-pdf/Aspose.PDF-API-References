@@ -60,7 +60,6 @@ Subtraction result.
 ## See Also
 
 * Class [Nullable](../)
-* Class [Nullable](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## Nullable::operator-(T1) const method
@@ -83,7 +82,6 @@ Empty [Nullable](../) object.
 
 ## See Also
 
-* Class [Nullable](../)
 * Class [Nullable](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

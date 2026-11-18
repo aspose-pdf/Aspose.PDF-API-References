@@ -25,7 +25,6 @@ void Aspose::Pdf::LogicalStructure::ElementListImplementation::AddElement(const 
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Element](../../element/)
 * Class [ElementListImplementation](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)
 * Library [Aspose.PDF for C++](../../../)

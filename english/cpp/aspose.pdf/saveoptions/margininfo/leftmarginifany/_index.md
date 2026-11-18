@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf/saveoptions/margininfo/leftmarginifany/
 ## LeftMarginIfAny field
 
 
-Represents left page margin(if any)
+Represents left page margin(if any).
 
 ```cpp
 System::SharedPtr<SaveOptions::MarginPartStyle> Aspose::Pdf::SaveOptions::MarginInfo::LeftMarginIfAny

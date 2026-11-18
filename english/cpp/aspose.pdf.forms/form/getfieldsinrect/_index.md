@@ -29,7 +29,6 @@ Array with found fields.
 
 * Typedef [ArrayPtr](../../../system/arrayptr/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Field](../../field/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [Form](../)
 * Namespace [Aspose::Pdf::Forms](../../)

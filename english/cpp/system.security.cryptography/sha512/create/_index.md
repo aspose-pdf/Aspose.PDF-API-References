@@ -25,7 +25,6 @@ Newly created hasher instance.
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [SHA512](../)
-* Class [SHA512](../)
 * Namespace [System::Security::Cryptography](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## SHA512::Create(const String\&) method
@@ -49,7 +48,6 @@ Newly created hasher instance.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [SHA512](../)
 * Class [String](../../../system/string/)
 * Class [SHA512](../)
 * Namespace [System::Security::Cryptography](../../)

@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf/textstamp/get_fontsize/
 ## TextStamp::get_FontSize method
 
 
-Actual font size after the stamp has been placed. (May differ from the initial font size provided through the constructor if the 'AutoAdjustFontSizeToFitStampRectangle' option is enabled.)
+Actual font size after the stamp has been placed. (May differ from the initial font size provided through the constructor if the 'AutoAdjustFontSizeToFitStampRectangle' option is enabled.).
 
 ```cpp
 float Aspose::Pdf::TextStamp::get_FontSize()

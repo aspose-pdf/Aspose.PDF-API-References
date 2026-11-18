@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.text/textfragment/set_footnote/
 ## TextFragment::set_FootNote method
 
 
-Sets the paragraph foot note.(for pdf generation only)
+Sets the paragraph foot note.(for pdf generation only).
 
 ```cpp
 void Aspose::Pdf::Text::TextFragment::set_FootNote(const System::SharedPtr<Note> &value)
@@ -19,7 +19,6 @@ void Aspose::Pdf::Text::TextFragment::set_FootNote(const System::SharedPtr<Note>
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Note](../../../aspose.pdf/note/)
 * Class [TextFragment](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

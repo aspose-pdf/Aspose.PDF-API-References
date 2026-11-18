@@ -30,7 +30,6 @@ An [Object](../../../system/object/) that can be cast safely to the type returne
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [String](../../../system/string/)
 * Class [XmlNameTable](../../../system.xml/xmlnametable/)
 * Class [IXmlNamespaceResolver](../../../system.xml/ixmlnamespaceresolver/)

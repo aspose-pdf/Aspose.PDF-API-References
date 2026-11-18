@@ -4,7 +4,7 @@ linktitle: WebRequestMethods
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Net::WebRequestMethods class. Represents the string constants of web requests in C++.'
 type: docs
-weight: 3900
+weight: 4000
 url: /cpp/system.net/webrequestmethods/
 ---
 ## WebRequestMethods class

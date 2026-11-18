@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/deprecatedfeatureexception/
 
 
 ```cpp
-using Aspose::Pdf::DeprecatedFeatureException =  System::ExceptionWrapper<Details_DeprecatedFeatureException>
+using Aspose::Pdf::DeprecatedFeatureException = System::ExceptionWrapper<Details_DeprecatedFeatureException>
 ```
 
 ## See Also

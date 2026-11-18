@@ -26,7 +26,6 @@ void Aspose::Pdf::Annotations::ActionCollection::CopyTo(System::ArrayPtr<System:
 
 * Typedef [ArrayPtr](../../../system/arrayptr/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [PdfAction](../../pdfaction/)
 * Class [ActionCollection](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

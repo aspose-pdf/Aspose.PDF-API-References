@@ -23,7 +23,6 @@ The PDF3 d artwork.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [PDF3DArtwork](../../pdf3dartwork/)
 * Class [PDF3DAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

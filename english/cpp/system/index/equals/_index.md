@@ -28,6 +28,5 @@ True if both indexes have the same value and direction, otherwise false.
 ## See Also
 
 * Class [Index](../)
-* Class [Index](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

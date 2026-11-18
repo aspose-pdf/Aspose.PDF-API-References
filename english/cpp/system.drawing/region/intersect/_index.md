@@ -86,6 +86,5 @@ void System::Drawing::Region::Intersect(const SharedPtr<Region> &region)
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Region](../)
-* Class [Region](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.PDF for C++](../../../)

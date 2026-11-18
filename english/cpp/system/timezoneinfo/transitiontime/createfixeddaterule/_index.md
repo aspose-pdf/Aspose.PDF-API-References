@@ -29,7 +29,6 @@ An istance of [TransitionTime](../) class that represents the described time cha
 
 ## See Also
 
-* Class [TransitionTime](../)
 * Class [DateTime](../../../datetime/)
 * Class [TransitionTime](../)
 * Class [TimeZoneInfo](../../)

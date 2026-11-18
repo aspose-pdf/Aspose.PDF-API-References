@@ -21,6 +21,5 @@ static SharedPtr<Graphics> System::Drawing::Graphics::FromHwndInternal(IntPtr hw
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Graphics](../)
-* Class [Graphics](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.PDF for C++](../../../)

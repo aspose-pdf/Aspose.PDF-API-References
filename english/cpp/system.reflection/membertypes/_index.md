@@ -4,7 +4,7 @@ linktitle: MemberTypes
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Reflection::MemberTypes enum. Marks each type of member in C++.'
 type: docs
-weight: 1300
+weight: 1400
 url: /cpp/system.reflection/membertypes/
 ---
 ## MemberTypes enum

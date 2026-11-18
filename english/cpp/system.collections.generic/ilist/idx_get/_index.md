@@ -4,7 +4,7 @@ linktitle: idx_get
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::IList::idx_get method. Gets element at specified index in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/system.collections.generic/ilist/idx_get/
 ---
 ## IList::idx_get method

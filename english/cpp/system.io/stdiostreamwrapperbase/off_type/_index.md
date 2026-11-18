@@ -13,7 +13,7 @@ url: /cpp/system.io/stdiostreamwrapperbase/off_type/
 
 
 ```cpp
-using System::IO::STDIOStreamWrapperBase< T, typename >::off_type =  typename T::off_type
+using System::IO::STDIOStreamWrapperBase< T, typename >::off_type = typename T::off_type
 ```
 
 ## See Also

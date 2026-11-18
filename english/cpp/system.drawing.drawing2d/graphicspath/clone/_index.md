@@ -25,6 +25,5 @@ A [GraphicsPath](../) object which is an exact copy of the current object.
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [GraphicsPath](../)
-* Class [GraphicsPath](../)
 * Namespace [System::Drawing::Drawing2D](../../)
 * Library [Aspose.PDF for C++](../../../)

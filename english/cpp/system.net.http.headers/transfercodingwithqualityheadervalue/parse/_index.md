@@ -28,7 +28,6 @@ An instance of the [TransferCodingWithQualityHeaderValue](../) class.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [TransferCodingWithQualityHeaderValue](../)
 * Class [String](../../../system/string/)
 * Class [TransferCodingWithQualityHeaderValue](../)
 * Namespace [System::Net::Http::Headers](../../)

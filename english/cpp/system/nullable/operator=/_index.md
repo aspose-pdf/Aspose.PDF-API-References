@@ -32,7 +32,6 @@ A reference to the self
 ## See Also
 
 * Class [Nullable](../)
-* Class [Nullable](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## Nullable::operator=(const T1\&) method
@@ -60,7 +59,6 @@ A reference to the self
 ## See Also
 
 * Class [Nullable](../)
-* Class [Nullable](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## Nullable::operator=(std::nullptr_t) method
@@ -79,7 +77,6 @@ A [Nullable](../) object that represents null-value.
 
 ## See Also
 
-* Class [Nullable](../)
 * Class [Nullable](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

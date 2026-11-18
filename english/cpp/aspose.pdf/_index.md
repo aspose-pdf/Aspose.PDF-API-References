@@ -203,7 +203,7 @@ The **[Aspose.Pdf](./)** is a root namespace for all classes of [Aspose.Pdf](./)
 | [ToUnicodeProcessingRules](./tounicodeprocessingrules/) | This class describes rules which can be used to solve Adobe Preflight error "Text cannot be mapped to Unicode". |
 | [TwipConverter](./twipconverter/) | Class, designed to convert RTF measurements into points. |
 | [TxtLoadOptions](./txtloadoptions/) | Load options for TXT to PDF conversion. |
-| [UnifiedSaveOptions](./unifiedsaveoptions/) | This class represents saving options for saving that uses unified conversion way (with unified internal document model) |
+| [UnifiedSaveOptions](./unifiedsaveoptions/) | This class represents saving options for saving that uses unified conversion way (with unified internal document model). |
 | [WarningInfo](./warninginfo/) | Immutable object for encapsulating warning information. |
 | [Watermark](./watermark/) | Represents a watermark of the page. |
 | [WatermarkArtifact](./watermarkartifact/) | Class describes watermark artifact. This may be used to. |

@@ -29,6 +29,5 @@ Result of matrix add.
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Matrix3D](../)
-* Class [Matrix3D](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

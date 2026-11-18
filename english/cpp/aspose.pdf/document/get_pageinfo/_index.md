@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf/document/get_pageinfo/
 ## Document::get_PageInfo method
 
 
-Gets the page info.(for generator only, not filled in when reading document)
+Gets the page info.(for generator only, not filled in when reading document).
 
 ```cpp
 System::SharedPtr<Aspose::Pdf::PageInfo> Aspose::Pdf::Document::get_PageInfo()

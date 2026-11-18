@@ -47,7 +47,6 @@ Aspose::Pdf::Annotations::CaretAnnotation::CaretAnnotation(const System::SharedP
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Document](../../../aspose.pdf/document/)
 * Class [CaretAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -22,6 +22,7 @@ class Enumerable
 | --- | --- |
 | static [Empty](./empty/)() | Returns an empty IEnumerable object. |
 | static [Range](./range/)(int32_t, int32_t) | Generates a sequence of integral numbers within a specified range. |
+| static [Repeat](./repeat/)(const TResult\&, int32_t) | Generates a sequence that contains one repeated value. |
 ## See Also
 
 * Namespace [System::Linq](../)

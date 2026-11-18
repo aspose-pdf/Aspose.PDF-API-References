@@ -40,7 +40,6 @@ System::Threading::Tasks::Task::Task(const Action<SharedPtr<Object>> &action, co
 
 * Typedef [Action](../../../system/action/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [Task](../)
 * Namespace [System::Threading::Tasks](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -64,7 +63,6 @@ System::Threading::Tasks::Task::Task(const Action<SharedPtr<Object>> &action, co
 
 * Typedef [Action](../../../system/action/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [CancellationToken](../../../system.threading/cancellationtoken/)
 * Class [Task](../)
 * Namespace [System::Threading::Tasks](../../)

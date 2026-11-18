@@ -13,7 +13,7 @@ url: /cpp/system.xml/xmlnamednodemap/iterator/
 Iterator type.
 
 ```cpp
-using System::Xml::XmlNamedNodeMap::iterator =  SmallXmlNodeList::Iterator
+using System::Xml::XmlNamedNodeMap::iterator = SmallXmlNodeList::Iterator
 ```
 
 ## See Also

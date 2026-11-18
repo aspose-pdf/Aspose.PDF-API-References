@@ -10,15 +10,7 @@ url: /cpp/aspose.pdf.lowcode/pdftoimage/dispose/
 ## PdfToImage::Dispose method
 
 
-Implementation of 
-IDisposable
-
-
-. Actually, it is not necessary for 
-[PdfToImage](../)
-
-
-.
+Implementation of IDisposable. Actually, it is not necessary for [PdfToImage](../).
 
 ```cpp
 void Aspose::Pdf::LowCode::PdfToImage::Dispose() override

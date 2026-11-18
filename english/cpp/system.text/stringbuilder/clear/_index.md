@@ -24,6 +24,5 @@ This pointer.
 ## See Also
 
 * Class [StringBuilder](../)
-* Class [StringBuilder](../)
 * Namespace [System::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -4,7 +4,7 @@ linktitle: GetCustomAttributes
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::TypeInfo::GetCustomAttributes method. Returns an array containing objects that represent all custom attributes applied to the type in C++.'
 type: docs
-weight: 3100
+weight: 3300
 url: /cpp/system/typeinfo/getcustomattributes/
 ---
 ## TypeInfo::GetCustomAttributes() const method
@@ -19,7 +19,6 @@ ArrayPtr<ObjectPtr> System::TypeInfo::GetCustomAttributes() const
 ## See Also
 
 * Typedef [ArrayPtr](../../arrayptr/)
-* Class [SmartPtr](../../smartptr/)
 * Class [TypeInfo](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -41,8 +40,6 @@ ArrayPtr<ObjectPtr> System::TypeInfo::GetCustomAttributes(const TypeInfo &attrib
 ## See Also
 
 * Typedef [ArrayPtr](../../arrayptr/)
-* Class [SmartPtr](../../smartptr/)
-* Class [TypeInfo](../)
 * Class [TypeInfo](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -25,7 +25,6 @@ System::Drawing::Font::Font(const SharedPtr<Font> &prototype, FontStyle new_styl
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Font](../)
 * Enum [FontStyle](../../fontstyle/)
 * Class [Font](../)
 * Namespace [System::Drawing](../../)

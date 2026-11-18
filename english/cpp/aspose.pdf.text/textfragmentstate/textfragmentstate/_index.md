@@ -24,7 +24,6 @@ Aspose::Pdf::Text::TextFragmentState::TextFragmentState(const System::SharedPtr<
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [TextFragment](../../textfragment/)
 * Class [TextFragmentState](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

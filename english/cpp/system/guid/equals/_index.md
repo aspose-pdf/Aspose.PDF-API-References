@@ -28,6 +28,5 @@ True if the GUIDs represented by the current and the specified objects are equal
 ## See Also
 
 * Class [Guid](../)
-* Class [Guid](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

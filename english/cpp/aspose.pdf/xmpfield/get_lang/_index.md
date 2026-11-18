@@ -20,6 +20,5 @@ static System::SharedPtr<XmpField> Aspose::Pdf::XmpField::get_Lang()
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmpField](../)
-* Class [XmpField](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

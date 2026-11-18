@@ -24,7 +24,6 @@ void Aspose::Pdf::XmpPdfAExtensionValueType::Remove(const System::SharedPtr<XmpP
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmpPdfAExtensionField](../../xmppdfaextensionfield/)
 * Class [XmpPdfAExtensionValueType](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.annotations/annotation/get_border/
 ## Annotation::get_Border method
 
 
-Gets annotation border characteristics. [Border](../../border/)
+Gets annotation border characteristics. [Border](../../border/).
 
 ```cpp
 System::SharedPtr<Aspose::Pdf::Annotations::Border> Aspose::Pdf::Annotations::Annotation::get_Border() const

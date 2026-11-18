@@ -28,7 +28,6 @@ An instance of the [CacheControlHeaderValue](../) class.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [CacheControlHeaderValue](../)
 * Class [String](../../../system/string/)
 * Class [CacheControlHeaderValue](../)
 * Namespace [System::Net::Http::Headers](../../)

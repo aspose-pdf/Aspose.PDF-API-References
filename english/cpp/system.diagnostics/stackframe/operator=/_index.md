@@ -19,6 +19,5 @@ const StackFrame & System::Diagnostics::StackFrame::operator=(const StackFrame &
 ## See Also
 
 * Class [StackFrame](../)
-* Class [StackFrame](../)
 * Namespace [System::Diagnostics](../../)
 * Library [Aspose.PDF for C++](../../../)

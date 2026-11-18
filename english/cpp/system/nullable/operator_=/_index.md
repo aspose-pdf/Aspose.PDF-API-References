@@ -32,7 +32,6 @@ True if the value represented by the current object is less or equal to the valu
 ## See Also
 
 * Class [Nullable](../)
-* Class [Nullable](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## Nullable::operator<=(const T1\&) const method
@@ -109,7 +108,6 @@ True if the value represented by the current object is greater or equal to the v
 
 ## See Also
 
-* Class [Nullable](../)
 * Class [Nullable](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -192,7 +190,6 @@ A reference to the self.
 
 ## See Also
 
-* Class [Nullable](../)
 * Class [Nullable](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

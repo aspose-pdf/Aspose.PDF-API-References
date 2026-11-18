@@ -24,7 +24,6 @@ Normalized string.
 ## See Also
 
 * Class [String](../)
-* Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## String::Normalize(System::Text::NormalizationForm) const method
@@ -47,7 +46,6 @@ Normalized string.
 
 ## See Also
 
-* Class [String](../)
 * Enum [NormalizationForm](../../../system.text/normalizationform/)
 * Class [String](../)
 * Namespace [System](../../)

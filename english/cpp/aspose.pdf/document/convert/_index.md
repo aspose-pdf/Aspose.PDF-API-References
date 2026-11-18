@@ -167,12 +167,8 @@ bool Aspose::Pdf::Document::Convert(Document::CallBackGetHocr callback, bool fla
 
 ### ReturnValue
 
-The operation result. If there are no images in the document returns **false**
-## Remarks
+The operation result. If there are no images in the document returns **false**.
 
-
-
-.
 ## See Also
 
 * Typedef [CallBackGetHocr](../callbackgethocr/)
@@ -196,12 +192,8 @@ bool Aspose::Pdf::Document::Convert(Document::CallBackGetHocrWithPage callback, 
 
 ### ReturnValue
 
-The operation result. If there are no images in the document returns **false**
-## Remarks
+The operation result. If there are no images in the document returns **false**.
 
-
-
-.
 ## See Also
 
 * Typedef [CallBackGetHocrWithPage](../callbackgethocrwithpage/)

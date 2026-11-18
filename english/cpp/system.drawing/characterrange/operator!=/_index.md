@@ -28,6 +28,5 @@ True if **cr** and the current objects represent distinct ranges, otherwise - fa
 ## See Also
 
 * Class [CharacterRange](../)
-* Class [CharacterRange](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.PDF for C++](../../../)

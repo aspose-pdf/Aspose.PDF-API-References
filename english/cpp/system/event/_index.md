@@ -4,7 +4,7 @@ linktitle: Event
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Event typedef. Represents an event - a mechanism through which subscribers are notified about an occurence of interest by means of a delegate invocation in C++.'
 type: docs
-weight: 11800
+weight: 12500
 url: /cpp/system/event/
 ---
 ## Event typedef
@@ -13,7 +13,7 @@ url: /cpp/system/event/
 Represents an event - a mechanism through which subscribers are notified about an occurence of interest by means of a delegate invocation.
 
 ```cpp
-using System::Event =  MulticastDelegate<Args...>
+using System::Event = MulticastDelegate<Args...>
 ```
 
 

@@ -19,6 +19,5 @@ X509Certificate & System::Security::Cryptography::X509Certificates::X509Certific
 ## See Also
 
 * Class [X509Certificate](../)
-* Class [X509Certificate](../)
 * Namespace [System::Security::Cryptography::X509Certificates](../../)
 * Library [Aspose.PDF for C++](../../../)

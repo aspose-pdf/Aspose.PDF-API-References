@@ -4,7 +4,7 @@ linktitle: PropertyInfo
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Reflection::PropertyInfo class. Represents property information in C++.'
 type: docs
-weight: 1000
+weight: 1100
 url: /cpp/system.reflection/propertyinfo/
 ---
 ## PropertyInfo class

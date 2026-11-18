@@ -4,7 +4,7 @@ linktitle: ValueType
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::BaseSet::ValueType typedef. Value type in C++.'
 type: docs
-weight: 2700
+weight: 2800
 url: /cpp/system.collections.generic/baseset/valuetype/
 ---
 ## ValueType typedef
@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/baseset/valuetype/
 Value type.
 
 ```cpp
-using System::Collections::Generic::BaseSet< T, SET_T >::ValueType =  T
+using System::Collections::Generic::BaseSet< T, SET_T >::ValueType = T
 ```
 
 ## See Also

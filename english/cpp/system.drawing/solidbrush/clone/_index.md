@@ -24,7 +24,6 @@ A shared pointer to the copy of the current object.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [SolidBrush](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.PDF for C++](../../../)

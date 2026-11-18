@@ -25,7 +25,6 @@ Enumerator of elements.
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IEnumerator](../../../system.collections.generic/ienumerator/)
-* Class [Element](../../element/)
 * Class [ElementCollection](../)
 * Namespace [Aspose::Pdf::Structure](../../)
 * Library [Aspose.PDF for C++](../../../)

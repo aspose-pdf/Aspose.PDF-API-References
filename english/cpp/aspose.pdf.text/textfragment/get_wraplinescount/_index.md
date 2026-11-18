@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.text/textfragment/get_wraplinescount/
 ## TextFragment::get_WrapLinesCount method
 
 
-Gets wrap lines count for this paragraph(for pdf generation only)
+Gets wrap lines count for this paragraph(for pdf generation only).
 
 ```cpp
 int32_t Aspose::Pdf::Text::TextFragment::get_WrapLinesCount() const

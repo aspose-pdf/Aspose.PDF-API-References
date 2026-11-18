@@ -13,7 +13,7 @@ url: /cpp/system.xml/xmlurlresolver/ptr/
 An alias for shared pointer to an instance of this class.
 
 ```cpp
-using System::Xml::XmlUrlResolver::Ptr =  SharedPtr<XmlUrlResolver>
+using System::Xml::XmlUrlResolver::Ptr = SharedPtr<XmlUrlResolver>
 ```
 
 ## See Also

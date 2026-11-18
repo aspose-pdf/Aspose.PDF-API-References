@@ -19,6 +19,5 @@ TimeSpan & System::TimeSpan::operator/=(double divisor)
 ## See Also
 
 * Class [TimeSpan](../)
-* Class [TimeSpan](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

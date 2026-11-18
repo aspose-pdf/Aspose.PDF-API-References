@@ -13,7 +13,7 @@ url: /cpp/system.io/basicsystemiostreambuf/traits_type/
 
 
 ```cpp
-using System::IO::BasicSystemIOStreamBuf< Elem, Traits >::traits_type =  Traits
+using System::IO::BasicSystemIOStreamBuf< Elem, Traits >::traits_type = Traits
 ```
 
 ## See Also

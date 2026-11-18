@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/paragraphs/virtualized_iterator_element/
 Virtualized element type.
 
 ```cpp
-using Aspose::Pdf::Paragraphs::virtualized_iterator_element =  typename iterator_holder_type::virtualized_iterator_element
+using Aspose::Pdf::Paragraphs::virtualized_iterator_element = typename iterator_holder_type::virtualized_iterator_element
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: Ptr
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Text::Encoding::Ptr typedef. RTTI in C++.'
 type: docs
-weight: 4400
+weight: 4500
 url: /cpp/system.text/encoding/ptr/
 ---
 ## Ptr typedef

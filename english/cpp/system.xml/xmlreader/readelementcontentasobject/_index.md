@@ -24,7 +24,6 @@ A boxed object of the most appropriate type. The [XmlReader::get_ValueType](../g
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [XmlReader](../)
 * Namespace [System::Xml](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -50,7 +49,6 @@ A boxed object of the most appropriate type. The [XmlReader::get_ValueType](../g
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [String](../../../system/string/)
 * Class [XmlReader](../)
 * Namespace [System::Xml](../../)

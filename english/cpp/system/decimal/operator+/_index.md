@@ -28,6 +28,5 @@ A new instance of [Decimal](../) class that represents a value that is a sum of 
 ## See Also
 
 * Class [Decimal](../)
-* Class [Decimal](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

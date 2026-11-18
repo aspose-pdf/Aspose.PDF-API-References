@@ -13,7 +13,7 @@ url: /cpp/system.xml/xmlcdatasection/ptr/
 An alias for shared pointer to an instance of this class.
 
 ```cpp
-using System::Xml::XmlCDataSection::Ptr =  SharedPtr<XmlCDataSection>
+using System::Xml::XmlCDataSection::Ptr = SharedPtr<XmlCDataSection>
 ```
 
 ## See Also

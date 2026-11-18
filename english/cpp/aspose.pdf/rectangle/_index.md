@@ -28,14 +28,14 @@ class Rectangle : public System::ICloneable
 | [Equals](./equals/)(const System::SharedPtr\<Rectangle\>\&) | Check if rectangles are equal i.e. have same position and sizes. |
 | static [FromRect](./fromrect/)(System::Drawing::Rectangle) | Initializes new rectangle from given instance of [System.Drawing.Rectangle](../../system.drawing/rectangle/). |
 | static [FromRect](./fromrect/)(System::Drawing::RectangleF) | Initializes new rectangle from given instance of [System.Drawing.Rectangle](../../system.drawing/rectangle/). |
-| static [get_Empty](./get_empty/)() | Empty rectangle. |
+| static [get_Empty](./get_empty/)() | Gets the shared static instance of an empty rectangle. This property always returns the same instance, which should not be modified. Use [Trivial](../) to obtain a new rectangle instance that can be modified. |
 | [get_Height](./get_height/)() | Height of rectangle. |
-| [get_IsEmpty](./get_isempty/)() const | Checks if rectangle is empty. |
+| [get_IsEmpty](./get_isempty/)() const | Gets a value indicating whether this rectangle is the shared static empty instance returned by [Empty](../). |
 | [get_IsPoint](./get_ispoint/)() | Checks if rectangle is point i.e. LLX is equal URX and LLY is equal URY. |
 | [get_IsTrivial](./get_istrivial/)() | Checks if rectangle is trivial i.e. has zero size and position. |
 | [get_LLX](./get_llx/)() const | X-coordinate of lower - left corner. |
 | [get_LLY](./get_lly/)() const | Y - coordinate of lower-left corner. |
-| static [get_Trivial](./get_trivial/)() | Initializes trivial rectangle i.e. rectangle with zero position and size. |
+| static [get_Trivial](./get_trivial/)() | Gets a new rectangle instance with zero coordinates and dimensions. A new instance is created on each access and can be modified independently. |
 | [get_URX](./get_urx/)() const | X - coordinate of upper-right corner. |
 | [get_URY](./get_ury/)() const | Y - coordinate of upper-right corner. |
 | [get_Width](./get_width/)() | Width of rectangle. |

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.structure/elementcollection/iterator/
 Iterator type.
 
 ```cpp
-using Aspose::Pdf::Structure::ElementCollection::iterator =  typename iterator_holder_type::iterator
+using Aspose::Pdf::Structure::ElementCollection::iterator = typename iterator_holder_type::iterator
 ```
 
 ## See Also

@@ -37,7 +37,6 @@ An [IAsyncResult](../../../system/iasyncresult/) object representing the initiat
 * Typedef [ArrayPtr](../../../system/arrayptr/)
 * Enum [SocketFlags](../../socketflags/)
 * Typedef [AsyncCallback](../../../system/asynccallback/)
-* Class [Object](../../../system/object/)
 * Class [Socket](../)
 * Namespace [System::Net::Sockets](../../)
 * Library [Aspose.PDF for C++](../../../)

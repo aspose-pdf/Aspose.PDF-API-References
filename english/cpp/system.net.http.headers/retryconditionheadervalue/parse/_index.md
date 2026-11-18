@@ -28,7 +28,6 @@ An instance of the [RangeHeaderValue](../../rangeheadervalue/) class.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [RetryConditionHeaderValue](../)
 * Class [String](../../../system/string/)
 * Class [RetryConditionHeaderValue](../)
 * Namespace [System::Net::Http::Headers](../../)

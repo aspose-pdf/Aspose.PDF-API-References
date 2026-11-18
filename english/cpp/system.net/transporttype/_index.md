@@ -4,7 +4,7 @@ linktitle: TransportType
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Net::TransportType enum. Defines the transport type allowed for the socket in C++.'
 type: docs
-weight: 4800
+weight: 4900
 url: /cpp/system.net/transporttype/
 ---
 ## TransportType enum

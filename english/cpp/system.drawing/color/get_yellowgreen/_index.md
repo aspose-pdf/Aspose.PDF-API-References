@@ -19,6 +19,5 @@ static Color System::Drawing::Color::get_YellowGreen()
 ## See Also
 
 * Class [Color](../)
-* Class [Color](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.PDF for C++](../../../)

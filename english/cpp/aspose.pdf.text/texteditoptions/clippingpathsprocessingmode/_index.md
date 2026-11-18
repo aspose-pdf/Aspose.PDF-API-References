@@ -20,7 +20,7 @@ enum class ClippingPathsProcessingMode
 
 | Name | Value | Description |
 | --- | --- | --- |
-| KeepIntact | 0 | Keeps clipping paths of the original page layout. (Default) |
+| KeepIntact | 0 | Keeps clipping paths of the original page layout. (Default). |
 | Expand | 1 | Original clipping path will be expanded in the case edited text requires more space. |
 | Remove | 2 | Original clipping path will be removed in the case edited text requires more space. Caution: Because of clipping paths may interact with each other removing of it may lead to unexpected result on the page layout. |
 

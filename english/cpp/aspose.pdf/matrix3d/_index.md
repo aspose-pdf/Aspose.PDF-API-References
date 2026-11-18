@@ -34,7 +34,7 @@ class Matrix3D : public System::Object
 | [get_Tx](./get_tx/)() | Tx member of the transformation matrix. |
 | [get_Ty](./get_ty/)() | Ty member of the transformation matrix. |
 | [get_Tz](./get_tz/)() | Tz member of the transformation matrix. |
-| static [GetAngle](./getangle/)(Rotation) | Translates rotation into angle (degrees) |
+| static [GetAngle](./getangle/)(Rotation) | Translates rotation into angle (degrees). |
 | [GetHashCode](./gethashcode/)() const override | Hash-code for object. |
 | [Matrix3D](./matrix3d/)() | Constructor creates standard 1 to 1 matrix: [ A B C D E F G H I Tx Ty Tz] = [ 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0 , 0]. |
 | [Matrix3D](./matrix3d/)(const System::ArrayPtr\<double\>\&) | Constructor accepts a matrix with following array representation: [ A B C D E F G H I Tx Ty Tz]. |

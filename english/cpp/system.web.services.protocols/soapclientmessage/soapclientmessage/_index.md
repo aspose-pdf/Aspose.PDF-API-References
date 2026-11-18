@@ -30,7 +30,6 @@ System::Web::Services::Protocols::SoapClientMessage::SoapClientMessage(System::S
 * Class [SoapHttpClientProtocol](../../soaphttpclientprotocol/)
 * Class [String](../../../system/string/)
 * Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [Object](../../../system/object/)
 * Class [SoapClientMessage](../)
 * Namespace [System::Web::Services::Protocols](../../)
 * Library [Aspose.PDF for C++](../../../)

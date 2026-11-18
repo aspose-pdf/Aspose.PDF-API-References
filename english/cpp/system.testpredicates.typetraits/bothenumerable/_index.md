@@ -13,7 +13,7 @@ url: /cpp/system.testpredicates.typetraits/bothenumerable/
 Checks if both type arguments are IEnumerable. If so, value member is set to true, otherwise it is set to false.
 
 ```cpp
-using System::TestPredicates::TypeTraits::BothEnumerable =  std::integral_constant<bool, IsEnumerable<T1>::value && IsEnumerable<T2>::value>
+using System::TestPredicates::TypeTraits::BothEnumerable = std::integral_constant<bool, IsEnumerable<T1>::value && IsEnumerable<T2>::value>
 ```
 
 

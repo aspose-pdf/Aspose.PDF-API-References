@@ -13,7 +13,7 @@ url: /cpp/system.net.http.headers/headerfunc/
 
 
 ```cpp
-using System::Net::Http::Headers::HeaderFunc =  System::MulticastDelegate<TResult()>
+using System::Net::Http::Headers::HeaderFunc = System::MulticastDelegate<TResult()>
 ```
 
 ## See Also

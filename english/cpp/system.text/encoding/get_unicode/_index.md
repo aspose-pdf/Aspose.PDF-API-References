@@ -10,7 +10,7 @@ url: /cpp/system.text/encoding/get_unicode/
 ## Encoding::get_Unicode method
 
 
-Gets the standard Unicode encoding object.
+Gets the standard [Unicode](../../../system.text.unicode/) encoding object.
 
 ```cpp
 static EncodingPtr System::Text::Encoding::get_Unicode()
@@ -19,7 +19,7 @@ static EncodingPtr System::Text::Encoding::get_Unicode()
 
 ### ReturnValue
 
-Unicode encoding.
+[Unicode](../../../system.text.unicode/) encoding.
 
 ## See Also
 

@@ -46,7 +46,6 @@ bool System::Drawing::Region::IsVisible(const Point &point, const SharedPtr<Grap
 
 * Class [Point](../../point/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Graphics](../../graphics/)
 * Class [Region](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -89,7 +88,6 @@ bool System::Drawing::Region::IsVisible(const PointF &point, const SharedPtr<Gra
 
 * Class [PointF](../../pointf/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Graphics](../../graphics/)
 * Class [Region](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -132,7 +130,6 @@ bool System::Drawing::Region::IsVisible(const Rectangle &rect, const SharedPtr<G
 
 * Class [Rectangle](../../rectangle/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Graphics](../../graphics/)
 * Class [Region](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -175,7 +172,6 @@ bool System::Drawing::Region::IsVisible(const RectangleF &rect, const SharedPtr<
 
 * Class [RectangleF](../../rectanglef/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Graphics](../../graphics/)
 * Class [Region](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -218,7 +214,6 @@ bool System::Drawing::Region::IsVisible(float x, float y, const SharedPtr<Graphi
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Graphics](../../graphics/)
 * Class [Region](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.PDF for C++](../../../)

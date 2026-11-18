@@ -24,7 +24,6 @@ Aspose::Pdf::OutlineItemCollection::OutlineItemCollection(const System::SharedPt
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [OutlineCollection](../../outlinecollection/)
 * Class [OutlineItemCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

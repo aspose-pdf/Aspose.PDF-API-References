@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/invalidpasswordexception/
 
 
 ```cpp
-using Aspose::Pdf::InvalidPasswordException =  System::ExceptionWrapper<Details_InvalidPasswordException>
+using Aspose::Pdf::InvalidPasswordException = System::ExceptionWrapper<Details_InvalidPasswordException>
 ```
 
 ## See Also

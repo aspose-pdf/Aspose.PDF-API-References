@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.annotations/annotation/set_border/
 ## Annotation::set_Border method
 
 
-Sets annotation border characteristics. [Border](../../border/)
+Sets annotation border characteristics. [Border](../../border/).
 
 ```cpp
 void Aspose::Pdf::Annotations::Annotation::set_Border(const System::SharedPtr<Aspose::Pdf::Annotations::Border> &value)

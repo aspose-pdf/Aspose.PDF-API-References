@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/sortedset/thistype/
 Self type.
 
 ```cpp
-using System::Collections::Generic::SortedSet< T >::ThisType =  System::Collections::Generic::SortedSet<T>
+using System::Collections::Generic::SortedSet< T >::ThisType = System::Collections::Generic::SortedSet<T>
 ```
 
 ## See Also

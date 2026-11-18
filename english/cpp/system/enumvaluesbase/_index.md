@@ -4,7 +4,7 @@ linktitle: EnumValuesBase
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::EnumValuesBase class. A base class for a class that represents meta information of enumeration type in C++.'
 type: docs
-weight: 2500
+weight: 2600
 url: /cpp/system/enumvaluesbase/
 ---
 ## EnumValuesBase class

@@ -28,7 +28,6 @@ An instance of the [RangeHeaderValue](../../rangeheadervalue/) class.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [StringWithQualityHeaderValue](../)
 * Class [String](../../../system/string/)
 * Class [StringWithQualityHeaderValue](../)
 * Namespace [System::Net::Http::Headers](../../)

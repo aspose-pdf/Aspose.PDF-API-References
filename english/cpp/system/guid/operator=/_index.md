@@ -28,6 +28,5 @@ A reference to the self
 ## See Also
 
 * Class [Guid](../)
-* Class [Guid](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

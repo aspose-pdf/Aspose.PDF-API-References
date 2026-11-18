@@ -13,7 +13,7 @@ url: /cpp/system.io/istemplatebaseof/
 Represents std::is_base_of<Base, Derived> counterpart that determine the inheritance of not instantiated Base template class from instantiated Derived template class. Will fail with multiple inheritance or non-public inheritance from Base.
 
 ```cpp
-using System::Details::IsTemplateBaseOf =  typename IsTemplateBaseOfImpl<Base, Derived>::type
+using System::Details::IsTemplateBaseOf = typename IsTemplateBaseOfImpl<Base, Derived>::type
 ```
 
 

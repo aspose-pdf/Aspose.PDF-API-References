@@ -25,6 +25,5 @@ The proxy that uses the non-dynamic settings of the Internet Explorer.
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [WebProxy](../)
-* Class [WebProxy](../)
 * Namespace [System::Net](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -4,7 +4,7 @@ linktitle: X509Certificate
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Security::Cryptography::X509Certificates::X509Certificate class. X.509 v.3 certificate. Encrypted certificates are not supported. Only X509KeyStorageFlags::DefaultKeySet flag is supported. Objects of this class should only be allocated using System::MakeObject() function. Never create instance of this type on stack or using operator new, as it will result in runtime errors and/or assertion faults. Always wrap this class into System::SmartPtr pointer and use this pointer to pass it to functions as argument in C++.'
 type: docs
-weight: 300
+weight: 600
 url: /cpp/system.security.cryptography.x509certificates/x509certificate/
 ---
 ## X509Certificate class

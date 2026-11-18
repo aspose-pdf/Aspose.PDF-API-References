@@ -13,7 +13,7 @@ url: /cpp/system.io/stdiostreamwrapperbase/thistype/
 
 
 ```cpp
-using System::IO::STDIOStreamWrapperBase< T, typename >::ThisType =  STDIOStreamWrapperBase<T>
+using System::IO::STDIOStreamWrapperBase< T, typename >::ThisType = STDIOStreamWrapperBase<T>
 ```
 
 ## See Also

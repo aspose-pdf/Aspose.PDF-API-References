@@ -28,7 +28,6 @@ True if the date and time value represented by the current object is earlier tha
 ## See Also
 
 * Class [DateTime](../)
-* Class [DateTime](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## DateTime::operator<=(std::nullptr_t) const method
@@ -74,7 +73,6 @@ True if the date and time value represented by the current object is later than 
 
 ## See Also
 
-* Class [DateTime](../)
 * Class [DateTime](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

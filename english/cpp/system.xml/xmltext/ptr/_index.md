@@ -13,7 +13,7 @@ url: /cpp/system.xml/xmltext/ptr/
 An alias for shared pointer to an instance of this class.
 
 ```cpp
-using System::Xml::XmlText::Ptr =  SharedPtr<XmlText>
+using System::Xml::XmlText::Ptr = SharedPtr<XmlText>
 ```
 
 ## See Also

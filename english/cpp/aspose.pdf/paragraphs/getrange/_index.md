@@ -30,6 +30,5 @@ The paragraphs collection
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Paragraphs](../)
-* Class [Paragraphs](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

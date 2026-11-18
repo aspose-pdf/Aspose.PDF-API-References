@@ -50,7 +50,6 @@ Aspose::Pdf::Annotations::FreeTextAnnotation::FreeTextAnnotation(const System::S
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Document](../../../aspose.pdf/document/)
 * Class [DefaultAppearance](../../defaultappearance/)
 * Class [FreeTextAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

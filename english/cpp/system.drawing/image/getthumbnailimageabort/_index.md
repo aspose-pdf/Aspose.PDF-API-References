@@ -13,7 +13,7 @@ url: /cpp/system.drawing/image/getthumbnailimageabort/
 A callback to cancel GetThumbnailImage execution.
 
 ```cpp
-using System::Drawing::Image::GetThumbnailImageAbort =  System::MulticastDelegate<bool()>
+using System::Drawing::Image::GetThumbnailImageAbort = System::MulticastDelegate<bool()>
 ```
 
 ## See Also

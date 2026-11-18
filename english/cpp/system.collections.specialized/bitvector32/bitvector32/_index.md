@@ -38,7 +38,6 @@ System::Collections::Specialized::BitVector32::BitVector32(const BitVector32 &va
 ## See Also
 
 * Class [BitVector32](../)
-* Class [BitVector32](../)
 * Namespace [System::Collections::Specialized](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## BitVector32::BitVector32(int32_t) constructor

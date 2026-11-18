@@ -21,9 +21,7 @@ void Aspose::Pdf::LowCode::PdfAOptionsBase::set_OptimizeFileSize(bool value)
 
 **true**
 
-if the file size should be reduced as much as possible; otherwise, **false**
-
-. 
+if the file size should be reduced as much as possible; otherwise, **false**.
 
 When set to **true**
 

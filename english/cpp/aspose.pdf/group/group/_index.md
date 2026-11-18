@@ -24,7 +24,6 @@ Aspose::Pdf::Group::Group(const System::SharedPtr<Page> &page)
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Page](../../page/)
 * Class [Group](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

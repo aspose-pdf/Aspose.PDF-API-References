@@ -19,7 +19,6 @@ bool System::Collections::ObjectModel::Collection<T>::reverse_iterator_prototype
 ## See Also
 
 * Class [reverse_iterator_prototype](../)
-* Class [reverse_iterator_prototype](../)
 * Class [Collection](../../)
 * Namespace [System::Collections::ObjectModel](../../../)
 * Library [Aspose.PDF for C++](../../../../)

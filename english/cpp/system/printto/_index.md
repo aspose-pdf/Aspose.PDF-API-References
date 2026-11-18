@@ -4,7 +4,7 @@ linktitle: PrintTo
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::PrintTo method. Writes the value represented by the specified object to the specified output stream in C++.'
 type: docs
-weight: 36500
+weight: 37400
 url: /cpp/system/printto/
 ---
 ## System::PrintTo(const Decimal\&, ::std::ostream *) method
@@ -88,7 +88,7 @@ template<typename T> void System::PrintTo(const Nullable<T> &value, std::ostream
 Prints value to ostream. Mostly used for debug.
 
 ```cpp
-template<typename T> std::enable_if_t<detail::has_print_to_function<T>::value, void> System::PrintTo(const SmartPtr<T> &object_ptr, std::ostream *stream)
+template<typename T> std::enable_if_t<!detail::has_print_to_function<T>::value, void> System::PrintTo(const SmartPtr<T> &object_ptr, std::ostream *stream)
 ```
 
 ## See Also
@@ -102,7 +102,7 @@ template<typename T> std::enable_if_t<detail::has_print_to_function<T>::value, v
 Prints value to ostream. Mostly used for debug.
 
 ```cpp
-template<typename T> std::enable_if_t<!detail::has_print_to_function<T>::value, void> System::PrintTo(const SmartPtr<T> &object_ptr, std::ostream *stream)
+template<typename T> std::enable_if_t<detail::has_print_to_function<T>::value, void> System::PrintTo(const SmartPtr<T> &object_ptr, std::ostream *stream)
 ```
 
 ## See Also

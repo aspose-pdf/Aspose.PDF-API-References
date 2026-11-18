@@ -13,13 +13,13 @@ url: /cpp/system/weakreference_t_/trygettarget/
 Gets the object (the target) referenced by the current [WeakReference](../../weakreference/) object.
 
 ```cpp
-bool System::WeakReference<T>::TryGetTarget(const SmartPtr<T> &data) const
+bool System::WeakReference<T>::TryGetTarget(SmartPtr<T> &data) const
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| data | const SmartPtr\<T\>\& | [Object](../../object/) referenced by the current [WeakReference](../../weakreference/) object. |
+| data | SmartPtr\<T\>\& | [Object](../../object/) referenced by the current [WeakReference](../../weakreference/) object. |
 
 ### ReturnValue
 

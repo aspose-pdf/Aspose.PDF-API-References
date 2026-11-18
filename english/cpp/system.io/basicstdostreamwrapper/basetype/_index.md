@@ -13,7 +13,7 @@ url: /cpp/system.io/basicstdostreamwrapper/basetype/
 
 
 ```cpp
-using System::IO::BasicSTDOStreamWrapper< T, typename >::BaseType =  STDIOStreamWrapperBase<T>
+using System::IO::BasicSTDOStreamWrapper< T, typename >::BaseType = STDIOStreamWrapperBase<T>
 ```
 
 ## See Also

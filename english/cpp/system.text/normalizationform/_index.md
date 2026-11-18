@@ -4,13 +4,13 @@ linktitle: NormalizationForm
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Text::NormalizationForm enum. Defines how to normalize Unicode string in C++.'
 type: docs
-weight: 2900
+weight: 3200
 url: /cpp/system.text/normalizationform/
 ---
 ## NormalizationForm enum
 
 
-Defines how to normalize Unicode string.
+Defines how to normalize [Unicode](../../system.text.unicode/) string.
 
 ```cpp
 enum class NormalizationForm

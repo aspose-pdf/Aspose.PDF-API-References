@@ -29,7 +29,6 @@ The converted input value.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [TypeInfo](../../../system/typeinfo/)
 * Class [XmlSchemaDatatype](../)
 * Namespace [System::Xml::Schema](../../)
@@ -57,7 +56,6 @@ The converted input value.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [TypeInfo](../../../system/typeinfo/)
 * Class [IXmlNamespaceResolver](../../../system.xml/ixmlnamespaceresolver/)
 * Class [XmlSchemaDatatype](../)

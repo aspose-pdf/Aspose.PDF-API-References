@@ -28,6 +28,5 @@ A read only span representing the array.
 ## See Also
 
 * Class [ReadOnlySpan](../)
-* Class [ReadOnlySpan](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

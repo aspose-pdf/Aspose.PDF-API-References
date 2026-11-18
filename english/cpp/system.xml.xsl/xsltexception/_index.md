@@ -13,7 +13,7 @@ url: /cpp/system.xml.xsl/xsltexception/
 
 
 ```cpp
-using System::Xml::Xsl::XsltException =  System::ExceptionWrapper<Details_XsltException>
+using System::Xml::Xsl::XsltException = System::ExceptionWrapper<Details_XsltException>
 ```
 
 ## See Also

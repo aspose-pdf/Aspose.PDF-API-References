@@ -24,7 +24,6 @@ void System::Drawing::Rectangle::Intersect(const Rectangle &rect)
 ## See Also
 
 * Class [Rectangle](../)
-* Class [Rectangle](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## Rectangle::Intersect(const Rectangle\&, const Rectangle\&) method
@@ -48,7 +47,6 @@ The result of intersection of **a** with **b**
 
 ## See Also
 
-* Class [Rectangle](../)
 * Class [Rectangle](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.PDF for C++](../../../)

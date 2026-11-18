@@ -53,7 +53,6 @@ System::Net::Http::Headers::HttpHeaderValueCollection<T>::HttpHeaderValueCollect
 * Class [HttpHeaders](../../httpheaders/)
 * Typedef [Action](../../../system/action/)
 * Class [HttpHeaderValueCollection](../)
-* Class [HttpHeaderValueCollection](../)
 * Namespace [System::Net::Http::Headers](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## HttpHeaderValueCollection::HttpHeaderValueCollection(String, System::SharedPtr\<HttpHeaders\>, T) constructor
@@ -103,7 +102,6 @@ System::Net::Http::Headers::HttpHeaderValueCollection<T>::HttpHeaderValueCollect
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [HttpHeaders](../../httpheaders/)
 * Typedef [Action](../../../system/action/)
-* Class [HttpHeaderValueCollection](../)
 * Class [HttpHeaderValueCollection](../)
 * Namespace [System::Net::Http::Headers](../../)
 * Library [Aspose.PDF for C++](../../../)

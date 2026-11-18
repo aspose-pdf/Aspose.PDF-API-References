@@ -28,7 +28,6 @@ true if string ends with specified substring, false otherwise.
 ## See Also
 
 * Class [String](../)
-* Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## String::EndsWith(const String\&, bool, const SharedPtr\<System::Globalization::CultureInfo\>\&) const method
@@ -53,7 +52,6 @@ true if string ends with specified substring, false otherwise.
 
 ## See Also
 
-* Class [String](../)
 * Typedef [SharedPtr](../../sharedptr/)
 * Class [CultureInfo](../../../system.globalization/cultureinfo/)
 * Class [String](../)
@@ -80,7 +78,6 @@ true if string ends with specified substring, false otherwise.
 
 ## See Also
 
-* Class [String](../)
 * Enum [StringComparison](../../stringcomparison/)
 * Class [String](../)
 * Namespace [System](../../)

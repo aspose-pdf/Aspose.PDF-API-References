@@ -19,7 +19,6 @@ void System::Security::Cryptography::Xml::Reference::AddTransform(SharedPtr<Tran
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Transform](../../transform/)
 * Class [Reference](../)
 * Namespace [System::Security::Cryptography::Xml](../../)
 * Library [Aspose.PDF for C++](../../../)

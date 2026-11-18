@@ -48,7 +48,6 @@ Aspose::Pdf::Forms::BarcodeField::BarcodeField(const System::SharedPtr<Document>
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Document](../../../aspose.pdf/document/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [BarcodeField](../)
 * Namespace [Aspose::Pdf::Forms](../../)

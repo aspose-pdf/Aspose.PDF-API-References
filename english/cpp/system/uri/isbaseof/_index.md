@@ -29,6 +29,5 @@ True if the URI represented by the current [Uri](../) object is a base of URI re
 
 * Typedef [SharedPtr](../../sharedptr/)
 * Class [Uri](../)
-* Class [Uri](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

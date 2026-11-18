@@ -2,7 +2,7 @@
 title: System::Threading::Interlocked::Exchange method
 linktitle: Exchange
 second_title: Aspose.PDF for C++ API Reference
-description: 'System::Threading::Interlocked::Exchange method. Exchanges value on variable: stores new value and returns the value variable had immediately before storing in C++.'
+description: 'System::Threading::Interlocked::Exchange method. Exchanges value on variable: stores new value and returns the value variable had immediately before storing. Not implemented in C++.'
 type: docs
 weight: 400
 url: /cpp/system.threading/interlocked/exchange/
@@ -10,10 +10,10 @@ url: /cpp/system.threading/interlocked/exchange/
 ## Interlocked::Exchange(T\&, T) method
 
 
-Exchanges value on variable: stores new value and returns the value variable had immediately before storing.
+Exchanges value on variable: stores new value and returns the value variable had immediately before storing. Not implemented.
 
 ```cpp
-template<typename T> static std::enable_if<IsSupportedInt<T>, T>::type System::Threading::Interlocked::Exchange(T &location1, T value)
+template<typename T> static std::enable_if<!IsSupportedInt<T>, T>::type System::Threading::Interlocked::Exchange(T &location1, T value)
 ```
 
 
@@ -38,10 +38,10 @@ Value of variable right before it was changed.
 ## Interlocked::Exchange(T\&, T) method
 
 
-Exchanges value on variable: stores new value and returns the value variable had immediately before storing. Not implemented.
+Exchanges value on variable: stores new value and returns the value variable had immediately before storing.
 
 ```cpp
-template<typename T> static std::enable_if<!IsSupportedInt<T>, T>::type System::Threading::Interlocked::Exchange(T &location1, T value)
+template<typename T> static std::enable_if<IsSupportedInt<T>, T>::type System::Threading::Interlocked::Exchange(T &location1, T value)
 ```
 
 

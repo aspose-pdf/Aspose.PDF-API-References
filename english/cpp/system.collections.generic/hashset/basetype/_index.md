@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/hashset/basetype/
 Base type.
 
 ```cpp
-using System::Collections::Generic::HashSet< T >::BaseType =  BaseSet<T, std::unordered_set<T, EqualityComparerHashAdapter<T>, EqualityComparerAdapter<T>, typename System::Details::CollectionHelpers::ContainerPointerMode<T>::allocator_type>>
+using System::Collections::Generic::HashSet< T >::BaseType = BaseSet<T, std::unordered_set<T, EqualityComparerHashAdapter<T>, EqualityComparerAdapter<T>, typename System::Details::CollectionHelpers::ContainerPointerMode<T>::allocator_type>>
 ```
 
 ## See Also

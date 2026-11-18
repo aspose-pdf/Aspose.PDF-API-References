@@ -25,7 +25,6 @@ Provides a way to change following properties of the text: [Font](../../font/) F
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [TextFragmentState](../../textfragmentstate/)
 * Class [TextFragment](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

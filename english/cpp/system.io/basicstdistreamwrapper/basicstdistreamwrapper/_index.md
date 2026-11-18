@@ -19,7 +19,6 @@ System::IO::BasicSTDIStreamWrapper<T, typename>::BasicSTDIStreamWrapper(const Ba
 ## See Also
 
 * Class [BasicSTDIStreamWrapper](../)
-* Class [BasicSTDIStreamWrapper](../)
 * Namespace [System::IO](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## BasicSTDIStreamWrapper::BasicSTDIStreamWrapper(std::basic_istream\<char_type, traits_type\>\&, STDIOStreamWrappingMode) constructor

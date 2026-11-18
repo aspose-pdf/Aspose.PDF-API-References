@@ -28,7 +28,6 @@ Instance with new assigned value.
 ## See Also
 
 * Class [ExceptionWrapper](../)
-* Class [ExceptionWrapper](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## ExceptionWrapper::operator=(ExceptionWrapper\&&) method
@@ -51,7 +50,6 @@ Instance with new moved value.
 
 ## See Also
 
-* Class [ExceptionWrapper](../)
 * Class [ExceptionWrapper](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -28,7 +28,6 @@ An instance of the [EntityTagHeaderValue](../) class.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [EntityTagHeaderValue](../)
 * Class [String](../../../system/string/)
 * Class [EntityTagHeaderValue](../)
 * Namespace [System::Net::Http::Headers](../../)

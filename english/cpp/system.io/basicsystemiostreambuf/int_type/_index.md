@@ -13,7 +13,7 @@ url: /cpp/system.io/basicsystemiostreambuf/int_type/
 
 
 ```cpp
-using System::IO::BasicSystemIOStreamBuf< Elem, Traits >::int_type =  typename traits_type::int_type
+using System::IO::BasicSystemIOStreamBuf< Elem, Traits >::int_type = typename traits_type::int_type
 ```
 
 ## See Also

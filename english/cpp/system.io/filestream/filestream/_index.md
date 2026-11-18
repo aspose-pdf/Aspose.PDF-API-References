@@ -19,7 +19,6 @@ System::IO::FileStream::FileStream(const FileStream &)=delete
 ## See Also
 
 * Class [FileStream](../)
-* Class [FileStream](../)
 * Namespace [System::IO](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## FileStream::FileStream(const String\&, FileMode) constructor

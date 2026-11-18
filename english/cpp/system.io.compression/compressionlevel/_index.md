@@ -13,7 +13,7 @@ url: /cpp/system.io.compression/compressionlevel/
 An alias for Aspose::Zip::CompressionLevel enum.
 
 ```cpp
-using System::IO::Compression::CompressionLevel =  Aspose::Zip::CompressionLevel
+using System::IO::Compression::CompressionLevel = Aspose::Zip::CompressionLevel
 ```
 
 ## See Also

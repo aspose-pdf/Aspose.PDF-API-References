@@ -31,7 +31,6 @@ True if signature is valid, false otherwise.
 
 * Typedef [ByteArrayPtr](../../../system/bytearrayptr/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [RSACryptoServiceProvider](../)
 * Namespace [System::Security::Cryptography](../../)
 * Library [Aspose.PDF for C++](../../../)

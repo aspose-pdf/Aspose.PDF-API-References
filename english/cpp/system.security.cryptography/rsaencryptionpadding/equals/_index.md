@@ -19,7 +19,6 @@ bool System::Security::Cryptography::RSAEncryptionPadding::Equals(SharedPtr<Obje
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [RSAEncryptionPadding](../)
 * Namespace [System::Security::Cryptography](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -35,7 +34,6 @@ bool System::Security::Cryptography::RSAEncryptionPadding::Equals(SharedPtr<RSAE
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [RSAEncryptionPadding](../)
 * Class [RSAEncryptionPadding](../)
 * Namespace [System::Security::Cryptography](../../)
 * Library [Aspose.PDF for C++](../../../)

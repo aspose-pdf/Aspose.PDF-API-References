@@ -28,6 +28,5 @@ True if codepages match, false otherwise.
 ## See Also
 
 * Class [ICUEncoding](../)
-* Class [ICUEncoding](../)
 * Namespace [System::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

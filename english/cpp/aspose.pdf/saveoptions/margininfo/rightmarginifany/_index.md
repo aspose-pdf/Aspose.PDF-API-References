@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf/saveoptions/margininfo/rightmarginifany/
 ## RightMarginIfAny field
 
 
-Represents right page margin(if any)
+Represents right page margin(if any).
 
 ```cpp
 System::SharedPtr<SaveOptions::MarginPartStyle> Aspose::Pdf::SaveOptions::MarginInfo::RightMarginIfAny

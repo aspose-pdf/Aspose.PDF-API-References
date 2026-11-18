@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf/pptxsaveoptions/set_slidesasimages/
 ## PptxSaveOptions::set_SlidesAsImages method
 
 
-If set to true then all the content is recognized as images (one per page)
+If set to true then all the content is recognized as images (one per page).
 
 ```cpp
 void Aspose::Pdf::PptxSaveOptions::set_SlidesAsImages(bool value)

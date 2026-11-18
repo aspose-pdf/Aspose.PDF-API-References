@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf/saveoptions/resourcesavinginfo/
 ## ResourceSavingInfo class
 
 
-This class represents set of data that related to external resource file's saving that occures during conversion of PDF to some other format (f.e. HTML)
+This class represents set of data that related to external resource file's saving that occures during conversion of PDF to some other format (f.e. HTML).
 
 ```cpp
 class ResourceSavingInfo : public System::Object

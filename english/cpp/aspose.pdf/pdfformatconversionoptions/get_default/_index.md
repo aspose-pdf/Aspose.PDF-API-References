@@ -20,6 +20,5 @@ static System::SharedPtr<PdfFormatConversionOptions> Aspose::Pdf::PdfFormatConve
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PdfFormatConversionOptions](../)
-* Class [PdfFormatConversionOptions](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

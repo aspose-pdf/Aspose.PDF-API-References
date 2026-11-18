@@ -4,7 +4,7 @@ linktitle: AggregateException
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use System::AggregateException typedef in C++.'
 type: docs
-weight: 10000
+weight: 10500
 url: /cpp/system/aggregateexception/
 ---
 ## AggregateException typedef
@@ -13,7 +13,7 @@ url: /cpp/system/aggregateexception/
 
 
 ```cpp
-using System::AggregateException =  ExceptionWrapper<Details_AggregateException>
+using System::AggregateException = ExceptionWrapper<Details_AggregateException>
 ```
 
 ## See Also

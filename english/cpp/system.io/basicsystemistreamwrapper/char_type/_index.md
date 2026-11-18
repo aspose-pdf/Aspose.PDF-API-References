@@ -13,7 +13,7 @@ url: /cpp/system.io/basicsystemistreamwrapper/char_type/
 
 
 ```cpp
-using System::IO::BasicSystemIStreamWrapper< Elem, Traits >::char_type =  Elem
+using System::IO::BasicSystemIStreamWrapper< Elem, Traits >::char_type = Elem
 ```
 
 ## See Also

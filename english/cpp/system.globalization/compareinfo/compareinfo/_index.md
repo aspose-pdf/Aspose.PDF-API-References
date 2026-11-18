@@ -19,6 +19,5 @@ System::Globalization::CompareInfo::CompareInfo(const CompareInfo &)=delete
 ## See Also
 
 * Class [CompareInfo](../)
-* Class [CompareInfo](../)
 * Namespace [System::Globalization](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -79,7 +79,6 @@ int System::String::IndexOf(const String &str, int startIndex, int count) const
 ## See Also
 
 * Class [String](../)
-* Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## String::IndexOf(const String\&, int, System::StringComparison) const method
@@ -104,7 +103,6 @@ int System::String::IndexOf(const String &str, int startIndex, System::StringCom
 
 ## See Also
 
-* Class [String](../)
 * Enum [StringComparison](../../stringcomparison/)
 * Class [String](../)
 * Namespace [System](../../)
@@ -131,7 +129,6 @@ int System::String::IndexOf(const String &str, int startIndex=0) const
 ## See Also
 
 * Class [String](../)
-* Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## String::IndexOf(const String\&, System::StringComparison) const method
@@ -155,7 +152,6 @@ int System::String::IndexOf(const String &str, System::StringComparison comparis
 
 ## See Also
 
-* Class [String](../)
 * Enum [StringComparison](../../stringcomparison/)
 * Class [String](../)
 * Namespace [System](../../)
@@ -183,7 +179,6 @@ int System::String::IndexOf(const String &value, int startIndex, int count, Syst
 
 ## See Also
 
-* Class [String](../)
 * Enum [StringComparison](../../stringcomparison/)
 * Class [String](../)
 * Namespace [System](../../)

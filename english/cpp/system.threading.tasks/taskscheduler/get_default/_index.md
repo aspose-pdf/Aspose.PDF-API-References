@@ -25,6 +25,5 @@ The default [TaskScheduler](../) instance.
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TaskScheduler](../)
-* Class [TaskScheduler](../)
 * Namespace [System::Threading::Tasks](../../)
 * Library [Aspose.PDF for C++](../../../)

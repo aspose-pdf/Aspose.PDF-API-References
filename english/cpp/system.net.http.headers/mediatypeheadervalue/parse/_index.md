@@ -28,7 +28,6 @@ An instance of the [MediaTypeHeaderValue](../) class.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [MediaTypeHeaderValue](../)
 * Class [String](../../../system/string/)
 * Class [MediaTypeHeaderValue](../)
 * Namespace [System::Net::Http::Headers](../../)

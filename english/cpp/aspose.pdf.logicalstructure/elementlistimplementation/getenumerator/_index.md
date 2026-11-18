@@ -25,7 +25,6 @@ An enumerator used to iterate through the collection of elements.
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IEnumerator](../../../system.collections.generic/ienumerator/)
-* Class [Element](../../element/)
 * Class [ElementListImplementation](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)
 * Library [Aspose.PDF for C++](../../../)

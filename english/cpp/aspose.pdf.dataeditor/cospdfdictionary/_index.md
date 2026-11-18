@@ -26,7 +26,7 @@ class CosPdfDictionary : public Aspose::Pdf::DataEditor::CosPdfPrimitive,
 | [Clear](./clear/)() override | Removes all items from the [CosPdfDictionary](./). |
 | [Contains](./contains/)(const System::Collections::Generic::KeyValuePair\<System::String, System::SharedPtr\<ICosPdfPrimitive\>\>\&) const override | Determines whether the [CosPdfDictionary](./) contains a specific value. |
 | [ContainsKey](./containskey/)(const System::String\&) const override | Determines whether the [CosPdfDictionary](./) contains an element with the specified key. |
-| [CopyTo](./copyto/)(System::ArrayPtr\<System::Collections::Generic::KeyValuePair\<System::String, System::SharedPtr\<ICosPdfPrimitive\>\>\>, int32_t) override | Copies the elements of the [CosPdfDictionary](./) to an [Array](../../aspose.pdf/xmpfieldtype/), starting at a particular [Array](../../aspose.pdf/xmpfieldtype/) index. |
+| [CopyTo](./copyto/)(System::ArrayPtr\<System::Collections::Generic::KeyValuePair\<System::String, System::SharedPtr\<ICosPdfPrimitive\>\>\>, int32_t) override | Copies the elements of the [CosPdfDictionary](./) to an [Array](../), starting at a particular [Array](../) index. |
 | [CosPdfDictionary](./cospdfdictionary/)(const System::SharedPtr\<Resources\>\&) | Creates a dictionary from resources. |
 | static [CreateEmptyDictionary](./createemptydictionary/)(const System::SharedPtr\<Page\>\&) | Creates an empty dictionary that will be attached to the page. |
 | static [CreateEmptyDictionary](./createemptydictionary/)(const System::SharedPtr\<Document\>\&) | Creates an empty dictionary that will be attached to the document. |

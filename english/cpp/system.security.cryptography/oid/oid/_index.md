@@ -43,7 +43,6 @@ System::Security::Cryptography::Oid::Oid(const SharedPtr<Oid> &oid)
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Oid](../)
-* Class [Oid](../)
 * Namespace [System::Security::Cryptography](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## Oid::Oid(const String\&) constructor

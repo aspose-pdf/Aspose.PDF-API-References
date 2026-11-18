@@ -19,6 +19,5 @@ void System::Threading::ThreadPool::operator=(const ThreadPool &)=delete
 ## See Also
 
 * Class [ThreadPool](../)
-* Class [ThreadPool](../)
 * Namespace [System::Threading](../../)
 * Library [Aspose.PDF for C++](../../../)

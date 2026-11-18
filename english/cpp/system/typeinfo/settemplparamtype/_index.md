@@ -4,7 +4,7 @@ linktitle: SetTemplParamType
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::TypeInfo::SetTemplParamType method. Sets template parameter type descritor in C++.'
 type: docs
-weight: 5200
+weight: 5600
 url: /cpp/system/typeinfo/settemplparamtype/
 ---
 ## TypeInfo::SetTemplParamType method
@@ -23,7 +23,6 @@ void System::TypeInfo::SetTemplParamType(const TypeInfo &templParam)
 
 ## See Also
 
-* Class [TypeInfo](../)
 * Class [TypeInfo](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -4,7 +4,7 @@ linktitle: BaseType
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::BaseSet::BaseType typedef. Implemented interface in C++.'
 type: docs
-weight: 1900
+weight: 2000
 url: /cpp/system.collections.generic/baseset/basetype/
 ---
 ## BaseType typedef
@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/baseset/basetype/
 Implemented interface.
 
 ```cpp
-using System::Collections::Generic::BaseSet< T, SET_T >::BaseType =  ICollection<T>
+using System::Collections::Generic::BaseSet< T, SET_T >::BaseType = ICollection<T>
 ```
 
 ## See Also

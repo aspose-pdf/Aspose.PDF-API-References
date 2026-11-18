@@ -70,6 +70,5 @@ The [RectangleF](../) object representing the enlarged rectangle
 ## See Also
 
 * Class [RectangleF](../)
-* Class [RectangleF](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.PDF for C++](../../../)

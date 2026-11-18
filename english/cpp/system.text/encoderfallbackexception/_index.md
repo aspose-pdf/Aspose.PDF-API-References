@@ -4,7 +4,7 @@ linktitle: EncoderFallbackException
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use System::Text::EncoderFallbackException typedef in C++.'
 type: docs
-weight: 3100
+weight: 3400
 url: /cpp/system.text/encoderfallbackexception/
 ---
 ## EncoderFallbackException typedef
@@ -13,7 +13,7 @@ url: /cpp/system.text/encoderfallbackexception/
 
 
 ```cpp
-using System::Text::EncoderFallbackException =  System::ExceptionWrapper<Details_EncoderFallbackException>
+using System::Text::EncoderFallbackException = System::ExceptionWrapper<Details_EncoderFallbackException>
 ```
 
 ## See Also

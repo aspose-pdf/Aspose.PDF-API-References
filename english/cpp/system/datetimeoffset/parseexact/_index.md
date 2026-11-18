@@ -30,7 +30,6 @@ static DateTimeOffset System::DateTimeOffset::ParseExact(const String &input, co
 
 ## See Also
 
-* Class [DateTimeOffset](../)
 * Class [String](../../string/)
 * Typedef [ArrayPtr](../../arrayptr/)
 * Typedef [SharedPtr](../../sharedptr/)
@@ -62,7 +61,6 @@ static DateTimeOffset System::DateTimeOffset::ParseExact(const String &input, co
 
 ## See Also
 
-* Class [DateTimeOffset](../)
 * Class [String](../../string/)
 * Typedef [SharedPtr](../../sharedptr/)
 * Class [IFormatProvider](../../iformatprovider/)

@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/kvpairiterator/pointer/
 
 
 ```cpp
-using System::Collections::Generic::KVPairIterator< KVPair, Container >::pointer =  value_type *
+using System::Collections::Generic::KVPairIterator< KVPair, Container >::pointer = value_type *
 ```
 
 ## See Also

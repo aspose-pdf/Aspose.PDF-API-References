@@ -28,7 +28,6 @@ Hash code calculated for **obj**.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [IEqualityComparer](../)
 * Namespace [System::Collections](../../)
 * Library [Aspose.PDF for C++](../../../)

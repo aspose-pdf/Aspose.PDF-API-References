@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.comparison/htmldiffoutputgenerator/set_insertstyle/
 ## HtmlDiffOutputGenerator::set_InsertStyle method
 
 
-Gets and sets the CSS-style string for Insert operation. Example: **color: &#35;003300; background-color: &#35;ccff66;**
+Gets and sets the CSS-style string for Insert operation. Example: **color: &#35;003300; background-color: &#35;ccff66;**.
 
 ```cpp
 void Aspose::Pdf::Comparison::HtmlDiffOutputGenerator::set_InsertStyle(const System::String &value)

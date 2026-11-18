@@ -24,7 +24,6 @@ System::IO::BasicSystemIStreamWrapper<Elem, Traits>::BasicSystemIStreamWrapper(B
 ## See Also
 
 * Class [BasicSystemIStreamWrapper](../)
-* Class [BasicSystemIStreamWrapper](../)
 * Namespace [System::IO](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## BasicSystemIStreamWrapper::BasicSystemIStreamWrapper(const BasicSystemIStreamWrapper\&) constructor
@@ -38,7 +37,6 @@ System::IO::BasicSystemIStreamWrapper<Elem, Traits>::BasicSystemIStreamWrapper(c
 
 ## See Also
 
-* Class [BasicSystemIStreamWrapper](../)
 * Class [BasicSystemIStreamWrapper](../)
 * Namespace [System::IO](../../)
 * Library [Aspose.PDF for C++](../../../)

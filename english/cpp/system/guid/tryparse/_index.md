@@ -30,6 +30,5 @@ True, if input string represents valid [Guid](../), otherwise false.
 
 * Class [String](../../string/)
 * Class [Guid](../)
-* Class [Guid](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -25,6 +25,5 @@ Instance of current [TableBuilder](../).
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TableBuilder](../)
-* Class [TableBuilder](../)
 * Namespace [Aspose::Pdf::LowCode](../../)
 * Library [Aspose.PDF for C++](../../../)

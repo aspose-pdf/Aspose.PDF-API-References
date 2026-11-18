@@ -43,6 +43,7 @@ is_root: true
 | [Aspose::Pdf::XfaConverter](./aspose.pdf.xfaconverter/) |  |
 | [System](./system/) |  |
 | [System::Buffers](./system.buffers/) |  |
+| [System::Buffers::Text](./system.buffers.text/) |  |
 | [System::Collections](./system.collections/) |  |
 | [System::Collections::Concurrent](./system.collections.concurrent/) |  |
 | [System::Collections::Generic](./system.collections.generic/) |  |
@@ -70,6 +71,7 @@ is_root: true
 | [System::Net::NetworkInformation](./system.net.networkinformation/) |  |
 | [System::Net::Security](./system.net.security/) |  |
 | [System::Net::Sockets](./system.net.sockets/) |  |
+| [System::Numerics](./system.numerics/) |  |
 | [System::Reflection](./system.reflection/) |  |
 | [System::Resources](./system.resources/) |  |
 | [System::Runtime::CompilerServices](./system.runtime.compilerservices/) |  |
@@ -85,7 +87,14 @@ is_root: true
 | [System::Security::Policy](./system.security.policy/) |  |
 | [System::TestPredicates::TypeTraits](./system.testpredicates.typetraits/) |  |
 | [System::Text](./system.text/) |  |
+| [System::Text::Encodings::Web](./system.text.encodings.web/) |  |
+| [System::Text::Json](./system.text.json/) |  |
+| [System::Text::Json::Nodes](./system.text.json.nodes/) |  |
+| [System::Text::Json::Serialization](./system.text.json.serialization/) |  |
+| [System::Text::Json::Serialization::Converters](./system.text.json.serialization.converters/) |  |
+| [System::Text::Json::Serialization::Metadata](./system.text.json.serialization.metadata/) |  |
 | [System::Text::RegularExpressions](./system.text.regularexpressions/) |  |
+| [System::Text::Unicode](./system.text.unicode/) |  |
 | [System::Threading](./system.threading/) |  |
 | [System::Threading::Tasks](./system.threading.tasks/) |  |
 | [System::Timers](./system.timers/) |  |

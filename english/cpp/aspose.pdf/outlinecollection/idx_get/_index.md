@@ -28,7 +28,6 @@ System::SharedPtr<OutlineItemCollection> Aspose::Pdf::OutlineCollection::idx_get
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [OutlineItemCollection](../../outlineitemcollection/)
 * Class [OutlineCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

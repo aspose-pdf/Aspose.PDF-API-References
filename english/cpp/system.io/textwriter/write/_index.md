@@ -123,7 +123,6 @@ virtual void System::IO::TextWriter::Write(const SharedPtr<Object> &value)
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [TextWriter](../)
 * Namespace [System::IO](../../)
 * Library [Aspose.PDF for C++](../../../)

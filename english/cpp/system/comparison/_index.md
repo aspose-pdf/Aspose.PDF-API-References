@@ -4,7 +4,7 @@ linktitle: Comparison
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Comparison class. Represents a pointer to the method that compares two objects of the same type. This type should be allocated on stack and passed to functions by value or by reference. Never use System::SmartPtr class to manage objects of this type in C++.'
 type: docs
-weight: 1400
+weight: 1500
 url: /cpp/system/comparison/
 ---
 ## Comparison class

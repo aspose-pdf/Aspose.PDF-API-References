@@ -26,7 +26,6 @@ The collection of the HTTP request properties.
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IDictionary](../../../system.collections.generic/idictionary/)
 * Class [String](../../../system/string/)
-* Class [Object](../../../system/object/)
 * Class [HttpRequestMessage](../)
 * Namespace [System::Net::Http](../../)
 * Library [Aspose.PDF for C++](../../../)

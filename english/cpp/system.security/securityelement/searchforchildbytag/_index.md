@@ -27,7 +27,6 @@ Child element or null if not found.
 
 ## See Also
 
-* Class [SecurityElement](../)
 * Class [String](../../../system/string/)
 * Class [SecurityElement](../)
 * Namespace [System::Security](../../)

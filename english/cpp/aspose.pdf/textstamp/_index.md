@@ -28,7 +28,7 @@ class TextStamp : public Aspose::Pdf::Stamp
 | [get_AutoAdjustFontSizePrecision](./get_autoadjustfontsizeprecision/)() const | Automatically adjust font size precision. Default value: 0.1;. |
 | [get_AutoAdjustFontSizeToFitStampRectangle](./get_autoadjustfontsizetofitstamprectangle/)() const | If enabled, the font size will be automatically adjusted to fit the stamp rectangle of size: [Width](../) and [Height](../). Default width and height are derived from the page rectangle. |
 | [get_Draw](./get_draw/)() const | This property determines how stamp is drawn on page. If Draw = true stamp is drawn as graphic operators and if draw = false then stamp is drawn as text. |
-| [get_FontSize](./get_fontsize/)() | Actual font size after the stamp has been placed. (May differ from the initial font size provided through the constructor if the 'AutoAdjustFontSizeToFitStampRectangle' option is enabled.) |
+| [get_FontSize](./get_fontsize/)() | Actual font size after the stamp has been placed. (May differ from the initial font size provided through the constructor if the 'AutoAdjustFontSizeToFitStampRectangle' option is enabled.). |
 | [get_Height](./get_height/)() override | Desired height of the stamp on the page. |
 | [get_Justify](./get_justify/)() | Defines text justification. If this property is set to true, both left and right edges of the text are aligned. Default value: false. |
 | [get_MaxRowWidth](./get_maxrowwidth/)() const | Max row height for WordWrap option. |

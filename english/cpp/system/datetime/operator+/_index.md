@@ -27,7 +27,6 @@ A new instance of [DateTime](../) class that represents the date and time value 
 
 ## See Also
 
-* Class [DateTime](../)
 * Class [TimeSpan](../../timespan/)
 * Class [DateTime](../)
 * Namespace [System](../../)

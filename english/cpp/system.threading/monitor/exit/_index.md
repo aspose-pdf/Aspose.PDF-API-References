@@ -24,7 +24,6 @@ static void System::Threading::Monitor::Exit(const SharedPtr<Object> &obj)
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [Monitor](../)
 * Namespace [System::Threading](../../)
 * Library [Aspose.PDF for C++](../../../)

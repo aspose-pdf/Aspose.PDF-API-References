@@ -4,7 +4,7 @@ linktitle: ExplicitCastToObject
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use ExplicitCastToObject method of System::ObjectExt class in C++.'
 type: docs
-weight: 900
+weight: 1000
 url: /cpp/system/objectext/explicitcasttoobject/
 ---
 ## ObjectExt::ExplicitCastToObject(const T\&) method
@@ -13,7 +13,7 @@ url: /cpp/system/objectext/explicitcasttoobject/
 
 
 ```cpp
-template<typename T> static std::enable_if<System::IsBoxable<T>::value, System::SharedPtr<System::Object>>::type System::ObjectExt::ExplicitCastToObject(const T &value)
+template<typename T> static std::enable_if<System::IsSmartPtr<T>::value, System::SharedPtr<System::Object>>::type System::ObjectExt::ExplicitCastToObject(const T &value)
 ```
 
 ## See Also
@@ -29,7 +29,7 @@ template<typename T> static std::enable_if<System::IsBoxable<T>::value, System::
 
 
 ```cpp
-template<typename T> static std::enable_if<System::IsSmartPtr<T>::value, System::SharedPtr<System::Object>>::type System::ObjectExt::ExplicitCastToObject(const T &value)
+template<typename T> static std::enable_if<System::IsBoxable<T>::value, System::SharedPtr<System::Object>>::type System::ObjectExt::ExplicitCastToObject(const T &value)
 ```
 
 ## See Also

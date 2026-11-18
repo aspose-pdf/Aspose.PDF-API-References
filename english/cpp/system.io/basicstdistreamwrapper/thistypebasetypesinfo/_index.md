@@ -13,7 +13,7 @@ url: /cpp/system.io/basicstdistreamwrapper/thistypebasetypesinfo/
 
 
 ```cpp
-using System::IO::BasicSTDIStreamWrapper< T, typename >::ThisTypeBaseTypesInfo =  BaseTypesInfo<BaseType>
+using System::IO::BasicSTDIStreamWrapper< T, typename >::ThisTypeBaseTypesInfo = BaseTypesInfo<BaseType>
 ```
 
 ## See Also

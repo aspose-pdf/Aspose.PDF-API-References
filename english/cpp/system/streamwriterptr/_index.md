@@ -4,7 +4,7 @@ linktitle: StreamWriterPtr
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::StreamWriterPtr typedef. An alias for a smart pointer that points to an instance of System::IO::StreamWriter class in C++.'
 type: docs
-weight: 13600
+weight: 14300
 url: /cpp/system/streamwriterptr/
 ---
 ## StreamWriterPtr typedef

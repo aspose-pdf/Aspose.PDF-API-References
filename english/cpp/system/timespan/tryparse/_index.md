@@ -22,7 +22,6 @@ static bool System::TimeSpan::TryParse(const String &input, const SharedPtr<Glob
 * Typedef [SharedPtr](../../sharedptr/)
 * Class [CultureInfo](../../../system.globalization/cultureinfo/)
 * Class [TimeSpan](../)
-* Class [TimeSpan](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## TimeSpan::TryParse(const String\&, const SharedPtr\<Globalization::DateTimeFormatInfo\>\&, TimeSpan\&) method
@@ -39,7 +38,6 @@ static bool System::TimeSpan::TryParse(const String &input, const SharedPtr<Glob
 * Class [String](../../string/)
 * Typedef [SharedPtr](../../sharedptr/)
 * Class [DateTimeFormatInfo](../../../system.globalization/datetimeformatinfo/)
-* Class [TimeSpan](../)
 * Class [TimeSpan](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -69,7 +67,6 @@ True if string was converted successfully; otherwise, false.
 * Typedef [SharedPtr](../../sharedptr/)
 * Class [IFormatProvider](../../iformatprovider/)
 * Class [TimeSpan](../)
-* Class [TimeSpan](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## TimeSpan::TryParse(const String\&, std::nullptr_t, TimeSpan\&) method
@@ -84,7 +81,6 @@ static bool System::TimeSpan::TryParse(const String &input, std::nullptr_t, Time
 ## See Also
 
 * Class [String](../../string/)
-* Class [TimeSpan](../)
 * Class [TimeSpan](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -110,7 +106,6 @@ True if string was converted successfully; otherwise, false.
 ## See Also
 
 * Class [String](../../string/)
-* Class [TimeSpan](../)
 * Class [TimeSpan](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

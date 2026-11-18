@@ -30,6 +30,5 @@ System::SharedPtr<Element> Aspose::Pdf::LogicalStructure::Element::AppendChild(c
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Element](../)
-* Class [Element](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -29,6 +29,5 @@ An array whose elements represent distinct bits of the binary representation of 
 
 * Typedef [ArrayPtr](../../arrayptr/)
 * Class [Decimal](../)
-* Class [Decimal](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

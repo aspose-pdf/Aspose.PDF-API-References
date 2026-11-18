@@ -104,7 +104,6 @@ void System::IO::StreamWriter::Write(const SharedPtr<Object> &obj) override
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [StreamWriter](../)
 * Namespace [System::IO](../../)
 * Library [Aspose.PDF for C++](../../../)

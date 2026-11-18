@@ -25,6 +25,5 @@ A newly created instance.
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PathList](../)
-* Class [PathList](../)
 * Namespace [System::Net](../../)
 * Library [Aspose.PDF for C++](../../../)

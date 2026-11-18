@@ -27,7 +27,6 @@ A [Size](../) object constructed from **size**
 
 ## See Also
 
-* Class [Size](../)
 * Class [SizeF](../../sizef/)
 * Class [Size](../)
 * Namespace [System::Drawing](../../)

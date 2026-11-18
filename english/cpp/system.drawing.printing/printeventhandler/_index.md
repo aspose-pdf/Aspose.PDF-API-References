@@ -13,7 +13,7 @@ url: /cpp/system.drawing.printing/printeventhandler/
 A type of a function object that handles BeginPrint and EndPrint events.
 
 ```cpp
-using System::Drawing::Printing::PrintEventHandler =  System::EventHandler<System::SharedPtr<PrintEventArgs>>
+using System::Drawing::Printing::PrintEventHandler = System::EventHandler<System::SharedPtr<PrintEventArgs>>
 ```
 
 ## See Also

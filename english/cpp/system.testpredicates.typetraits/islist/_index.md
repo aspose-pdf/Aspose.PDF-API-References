@@ -13,7 +13,7 @@ url: /cpp/system.testpredicates.typetraits/islist/
 Checks if type is a [System::Collections::Generic::List](../../system.collections.generic/list/) specialization. If so, value member is set to true, otherwise it is set to false.
 
 ```cpp
-using System::TestPredicates::TypeTraits::IsList =  std::is_same<T, System::Collections::Generic::List<typename T::ValueType>>
+using System::TestPredicates::TypeTraits::IsList = std::is_same<T, System::Collections::Generic::List<typename T::ValueType>>
 ```
 
 

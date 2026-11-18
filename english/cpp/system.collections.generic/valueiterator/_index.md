@@ -4,7 +4,7 @@ linktitle: ValueIterator
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::ValueIterator class. Dictionary iterator that provides value access in C++.'
 type: docs
-weight: 4800
+weight: 5300
 url: /cpp/system.collections.generic/valueiterator/
 ---
 ## ValueIterator class

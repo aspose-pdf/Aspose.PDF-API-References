@@ -19,6 +19,5 @@ CultureInfo & System::Globalization::CultureInfo::operator=(const CultureInfo &)
 ## See Also
 
 * Class [CultureInfo](../)
-* Class [CultureInfo](../)
 * Namespace [System::Globalization](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.facades/pdffileeditor/contentsresizeparameters/get_changeme
 ## ContentsResizeParameters::get_ChangeMediaBox method
 
 
-Gets and sets whether to adjust the MediaBox of a PDF page during the resizing operation. The default value is **false**
+Gets and sets whether to adjust the MediaBox of a PDF page during the resizing operation. The default value is **false**.
 
 ```cpp
 bool Aspose::Pdf::Facades::PdfFileEditor::ContentsResizeParameters::get_ChangeMediaBox() const

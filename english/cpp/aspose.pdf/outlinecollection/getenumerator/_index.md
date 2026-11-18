@@ -30,7 +30,6 @@ Returns an enumerator that iterates through the collection.
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IEnumerator](../../../system.collections.generic/ienumerator/)
-* Class [OutlineItemCollection](../../outlineitemcollection/)
 * Class [OutlineCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

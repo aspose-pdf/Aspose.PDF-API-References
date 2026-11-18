@@ -19,6 +19,5 @@ StringInfo & System::Globalization::StringInfo::operator=(const StringInfo &)=de
 ## See Also
 
 * Class [StringInfo](../)
-* Class [StringInfo](../)
 * Namespace [System::Globalization](../../)
 * Library [Aspose.PDF for C++](../../../)

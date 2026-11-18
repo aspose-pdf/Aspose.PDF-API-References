@@ -4,7 +4,7 @@ linktitle: Converter
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Converter typedef. Represents a pointer to the invokable entity that accepts a single argument of the TInput type and returns a value of the TOutput type in C++.'
 type: docs
-weight: 10500
+weight: 11200
 url: /cpp/system/converter/
 ---
 ## Converter typedef
@@ -13,7 +13,7 @@ url: /cpp/system/converter/
 Represents a pointer to the invokable entity that accepts a single argument of the **TInput** type and returns a value of the **TOutput** type.
 
 ```cpp
-using System::Converter =  MulticastDelegate<TOutput(TInput)>
+using System::Converter = MulticastDelegate<TOutput(TInput)>
 ```
 
 

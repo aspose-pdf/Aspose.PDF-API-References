@@ -19,7 +19,6 @@ void Aspose::Pdf::FileSpecification::set_Params(const System::SharedPtr<FilePara
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [FileParams](../../fileparams/)
 * Class [FileSpecification](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

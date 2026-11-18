@@ -19,6 +19,5 @@ BasicSTDOStreamWrapper & System::IO::BasicSTDOStreamWrapper<T, typename>::operat
 ## See Also
 
 * Class [BasicSTDOStreamWrapper](../)
-* Class [BasicSTDOStreamWrapper](../)
 * Namespace [System::IO](../../)
 * Library [Aspose.PDF for C++](../../../)

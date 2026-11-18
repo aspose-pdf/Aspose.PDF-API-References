@@ -2,7 +2,7 @@
 title: Aspose::Pdf::Facades::Form::get_SrcFileName method
 linktitle: get_SrcFileName
 second_title: Aspose.PDF for C++ API Reference
-description: 'Aspose::Pdf::Facades::Form::get_SrcFileName method. Gets source file name in C++.'
+description: 'Aspose::Pdf::Facades::Form::get_SrcFileName method. Gets source file name.  in C++.'
 type: docs
 weight: 2200
 url: /cpp/aspose.pdf.facades/form/get_srcfilename/

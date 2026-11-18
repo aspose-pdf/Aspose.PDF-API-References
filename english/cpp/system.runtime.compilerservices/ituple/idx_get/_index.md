@@ -31,7 +31,6 @@ Returns the element at position index
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [ITuple](../)
 * Namespace [System::Runtime::CompilerServices](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -30,6 +30,5 @@ Returns null if no synchronization context has been set for the current thread.
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [SynchronizationContext](../)
-* Class [SynchronizationContext](../)
 * Namespace [System::Threading](../../)
 * Library [Aspose.PDF for C++](../../../)

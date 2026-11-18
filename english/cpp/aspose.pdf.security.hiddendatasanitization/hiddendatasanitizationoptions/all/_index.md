@@ -25,6 +25,5 @@ A [HiddenDataSanitizationOptions](../) instance with all sanitization options pr
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [HiddenDataSanitizationOptions](../)
-* Class [HiddenDataSanitizationOptions](../)
 * Namespace [Aspose::Pdf::Security::HiddenDataSanitization](../../)
 * Library [Aspose.PDF for C++](../../../)

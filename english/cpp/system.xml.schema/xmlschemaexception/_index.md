@@ -13,7 +13,7 @@ url: /cpp/system.xml.schema/xmlschemaexception/
 
 
 ```cpp
-using System::Xml::Schema::XmlSchemaException =  System::ExceptionWrapper<Details_XmlSchemaException>
+using System::Xml::Schema::XmlSchemaException = System::ExceptionWrapper<Details_XmlSchemaException>
 ```
 
 ## See Also

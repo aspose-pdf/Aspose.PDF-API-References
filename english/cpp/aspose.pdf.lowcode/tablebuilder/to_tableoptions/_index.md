@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.lowcode/tablebuilder/to_tableoptions/
 ## TableBuilder::to_TableOptions method
 
 
-Converts builder [TableBuilder](../) to options [TableOptions](../../tableoptions/)
+Converts builder [TableBuilder](../) to options [TableOptions](../../tableoptions/).
 
 ```cpp
 static System::SharedPtr<TableOptions> Aspose::Pdf::LowCode::TableBuilder::to_TableOptions(const System::SharedPtr<TableBuilder> &builder)
@@ -28,8 +28,6 @@ Result of conversion to PdfGeneratorTableOptions.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [TableOptions](../../tableoptions/)
-* Class [TableBuilder](../)
 * Class [TableBuilder](../)
 * Namespace [Aspose::Pdf::LowCode](../../)
 * Library [Aspose.PDF for C++](../../../)

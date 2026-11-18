@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/hashset/thisptr/
 Pointer type.
 
 ```cpp
-using System::Collections::Generic::HashSet< T >::ThisPtr =  SharedPtr<ThisType>
+using System::Collections::Generic::HashSet< T >::ThisPtr = SharedPtr<ThisType>
 ```
 
 ## See Also

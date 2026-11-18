@@ -32,7 +32,6 @@ A reference to the self
 ## See Also
 
 * Class [Nullable](../)
-* Class [Nullable](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## Nullable::operator-=(const T1\&) method
@@ -60,7 +59,6 @@ A reference to the self
 ## See Also
 
 * Class [Nullable](../)
-* Class [Nullable](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## Nullable::operator-=(T1) method
@@ -74,7 +72,6 @@ template<typename T1,typename> Nullable<T> System::Nullable<T>::operator-=(T1)
 
 ## See Also
 
-* Class [Nullable](../)
 * Class [Nullable](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

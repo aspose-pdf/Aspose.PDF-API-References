@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf/page/getnotifications/
 ## Page::GetNotifications method
 
 
-Returns notifications about inside operations with page content. (Only notifications about paragraph events in text adding scenarios are supported now.)
+Returns notifications about inside operations with page content. (Only notifications about paragraph events in text adding scenarios are supported now.).
 
 ```cpp
 System::String Aspose::Pdf::Page::GetNotifications()

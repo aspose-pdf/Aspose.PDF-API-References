@@ -20,7 +20,6 @@ bool Aspose::Pdf::Comparison::DiffOperation::Equals(System::SharedPtr<DiffOperat
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [DiffOperation](../)
-* Class [DiffOperation](../)
 * Namespace [Aspose::Pdf::Comparison](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## DiffOperation::Equals(System::SharedPtr\<System::Object\>) method

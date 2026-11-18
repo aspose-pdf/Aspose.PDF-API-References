@@ -19,7 +19,6 @@ template<typename Key> SharedPtr<IOrderedEnumerable<Source>> System::Linq::IOrde
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IOrderedEnumerable](../)
 * Class [Func](../../../system/func/)
 * Class [IOrderedEnumerable](../)
 * Namespace [System::Linq](../../)
@@ -49,7 +48,6 @@ template<typename Key> SharedPtr<IOrderedEnumerable<T>> System::Linq::IOrderedEn
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IOrderedEnumerable](../)
 * Class [Func](../../../system/func/)
 * Class [IOrderedEnumerable](../)
 * Namespace [System::Linq](../../)

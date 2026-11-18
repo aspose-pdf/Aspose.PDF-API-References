@@ -4,7 +4,7 @@ linktitle: GC
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::GC class. Represents an emulated Garbage Collection which acts more like a stub which effectively does nothing. This is a static type with no instance services. You should never create instances of it by any means in C++.'
 type: docs
-weight: 3000
+weight: 3100
 url: /cpp/system/gc/
 ---
 ## GC class

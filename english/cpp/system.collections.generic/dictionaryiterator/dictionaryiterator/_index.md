@@ -44,7 +44,6 @@ System::Collections::Generic::DictionaryIterator<Dict>::DictionaryIterator(Dicti
 ## See Also
 
 * Class [DictionaryIterator](../)
-* Class [DictionaryIterator](../)
 * Namespace [System::Collections::Generic](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## DictionaryIterator::DictionaryIterator(typename Dict::map_t::const_iterator\&&, typename Dict::map_t::const_iterator\&&) constructor

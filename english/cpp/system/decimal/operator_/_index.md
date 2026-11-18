@@ -28,7 +28,6 @@ A new instance of [Decimal](../) class that represents a value that is a result 
 ## See Also
 
 * Class [Decimal](../)
-* Class [Decimal](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ---
@@ -61,7 +60,6 @@ True if the value represented by the current object is less than the value repre
 ## See Also
 
 * Class [Decimal](../)
-* Class [Decimal](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ---
@@ -93,7 +91,6 @@ True if the value represented by the current object is greater than the value re
 
 ## See Also
 
-* Class [Decimal](../)
 * Class [Decimal](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -20,6 +20,5 @@ SharedPtr<Pen> System::Drawing::Pen::Clone()
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Pen](../)
-* Class [Pen](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -13,7 +13,7 @@ url: /cpp/system.xml.xsl/xsltargumentlist/ptr/
 An alias for shared pointer to an instance of this class.
 
 ```cpp
-using System::Xml::Xsl::XsltArgumentList::Ptr =  SharedPtr<XsltArgumentList>
+using System::Xml::Xsl::XsltArgumentList::Ptr = SharedPtr<XsltArgumentList>
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.security/signaturelengthmismatchexception/
 
 
 ```cpp
-using Aspose::Pdf::Security::SignatureLengthMismatchException =  System::ExceptionWrapper<Details_SignatureLengthMismatchException>
+using Aspose::Pdf::Security::SignatureLengthMismatchException = System::ExceptionWrapper<Details_SignatureLengthMismatchException>
 ```
 
 ## See Also

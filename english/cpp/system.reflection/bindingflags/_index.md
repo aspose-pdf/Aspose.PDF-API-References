@@ -4,7 +4,7 @@ linktitle: BindingFlags
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Reflection::BindingFlags enum. Degines members and types lookup modes and bindings in C++.'
 type: docs
-weight: 1100
+weight: 1200
 url: /cpp/system.reflection/bindingflags/
 ---
 ## BindingFlags enum

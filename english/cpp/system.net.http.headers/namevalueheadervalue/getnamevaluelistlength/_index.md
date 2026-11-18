@@ -34,6 +34,5 @@ The length of a parsed substring.
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ObjectCollection](../../objectcollection/)
 * Class [NameValueHeaderValue](../)
-* Class [NameValueHeaderValue](../)
 * Namespace [System::Net::Http::Headers](../../)
 * Library [Aspose.PDF for C++](../../../)

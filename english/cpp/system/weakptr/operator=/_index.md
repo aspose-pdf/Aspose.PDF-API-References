@@ -28,6 +28,5 @@ template<typename Q> WeakPtr & System::WeakPtr<T>::operator=(Q &&value)
 ## See Also
 
 * Class [WeakPtr](../)
-* Class [WeakPtr](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

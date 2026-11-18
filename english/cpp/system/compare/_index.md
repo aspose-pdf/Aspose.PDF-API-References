@@ -2,18 +2,18 @@
 title: System::Compare method
 linktitle: Compare
 second_title: Aspose.PDF for C++ API Reference
-description: 'System::Compare method. Compares two values in C++.'
+description: 'System::Compare method. Compares two floating point values in C++.'
 type: docs
-weight: 16500
+weight: 17300
 url: /cpp/system/compare/
 ---
 ## System::Compare(const TA\&, const TB\&) method
 
 
-Compares two values.
+Compares two floating point values.
 
 ```cpp
-template<typename TA,typename TB> std::enable_if_t<!std::is_floating_point<TA>::value &&!std::is_floating_point<TB>::value, int> System::Compare(const TA &a, const TB &b)
+template<typename TA,typename TB> std::enable_if_t<std::is_floating_point<TA>::value &&std::is_floating_point<TB>::value, int> System::Compare(const TA &a, const TB &b)
 ```
 
 
@@ -38,10 +38,10 @@ template<typename TA,typename TB> std::enable_if_t<!std::is_floating_point<TA>::
 ## System::Compare(const TA\&, const TB\&) method
 
 
-Compares two floating point values.
+Compares two values.
 
 ```cpp
-template<typename TA,typename TB> std::enable_if_t<std::is_floating_point<TA>::value &&std::is_floating_point<TB>::value, int> System::Compare(const TA &a, const TB &b)
+template<typename TA,typename TB> std::enable_if_t<!std::is_floating_point<TA>::value &&!std::is_floating_point<TB>::value, int> System::Compare(const TA &a, const TB &b)
 ```
 
 

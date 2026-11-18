@@ -26,6 +26,5 @@ void Aspose::Pdf::LogicalStructure::StructureElement::ChangeParentElement(const 
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [StructureElement](../)
-* Class [StructureElement](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)
 * Library [Aspose.PDF for C++](../../../)

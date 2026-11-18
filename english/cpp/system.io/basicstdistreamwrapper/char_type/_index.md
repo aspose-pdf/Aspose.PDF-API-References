@@ -13,7 +13,7 @@ url: /cpp/system.io/basicstdistreamwrapper/char_type/
 RTTI information.
 
 ```cpp
-using System::IO::BasicSTDIStreamWrapper< T, typename >::char_type =  typename BaseType::char_type
+using System::IO::BasicSTDIStreamWrapper< T, typename >::char_type = typename BaseType::char_type
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/kvpairiterator/iterator_category/
 
 
 ```cpp
-using System::Collections::Generic::KVPairIterator< KVPair, Container >::iterator_category =  std::bidirectional_iterator_tag
+using System::Collections::Generic::KVPairIterator< KVPair, Container >::iterator_category = std::bidirectional_iterator_tag
 ```
 
 ## See Also

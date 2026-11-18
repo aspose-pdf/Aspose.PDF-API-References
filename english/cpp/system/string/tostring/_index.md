@@ -24,7 +24,6 @@ Copy of current string. It is considered a null string if current string is a nu
 ## See Also
 
 * Class [String](../)
-* Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## String::ToString(const SharedPtr\<IFormatProvider\>\&) const method
@@ -43,7 +42,6 @@ Copy of current string. It is considered a null string if current string is a nu
 
 ## See Also
 
-* Class [String](../)
 * Typedef [SharedPtr](../../sharedptr/)
 * Class [IFormatProvider](../../iformatprovider/)
 * Class [String](../)

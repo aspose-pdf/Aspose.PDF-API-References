@@ -4,7 +4,7 @@ linktitle: System::Security::Cryptography::X509Certificates
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use System::Security::Cryptography::X509Certificates namespace in C++.'
 type: docs
-weight: 6600
+weight: 6800
 url: /cpp/system.security.cryptography.x509certificates/
 ---
 
@@ -14,7 +14,10 @@ url: /cpp/system.security.cryptography.x509certificates/
 
 | Class | Description |
 | --- | --- |
+| [DSACertificateExtensions](./dsacertificateextensions/) | Provides methods to retrieve [DSA](../system.security.cryptography/dsa/) keys from [X509Certificate2](./x509certificate2/) objects. |
+| [ECDsaCertificateExtensions](./ecdsacertificateextensions/) | Provides methods to retrieve [ECDsa](../system.security.cryptography/ecdsa/) keys from [X509Certificate2](./x509certificate2/) objects. |
 | [PublicKey](./publickey/) | Represents a X509-certificate's public key information. Objects of this class should only be allocated using [System::MakeObject()](../system/makeobject/) function. Never create instance of this type on stack or using operator new, as it will result in runtime errors and/or assertion faults. Always wrap this class into [System::SmartPtr](../system/smartptr/) pointer and use this pointer to pass it to functions as argument. |
+| [RSACertificateExtensions](./rsacertificateextensions/) | Provides methods to retrieve [RSA](../system.security.cryptography/rsa/) keys from [X509Certificate2](./x509certificate2/) objects. |
 | [X500DistinguishedName](./x500distinguishedname/) | Represents distinguished name of X509 certificate. Objects of this class should only be allocated using [System::MakeObject()](../system/makeobject/) function. Never create instance of this type on stack or using operator new, as it will result in runtime errors and/or assertion faults. Always wrap this class into [System::SmartPtr](../system/smartptr/) pointer and use this pointer to pass it to functions as argument. |
 | [X509Certificate](./x509certificate/) | X.509 v.3 certificate. Encrypted certificates are not supported. Only [X509KeyStorageFlags::DefaultKeySet](./x509keystorageflags/) flag is supported. Objects of this class should only be allocated using [System::MakeObject()](../system/makeobject/) function. Never create instance of this type on stack or using operator new, as it will result in runtime errors and/or assertion faults. Always wrap this class into [System::SmartPtr](../system/smartptr/) pointer and use this pointer to pass it to functions as argument. |
 | [X509Certificate2](./x509certificate2/) | Represents X509 certificate. Objects of this class should only be allocated using [System::MakeObject()](../system/makeobject/) function. Never create instance of this type on stack or using operator new, as it will result in runtime errors and/or assertion faults. Always wrap this class into [System::SmartPtr](../system/smartptr/) pointer and use this pointer to pass it to functions as argument. |

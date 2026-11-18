@@ -58,7 +58,6 @@ System::Threading::Thread::Thread(Thread &t)
 ## See Also
 
 * Class [Thread](../)
-* Class [Thread](../)
 * Namespace [System::Threading](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## Thread::Thread(ThreadStart) constructor

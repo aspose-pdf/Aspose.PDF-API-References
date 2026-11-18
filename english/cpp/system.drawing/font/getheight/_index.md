@@ -24,7 +24,6 @@ float System::Drawing::Font::GetHeight(const SharedPtr<Graphics> &graphics)
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Graphics](../../graphics/)
 * Class [Font](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -27,7 +27,6 @@ A new instance of [Decimal](../) class representing a value equivalent to that r
 
 ## See Also
 
-* Class [Decimal](../)
 * Class [String](../../string/)
 * Class [Decimal](../)
 * Namespace [System](../../)
@@ -53,7 +52,6 @@ A new instance of [Decimal](../) class representing a value equivalent to that r
 
 ## See Also
 
-* Class [Decimal](../)
 * Class [String](../../string/)
 * Typedef [SharedPtr](../../sharedptr/)
 * Class [IFormatProvider](../../iformatprovider/)
@@ -81,7 +79,6 @@ A new instance of [Decimal](../) class representing a value equivalent to that r
 
 ## See Also
 
-* Class [Decimal](../)
 * Class [String](../../string/)
 * Enum [NumberStyles](../../../system.globalization/numberstyles/)
 * Class [Decimal](../)
@@ -109,7 +106,6 @@ A new instance of [Decimal](../) class representing a value equivalent to that r
 
 ## See Also
 
-* Class [Decimal](../)
 * Class [String](../../string/)
 * Enum [NumberStyles](../../../system.globalization/numberstyles/)
 * Typedef [SharedPtr](../../sharedptr/)

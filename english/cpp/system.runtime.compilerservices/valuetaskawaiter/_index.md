@@ -4,7 +4,7 @@ linktitle: ValueTaskAwaiter
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use System::Runtime::CompilerServices::ValueTaskAwaiter class in C++.'
 type: docs
-weight: 1100
+weight: 1200
 url: /cpp/system.runtime.compilerservices/valuetaskawaiter/
 ---
 ## ValueTaskAwaiter class

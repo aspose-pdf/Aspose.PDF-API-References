@@ -43,7 +43,6 @@ void System::Drawing::Graphics::SetClip(const SharedPtr<Graphics> &graphics, Dra
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Graphics](../)
 * Enum [CombineMode](../../../system.drawing.drawing2d/combinemode/)
 * Class [Graphics](../)
 * Namespace [System::Drawing](../../)
@@ -66,7 +65,6 @@ void System::Drawing::Graphics::SetClip(const SharedPtr<Region> &region, Drawing
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Region](../../region/)
 * Enum [CombineMode](../../../system.drawing.drawing2d/combinemode/)
 * Class [Graphics](../)
 * Namespace [System::Drawing](../../)

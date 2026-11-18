@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.text/textfragmentstate/get_strokingcolor/
 ## TextFragmentState::get_StrokingColor method
 
 
-Gets color stroking operations of [TextFragment](../../textfragment/) rendering (stroke text, rectangle border)
+Gets color stroking operations of [TextFragment](../../textfragment/) rendering (stroke text, rectangle border).
 
 ```cpp
 System::SharedPtr<Color> Aspose::Pdf::Text::TextFragmentState::get_StrokingColor() override

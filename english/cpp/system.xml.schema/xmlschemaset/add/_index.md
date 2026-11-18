@@ -50,7 +50,6 @@ void System::Xml::Schema::XmlSchemaSet::Add(const SharedPtr<XmlSchemaSet> &schem
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmlSchemaSet](../)
-* Class [XmlSchemaSet](../)
 * Namespace [System::Xml::Schema](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## XmlSchemaSet::Add(String, const SharedPtr\<XmlReader\>\&) method

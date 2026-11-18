@@ -24,7 +24,6 @@ The run-time object. The post-compilation interpretation of the **ElementType** 
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [XmlSchemaElement](../)
 * Namespace [System::Xml::Schema](../../)
 * Library [Aspose.PDF for C++](../../../)

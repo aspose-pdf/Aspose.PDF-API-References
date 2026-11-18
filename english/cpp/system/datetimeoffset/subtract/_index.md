@@ -29,7 +29,6 @@ Result of operation.
 
 * Class [TimeSpan](../../timespan/)
 * Class [DateTimeOffset](../)
-* Class [DateTimeOffset](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## DateTimeOffset::Subtract(TimeSpan) const method
@@ -52,7 +51,6 @@ Result of operation.
 
 ## See Also
 
-* Class [DateTimeOffset](../)
 * Class [TimeSpan](../../timespan/)
 * Class [DateTimeOffset](../)
 * Namespace [System](../../)

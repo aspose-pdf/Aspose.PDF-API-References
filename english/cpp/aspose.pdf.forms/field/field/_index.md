@@ -24,7 +24,6 @@ Aspose::Pdf::Forms::Field::Field(const System::SharedPtr<Document> &doc)
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Document](../../../aspose.pdf/document/)
 * Class [Field](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

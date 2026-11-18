@@ -24,7 +24,6 @@ virtual void Aspose::Pdf::Stamp::Put(const System::SharedPtr<Page> &page)=0
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Page](../../page/)
 * Class [Stamp](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

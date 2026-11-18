@@ -24,7 +24,6 @@ void System::Xml::Schema::XmlSchemaValidator::set_ValidationEventSender(const Sh
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [XmlSchemaValidator](../)
 * Namespace [System::Xml::Schema](../../)
 * Library [Aspose.PDF for C++](../../../)

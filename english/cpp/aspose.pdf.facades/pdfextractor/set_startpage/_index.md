@@ -2,7 +2,7 @@
 title: Aspose::Pdf::Facades::PdfExtractor::set_StartPage method
 linktitle: set_StartPage
 second_title: Aspose.PDF for C++ API Reference
-description: 'Aspose::Pdf::Facades::PdfExtractor::set_StartPage method. Sets start page in the page range where extracting operation will be performed in C++.'
+description: 'Aspose::Pdf::Facades::PdfExtractor::set_StartPage method. Sets start page in the page range where extracting operation will be performed.  in C++.'
 type: docs
 weight: 2700
 url: /cpp/aspose.pdf.facades/pdfextractor/set_startpage/

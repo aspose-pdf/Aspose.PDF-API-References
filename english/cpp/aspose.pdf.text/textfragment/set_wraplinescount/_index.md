@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.text/textfragment/set_wraplinescount/
 ## TextFragment::set_WrapLinesCount method
 
 
-Sets wrap lines count for this paragraph(for pdf generation only)
+Sets wrap lines count for this paragraph(for pdf generation only).
 
 ```cpp
 void Aspose::Pdf::Text::TextFragment::set_WrapLinesCount(int32_t value)

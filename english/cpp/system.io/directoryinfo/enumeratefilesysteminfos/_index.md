@@ -19,7 +19,6 @@ SharedPtr<IEnumerable<FileSystemInfoPtr>> System::IO::DirectoryInfo::EnumerateFi
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IEnumerable](../../../system.collections.generic/ienumerable/)
 * Typedef [FileSystemInfoPtr](../../../system/filesysteminfoptr/)
 * Class [DirectoryInfo](../)
 * Namespace [System::IO](../../)
@@ -45,7 +44,6 @@ The enumerable collection of shared pointers to [FileSystemInfo](../../filesyste
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IEnumerable](../../../system.collections.generic/ienumerable/)
 * Typedef [FileSystemInfoPtr](../../../system/filesysteminfoptr/)
 * Class [String](../../../system/string/)
 * Class [DirectoryInfo](../)
@@ -73,7 +71,6 @@ The enumerable collection of shared pointers to [FileSystemInfo](../../filesyste
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IEnumerable](../../../system.collections.generic/ienumerable/)
 * Typedef [FileSystemInfoPtr](../../../system/filesysteminfoptr/)
 * Class [String](../../../system/string/)
 * Enum [SearchOption](../../searchoption/)

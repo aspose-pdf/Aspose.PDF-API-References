@@ -28,7 +28,6 @@ bool Aspose::Pdf::Forms::Form::HasField(const System::SharedPtr<Field> &field)
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Field](../../field/)
 * Class [Form](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -53,9 +52,7 @@ bool Aspose::Pdf::Forms::Form::HasField(const System::String &fieldName)
 
 
 
-if the specified field name added to [Form](../); otherwise, **false**
-
-. 
+if the specified field name added to [Form](../); otherwise, **false**.
 ## See Also
 
 * Class [String](../../../system/string/)
@@ -86,9 +83,7 @@ the whole hierarchy of form fields would be searched for the requested *fieldNam
 
 
 
-if the specified field name added to [Form](../); otherwise, **false**
-
-. 
+if the specified field name added to [Form](../); otherwise, **false**.
 ## See Also
 
 * Class [String](../../../system/string/)

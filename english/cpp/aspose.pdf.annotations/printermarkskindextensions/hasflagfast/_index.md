@@ -29,9 +29,7 @@ static bool Aspose::Pdf::Annotations::PrinterMarksKindExtensions::HasFlagFast(Pr
 
 
 
-if the flag is included in the current value; otherwise, **false**
-
-.
+if the flag is included in the current value; otherwise, **false**.
 ## See Also
 
 * Enum [PrinterMarksKind](../../printermarkskind/)

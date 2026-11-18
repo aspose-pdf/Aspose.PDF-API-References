@@ -23,7 +23,6 @@ A cancellation token that can be passed to cancelable operations.
 
 ## See Also
 
-* Class [CancellationToken](../../cancellationtoken/)
 * Class [CancellationTokenSource](../)
 * Namespace [System::Threading](../../)
 * Library [Aspose.PDF for C++](../../../)

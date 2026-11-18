@@ -30,7 +30,6 @@ List of found artifacts.
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [List](../../../system.collections.generic/list/)
-* Class [Artifact](../../artifact/)
 * Class [String](../../../system/string/)
 * Class [ArtifactCollection](../)
 * Namespace [Aspose::Pdf](../../)

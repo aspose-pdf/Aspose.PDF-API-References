@@ -18,7 +18,6 @@ System::Reflection::MethodBase::MEMBER_FUNCTION_MAKE_OBJECT(MethodBase, CODEPORT
 
 ## See Also
 
-* Class [MethodBase](../)
 * Class [String](../../../system/string/)
 * Class [MethodBase](../)
 * Namespace [System::Reflection](../../)

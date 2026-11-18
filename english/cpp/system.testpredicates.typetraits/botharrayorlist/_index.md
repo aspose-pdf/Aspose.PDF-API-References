@@ -13,7 +13,7 @@ url: /cpp/system.testpredicates.typetraits/botharrayorlist/
 Checks if both type arguments are arrays or lists. If so, value member is set to true, otherwise it is set to false.
 
 ```cpp
-using System::TestPredicates::TypeTraits::BothArrayOrList =  std::integral_constant<bool, (IsArray<T1>::value || IsList<T1>::value) && (IsArray<T2>::value || IsList<T2>::value)>
+using System::TestPredicates::TypeTraits::BothArrayOrList = std::integral_constant<bool, (IsArray<T1>::value || IsList<T1>::value) && (IsArray<T2>::value || IsList<T2>::value)>
 ```
 
 

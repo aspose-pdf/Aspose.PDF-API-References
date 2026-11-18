@@ -4,7 +4,7 @@ linktitle: ObjectType
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::ObjectType class. Provides static methods that implement object type getters. This is a static type with no instance services. You should never create instances of it by any means in C++.'
 type: docs
-weight: 5300
+weight: 5600
 url: /cpp/system/objecttype/
 ---
 ## ObjectType class
@@ -32,12 +32,12 @@ class ObjectType
 | static [GetType](./gettype/)() | Implements typeof() translation. Overload for MutlicastDelegate. |
 | static [GetType](./gettype/)() | Implements typeof() translation. Overload for structures and pointers. |
 | static [GetType](./gettype/)(const String\&) | Implements typeof() translation. Overload for string type. |
-| static [GetType](./gettype/)() | Implements typeof() translation. Overload for uint8_t. |
-| static [GetType](./gettype/)() | Implements typeof() translation. Overload for uint8_t. |
-| static [GetType](./gettype/)() | Implements typeof() translation. Overload for uint8_t. |
-| static [GetType](./gettype/)() | Implements typeof() translation. Overload for uint8_t. |
-| static [GetType](./gettype/)() | Implements typeof() translation. Overload for uint8_t. |
-| static [GetType](./gettype/)() | Implements typeof() translation. Overload for uint8_t. |
+| static [GetType](./gettype/)() | Implements typeof() translation. Overload for [Void](../void/). |
+| static [GetType](./gettype/)() | Implements typeof() translation. Overload for [Void](../void/). |
+| static [GetType](./gettype/)() | Implements typeof() translation. Overload for [Void](../void/). |
+| static [GetType](./gettype/)() | Implements typeof() translation. Overload for [Void](../void/). |
+| static [GetType](./gettype/)() | Implements typeof() translation. Overload for [Void](../void/). |
+| static [GetType](./gettype/)() | Implements typeof() translation. Overload for [Void](../void/). |
 ## See Also
 
 * Namespace [System](../)

@@ -4,7 +4,7 @@ linktitle: Process
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Devices::DocumentDevice::Process method. Each device represents some operation on the document, e.g. we can convert pdf document into another format in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.pdf.devices/documentdevice/process/
 ---
 ## DocumentDevice::Process(const System::SharedPtr\<Aspose::Pdf::Document\>\&, const int32_t\&, const int32_t\&, const System::SharedPtr\<System::IO::Stream\>\&) method

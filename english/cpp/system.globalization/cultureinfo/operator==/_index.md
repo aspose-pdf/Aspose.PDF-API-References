@@ -28,6 +28,5 @@ True if culture parameters match, false otherwise.
 ## See Also
 
 * Class [CultureInfo](../)
-* Class [CultureInfo](../)
 * Namespace [System::Globalization](../../)
 * Library [Aspose.PDF for C++](../../../)

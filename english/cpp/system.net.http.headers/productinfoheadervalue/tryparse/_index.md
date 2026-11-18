@@ -31,6 +31,5 @@ True when the parsing is successfully done, otherwise false.
 * Class [String](../../../system/string/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ProductInfoHeaderValue](../)
-* Class [ProductInfoHeaderValue](../)
 * Namespace [System::Net::Http::Headers](../../)
 * Library [Aspose.PDF for C++](../../../)

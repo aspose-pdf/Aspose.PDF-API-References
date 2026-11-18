@@ -28,7 +28,6 @@ static String System::String::FromAscii(const char *asciiStr)
 ## See Also
 
 * Class [String](../)
-* Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## String::FromAscii(const char *, int) method
@@ -53,7 +52,6 @@ static String System::String::FromAscii(const char *asciiStr, int len)
 ## See Also
 
 * Class [String](../)
-* Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## String::FromAscii(const std::string\&) method
@@ -76,7 +74,6 @@ static String System::String::FromAscii(const std::string &asciiStr)
 
 ## See Also
 
-* Class [String](../)
 * Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -19,6 +19,5 @@ BasicSTDIOStreamWrapper & System::IO::BasicSTDIOStreamWrapper<T, typename>::oper
 ## See Also
 
 * Class [BasicSTDIOStreamWrapper](../)
-* Class [BasicSTDIOStreamWrapper](../)
 * Namespace [System::IO](../../)
 * Library [Aspose.PDF for C++](../../../)

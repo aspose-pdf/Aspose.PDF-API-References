@@ -30,6 +30,5 @@ Distance between two points.
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Point](../)
-* Class [Point](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

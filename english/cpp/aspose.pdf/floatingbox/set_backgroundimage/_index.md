@@ -19,7 +19,6 @@ void Aspose::Pdf::FloatingBox::set_BackgroundImage(const System::SharedPtr<Image
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Image](../../image/)
 * Class [FloatingBox](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

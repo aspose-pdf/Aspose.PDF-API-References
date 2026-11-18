@@ -25,7 +25,6 @@ void Aspose::Pdf::Forms::Form::RemoveFieldAppearance(const System::SharedPtr<Fie
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Field](../../field/)
 * Class [Form](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

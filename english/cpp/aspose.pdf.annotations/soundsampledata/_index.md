@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.annotations/soundsampledata/
 ## SoundSampleData class
 
 
-Represents additional entries specific to a sound object (Section 9.2 PDF1-7)
+Represents additional entries specific to a sound object (Section 9.2 PDF1-7).
 
 ```cpp
 class SoundSampleData : public System::Object

@@ -27,7 +27,6 @@ Current [DateTimeOffset](../) object converted to the date and time with specifi
 
 ## See Also
 
-* Class [DateTimeOffset](../)
 * Class [TimeSpan](../../timespan/)
 * Class [DateTimeOffset](../)
 * Namespace [System](../../)

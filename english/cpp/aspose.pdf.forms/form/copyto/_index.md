@@ -26,7 +26,6 @@ void Aspose::Pdf::Forms::Form::CopyTo(const System::ArrayPtr<System::SharedPtr<F
 
 * Typedef [ArrayPtr](../../../system/arrayptr/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Field](../../field/)
 * Class [Form](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

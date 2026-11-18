@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.facades/formeditor/
 ## FormEditor class
 
 
-Class for editing forms (ading/deleting field etc)
+Class for editing forms (ading/deleting field etc).
 
 ```cpp
 class FormEditor : public Aspose::Pdf::Facades::SaveableFacade
@@ -51,7 +51,7 @@ class FormEditor : public Aspose::Pdf::Facades::SaveableFacade
 | [get_ExportItems](./get_exportitems/)() const | Sets options for combo box with export values. |
 | [get_Facade](./get_facade/)() const | Sets visual attributes of the field. |
 | [get_Items](./get_items/)() const | Sets items which will be added t onewly created list box or combo box. |
-| [get_RadioButtonItemSize](./get_radiobuttonitemsize/)() const | Gets size of radio button item size (when new radio button field is added). ** formEditor = new [Aspose.Pdf.Facades.FormEditor](./)("PdfForm.pdf", "FormEditor_AddField_RadioButton.pdf"); formEditor.RadioGap = 4; formEditor.RadioHoriz = false; formEditor.RadioButtonItemSize = 20; formEditor.Items = new string[] { "First", "Second", "Third" }; formEditor.AddField([FieldType.Radio](../fieldtype/), "AddedRadioButtonField", "Second", 1, 10, 30, 110, 130); formEditor.Save(); ** |
+| [get_RadioButtonItemSize](./get_radiobuttonitemsize/)() const | Gets size of radio button item size (when new radio button field is added). ** formEditor = new [Aspose.Pdf.Facades.FormEditor](./)("PdfForm.pdf", "FormEditor_AddField_RadioButton.pdf"); formEditor.RadioGap = 4; formEditor.RadioHoriz = false; formEditor.RadioButtonItemSize = 20; formEditor.Items = new string[] { "First", "Second", "Third" }; formEditor.AddField([FieldType.Radio](../fieldtype/), "AddedRadioButtonField", "Second", 1, 10, 30, 110, 130); formEditor.Save(); **. |
 | [get_RadioGap](./get_radiogap/)() | The member to record the gap between two neighboring radio buttons in pixels,default is 50. |
 | [get_RadioHoriz](./get_radiohoriz/)() const | The flag to indicate whether the radios are arranged horizontally or vertically, default value is true. |
 | [get_Response](./get_response/)() const | Gets Response object where result of operation will be stored. |
@@ -75,7 +75,7 @@ class FormEditor : public Aspose::Pdf::Facades::SaveableFacade
 | [set_ExportItems](./set_exportitems/)(const System::ArrayPtr\<System::ArrayPtr\<System::String\>\>\&) | Sets options for combo box with export values. |
 | [set_Facade](./set_facade/)(const System::SharedPtr\<FormFieldFacade\>\&) | Sets visual attributes of the field. |
 | [set_Items](./set_items/)(const System::ArrayPtr\<System::String\>\&) | Sets items which will be added t onewly created list box or combo box. |
-| [set_RadioButtonItemSize](./set_radiobuttonitemsize/)(double) | Sets size of radio button item size (when new radio button field is added). ** formEditor = new [Aspose.Pdf.Facades.FormEditor](./)("PdfForm.pdf", "FormEditor_AddField_RadioButton.pdf"); formEditor.RadioGap = 4; formEditor.RadioHoriz = false; formEditor.RadioButtonItemSize = 20; formEditor.Items = new string[] { "First", "Second", "Third" }; formEditor.AddField([FieldType.Radio](../fieldtype/), "AddedRadioButtonField", "Second", 1, 10, 30, 110, 130); formEditor.Save(); ** |
+| [set_RadioButtonItemSize](./set_radiobuttonitemsize/)(double) | Sets size of radio button item size (when new radio button field is added). ** formEditor = new [Aspose.Pdf.Facades.FormEditor](./)("PdfForm.pdf", "FormEditor_AddField_RadioButton.pdf"); formEditor.RadioGap = 4; formEditor.RadioHoriz = false; formEditor.RadioButtonItemSize = 20; formEditor.Items = new string[] { "First", "Second", "Third" }; formEditor.AddField([FieldType.Radio](../fieldtype/), "AddedRadioButtonField", "Second", 1, 10, 30, 110, 130); formEditor.Save(); **. |
 | [set_RadioGap](./set_radiogap/)(float) | The member to record the gap between two neighboring radio buttons in pixels,default is 50. |
 | [set_RadioHoriz](./set_radiohoriz/)(bool) | The flag to indicate whether the radios are arranged horizontally or vertically, default value is true. |
 | [set_Response](./set_response/)(const System::SharedPtr\<System::Web::HttpResponse\>\&) | Sets Response object where result of operation will be stored. |

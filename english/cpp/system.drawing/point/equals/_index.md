@@ -28,6 +28,5 @@ True if the objects are equal, otherwise - false
 ## See Also
 
 * Class [Point](../)
-* Class [Point](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.PDF for C++](../../../)

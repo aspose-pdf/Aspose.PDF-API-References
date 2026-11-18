@@ -27,7 +27,6 @@ Newly created element.
 
 ## See Also
 
-* Class [SecurityElement](../)
 * Class [String](../../../system/string/)
 * Class [SecurityElement](../)
 * Namespace [System::Security](../../)

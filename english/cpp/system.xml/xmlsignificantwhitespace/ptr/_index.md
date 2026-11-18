@@ -13,7 +13,7 @@ url: /cpp/system.xml/xmlsignificantwhitespace/ptr/
 An alias for shared pointer to an instance of this class.
 
 ```cpp
-using System::Xml::XmlSignificantWhitespace::Ptr =  SharedPtr<XmlSignificantWhitespace>
+using System::Xml::XmlSignificantWhitespace::Ptr = SharedPtr<XmlSignificantWhitespace>
 ```
 
 ## See Also

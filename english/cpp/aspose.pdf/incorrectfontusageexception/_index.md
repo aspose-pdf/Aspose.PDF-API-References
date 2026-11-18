@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/incorrectfontusageexception/
 
 
 ```cpp
-using Aspose::Pdf::IncorrectFontUsageException =  System::ExceptionWrapper<Details_IncorrectFontUsageException>
+using Aspose::Pdf::IncorrectFontUsageException = System::ExceptionWrapper<Details_IncorrectFontUsageException>
 ```
 
 ## See Also

@@ -32,7 +32,6 @@ Self reference.
 ## See Also
 
 * Typedef [DynamicWeakPtr_](../dynamicweakptr_/)
-* Class [SmartPtr](../../smartptr/)
 * Class [DynamicWeakPtr](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

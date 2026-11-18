@@ -32,6 +32,5 @@ Returns the length of a parsed substring, otherwise 0.
 * Class [String](../../../system/string/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ProductInfoHeaderValue](../)
-* Class [ProductInfoHeaderValue](../)
 * Namespace [System::Net::Http::Headers](../../)
 * Library [Aspose.PDF for C++](../../../)

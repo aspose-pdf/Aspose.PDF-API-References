@@ -4,7 +4,7 @@ linktitle: DecoderReplacementFallbackBuffer
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Text::DecoderReplacementFallbackBuffer class. Buffer for replacing decoding fallback strategy in C++.'
 type: docs
-weight: 800
+weight: 900
 url: /cpp/system.text/decoderreplacementfallbackbuffer/
 ---
 ## DecoderReplacementFallbackBuffer class

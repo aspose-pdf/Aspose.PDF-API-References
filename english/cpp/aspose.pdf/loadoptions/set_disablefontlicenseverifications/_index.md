@@ -12,9 +12,7 @@ url: /cpp/aspose.pdf/loadoptions/set_disablefontlicenseverifications/
 
 Sets flag to disable any license restrictions for all fonts while loading the file. When **true**
 
-, allows to execute operations with font that are prohibited by a license of this font, for example allows to embed a font into a PDF document even if license rules disable embedding for this font. By default **false**
-
-.
+, allows to execute operations with font that are prohibited by a license of this font, for example allows to embed a font into a PDF document even if license rules disable embedding for this font. By default **false**.
 
 ```cpp
 void Aspose::Pdf::LoadOptions::set_DisableFontLicenseVerifications(bool value)

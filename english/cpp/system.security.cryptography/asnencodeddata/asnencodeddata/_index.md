@@ -48,7 +48,6 @@ Copy constructor.
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [AsnEncodedData](../)
-* Class [AsnEncodedData](../)
 * Namespace [System::Security::Cryptography](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## AsnEncodedData::AsnEncodedData(const SharedPtr\<Oid\>\&, const ByteArrayPtr\&) constructor

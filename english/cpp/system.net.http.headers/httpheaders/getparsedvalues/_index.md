@@ -28,7 +28,6 @@ Parsed header values if any, otherwise nullptr.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [String](../../../system/string/)
 * Class [HttpHeaders](../)
 * Namespace [System::Net::Http::Headers](../../)

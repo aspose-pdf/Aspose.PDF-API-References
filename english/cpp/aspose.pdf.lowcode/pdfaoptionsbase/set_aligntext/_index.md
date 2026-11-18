@@ -21,9 +21,7 @@ void Aspose::Pdf::LowCode::PdfAOptionsBase::set_AlignText(bool value)
 
 **true**
 
-if the text alignment gets changed and additional actions are necessary to restore it; otherwise, **false**
-
-. 
+if the text alignment gets changed and additional actions are necessary to restore it; otherwise, **false**.
 
 When set to **true**
 

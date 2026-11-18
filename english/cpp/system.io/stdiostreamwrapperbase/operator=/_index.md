@@ -19,6 +19,5 @@ STDIOStreamWrapperBase & System::IO::STDIOStreamWrapperBase<T, typename>::operat
 ## See Also
 
 * Class [STDIOStreamWrapperBase](../)
-* Class [STDIOStreamWrapperBase](../)
 * Namespace [System::IO](../../)
 * Library [Aspose.PDF for C++](../../../)

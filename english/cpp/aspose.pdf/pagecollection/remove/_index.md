@@ -11,8 +11,7 @@ url: /cpp/aspose.pdf/pagecollection/remove/
 ## PageCollection::Remove method
 
 
-Removes the specified item, throws NotSupportedException
-.
+Removes the specified item, throws NotSupportedException.
 
 ```cpp
 bool Aspose::Pdf::PageCollection::Remove(const System::SharedPtr<Page> &item) override
@@ -30,7 +29,6 @@ NotSupportedException
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Page](../../page/)
 * Class [PageCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

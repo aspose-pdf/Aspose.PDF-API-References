@@ -13,7 +13,7 @@ url: /cpp/system.xml.serialization/xmlserializernamespaces/ptr/
 An alias for shared pointer to an instance of this class.
 
 ```cpp
-using System::Xml::Serialization::XmlSerializerNamespaces::Ptr =  SharedPtr<XmlSerializerNamespaces>
+using System::Xml::Serialization::XmlSerializerNamespaces::Ptr = SharedPtr<XmlSerializerNamespaces>
 ```
 
 ## See Also

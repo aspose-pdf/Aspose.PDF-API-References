@@ -28,7 +28,6 @@ True - if operator found; otherwise, false.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Operator](../../operator/)
 * Class [OperatorCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -19,7 +19,6 @@ const System::SharedPtr<XFormPlacement> & Aspose::Pdf::Vector::GraphicElement::g
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XFormPlacement](../../xformplacement/)
 * Class [GraphicElement](../)
 * Namespace [Aspose::Pdf::Vector](../../)
 * Library [Aspose.PDF for C++](../../../)

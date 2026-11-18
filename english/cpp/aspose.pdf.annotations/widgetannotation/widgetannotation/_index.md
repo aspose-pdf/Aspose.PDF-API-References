@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.annotations/widgetannotation/widgetannotation/
 ## WidgetAnnotation::WidgetAnnotation constructor
 
 
-Create annotation (used for Generator)
+Create annotation (used for Generator).
 
 ```cpp
 Aspose::Pdf::Annotations::WidgetAnnotation::WidgetAnnotation(const System::SharedPtr<Document> &doc)
@@ -24,7 +24,6 @@ Aspose::Pdf::Annotations::WidgetAnnotation::WidgetAnnotation(const System::Share
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Document](../../../aspose.pdf/document/)
 * Class [WidgetAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

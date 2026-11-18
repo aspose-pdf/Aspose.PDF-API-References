@@ -4,7 +4,7 @@ linktitle: ExternalResourcesCredentials
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::HtmlLoadOptions::ExternalResourcesCredentials field. If loading of external data referenced in HTML requirs credentials, You can put them into this parameter - they will be used during loading of external resources in C++.'
 type: docs
-weight: 2000
+weight: 2400
 url: /cpp/aspose.pdf/htmlloadoptions/externalresourcescredentials/
 ---
 ## ExternalResourcesCredentials field

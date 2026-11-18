@@ -13,7 +13,7 @@ url: /cpp/system.drawing.printing/printpageeventhandler/
 A type of a function that handles PrintPage event.
 
 ```cpp
-using System::Drawing::Printing::PrintPageEventHandler =  System::EventHandler<System::SharedPtr<PrintPageEventArgs>>
+using System::Drawing::Printing::PrintPageEventHandler = System::EventHandler<System::SharedPtr<PrintPageEventArgs>>
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: HttpStatusCode
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use System::Net::HttpStatusCode enum in C++.'
 type: docs
-weight: 4600
+weight: 4700
 url: /cpp/system.net/httpstatuscode/
 ---
 ## HttpStatusCode enum

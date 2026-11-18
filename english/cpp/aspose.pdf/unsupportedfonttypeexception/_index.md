@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/unsupportedfonttypeexception/
 
 
 ```cpp
-using Aspose::Pdf::UnsupportedFontTypeException =  System::ExceptionWrapper<Details_UnsupportedFontTypeException>
+using Aspose::Pdf::UnsupportedFontTypeException = System::ExceptionWrapper<Details_UnsupportedFontTypeException>
 ```
 
 ## See Also

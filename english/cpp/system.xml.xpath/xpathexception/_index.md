@@ -13,7 +13,7 @@ url: /cpp/system.xml.xpath/xpathexception/
 
 
 ```cpp
-using System::Xml::XPath::XPathException =  System::ExceptionWrapper<Details_XPathException>
+using System::Xml::XPath::XPathException = System::ExceptionWrapper<Details_XPathException>
 ```
 
 ## See Also

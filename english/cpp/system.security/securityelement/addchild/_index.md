@@ -24,6 +24,5 @@ void System::Security::SecurityElement::AddChild(SecurityElement child)
 ## See Also
 
 * Class [SecurityElement](../)
-* Class [SecurityElement](../)
 * Namespace [System::Security](../../)
 * Library [Aspose.PDF for C++](../../../)

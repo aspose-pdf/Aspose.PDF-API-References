@@ -28,7 +28,6 @@ static String System::String::FromUtf8(const char *utf8)
 ## See Also
 
 * Class [String](../)
-* Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## String::FromUtf8(const char *, int) method
@@ -53,7 +52,6 @@ static String System::String::FromUtf8(const char *utf8, int len)
 ## See Also
 
 * Class [String](../)
-* Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## String::FromUtf8(const std::string\&) method
@@ -77,7 +75,6 @@ static String System::String::FromUtf8(const std::string &utf8)
 ## See Also
 
 * Class [String](../)
-* Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## String::FromUtf8(const uint8_t *) method
@@ -100,7 +97,6 @@ static String System::String::FromUtf8(const uint8_t *utf8)
 
 ## See Also
 
-* Class [String](../)
 * Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

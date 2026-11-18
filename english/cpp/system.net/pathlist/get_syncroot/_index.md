@@ -24,7 +24,6 @@ The object through which the collection is being synchronized.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [PathList](../)
 * Namespace [System::Net](../../)
 * Library [Aspose.PDF for C++](../../../)

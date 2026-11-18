@@ -122,6 +122,32 @@ System::IO::StreamReader::StreamReader(const SharedPtr<Stream> &stream, const En
 * Class [StreamReader](../)
 * Namespace [System::IO](../../)
 * Library [Aspose.PDF for C++](../../../)
+## StreamReader::StreamReader(const SharedPtr\<Stream\>\&, const EncodingPtr\&, bool, int, bool) constructor
+
+
+Constructs an instance of [StreamReader](../) object that reads characters from the specified underlying stream using the specified encoding and a buffer of the specified size. A parameter specifies if byte order mark detection should be enabled.
+
+```cpp
+System::IO::StreamReader::StreamReader(const SharedPtr<Stream> &stream, const EncodingPtr &encoding, bool detectEncodingFromByteOrderMarks, int bufferSize, bool leaveOpen)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | const SharedPtr\<Stream\>\& | The underlying stream to read characters from |
+| encoding | const EncodingPtr\& | The encoding to use |
+| detectEncodingFromByteOrderMarks | bool | True to look for byte order marks at the beginning of the stream, otherwise - false |
+| bufferSize | int | The minimum size of the buffer in bytes |
+| leaveOpen | bool | Tells to not close stream when reader disposed |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../stream/)
+* Typedef [EncodingPtr](../../../system/encodingptr/)
+* Class [StreamReader](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.PDF for C++](../../../)
 ## StreamReader::StreamReader(const System::String\&) constructor
 
 

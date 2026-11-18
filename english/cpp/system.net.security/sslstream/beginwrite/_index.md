@@ -35,7 +35,6 @@ An [IAsyncResult](../../../system/iasyncresult/) object representing the initiat
 * Class [IAsyncResult](../../../system/iasyncresult/)
 * Typedef [ArrayPtr](../../../system/arrayptr/)
 * Typedef [AsyncCallback](../../../system/asynccallback/)
-* Class [Object](../../../system/object/)
 * Class [SslStream](../)
 * Namespace [System::Net::Security](../../)
 * Library [Aspose.PDF for C++](../../../)

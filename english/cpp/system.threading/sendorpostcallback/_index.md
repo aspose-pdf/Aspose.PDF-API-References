@@ -13,7 +13,7 @@ url: /cpp/system.threading/sendorpostcallback/
 
 
 ```cpp
-using System::Threading::SendOrPostCallback =  System::MulticastDelegate<void(System::SharedPtr<Object>)>
+using System::Threading::SendOrPostCallback = System::MulticastDelegate<void(System::SharedPtr<Object>)>
 ```
 
 ## See Also

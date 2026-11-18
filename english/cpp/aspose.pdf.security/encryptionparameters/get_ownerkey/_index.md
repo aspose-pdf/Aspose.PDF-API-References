@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.security/encryptionparameters/get_ownerkey/
 ## EncryptionParameters::get_OwnerKey method
 
 
-Gets the owner key(The "O" field of encryption dictionary.)
+Gets the owner key(The "O" field of encryption dictionary.).
 
 ```cpp
 const System::ArrayPtr<uint8_t> & Aspose::Pdf::Security::EncryptionParameters::get_OwnerKey() const

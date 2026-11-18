@@ -2,7 +2,7 @@
 title: Aspose::Pdf::Rectangle::get_IsEmpty method
 linktitle: get_IsEmpty
 second_title: Aspose.PDF for C++ API Reference
-description: 'Aspose::Pdf::Rectangle::get_IsEmpty method. Checks if rectangle is empty in C++.'
+description: 'Aspose::Pdf::Rectangle::get_IsEmpty method. Gets a value indicating whether this rectangle is the shared static empty instance returned by Empty in C++.'
 type: docs
 weight: 900
 url: /cpp/aspose.pdf/rectangle/get_isempty/
@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf/rectangle/get_isempty/
 ## Rectangle::get_IsEmpty method
 
 
-Checks if rectangle is empty.
+Gets a value indicating whether this rectangle is the shared static empty instance returned by [Empty](../).
 
 ```cpp
 bool Aspose::Pdf::Rectangle::get_IsEmpty() const

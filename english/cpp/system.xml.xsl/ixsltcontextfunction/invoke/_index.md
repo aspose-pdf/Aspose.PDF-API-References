@@ -30,7 +30,6 @@ An [Object](../../../system/object/) representing the return value of the functi
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [XsltContext](../../xsltcontext/)
 * Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [XPathNavigator](../../../system.xml.xpath/xpathnavigator/)

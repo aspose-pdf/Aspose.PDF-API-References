@@ -24,6 +24,5 @@ void System::IO::BasicSystemIOStreamBuf<Elem, Traits>::AssignRV(BasicSystemIOStr
 ## See Also
 
 * Class [BasicSystemIOStreamBuf](../)
-* Class [BasicSystemIOStreamBuf](../)
 * Namespace [System::IO](../../)
 * Library [Aspose.PDF for C++](../../../)

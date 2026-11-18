@@ -30,7 +30,6 @@ ArrayPtr<String> System::String::Split(char_t separator, int32_t count, StringSp
 ## See Also
 
 * Typedef [ArrayPtr](../../arrayptr/)
-* Class [String](../)
 * Enum [StringSplitOptions](../../stringsplitoptions/)
 * Class [String](../)
 * Namespace [System](../../)
@@ -57,7 +56,6 @@ ArrayPtr<String> System::String::Split(char_t separator=u' ', StringSplitOptions
 ## See Also
 
 * Typedef [ArrayPtr](../../arrayptr/)
-* Class [String](../)
 * Enum [StringSplitOptions](../../stringsplitoptions/)
 * Class [String](../)
 * Namespace [System](../../)
@@ -85,7 +83,6 @@ ArrayPtr<String> System::String::Split(char_t separatorA, char_t separatorB, Str
 ## See Also
 
 * Typedef [ArrayPtr](../../arrayptr/)
-* Class [String](../)
 * Enum [StringSplitOptions](../../stringsplitoptions/)
 * Class [String](../)
 * Namespace [System](../../)
@@ -113,7 +110,6 @@ ArrayPtr<String> System::String::Split(const ArrayPtr<char_t> &separators, int32
 ## See Also
 
 * Typedef [ArrayPtr](../../arrayptr/)
-* Class [String](../)
 * Enum [StringSplitOptions](../../stringsplitoptions/)
 * Class [String](../)
 * Namespace [System](../../)
@@ -140,7 +136,6 @@ ArrayPtr<String> System::String::Split(const ArrayPtr<char_t> &separators, Strin
 ## See Also
 
 * Typedef [ArrayPtr](../../arrayptr/)
-* Class [String](../)
 * Enum [StringSplitOptions](../../stringsplitoptions/)
 * Class [String](../)
 * Namespace [System](../../)
@@ -168,7 +163,6 @@ ArrayPtr<String> System::String::Split(const ArrayPtr<String> &separators, int c
 ## See Also
 
 * Typedef [ArrayPtr](../../arrayptr/)
-* Class [String](../)
 * Enum [StringSplitOptions](../../stringsplitoptions/)
 * Class [String](../)
 * Namespace [System](../../)
@@ -195,7 +189,6 @@ ArrayPtr<String> System::String::Split(const ArrayPtr<String> &separators, Strin
 ## See Also
 
 * Typedef [ArrayPtr](../../arrayptr/)
-* Class [String](../)
 * Enum [StringSplitOptions](../../stringsplitoptions/)
 * Class [String](../)
 * Namespace [System](../../)
@@ -223,7 +216,6 @@ ArrayPtr<String> System::String::Split(const String &separator, int count, Strin
 ## See Also
 
 * Typedef [ArrayPtr](../../arrayptr/)
-* Class [String](../)
 * Enum [StringSplitOptions](../../stringsplitoptions/)
 * Class [String](../)
 * Namespace [System](../../)
@@ -250,7 +242,6 @@ ArrayPtr<String> System::String::Split(const String &separator, StringSplitOptio
 ## See Also
 
 * Typedef [ArrayPtr](../../arrayptr/)
-* Class [String](../)
 * Enum [StringSplitOptions](../../stringsplitoptions/)
 * Class [String](../)
 * Namespace [System](../../)

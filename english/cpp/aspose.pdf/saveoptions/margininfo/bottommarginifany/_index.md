@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf/saveoptions/margininfo/bottommarginifany/
 ## BottomMarginIfAny field
 
 
-Represents bottom page margin(if any)
+Represents bottom page margin(if any).
 
 ```cpp
 System::SharedPtr<SaveOptions::MarginPartStyle> Aspose::Pdf::SaveOptions::MarginInfo::BottomMarginIfAny

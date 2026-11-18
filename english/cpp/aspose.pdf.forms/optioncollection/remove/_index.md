@@ -11,8 +11,7 @@ url: /cpp/aspose.pdf.forms/optioncollection/remove/
 ## OptionCollection::Remove method
 
 
-Removes item from collection, throws NotImplementedException
-.
+Removes item from collection, throws NotImplementedException.
 
 ```cpp
 bool Aspose::Pdf::Forms::OptionCollection::Remove(const System::SharedPtr<Option> &item) override

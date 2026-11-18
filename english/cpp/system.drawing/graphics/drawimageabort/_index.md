@@ -13,7 +13,7 @@ url: /cpp/system.drawing/graphics/drawimageabort/
 The type of a callback fuction object used as an argument for DrawImage method.
 
 ```cpp
-using System::Drawing::Graphics::DrawImageAbort =  std::function<bool(IntPtr ptr)>
+using System::Drawing::Graphics::DrawImageAbort = std::function<bool(IntPtr ptr)>
 ```
 
 ## See Also

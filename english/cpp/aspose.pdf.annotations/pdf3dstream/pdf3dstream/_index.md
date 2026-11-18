@@ -26,7 +26,6 @@ Aspose::Pdf::Annotations::PDF3DStream::PDF3DStream(const System::SharedPtr<Docum
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
-* Class [PDF3DArtwork](../../pdf3dartwork/)
 * Class [PDF3DStream](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

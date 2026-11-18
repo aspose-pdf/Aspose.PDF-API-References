@@ -29,6 +29,5 @@ The result of union of **a** with **b**
 ## See Also
 
 * Class [RectangleF](../)
-* Class [RectangleF](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf/unifiedsaveoptions/
 ## UnifiedSaveOptions class
 
 
-This class represents saving options for saving that uses unified conversion way (with unified internal document model)
+This class represents saving options for saving that uses unified conversion way (with unified internal document model).
 
 ```cpp
 class UnifiedSaveOptions : public Aspose::Pdf::SaveOptions

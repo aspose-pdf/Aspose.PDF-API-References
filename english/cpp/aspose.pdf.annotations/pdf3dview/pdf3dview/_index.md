@@ -53,7 +53,6 @@ Aspose::Pdf::Annotations::PDF3DView::PDF3DView(const System::SharedPtr<Document>
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Document](../../../aspose.pdf/document/)
-* Class [PDF3DView](../)
 * Class [String](../../../system/string/)
 * Class [PDF3DView](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

@@ -13,7 +13,7 @@ url: /cpp/system.xml/xmlparsercontext/ptr/
 An alias for shared pointer to an instance of this class.
 
 ```cpp
-using System::Xml::XmlParserContext::Ptr =  SharedPtr<XmlParserContext>
+using System::Xml::XmlParserContext::Ptr = SharedPtr<XmlParserContext>
 ```
 
 ## See Also

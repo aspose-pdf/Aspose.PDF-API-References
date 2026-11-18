@@ -19,7 +19,6 @@ System::IO::BasicSTDOStreamWrapper<T, typename>::BasicSTDOStreamWrapper(const Ba
 ## See Also
 
 * Class [BasicSTDOStreamWrapper](../)
-* Class [BasicSTDOStreamWrapper](../)
 * Namespace [System::IO](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## BasicSTDOStreamWrapper::BasicSTDOStreamWrapper(std::basic_ostream\<char_type, traits_type\>\&, STDIOStreamWrappingMode) constructor

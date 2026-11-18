@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/comparer/basetype/
 Interface implemented.
 
 ```cpp
-using System::Collections::Generic::Comparer< T >::BaseType =  IComparer<T>
+using System::Collections::Generic::Comparer< T >::BaseType = IComparer<T>
 ```
 
 ## See Also

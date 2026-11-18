@@ -30,6 +30,5 @@ Passing nullptr will clear the synchronization context for the current thread.
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [SynchronizationContext](../)
-* Class [SynchronizationContext](../)
 * Namespace [System::Threading](../../)
 * Library [Aspose.PDF for C++](../../../)

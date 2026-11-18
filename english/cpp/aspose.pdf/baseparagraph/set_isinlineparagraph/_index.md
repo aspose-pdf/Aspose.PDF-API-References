@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf/baseparagraph/set_isinlineparagraph/
 ## BaseParagraph::set_IsInLineParagraph method
 
 
-Sets a paragraph is inline. Default is false.(for pdf generation)
+Sets a paragraph is inline. Default is false.(for pdf generation).
 
 ```cpp
 void Aspose::Pdf::BaseParagraph::set_IsInLineParagraph(bool value)

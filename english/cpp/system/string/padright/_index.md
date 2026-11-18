@@ -29,6 +29,5 @@ String System::String::PadRight(int totalWidth, char_t c=u' ') const
 ## See Also
 
 * Class [String](../)
-* Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

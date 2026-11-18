@@ -13,7 +13,7 @@ url: /cpp/system.testpredicates.typetraits/isarray/
 Checks if type is a [System::Array](../../system/array/) specialization. If so, value member is set to true, otherwise it is set to false.
 
 ```cpp
-using System::TestPredicates::TypeTraits::IsArray =  std::is_same<T, System::Array<typename T::ValueType>>
+using System::TestPredicates::TypeTraits::IsArray = std::is_same<T, System::Array<typename T::ValueType>>
 ```
 
 

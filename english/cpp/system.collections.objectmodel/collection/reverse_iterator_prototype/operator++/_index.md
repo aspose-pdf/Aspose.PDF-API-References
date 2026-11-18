@@ -19,7 +19,6 @@ reverse_iterator_prototype & System::Collections::ObjectModel::Collection<T>::re
 ## See Also
 
 * Class [reverse_iterator_prototype](../)
-* Class [reverse_iterator_prototype](../)
 * Class [Collection](../../)
 * Namespace [System::Collections::ObjectModel](../../../)
 * Library [Aspose.PDF for C++](../../../../)

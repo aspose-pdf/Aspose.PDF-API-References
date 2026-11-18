@@ -4,7 +4,7 @@ linktitle: set_FriendlyName
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Security::Cryptography::X509Certificates::X509Certificate2::set_FriendlyName method. Sets the certificate''s friendly name in C++.'
 type: docs
-weight: 2700
+weight: 2100
 url: /cpp/system.security.cryptography.x509certificates/x509certificate2/set_friendlyname/
 ---
 ## X509Certificate2::set_FriendlyName method

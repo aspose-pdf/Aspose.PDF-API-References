@@ -13,7 +13,7 @@ url: /cpp/system.xml.schema/xmlschemasimplecontentrestriction/ptr/
 An alias for shared pointer to an instance of this class.
 
 ```cpp
-using System::Xml::Schema::XmlSchemaSimpleContentRestriction::Ptr =  SharedPtr<XmlSchemaSimpleContentRestriction>
+using System::Xml::Schema::XmlSchemaSimpleContentRestriction::Ptr = SharedPtr<XmlSchemaSimpleContentRestriction>
 ```
 
 ## See Also

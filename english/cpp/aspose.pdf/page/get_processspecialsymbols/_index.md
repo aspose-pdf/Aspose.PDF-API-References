@@ -10,9 +10,7 @@ url: /cpp/aspose.pdf/page/get_processspecialsymbols/
 ## Page::get_ProcessSpecialSymbols method
 
 
-Gets a value indicating whether special symbols, such as $p and $P, are processed. The default value is **true**
-
-.
+Gets a value indicating whether special symbols, such as $p and $P, are processed. The default value is **true**.
 
 ```cpp
 bool Aspose::Pdf::Page::get_ProcessSpecialSymbols() const

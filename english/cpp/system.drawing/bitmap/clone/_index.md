@@ -50,7 +50,6 @@ The created [Bitmap](../) object
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Bitmap](../)
 * Class [Rectangle](../../rectangle/)
 * Enum [PixelFormat](../../../system.drawing.imaging/pixelformat/)
 * Class [Bitmap](../)
@@ -78,7 +77,6 @@ The created [Bitmap](../) object
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Bitmap](../)
 * Class [RectangleF](../../rectanglef/)
 * Enum [PixelFormat](../../../system.drawing.imaging/pixelformat/)
 * Class [Bitmap](../)

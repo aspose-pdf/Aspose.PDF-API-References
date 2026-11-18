@@ -13,7 +13,7 @@ url: /cpp/system.io.compression/deflatestream/
 An alias for Aspose::Zip::DeflateStream.
 
 ```cpp
-using System::IO::Compression::DeflateStream =  Aspose::Zip::DeflateStream
+using System::IO::Compression::DeflateStream = Aspose::Zip::DeflateStream
 ```
 
 ## See Also

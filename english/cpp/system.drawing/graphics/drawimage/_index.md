@@ -45,6 +45,11 @@ void System::Drawing::Graphics::DrawImage(const SharedPtr<Image> &image, const A
 | srcRect | Rectangle | A rectangle that defines the region of the specified image to draw |
 | srcUnit | GraphicsUnit | The measurement units used by **srcRect** parameter |
 | imageAttr | const SharedPtr\<Imaging::ImageAttributes\>\& | Specifies coloring and gamma information for the image |
+## Remarks
+
+
+
+Currently, only Default and [Bitmap](../../bitmap/) color-key settings are applied. 
 
 ## See Also
 
@@ -185,6 +190,11 @@ void System::Drawing::Graphics::DrawImage(const SharedPtr<Image> &image, const S
 | srcRect | const RectangleF\& | A rectangle that defines the region of the specified image to draw |
 | srcUnit | GraphicsUnit | The measurement units used by **srcRect** parameter |
 | imgAttributes | const Imaging::ImageAttributesPtr\& | Specifies coloring and gamma information for the image |
+## Remarks
+
+
+
+Currently, only Default and [Bitmap](../../bitmap/) color-key settings are applied. 
 
 ## See Also
 
@@ -215,6 +225,11 @@ void System::Drawing::Graphics::DrawImage(const SharedPtr<Image> &image, const S
 | srcRect | const RectangleF\& | A rectangle that defines the region of the specified image to draw |
 | srcUnit | GraphicsUnit | The measurement units used by **srcRect** parameter |
 | imgAttributes | const Imaging::ImageAttributesPtr\& | Specifies coloring and gamma information for the image |
+## Remarks
+
+
+
+Currently, only Default and [Bitmap](../../bitmap/) color-key settings are applied. 
 
 ## See Also
 
@@ -244,6 +259,11 @@ template<std::size_t> void System::Drawing::Graphics::DrawImage(const SharedPtr<
 | srcRect | const RectangleF\& | A rectangle that defines the region of the specified image to draw |
 | srcUnit | GraphicsUnit | The measurement units used by **srcRect** parameter |
 | imgAttributes | const Imaging::ImageAttributesPtr\& | Specifies coloring and gamma information for the image |
+## Remarks
+
+
+
+Currently, only Default and [Bitmap](../../bitmap/) color-key settings are applied. 
 
 ## See Also
 
@@ -501,6 +521,11 @@ void System::Drawing::Graphics::DrawImage(const SharedPtr<Image> &image, Rectang
 | srcHeight | float | The height of the upper left corner of the rectangle that specifies the portion of the image to draw |
 | srcUnit | GraphicsUnit | The measurement units in which parameters **srcX**, **srcY**, **srcWidth** and **srcHeight** are specified |
 | imgAttributes | const Imaging::ImageAttributesPtr\& | Specifies coloring and gamma information for the image |
+## Remarks
+
+
+
+Currently, only Default and [Bitmap](../../bitmap/) color-key settings are applied. 
 
 ## See Also
 
@@ -603,6 +628,11 @@ void System::Drawing::Graphics::DrawImage(const SharedPtr<Image> &image, Rectang
 | srcHeight | int | The height of the upper left corner of the rectangle that specifies the portion of the image to draw |
 | srcUnit | GraphicsUnit | The measurement units in which parameters **srcX**, **srcY**, **srcWidth** and **srcHeight** are specified |
 | imgAttributes | const Imaging::ImageAttributesPtr\& | Specifies coloring and gamma information for the image |
+## Remarks
+
+
+
+Currently, only Default and [Bitmap](../../bitmap/) color-key settings are applied. 
 
 ## See Also
 

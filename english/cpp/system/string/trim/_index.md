@@ -24,7 +24,6 @@ String System::String::Trim() const
 ## See Also
 
 * Class [String](../)
-* Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## String::Trim(char_t) const method
@@ -48,7 +47,6 @@ Removal result.
 ## See Also
 
 * Class [String](../)
-* Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## String::Trim(const ArrayPtr\<char_t\>\&) const method
@@ -71,7 +69,6 @@ String System::String::Trim(const ArrayPtr<char_t> &anyOf) const
 
 ## See Also
 
-* Class [String](../)
 * Typedef [ArrayPtr](../../arrayptr/)
 * Class [String](../)
 * Namespace [System](../../)
@@ -96,7 +93,6 @@ String System::String::Trim(const String &anyOf) const
 
 ## See Also
 
-* Class [String](../)
 * Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

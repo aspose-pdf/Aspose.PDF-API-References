@@ -28,7 +28,6 @@ True if both objects are of same encoding, false otherwise.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [UnicodeEncoding](../)
 * Namespace [System::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -29,6 +29,5 @@ The result of multiplying **d1** and **d2**.
 ## See Also
 
 * Class [Decimal](../)
-* Class [Decimal](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

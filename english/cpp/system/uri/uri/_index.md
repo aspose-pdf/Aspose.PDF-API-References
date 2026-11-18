@@ -26,7 +26,6 @@ System::Uri::Uri(const SharedPtr<Uri> &baseUri, const SharedPtr<Uri> &relativeUr
 
 * Typedef [SharedPtr](../../sharedptr/)
 * Class [Uri](../)
-* Class [Uri](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## Uri::Uri(const SharedPtr\<Uri\>\&, const String\&) constructor
@@ -47,7 +46,6 @@ System::Uri::Uri(const SharedPtr<Uri> &baseUri, const String &relativeUri)
 ## See Also
 
 * Typedef [SharedPtr](../../sharedptr/)
-* Class [Uri](../)
 * Class [String](../../string/)
 * Class [Uri](../)
 * Namespace [System](../../)
@@ -71,7 +69,6 @@ System::Uri::Uri(const SharedPtr<Uri> &baseUri, const String &relativeUri, bool 
 ## See Also
 
 * Typedef [SharedPtr](../../sharedptr/)
-* Class [Uri](../)
 * Class [String](../../string/)
 * Class [Uri](../)
 * Namespace [System](../../)

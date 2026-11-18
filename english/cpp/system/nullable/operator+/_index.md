@@ -60,7 +60,6 @@ Summing result.
 ## See Also
 
 * Class [Nullable](../)
-* Class [Nullable](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## Nullable::operator+(std::nullptr_t) const method
@@ -74,7 +73,6 @@ Nullable<T> System::Nullable<T>::operator+(std::nullptr_t) const
 
 ## See Also
 
-* Class [Nullable](../)
 * Class [Nullable](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

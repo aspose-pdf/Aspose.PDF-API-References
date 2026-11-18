@@ -19,6 +19,5 @@ static Decimal System::Decimal::FromOACurrency(int64_t currency)
 ## See Also
 
 * Class [Decimal](../)
-* Class [Decimal](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

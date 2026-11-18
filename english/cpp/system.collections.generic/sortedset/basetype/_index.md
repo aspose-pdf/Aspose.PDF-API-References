@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/sortedset/basetype/
 Vase type.
 
 ```cpp
-using System::Collections::Generic::SortedSet< T >::BaseType =  BaseSet<T, std::set<T, ComparerAdapter<T>, typename System::Details::CollectionHelpers::ContainerPointerMode<T>::allocator_type>>
+using System::Collections::Generic::SortedSet< T >::BaseType = BaseSet<T, std::set<T, ComparerAdapter<T>, typename System::Details::CollectionHelpers::ContainerPointerMode<T>::allocator_type>>
 ```
 
 ## See Also

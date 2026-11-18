@@ -27,7 +27,6 @@ Result of operation.
 
 ## See Also
 
-* Class [DateTimeOffset](../)
 * Class [TimeSpan](../../timespan/)
 * Class [DateTimeOffset](../)
 * Namespace [System](../../)

@@ -28,7 +28,6 @@ A new [DateTime](../) object that represents the same number of ticks as **value
 
 ## See Also
 
-* Class [DateTime](../)
 * Enum [DateTimeKind](../../datetimekind/)
 * Class [DateTime](../)
 * Namespace [System](../../)

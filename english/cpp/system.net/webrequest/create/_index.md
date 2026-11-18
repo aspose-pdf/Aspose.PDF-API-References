@@ -28,7 +28,6 @@ A newly created WebRequest-class instance.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [WebRequest](../)
 * Class [String](../../../system/string/)
 * Class [WebRequest](../)
 * Namespace [System::Net](../../)
@@ -54,7 +53,6 @@ A newly created WebRequest-class instance.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [WebRequest](../)
 * Class [Uri](../../../system/uri/)
 * Class [WebRequest](../)
 * Namespace [System::Net](../../)

@@ -27,7 +27,6 @@ A reference to the self
 
 ## See Also
 
-* Class [DateTime](../)
 * Class [TimeSpan](../../timespan/)
 * Class [DateTime](../)
 * Namespace [System](../../)

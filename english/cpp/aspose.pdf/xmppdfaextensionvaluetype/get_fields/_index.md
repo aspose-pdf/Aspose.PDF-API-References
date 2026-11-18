@@ -20,7 +20,6 @@ System::SharedPtr<System::Collections::Generic::IList<System::SharedPtr<XmpPdfAE
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IList](../../../system.collections.generic/ilist/)
-* Class [XmpPdfAExtensionField](../../xmppdfaextensionfield/)
 * Class [XmpPdfAExtensionValueType](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

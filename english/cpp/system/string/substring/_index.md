@@ -28,7 +28,6 @@ Extracted substring.
 ## See Also
 
 * Class [String](../)
-* Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## String::Substring(int32_t, int32_t) const method
@@ -52,7 +51,6 @@ Extracted substring.
 
 ## See Also
 
-* Class [String](../)
 * Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

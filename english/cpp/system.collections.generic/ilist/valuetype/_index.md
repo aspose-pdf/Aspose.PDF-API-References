@@ -4,7 +4,7 @@ linktitle: ValueType
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::IList::ValueType typedef. Value type in C++.'
 type: docs
-weight: 900
+weight: 1000
 url: /cpp/system.collections.generic/ilist/valuetype/
 ---
 ## ValueType typedef

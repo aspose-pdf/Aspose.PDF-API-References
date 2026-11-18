@@ -25,6 +25,5 @@ static System::SharedPtr<OptimizationOptions> Aspose::Pdf::Optimization::Optimiz
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [OptimizationOptions](../)
-* Class [OptimizationOptions](../)
 * Namespace [Aspose::Pdf::Optimization](../../)
 * Library [Aspose.PDF for C++](../../../)

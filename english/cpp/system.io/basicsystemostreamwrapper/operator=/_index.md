@@ -28,7 +28,6 @@ BasicSystemOStreamWrapper & System::IO::BasicSystemOStreamWrapper<Elem, Traits>:
 ## See Also
 
 * Class [BasicSystemOStreamWrapper](../)
-* Class [BasicSystemOStreamWrapper](../)
 * Namespace [System::IO](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## BasicSystemOStreamWrapper::operator=(const BasicSystemOStreamWrapper\&) method
@@ -42,7 +41,6 @@ BasicSystemOStreamWrapper & System::IO::BasicSystemOStreamWrapper<Elem, Traits>:
 
 ## See Also
 
-* Class [BasicSystemOStreamWrapper](../)
 * Class [BasicSystemOStreamWrapper](../)
 * Namespace [System::IO](../../)
 * Library [Aspose.PDF for C++](../../../)

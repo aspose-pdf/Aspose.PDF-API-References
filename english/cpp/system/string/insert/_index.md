@@ -29,6 +29,5 @@ String System::String::Insert(int startIndex, const String &value) const
 ## See Also
 
 * Class [String](../)
-* Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

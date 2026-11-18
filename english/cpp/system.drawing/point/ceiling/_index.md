@@ -27,7 +27,6 @@ A [Point](../) object constructed from **point**
 
 ## See Also
 
-* Class [Point](../)
 * Class [PointF](../../pointf/)
 * Class [Point](../)
 * Namespace [System::Drawing](../../)

@@ -4,7 +4,7 @@ linktitle: HttpKnownHeaderNames
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Net::HttpKnownHeaderNames class. Contains the string values of the known header names in C++.'
 type: docs
-weight: 1500
+weight: 1600
 url: /cpp/system.net/httpknownheadernames/
 ---
 ## HttpKnownHeaderNames class

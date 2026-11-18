@@ -30,7 +30,6 @@ True when every element in waitHandles has received a signal; otherwise the meth
 * Typedef [ArrayPtr](../../../system/arrayptr/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [WaitHandle](../)
-* Class [WaitHandle](../)
 * Namespace [System::Threading](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## WaitHandle::WaitAll(const System::ArrayPtr\<System::SharedPtr\<WaitHandle\>\>\&, int) method
@@ -60,7 +59,6 @@ Waits for all handles to fire.
 * Typedef [ArrayPtr](../../../system/arrayptr/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [WaitHandle](../)
-* Class [WaitHandle](../)
 * Namespace [System::Threading](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## WaitHandle::WaitAll(const System::ArrayPtr\<System::SharedPtr\<WaitHandle\>\>\&, TimeSpan) method
@@ -86,7 +84,6 @@ True if all handles fired, false if timeout exceeded.
 
 * Typedef [ArrayPtr](../../../system/arrayptr/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [WaitHandle](../)
 * Class [TimeSpan](../../../system/timespan/)
 * Class [WaitHandle](../)
 * Namespace [System::Threading](../../)

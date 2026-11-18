@@ -19,7 +19,6 @@ void Aspose::Pdf::LocalHyperlink::set_Target(const System::SharedPtr<BaseParagra
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [BaseParagraph](../../baseparagraph/)
 * Class [LocalHyperlink](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

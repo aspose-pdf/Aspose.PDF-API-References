@@ -20,6 +20,5 @@ static System::SharedPtr<DocumentPrivilege> Aspose::Pdf::Facades::DocumentPrivil
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [DocumentPrivilege](../)
-* Class [DocumentPrivilege](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -36,10 +36,10 @@ Value of variable on operation start regardless whether it was changed or not.
 ## Interlocked::CompareExchange(T\&, T, T) method
 
 
-Compare-exchanges value on variable: checks if variable is equal to specific value and stores the new value only if stored value matches expected.
+Compare-exchanges value on variable: checks if variable is equal to specific value and stores the new value only if stored value matches expected. Not implemented.
 
 ```cpp
-template<typename T> static std::enable_if<IsSupportedInt<T>, T>::type System::Threading::Interlocked::CompareExchange(T &location1, T value, T comparand)
+template<typename T> static std::enable_if<!IsSupportedInt<T>, T>::type System::Threading::Interlocked::CompareExchange(T &location1, T value, T comparand)
 ```
 
 
@@ -65,10 +65,10 @@ Value of variable on operation start regardless whether it was changed or not.
 ## Interlocked::CompareExchange(T\&, T, T) method
 
 
-Compare-exchanges value on variable: checks if variable is equal to specific value and stores the new value only if stored value matches expected. Not implemented.
+Compare-exchanges value on variable: checks if variable is equal to specific value and stores the new value only if stored value matches expected.
 
 ```cpp
-template<typename T> static std::enable_if<!IsSupportedInt<T>, T>::type System::Threading::Interlocked::CompareExchange(T &location1, T value, T comparand)
+template<typename T> static std::enable_if<IsSupportedInt<T>, T>::type System::Threading::Interlocked::CompareExchange(T &location1, T value, T comparand)
 ```
 
 

@@ -29,7 +29,6 @@ An instance of [TimeSpan](../../timespan/) class representing the time interval 
 
 * Class [TimeSpan](../../timespan/)
 * Class [DateTimeOffset](../)
-* Class [DateTimeOffset](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## DateTimeOffset::operator-(TimeSpan) const method
@@ -52,7 +51,6 @@ A new instance of the [DateTimeOffset](../) class representing the date and time
 
 ## See Also
 
-* Class [DateTimeOffset](../)
 * Class [TimeSpan](../../timespan/)
 * Class [DateTimeOffset](../)
 * Namespace [System](../../)

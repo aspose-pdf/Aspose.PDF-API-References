@@ -24,7 +24,6 @@ void System::Net::Http::Headers::HttpRequestHeaders::AddHeaders(System::SharedPt
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [HttpHeaders](../../httpheaders/)
 * Class [HttpRequestHeaders](../)
 * Namespace [System::Net::Http::Headers](../../)
 * Library [Aspose.PDF for C++](../../../)

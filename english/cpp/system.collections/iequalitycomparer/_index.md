@@ -4,7 +4,7 @@ linktitle: IEqualityComparer
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use System::Collections::IEqualityComparer class in C++.'
 type: docs
-weight: 900
+weight: 1000
 url: /cpp/system.collections/iequalitycomparer/
 ---
 ## IEqualityComparer class

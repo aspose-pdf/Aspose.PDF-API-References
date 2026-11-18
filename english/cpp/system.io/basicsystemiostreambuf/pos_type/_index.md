@@ -13,7 +13,7 @@ url: /cpp/system.io/basicsystemiostreambuf/pos_type/
 
 
 ```cpp
-using System::IO::BasicSystemIOStreamBuf< Elem, Traits >::pos_type =  typename traits_type::pos_type
+using System::IO::BasicSystemIOStreamBuf< Elem, Traits >::pos_type = typename traits_type::pos_type
 ```
 
 ## See Also

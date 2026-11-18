@@ -25,7 +25,6 @@ Algorithm object.
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [AsymmetricAlgorithm](../)
-* Class [AsymmetricAlgorithm](../)
 * Namespace [System::Security::Cryptography](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## AsymmetricAlgorithm::Create(const String\&) method
@@ -49,7 +48,6 @@ Algorithm object.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [AsymmetricAlgorithm](../)
 * Class [String](../../../system/string/)
 * Class [AsymmetricAlgorithm](../)
 * Namespace [System::Security::Cryptography](../../)

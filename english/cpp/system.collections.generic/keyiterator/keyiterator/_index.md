@@ -44,7 +44,6 @@ System::Collections::Generic::KeyIterator<Dict>::KeyIterator(KeyIterator &&other
 ## See Also
 
 * Class [KeyIterator](../)
-* Class [KeyIterator](../)
 * Namespace [System::Collections::Generic](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## KeyIterator::KeyIterator(typename Dict::map_t::const_iterator\&&, typename Dict::map_t::const_iterator\&&) constructor

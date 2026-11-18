@@ -13,7 +13,7 @@ url: /cpp/system.xml.xpath/xpathexpression/ptr/
 An alias for shared pointer to an instance of this class.
 
 ```cpp
-using System::Xml::XPath::XPathExpression::Ptr =  SharedPtr<XPathExpression>
+using System::Xml::XPath::XPathExpression::Ptr = SharedPtr<XPathExpression>
 ```
 
 ## See Also

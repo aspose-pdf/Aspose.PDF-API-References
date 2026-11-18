@@ -4,7 +4,7 @@ linktitle: System::Runtime::CompilerServices
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use System::Runtime::CompilerServices namespace in C++.'
 type: docs
-weight: 5900
+weight: 6100
 url: /cpp/system.runtime.compilerservices/
 ---
 
@@ -14,6 +14,7 @@ url: /cpp/system.runtime.compilerservices/
 
 | Class | Description |
 | --- | --- |
+| [ConditionalWeakTable](./conditionalweaktable/) |  |
 | [ConfiguredResultTaskAwaitable](./configuredresulttaskawaitable/) |  |
 | [ConfiguredResultValueTaskAwaitable](./configuredresultvaluetaskawaitable/) |  |
 | [ConfiguredTaskAwaitable](./configuredtaskawaitable/) |  |
@@ -21,7 +22,7 @@ url: /cpp/system.runtime.compilerservices/
 | [ITuple](./ituple/) | Defines a general-purpose [Tuple](../system/tuple/) implementation that allows access to [Tuple](../system/tuple/) instance members without knowing the underlying [Tuple](../system/tuple/) type. |
 | [ResultTaskAwaiter](./resulttaskawaiter/) |  |
 | [ResultValueTaskAwaiter](./resultvaluetaskawaiter/) |  |
-| [RuntimeHelpers](./runtimehelpers/) | Helper class to get some object information in runtime. |
+| [RuntimeHelpers](./runtimehelpers/) | Provides a set of static methods and properties that provide support for compilers. |
 | [TaskAwaiter](./taskawaiter/) |  |
 | [Unsafe](./unsafe/) | Provides low-level operations for unsafe memory manipulation. |
 | [ValueTaskAwaiter](./valuetaskawaiter/) |  |

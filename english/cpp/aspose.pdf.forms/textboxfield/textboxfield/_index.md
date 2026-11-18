@@ -89,7 +89,6 @@ Aspose::Pdf::Forms::TextBoxField::TextBoxField(const System::SharedPtr<Document>
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Document](../../../aspose.pdf/document/)
 * Class [TextBoxField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -111,7 +110,6 @@ Aspose::Pdf::Forms::TextBoxField::TextBoxField(const System::SharedPtr<Document>
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Document](../../../aspose.pdf/document/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [TextBoxField](../)
 * Namespace [Aspose::Pdf::Forms](../../)

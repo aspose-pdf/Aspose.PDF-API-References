@@ -13,7 +13,7 @@ url: /cpp/system.io/stdwostreamwrapper/
 Specializations of [BasicSTDOStreamWrapper](../basicstdostreamwrapper/) for wchar_t character types.
 
 ```cpp
-using System::IO::STDWOStreamWrapper =  BasicSTDOStreamWrapper<std::wostream>
+using System::IO::STDWOStreamWrapper = BasicSTDOStreamWrapper<std::wostream>
 ```
 
 ## See Also

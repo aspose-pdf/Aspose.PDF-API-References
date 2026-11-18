@@ -25,7 +25,6 @@ System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<Pd
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IEnumerator](../../../system.collections.generic/ienumerator/)
-* Class [PdfAction](../../pdfaction/)
 * Class [ActionCollection](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

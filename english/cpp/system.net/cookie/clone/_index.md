@@ -25,6 +25,5 @@ A copy of the current instance.
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Cookie](../)
-* Class [Cookie](../)
 * Namespace [System::Net](../../)
 * Library [Aspose.PDF for C++](../../../)

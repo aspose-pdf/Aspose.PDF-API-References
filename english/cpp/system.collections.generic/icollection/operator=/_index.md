@@ -24,7 +24,6 @@ Reference to this.
 ## See Also
 
 * Class [ICollection](../)
-* Class [ICollection](../)
 * Namespace [System::Collections::Generic](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## ICollection::operator=(ICollection\&&) method
@@ -43,7 +42,6 @@ Reference to this.
 
 ## See Also
 
-* Class [ICollection](../)
 * Class [ICollection](../)
 * Namespace [System::Collections::Generic](../../)
 * Library [Aspose.PDF for C++](../../../)

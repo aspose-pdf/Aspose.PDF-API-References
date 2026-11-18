@@ -28,7 +28,6 @@ The result of the expression ([Boolean](../../../system/boolean/), number, strin
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [XPathExpression](../../xpathexpression/)
 * Class [XPathNavigator](../)
 * Namespace [System::Xml::XPath](../../)
@@ -55,7 +54,6 @@ The result of the expression ([Boolean](../../../system/boolean/), number, strin
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [XPathExpression](../../xpathexpression/)
 * Class [XPathNodeIterator](../../xpathnodeiterator/)
 * Class [XPathNavigator](../)
@@ -82,7 +80,6 @@ The result of the expression ([Boolean](../../../system/boolean/), number, strin
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [String](../../../system/string/)
 * Class [XPathNavigator](../)
 * Namespace [System::Xml::XPath](../../)
@@ -109,7 +106,6 @@ The result of the expression ([Boolean](../../../system/boolean/), number, strin
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [String](../../../system/string/)
 * Class [IXmlNamespaceResolver](../../../system.xml/ixmlnamespaceresolver/)
 * Class [XPathNavigator](../)

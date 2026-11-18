@@ -28,6 +28,5 @@ int System::Decimal::CompareTo(const Decimal &d) const
 ## See Also
 
 * Class [Decimal](../)
-* Class [Decimal](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf/saveoptions/margininfo/topmarginifany/
 ## TopMarginIfAny field
 
 
-Represents top page margin(if any)
+Represents top page margin(if any).
 
 ```cpp
 System::SharedPtr<SaveOptions::MarginPartStyle> Aspose::Pdf::SaveOptions::MarginInfo::TopMarginIfAny

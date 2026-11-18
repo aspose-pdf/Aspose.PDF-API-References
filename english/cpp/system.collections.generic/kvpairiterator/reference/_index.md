@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/kvpairiterator/reference/
 
 
 ```cpp
-using System::Collections::Generic::KVPairIterator< KVPair, Container >::reference =  value_type &
+using System::Collections::Generic::KVPairIterator< KVPair, Container >::reference = value_type &
 ```
 
 ## See Also

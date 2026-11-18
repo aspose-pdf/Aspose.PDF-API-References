@@ -18,7 +18,6 @@ static DateTime System::DateTime::ParseExact(const String &s, const ArrayPtr<Str
 
 ## See Also
 
-* Class [DateTime](../)
 * Class [String](../../string/)
 * Typedef [ArrayPtr](../../arrayptr/)
 * Typedef [SharedPtr](../../sharedptr/)
@@ -38,7 +37,6 @@ static DateTime System::DateTime::ParseExact(const String &s, const ArrayPtr<Str
 
 ## See Also
 
-* Class [DateTime](../)
 * Class [String](../../string/)
 * Typedef [ArrayPtr](../../arrayptr/)
 * Typedef [SharedPtr](../../sharedptr/)
@@ -70,7 +68,6 @@ A new instance of [DateTime](../) class that represents the date and time value 
 
 ## See Also
 
-* Class [DateTime](../)
 * Class [String](../../string/)
 * Typedef [ArrayPtr](../../arrayptr/)
 * Typedef [SharedPtr](../../sharedptr/)
@@ -90,7 +87,6 @@ static DateTime System::DateTime::ParseExact(const String &s, const ArrayPtr<Str
 
 ## See Also
 
-* Class [DateTime](../)
 * Class [String](../../string/)
 * Typedef [ArrayPtr](../../arrayptr/)
 * Enum [DateTimeStyles](../../../system.globalization/datetimestyles/)
@@ -108,7 +104,6 @@ static DateTime System::DateTime::ParseExact(const String &s, const String &form
 
 ## See Also
 
-* Class [DateTime](../)
 * Class [String](../../string/)
 * Typedef [SharedPtr](../../sharedptr/)
 * Class [CultureInfo](../../../system.globalization/cultureinfo/)
@@ -127,7 +122,6 @@ static DateTime System::DateTime::ParseExact(const String &s, const String &form
 
 ## See Also
 
-* Class [DateTime](../)
 * Class [String](../../string/)
 * Typedef [SharedPtr](../../sharedptr/)
 * Class [DateTimeFormatInfo](../../../system.globalization/datetimeformatinfo/)
@@ -158,7 +152,6 @@ A new instance of [DateTime](../) class that represents the date and time value 
 
 ## See Also
 
-* Class [DateTime](../)
 * Class [String](../../string/)
 * Typedef [SharedPtr](../../sharedptr/)
 * Class [IFormatProvider](../../iformatprovider/)
@@ -177,7 +170,6 @@ static DateTime System::DateTime::ParseExact(const String &s, const String &form
 
 ## See Also
 
-* Class [DateTime](../)
 * Class [String](../../string/)
 * Enum [DateTimeStyles](../../../system.globalization/datetimestyles/)
 * Class [DateTime](../)

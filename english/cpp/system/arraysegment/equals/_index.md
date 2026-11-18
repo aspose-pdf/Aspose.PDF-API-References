@@ -19,7 +19,6 @@ bool System::ArraySegment<T>::Equals(ArraySegment<T> obj)
 ## See Also
 
 * Class [ArraySegment](../)
-* Class [ArraySegment](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## ArraySegment::Equals(System::SharedPtr\<Object\>) method
@@ -34,7 +33,6 @@ virtual bool System::ArraySegment<T>::Equals(System::SharedPtr<Object> obj) over
 ## See Also
 
 * Typedef [SharedPtr](../../sharedptr/)
-* Class [Object](../../object/)
 * Class [ArraySegment](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -21,15 +21,7 @@ class PdfToImage : public Aspose::Pdf::LowCode::IPlugin,
 
 | Method | Description |
 | --- | --- |
-| [Dispose](./dispose/)() override | Implementation of 
-IDisposable
-
-
-. Actually, it is not necessary for 
-[PdfToImage](./)
-
-
-. |
+| [Dispose](./dispose/)() override | Implementation of IDisposable. Actually, it is not necessary for [PdfToImage](./). |
 | [Process](./process/)(const System::SharedPtr\<IPluginOptions\>\&) override | Starts 
 [PdfToImage](./)
 

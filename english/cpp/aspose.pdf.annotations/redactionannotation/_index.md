@@ -31,7 +31,7 @@ class RedactionAnnotation : public Aspose::Pdf::Annotations::MarkupAnnotation
 | [get_QuadPoint](./get_quadpoint/)() | An array of 8xN numbers specifying the coordinates of content region that is intended to be removed. |
 | [get_Repeat](./get_repeat/)() | If true overlay text will be repated on the annotation. |
 | [get_TextAlignment](./get_textalignment/)() | Gets. Alignment of Overlay [Text](../../aspose.pdf.text/). |
-| [Redact](./redact/)() | Flattens annotation and redacts page contents (i.e. removes text and image under redacted annotation) |
+| [Redact](./redact/)() | Flattens annotation and redacts page contents (i.e. removes text and image under redacted annotation). |
 | [RedactionAnnotation](./redactionannotation/)(const System::SharedPtr\<Document\>\&) | Constructor for [RedactionAnnotation](./). For using in Generator. |
 | [RedactionAnnotation](./redactionannotation/)(const System::SharedPtr\<Aspose::Pdf::Page\>\&, const System::SharedPtr\<Rectangle\>\&) | Constructor for RedactAnnotation. |
 | [set_BorderColor](./set_bordercolor/)(const System::SharedPtr\<Aspose::Pdf::Color\>\&) | Sets color of border which is drawn when redaction is not active. |

@@ -2,7 +2,7 @@
 title: Aspose::Pdf::Facades::PdfProducer class
 linktitle: PdfProducer
 second_title: Aspose.PDF for C++ API Reference
-description: 'Aspose::Pdf::Facades::PdfProducer class. Represents a class to produce PDF from other formats in C++.'
+description: 'Aspose::Pdf::Facades::PdfProducer class. Represents a class to produce PDF from other formats.  in C++.'
 type: docs
 weight: 3000
 url: /cpp/aspose.pdf.facades/pdfproducer/

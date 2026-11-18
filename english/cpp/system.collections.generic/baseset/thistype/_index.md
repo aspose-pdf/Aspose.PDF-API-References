@@ -4,7 +4,7 @@ linktitle: ThisType
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::BaseSet::ThisType typedef. Self type in C++.'
 type: docs
-weight: 2600
+weight: 2700
 url: /cpp/system.collections.generic/baseset/thistype/
 ---
 ## ThisType typedef
@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/baseset/thistype/
 Self type.
 
 ```cpp
-using System::Collections::Generic::BaseSet< T, SET_T >::ThisType =  System::Collections::Generic::BaseSet<T, SET_T>
+using System::Collections::Generic::BaseSet< T, SET_T >::ThisType = System::Collections::Generic::BaseSet<T, SET_T>
 ```
 
 ## See Also

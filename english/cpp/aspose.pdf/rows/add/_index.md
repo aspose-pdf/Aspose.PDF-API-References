@@ -24,7 +24,6 @@ The new row
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Row](../../row/)
 * Class [Rows](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -45,7 +44,6 @@ void Aspose::Pdf::Rows::Add(const System::SharedPtr<Row> &row)
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Row](../../row/)
 * Class [Rows](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

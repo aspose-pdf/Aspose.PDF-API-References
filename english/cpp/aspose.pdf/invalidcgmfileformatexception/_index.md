@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/invalidcgmfileformatexception/
 
 
 ```cpp
-using Aspose::Pdf::InvalidCgmFileFormatException =  System::ExceptionWrapper<Details_InvalidCgmFileFormatException>
+using Aspose::Pdf::InvalidCgmFileFormatException = System::ExceptionWrapper<Details_InvalidCgmFileFormatException>
 ```
 
 ## See Also

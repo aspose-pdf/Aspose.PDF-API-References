@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/invalidvalueformatexception/
 
 
 ```cpp
-using Aspose::Pdf::InvalidValueFormatException =  System::ExceptionWrapper<Details_InvalidValueFormatException>
+using Aspose::Pdf::InvalidValueFormatException = System::ExceptionWrapper<Details_InvalidValueFormatException>
 ```
 
 ## See Also

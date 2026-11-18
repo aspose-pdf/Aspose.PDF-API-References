@@ -29,7 +29,6 @@ This pointer.
 ## See Also
 
 * Class [StringBuilder](../)
-* Class [StringBuilder](../)
 * Namespace [System::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## StringBuilder::Replace(char_t, char_t, int, int) method
@@ -56,7 +55,6 @@ This pointer.
 ## See Also
 
 * Class [StringBuilder](../)
-* Class [StringBuilder](../)
 * Namespace [System::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## StringBuilder::Replace(const String\&, const String\&) method
@@ -80,7 +78,6 @@ This pointer.
 
 ## See Also
 
-* Class [StringBuilder](../)
 * Class [String](../../../system/string/)
 * Class [StringBuilder](../)
 * Namespace [System::Text](../../)
@@ -108,7 +105,6 @@ This pointer.
 
 ## See Also
 
-* Class [StringBuilder](../)
 * Class [String](../../../system/string/)
 * Class [StringBuilder](../)
 * Namespace [System::Text](../../)

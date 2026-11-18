@@ -20,7 +20,7 @@ enum class WordWrapMode
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Default | 0 | Default algorithm (allows breaking words in the middle) |
+| Default | 0 | Default algorithm (allows breaking words in the middle). |
 | ByWords | 1 | Word wrapping only wraps complete words. If the complete word cannot be wrapped, attempts to wrap word in the middle. |
 
 ## See Also

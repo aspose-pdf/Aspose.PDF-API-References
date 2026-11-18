@@ -10,11 +10,7 @@ url: /cpp/aspose.pdf.lowcode/pdftoimageoptions/addoutput/
 ## PdfToImageOptions::AddOutput method
 
 
-Sets new save data source. Can only be a 
-[FileDataSource](../../filedatasource/)
-
-
-. If you want save images into memory streams, pass null as parameter.
+Sets new save data source. Can only be a [FileDataSource](../../filedatasource/). If you want save images into memory streams, pass null as parameter.
 
 ```cpp
 void Aspose::Pdf::LowCode::PdfToImageOptions::AddOutput(const System::SharedPtr<IDataSource> &saveDataSource) override

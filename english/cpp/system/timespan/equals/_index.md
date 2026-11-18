@@ -53,7 +53,6 @@ True if the current object and the specified object represent the same time inte
 ## See Also
 
 * Class [TimeSpan](../)
-* Class [TimeSpan](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## TimeSpan::Equals(TimeSpan, TimeSpan) method
@@ -67,7 +66,6 @@ static constexpr bool System::TimeSpan::Equals(TimeSpan a, TimeSpan b)
 
 ## See Also
 
-* Class [TimeSpan](../)
 * Class [TimeSpan](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

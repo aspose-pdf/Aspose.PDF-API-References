@@ -47,7 +47,6 @@ Aspose::Pdf::Annotations::StampAnnotation::StampAnnotation(const System::SharedP
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Document](../../../aspose.pdf/document/)
 * Class [StampAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -24,7 +24,6 @@ Aspose::Pdf::Annotations::MarkupAnnotation::MarkupAnnotation(const System::Share
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Document](../../../aspose.pdf/document/)
 * Class [MarkupAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

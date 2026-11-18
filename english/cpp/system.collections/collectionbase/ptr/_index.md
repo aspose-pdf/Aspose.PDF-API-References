@@ -13,7 +13,7 @@ url: /cpp/system.collections/collectionbase/ptr/
 An alias for shared pointer to an instance of this class.
 
 ```cpp
-using System::Collections::CollectionBase< T >::Ptr =  SharedPtr<CollectionBase>
+using System::Collections::CollectionBase< T >::Ptr = SharedPtr<CollectionBase>
 ```
 
 ## See Also

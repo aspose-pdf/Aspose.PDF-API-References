@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/kvpairiterator/difference_type/
 
 
 ```cpp
-using System::Collections::Generic::KVPairIterator< KVPair, Container >::difference_type =  std::ptrdiff_t
+using System::Collections::Generic::KVPairIterator< KVPair, Container >::difference_type = std::ptrdiff_t
 ```
 
 ## See Also

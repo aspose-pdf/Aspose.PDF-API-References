@@ -28,7 +28,6 @@ Instance of current [TableCellBuilder](../).
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [TableCellBuilder](../)
 * Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [BaseParagraph](../../../aspose.pdf/baseparagraph/)
 * Class [TableCellBuilder](../)

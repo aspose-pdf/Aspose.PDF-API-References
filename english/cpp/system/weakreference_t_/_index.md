@@ -4,7 +4,7 @@ linktitle: WeakReference< T >
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::WeakReference< T > class. Represents a weak reference, which references an object while still allowing that object to be deleted in C++.'
 type: docs
-weight: 8200
+weight: 8600
 url: /cpp/system/weakreference_t_/
 ---
 ## WeakReference< T > class
@@ -30,7 +30,7 @@ template<typename T>class WeakReference< T > : public System::Object
 | [operator==](./operator==/)(const WeakReference\<T\>\&) const | Compares referenced object to another instance [WeakReference](../weakreference/) class. |
 | [reset](./reset/)() |  |
 | [SetTarget](./settarget/)(const SmartPtr\<T\>\&) | Sets the object (the target) referenced by the current [WeakReference](../weakreference/) object. |
-| [TryGetTarget](./trygettarget/)(const SmartPtr\<T\>\&) const | Gets the object (the target) referenced by the current [WeakReference](../weakreference/) object. |
+| [TryGetTarget](./trygettarget/)(SmartPtr\<T\>\&) const | Gets the object (the target) referenced by the current [WeakReference](../weakreference/) object. |
 | [WeakReference](./weakreference/)() | Default constructor. |
 | [WeakReference](./weakreference/)(std::nullptr_t) | Constructor from nullptr. |
 | [WeakReference](./weakreference/)(const SmartPtr\<T\>\&) | Initializes a new instance of the [WeakReference](../weakreference/) class, referencing the specified object. |

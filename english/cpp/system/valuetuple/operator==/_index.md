@@ -4,7 +4,7 @@ linktitle: operator==
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use operator== method of System::ValueTuple class in C++.'
 type: docs
-weight: 700
+weight: 900
 url: /cpp/system/valuetuple/operator==/
 ---
 ## ValueTuple::operator== method
@@ -13,12 +13,11 @@ url: /cpp/system/valuetuple/operator==/
 
 
 ```cpp
-bool System::ValueTuple<Args>::operator==(const ValueTuple &other) const
+template<typename ...> bool System::ValueTuple<Args>::operator==(const ValueTuple<OtherArgs...> &other) const
 ```
 
 ## See Also
 
-* Class [ValueTuple](../)
 * Class [ValueTuple](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

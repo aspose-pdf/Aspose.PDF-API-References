@@ -13,7 +13,7 @@ url: /cpp/system.io/stdiostreamwrapper/
 Specializations of [BasicSTDIOStreamWrapper](../basicstdiostreamwrapper/) for char character types.
 
 ```cpp
-using System::IO::STDIOStreamWrapper =  BasicSTDIOStreamWrapper<std::iostream>
+using System::IO::STDIOStreamWrapper = BasicSTDIOStreamWrapper<std::iostream>
 ```
 
 ## See Also

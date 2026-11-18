@@ -13,7 +13,8 @@ url: /cpp/system.collections.generic/basedictionary/
 Implements common code for various dictionary-alike data structures (e. g. [Dictionary](../dictionary/), [SortedDictionary](../sorteddictionary/)). Shouldn't be used directly, except for inheritance when defining containers. Objects of this class should only be allocated using [System::MakeObject()](../../system/makeobject/) function. Never create instance of this type on stack or using operator new, as it will result in runtime errors and/or assertion faults. Always wrap this class into [System::SmartPtr](../../system/smartptr/) pointer and use this pointer to pass it to functions as argument.
 
 ```cpp
-template<typename Map>class BaseDictionary : public System::Collections::Generic::IDictionary<Map::key_type, Map::mapped_type>
+template<typename Map>class BaseDictionary : public System::Collections::Generic::IDictionary<Map::key_type, Map::mapped_type>,
+                                             public System::Collections::Generic::IReadOnlyDictionary<Map::key_type, Map::mapped_type>
 ```
 
 
@@ -48,7 +49,7 @@ template<typename Map>class BaseDictionary : public System::Collections::Generic
 | [idx_set](./idx_set/)(const key_t\&, mapped_t) override | Keyed setter function. Alters or creates element. |
 | virtual [operator[]](./operator[]/)(const key_t\&) | Accessor function. |
 | [Remove](./remove/)(const key_t\&) override | Removes specific key from dictionary. |
-| [SetTemplateWeakPtr](./settemplateweakptr/)(unsigned int) override |  |
+| [SetTemplateWeakPtr](./settemplateweakptr/)(unsigned int) override | RTTI information. |
 | [TryGetValue](./trygetvalue/)(const key_t\&, mapped_t\&) const override | Looks for keyed value and retreives it if found. |
 | [virtualizeBeginConstIterator](./virtualizebeginconstiterator/)() const override | Gets the implementation of begin const iterator for the current container. |
 | [virtualizeBeginIterator](./virtualizebeginiterator/)() override | Gets the implementation of begin iterator for the current container. |
@@ -65,9 +66,11 @@ template<typename Map>class BaseDictionary : public System::Collections::Generic
 | [KVPair](./kvpair/) | Key-value pair type. |
 | [map_t](./map_t/) | Internal map type. |
 | [ValueCollection](./valuecollection/) | Collection of values. |
+| [ValueType](./valuetype/) | Value type name. |
 
 ## See Also
 
 * Class [IDictionary](../idictionary/)
+* Class [IReadOnlyDictionary](../ireadonlydictionary/)
 * Namespace [System::Collections::Generic](../)
 * Library [Aspose.PDF for C++](../../)

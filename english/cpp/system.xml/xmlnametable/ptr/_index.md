@@ -13,7 +13,7 @@ url: /cpp/system.xml/xmlnametable/ptr/
 An alias for shared pointer to an instance of this class.
 
 ```cpp
-using System::Xml::XmlNameTable::Ptr =  SharedPtr<XmlNameTable>
+using System::Xml::XmlNameTable::Ptr = SharedPtr<XmlNameTable>
 ```
 
 ## See Also

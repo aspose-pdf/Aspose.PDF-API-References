@@ -2,18 +2,18 @@
 title: System::Collections::Generic::_net_binnary_search method
 linktitle: _net_binnary_search
 second_title: Aspose.PDF for C++ API Reference
-description: 'System::Collections::Generic::_net_binnary_search method. Implements binary search in random access container. Specialization for smart pointers. Uses System::Object::CompareTo method in C++.'
+description: 'System::Collections::Generic::_net_binnary_search method. Implements binary search in random access container. Specialization for scalar types. Compares elements using greater and less operators in C++.'
 type: docs
-weight: 4900
+weight: 5400
 url: /cpp/system.collections.generic/_net_binnary_search/
 ---
 ## System::Collections::Generic::_net_binnary_search(const containterT\<T, Allocator\>\&, int, int, T) method
 
 
-Implements binary search in random access container. Specialization for smart pointers. Uses System::Object::CompareTo method.
+Implements binary search in random access container. Specialization for scalar types. Compares elements using greater and less operators.
 
 ```cpp
-template<template< typename, typename > class,class T,class Allocator> std::enable_if<IsSmartPtr<T>::value, int>::type System::Collections::Generic::_net_binnary_search(const containterT<T, Allocator> &container, int index, int count, T value)
+template<template< typename, typename > class,class T,class Allocator> std::enable_if<std::is_scalar<T>::value, int>::type System::Collections::Generic::_net_binnary_search(const containterT<T, Allocator> &container, int index, int count, T value)
 ```
 
 
@@ -72,10 +72,10 @@ If found, index of the next element; otherwise, complements of index at which th
 ## System::Collections::Generic::_net_binnary_search(const containterT\<T, Allocator\>\&, int, int, T) method
 
 
-Implements binary search in random access container. Specialization for scalar types. Compares elements using greater and less operators.
+Implements binary search in random access container. Specialization for smart pointers. Uses System::Object::CompareTo method.
 
 ```cpp
-template<template< typename, typename > class,class T,class Allocator> std::enable_if<std::is_scalar<T>::value, int>::type System::Collections::Generic::_net_binnary_search(const containterT<T, Allocator> &container, int index, int count, T value)
+template<template< typename, typename > class,class T,class Allocator> std::enable_if<IsSmartPtr<T>::value, int>::type System::Collections::Generic::_net_binnary_search(const containterT<T, Allocator> &container, int index, int count, T value)
 ```
 
 

@@ -2,38 +2,11 @@
 title: System::SmartPtr::SmartPtr constructor
 linktitle: SmartPtr
 second_title: Aspose.PDF for C++ API Reference
-description: 'System::SmartPtr::SmartPtr constructor. Converts type of referenced array by creating a new array of different type. Useful if in C# there is an array type cast which is unsupported in C++ in C++.'
+description: 'System::SmartPtr::SmartPtr constructor. Constructs a SmartPtr which shares ownership information with the initial value of ptr, but holds an unrelated and unmanaged pointer p in C++.'
 type: docs
 weight: 100
 url: /cpp/system/smartptr/smartptr/
 ---
-## SmartPtr::SmartPtr(const SmartPtr\<Array\<Y\>\>\&, SmartPtrMode) constructor
-
-
-Converts type of referenced array by creating a new array of different type. Useful if in C# there is an array type cast which is unsupported in C++.
-
-```cpp
-template<typename Y> System::SmartPtr<T>::SmartPtr(const SmartPtr<Array<Y>> &src, SmartPtrMode mode=SmartPtrMode::Shared)
-```
-
-
-| Parameter | Description |
-| --- | --- |
-| Y | Type of source array. |
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| src | const SmartPtr\<Array\<Y\>\>\& | Pointer to array to create a copy of, but with different type of elements. |
-| mode | SmartPtrMode | Pointer mode. |
-
-## See Also
-
-* Class [SmartPtr](../)
-* Class [Array](../../array/)
-* Enum [SmartPtrMode](../../smartptrmode/)
-* Class [SmartPtr](../)
-* Namespace [System](../../)
-* Library [Aspose.PDF for C++](../../../)
 ## SmartPtr::SmartPtr(const SmartPtr\<P\>\&, Pointee_ *, SmartPtrMode) constructor
 
 
@@ -52,7 +25,6 @@ template<typename P> System::SmartPtr<T>::SmartPtr(const SmartPtr<P> &ptr, Point
 
 ## See Also
 
-* Class [SmartPtr](../)
 * Typedef [Pointee_](../pointee_/)
 * Enum [SmartPtrMode](../../smartptrmode/)
 * Class [SmartPtr](../)
@@ -79,7 +51,6 @@ template<class Q,typename> System::SmartPtr<T>::SmartPtr(const SmartPtr<Q> &x, S
 
 ## See Also
 
-* Class [SmartPtr](../)
 * Enum [SmartPtrMode](../../smartptrmode/)
 * Class [SmartPtr](../)
 * Namespace [System](../../)

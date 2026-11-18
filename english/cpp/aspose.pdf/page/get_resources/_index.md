@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf/page/get_resources/
 ## Page::get_Resources method
 
 
-Gets page resources. [Resources](../../resources/) object contains collections of images, forms and fonts. [Resources](../../resources/)
+Gets page resources. [Resources](../../resources/) object contains collections of images, forms and fonts. [Resources](../../resources/).
 
 ```cpp
 System::SharedPtr<Aspose::Pdf::Resources> Aspose::Pdf::Page::get_Resources() override

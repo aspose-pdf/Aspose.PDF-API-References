@@ -28,7 +28,6 @@ The result of the conversion.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [StructureTypeStandard](../)
 * Class [String](../../../system/string/)
 * Class [StructureTypeStandard](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)

@@ -25,7 +25,6 @@ RectangleF System::Drawing::Region::GetBounds(const SharedPtr<Graphics> &graphic
 
 * Class [RectangleF](../../rectanglef/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Graphics](../../graphics/)
 * Class [Region](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.PDF for C++](../../../)

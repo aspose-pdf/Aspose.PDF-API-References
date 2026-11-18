@@ -29,6 +29,5 @@ A value that is less than 0 if **t1** is earlier than **t2**; 0 if **t1** is the
 ## See Also
 
 * Class [DateTime](../)
-* Class [DateTime](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

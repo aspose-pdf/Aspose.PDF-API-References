@@ -25,6 +25,5 @@ void System::Security::SecurityElement::set_Children(System::Collections::Generi
 
 * Class [List](../../../system.collections.generic/list/)
 * Class [SecurityElement](../)
-* Class [SecurityElement](../)
 * Namespace [System::Security](../../)
 * Library [Aspose.PDF for C++](../../../)

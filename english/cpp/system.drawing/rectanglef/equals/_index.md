@@ -28,6 +28,5 @@ True if the rectangles represented by the current and the specified objects are 
 ## See Also
 
 * Class [RectangleF](../)
-* Class [RectangleF](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.PDF for C++](../../../)

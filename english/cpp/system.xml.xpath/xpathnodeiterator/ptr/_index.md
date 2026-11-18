@@ -13,7 +13,7 @@ url: /cpp/system.xml.xpath/xpathnodeiterator/ptr/
 An alias for shared pointer to an instance of this class.
 
 ```cpp
-using System::Xml::XPath::XPathNodeIterator::Ptr =  SharedPtr<XPathNodeIterator>
+using System::Xml::XPath::XPathNodeIterator::Ptr = SharedPtr<XPathNodeIterator>
 ```
 
 ## See Also

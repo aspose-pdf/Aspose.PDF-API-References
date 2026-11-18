@@ -29,6 +29,5 @@ System::SharedPtr<PDF3DRenderMode> Aspose::Pdf::Annotations::PDF3DRenderMode::Se
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PDF3DRenderMode](../)
-* Class [PDF3DRenderMode](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

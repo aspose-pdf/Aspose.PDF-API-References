@@ -32,7 +32,6 @@ A newly created list of converted elements.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [List](../)
 * Typedef [Converter](../../../system/converter/)
 * Class [List](../)
 * Namespace [System::Collections::Generic](../../)

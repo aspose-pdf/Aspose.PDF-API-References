@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf/baseparagraph/get_isinnewpage/
 ## BaseParagraph::get_IsInNewPage method
 
 
-Gets a bool value that force this paragraph generates at new page. Default is false.(for pdf generation)
+Gets a bool value that force this paragraph generates at new page. Default is false.(for pdf generation).
 
 ```cpp
 bool Aspose::Pdf::BaseParagraph::get_IsInNewPage() const

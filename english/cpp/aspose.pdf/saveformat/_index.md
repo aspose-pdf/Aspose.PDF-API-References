@@ -32,7 +32,7 @@ enum class SaveFormat
 | MobiXml | 8 | means saving in MobiXML format(special format of e-books) |
 | Excel | 9 | means saving in MsExcel format |
 | Epub | 10 | means saving in EPUB format(special format of e-books) |
-| Pptx | 14 | means saving in [MHT(WebArchieve)](../loadformat/) |
+| Pptx | 14 | means saving in MHT(WebArchieve) |
 | Aps | 15 | Saving as APS XML file. |
 | PdfXml | 16 | Internal PDF document structure in XML format. |
 | Ps | 17 | means saving in PostScript format. |

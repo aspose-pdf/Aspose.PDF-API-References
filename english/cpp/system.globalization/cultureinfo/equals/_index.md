@@ -28,7 +28,6 @@ True if **obj** is [CultureInfo](../) and has same parameters as this object, fa
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [CultureInfo](../)
 * Namespace [System::Globalization](../../)
 * Library [Aspose.PDF for C++](../../../)

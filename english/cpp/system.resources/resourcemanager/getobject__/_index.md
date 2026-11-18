@@ -28,7 +28,6 @@ Requested resource.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [String](../../../system/string/)
 * Class [ResourceManager](../)
 * Namespace [System::Resources](../../)
@@ -55,7 +54,6 @@ Requested resource.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [String](../../../system/string/)
 * Class [CultureInfo](../../../system.globalization/cultureinfo/)
 * Class [ResourceManager](../)

@@ -28,7 +28,6 @@ true if current object is equal to **other**, otherwise - false.
 ## See Also
 
 * Class [DateTimeOffset](../)
-* Class [DateTimeOffset](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## DateTimeOffset::Equals(const SharedPtr\<Object\>\&) const method
@@ -77,7 +76,6 @@ true if **first** is equal to **second**, otherwise - false.
 
 ## See Also
 
-* Class [DateTimeOffset](../)
 * Class [DateTimeOffset](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

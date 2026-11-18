@@ -24,7 +24,6 @@ void Aspose::Pdf::XmpPdfAExtensionValueType::Add(const System::SharedPtr<XmpPdfA
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmpPdfAExtensionField](../../xmppdfaextensionfield/)
 * Class [XmpPdfAExtensionValueType](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

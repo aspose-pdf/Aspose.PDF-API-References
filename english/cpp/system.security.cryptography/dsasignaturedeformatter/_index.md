@@ -20,9 +20,11 @@ class DSASignatureDeformatter : public System::Security::Cryptography::Asymmetri
 
 | Method | Description |
 | --- | --- |
-| [SetHashAlgorithm](./sethashalgorithm/)(String) override | NOT IMPLEMENTED. |
-| [SetKey](./setkey/)(SharedPtr\<AsymmetricAlgorithm\>) override | NOT IMPLEMENTED. |
-| [VerifySignature](./verifysignature/)(ArrayPtr\<uint8_t\>, ArrayPtr\<uint8_t\>) override | NOT IMPLEMENTED. |
+| [DSASignatureDeformatter](./dsasignaturedeformatter/)() | Constructor. |
+| [DSASignatureDeformatter](./dsasignaturedeformatter/)(const SharedPtr\<AsymmetricAlgorithm\>\&) | Constructor. |
+| [SetHashAlgorithm](./sethashalgorithm/)(String) override | Sets hash algorithm to use. |
+| [SetKey](./setkey/)(SharedPtr\<AsymmetricAlgorithm\>) override | Sets key to use for verification. |
+| [VerifySignature](./verifysignature/)(ArrayPtr\<uint8_t\>, ArrayPtr\<uint8_t\>) override | Verifies the [DSA](../dsa/) signature of the specified hash. |
 ## See Also
 
 * Class [AsymmetricSignatureDeformatter](../asymmetricsignaturedeformatter/)

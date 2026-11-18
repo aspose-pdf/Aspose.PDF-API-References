@@ -24,7 +24,6 @@ Aspose::Pdf::Annotations::Border::Border(const System::SharedPtr<Annotation> &pa
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Annotation](../../annotation/)
 * Class [Border](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

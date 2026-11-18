@@ -26,7 +26,6 @@ void System::Web::Services::Protocols::SoapMessage::CollectHeaders(System::Share
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Typedef [ArrayPtr](../../../system/arrayptr/)
 * Enum [SoapHeaderDirection](../../soapheaderdirection/)
 * Class [SoapMessage](../)

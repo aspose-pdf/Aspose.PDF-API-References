@@ -13,7 +13,7 @@ url: /cpp/system.collections.concurrent/concurrentdictionary/thistype/
 This type.
 
 ```cpp
-using System::Collections::Concurrent::ConcurrentDictionary< TKey, TValue >::ThisType =  ConcurrentDictionary<TKey, TValue>
+using System::Collections::Concurrent::ConcurrentDictionary< TKey, TValue >::ThisType = ConcurrentDictionary<TKey, TValue>
 ```
 
 ## See Also

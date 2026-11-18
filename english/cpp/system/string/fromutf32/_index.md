@@ -29,6 +29,5 @@ static String System::String::FromUtf32(const uint32_t *utf32, int32_t length)
 ## See Also
 
 * Class [String](../)
-* Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

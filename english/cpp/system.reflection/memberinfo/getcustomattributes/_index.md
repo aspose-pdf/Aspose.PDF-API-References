@@ -25,7 +25,6 @@ ArrayPtr<SharedPtr<Object>> System::Reflection::MemberInfo::GetCustomAttributes(
 
 * Typedef [ArrayPtr](../../../system/arrayptr/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [MemberInfo](../)
 * Namespace [System::Reflection](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -48,7 +47,6 @@ ArrayPtr<SharedPtr<Object>> System::Reflection::MemberInfo::GetCustomAttributes(
 
 * Typedef [ArrayPtr](../../../system/arrayptr/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [TypeInfo](../../../system/typeinfo/)
 * Class [MemberInfo](../)
 * Namespace [System::Reflection](../../)

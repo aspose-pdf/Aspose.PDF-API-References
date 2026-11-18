@@ -25,6 +25,5 @@ A representing a system-defined color.
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Color](../)
-* Class [Color](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

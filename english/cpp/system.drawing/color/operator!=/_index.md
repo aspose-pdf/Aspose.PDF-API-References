@@ -28,7 +28,6 @@ True if the current and the specified objects represent distinct colors, otherwi
 ## See Also
 
 * Class [Color](../)
-* Class [Color](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## Color::operator!=(const std::nullptr_t\&) const method

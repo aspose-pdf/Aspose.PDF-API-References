@@ -23,7 +23,6 @@ The value can be null in case the [TextFragment](../) object doesn't belong to a
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XForm](../../../aspose.pdf/xform/)
 * Class [TextFragment](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

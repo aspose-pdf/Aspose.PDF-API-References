@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/hashset/thistype/
 Self type.
 
 ```cpp
-using System::Collections::Generic::HashSet< T >::ThisType =  System::Collections::Generic::HashSet<T>
+using System::Collections::Generic::HashSet< T >::ThisType = System::Collections::Generic::HashSet<T>
 ```
 
 ## See Also

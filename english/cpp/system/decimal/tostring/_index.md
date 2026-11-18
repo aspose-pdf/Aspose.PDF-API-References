@@ -35,7 +35,6 @@ String System::Decimal::ToString(const Decimal &value, std::nullptr_t) const
 
 * Class [String](../../string/)
 * Class [Decimal](../)
-* Class [Decimal](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## Decimal::ToString(const SharedPtr\<Globalization::CultureInfo\>\&) const method

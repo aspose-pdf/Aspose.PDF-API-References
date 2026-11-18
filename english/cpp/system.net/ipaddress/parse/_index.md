@@ -28,7 +28,6 @@ An instance of the [IPAddress](../) class.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IPAddress](../)
 * Class [String](../../../system/string/)
 * Class [IPAddress](../)
 * Namespace [System::Net](../../)

@@ -29,7 +29,6 @@ template<class...> String System::String::Format(const SharedPtr<IFormatProvider
 
 ## See Also
 
-* Class [String](../)
 * Typedef [SharedPtr](../../sharedptr/)
 * Class [IFormatProvider](../../iformatprovider/)
 * Class [String](../)
@@ -57,7 +56,6 @@ template<class...> String System::String::Format(const String &format, const Arg
 ## See Also
 
 * Class [String](../)
-* Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## String::Format(const String\&, const System::ArrayPtr\<T\>\&) method
@@ -81,7 +79,6 @@ template<class T> String System::String::Format(const String &format, const Syst
 
 ## See Also
 
-* Class [String](../)
 * Typedef [ArrayPtr](../../arrayptr/)
 * Class [String](../)
 * Namespace [System](../../)
@@ -108,7 +105,6 @@ template<std::size_t,class...> String System::String::Format(std::nullptr_t, con
 ## See Also
 
 * Class [String](../)
-* Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## String::Format(std::nullptr_t, const String\&, const Args\&...) method
@@ -132,7 +128,6 @@ template<class...> String System::String::Format(std::nullptr_t, const String &f
 
 ## See Also
 
-* Class [String](../)
 * Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

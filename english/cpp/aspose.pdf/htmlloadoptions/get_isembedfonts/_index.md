@@ -4,7 +4,7 @@ linktitle: get_IsEmbedFonts
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::HtmlLoadOptions::get_IsEmbedFonts method. Gets fonts embedding to result document in C++.'
 type: docs
-weight: 600
+weight: 700
 url: /cpp/aspose.pdf/htmlloadoptions/get_isembedfonts/
 ---
 ## HtmlLoadOptions::get_IsEmbedFonts method

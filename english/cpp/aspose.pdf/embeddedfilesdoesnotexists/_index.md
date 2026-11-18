@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/embeddedfilesdoesnotexists/
 
 
 ```cpp
-using Aspose::Pdf::EmbeddedFilesDoesNotExists =  System::ExceptionWrapper<Details_EmbeddedFilesDoesNotExists>
+using Aspose::Pdf::EmbeddedFilesDoesNotExists = System::ExceptionWrapper<Details_EmbeddedFilesDoesNotExists>
 ```
 
 ## See Also

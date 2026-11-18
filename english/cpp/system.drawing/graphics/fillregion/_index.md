@@ -26,7 +26,6 @@ void System::Drawing::Graphics::FillRegion(const SharedPtr<Brush> &brush, const 
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Brush](../../brush/)
-* Class [Region](../../region/)
 * Class [Graphics](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.PDF for C++](../../../)

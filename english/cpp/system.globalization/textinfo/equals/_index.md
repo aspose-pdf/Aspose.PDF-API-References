@@ -19,7 +19,6 @@ bool System::Globalization::TextInfo::Equals(SharedPtr<Object> obj) override
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [TextInfo](../)
 * Namespace [System::Globalization](../../)
 * Library [Aspose.PDF for C++](../../../)

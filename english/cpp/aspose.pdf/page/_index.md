@@ -41,14 +41,14 @@ class Page : public System::IDisposable,
 | [Flatten](./flatten/)() | Removes all fields located on the page and place their values instead. |
 | [FreeMemory](./freememory/)() override | Clears cached data. |
 | [get_Actions](./get_actions/)() | Gets collection of page properties. |
-| [get_Annotations](./get_annotations/)() | Gets collection of page annotations. [Annotations](../../aspose.pdf.annotations/) |
+| [get_Annotations](./get_annotations/)() | Gets collection of page annotations. [Annotations](../../aspose.pdf.annotations/). |
 | [get_ArtBox](./get_artbox/)() | Gets art box of the page. |
 | [get_Artifacts](./get_artifacts/)() | Gets collection of artifacts on the page. |
 | [get_Background](./get_background/)() | Gets the background color of the page. |
 | [get_BackgroundImage](./get_backgroundimage/)() const | Gets background image for page (for generator only, not filled in when reading document). |
 | [get_BleedBox](./get_bleedbox/)() | Gets bleed box of the page. |
 | [get_ColorType](./get_colortype/)() | Sets color type of the pages based on information getting from operators SetColor, images and forms. |
-| [get_Contents](./get_contents/)() override | Gets collection of operators in the content stream of the page. [OperatorCollection](../operatorcollection/) |
+| [get_Contents](./get_contents/)() override | Gets collection of operators in the content stream of the page. [OperatorCollection](../operatorcollection/). |
 | [get_CropBox](./get_cropbox/)() | Gets crop box of the page. |
 | [get_Duration](./get_duration/)() | Gets of set page display duration. This is time in seconds that page shall be displayed during presentation. Returns -1 if duration is not defined. |
 | [get_FieldsInTabOrder](./get_fieldsintaborder/)() | Gets list of Field object in Tab order on this page. |
@@ -58,15 +58,13 @@ class Page : public System::IDisposable,
 | [get_IsAddParagraphsAfterLast](./get_isaddparagraphsafterlast/)() const | Gets the addition of paragraphs after the last paragraph of the page. |
 | [get_Layers](./get_layers/)() | Gets layers collection. |
 | [get_MediaBox](./get_mediabox/)() | Gets media box of the page. |
-| [get_NoteLineStyle](./get_notelinestyle/)() | Gets the line style for notes.(for generator only, not filled in when reading document) |
+| [get_NoteLineStyle](./get_notelinestyle/)() | Gets the line style for notes.(for generator only, not filled in when reading document). |
 | [get_Number](./get_number/)() | Get number of the page. |
 | [get_PageInfo](./get_pageinfo/)() | Gets the page info (for generator only, not filled in when reading document). |
 | [get_Paragraphs](./get_paragraphs/)() | Gets the paragraphs. |
-| [get_ProcessSpecialSymbols](./get_processspecialsymbols/)() const | Gets a value indicating whether special symbols, such as $p and $P, are processed. The default value is **true**
-
-. |
+| [get_ProcessSpecialSymbols](./get_processspecialsymbols/)() const | Gets a value indicating whether special symbols, such as $p and $P, are processed. The default value is **true**. |
 | [get_Rect](./get_rect/)() | Gets rectangle of the page. For get: page crop box is returned if specified, otherwise page media box is returned. For set: page media box always set. Please note that this property don't consider page rotation. To get page rectangle considering rotation please use ActualRect. |
-| [get_Resources](./get_resources/)() override | Gets page resources. [Resources](../resources/) object contains collections of images, forms and fonts. [Resources](../resources/) |
+| [get_Resources](./get_resources/)() override | Gets page resources. [Resources](../resources/) object contains collections of images, forms and fonts. [Resources](../resources/). |
 | [get_Rotate](./get_rotate/)() | Gets rotation of the page. |
 | [get_RotationMatrix](./get_rotationmatrix/)() | Gets transofmation matrix for the page. |
 | [get_TabOrder](./get_taborder/)() | Gets tab order of the page. Possible values: [Row](../row/), Column. Default, Manual. |
@@ -74,7 +72,7 @@ class Page : public System::IDisposable,
 | [get_TrimBox](./get_trimbox/)() | Gets trim box of the page. |
 | [get_UserUnit](./get_userunit/)() | Gets UserUnit value. A positive number giving the size of default user space units, in multiples of 1 / 72 inch. Default value is 1. Please set zero or negative value in order to clear this entry in page. |
 | [get_Watermark](./get_watermark/)() | Gets the watermark of the page. |
-| [GetNotifications](./getnotifications/)() | Returns notifications about inside operations with page content. (Only notifications about paragraph events in text adding scenarios are supported now.) |
+| [GetNotifications](./getnotifications/)() | Returns notifications about inside operations with page content. (Only notifications about paragraph events in text adding scenarios are supported now.). |
 | [GetPageRect](./getpagerect/)(bool) | Returns rectangle of the page according to its CropBox (or MediaBox if CropBox null). |
 | [GetResources](./getresources/)() override | Retrieves the resources associated with the page. |
 | [HasVectorGraphics](./hasvectorgraphics/)() | Detect of the presence of vector graphics, if it is present on the page. |
@@ -99,12 +97,10 @@ class Page : public System::IDisposable,
 | [set_IsAddParagraphsAfterLast](./set_isaddparagraphsafterlast/)(bool) | Sets the addition of paragraphs after the last paragraph of the page. |
 | [set_Layers](./set_layers/)(const System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<Aspose::Pdf::Layer\>\>\>\&) | Sets layers collection. |
 | [set_MediaBox](./set_mediabox/)(const System::SharedPtr\<Aspose::Pdf::Rectangle\>\&) | Sets media box of the page. |
-| [set_NoteLineStyle](./set_notelinestyle/)(const System::SharedPtr\<Aspose::Pdf::GraphInfo\>\&) | Sets the line style for notes.(for generator only, not filled in when reading document) |
+| [set_NoteLineStyle](./set_notelinestyle/)(const System::SharedPtr\<Aspose::Pdf::GraphInfo\>\&) | Sets the line style for notes.(for generator only, not filled in when reading document). |
 | [set_PageInfo](./set_pageinfo/)(const System::SharedPtr\<Aspose::Pdf::PageInfo\>\&) | Sets the page info (for generator only, not filled in when reading document). |
 | [set_Paragraphs](./set_paragraphs/)(const System::SharedPtr\<Aspose::Pdf::Paragraphs\>\&) | Gets the paragraphs. |
-| [set_ProcessSpecialSymbols](./set_processspecialsymbols/)(bool) | Sets a value indicating whether special symbols, such as $p and $P, are processed. The default value is **true**
-
-. |
+| [set_ProcessSpecialSymbols](./set_processspecialsymbols/)(bool) | Sets a value indicating whether special symbols, such as $p and $P, are processed. The default value is **true**. |
 | [set_Rect](./set_rect/)(const System::SharedPtr\<Aspose::Pdf::Rectangle\>\&) | Sets rectangle of the page. For get: page crop box is returned if specified, otherwise page media box is returned. For set: page media box always set. Please note that this property don't consider page rotation. To get page rectangle considering rotation please use ActualRect. |
 | [set_Rotate](./set_rotate/)(Aspose::Pdf::Rotation) | Sets rotation of the page. |
 | [set_TabOrder](./set_taborder/)(Aspose::Pdf::TabOrder) | Sets tab order of the page. Possible values: [Row](../row/), Column. Default, Manual. |

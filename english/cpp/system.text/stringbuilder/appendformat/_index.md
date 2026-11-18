@@ -33,7 +33,6 @@ This pointer.
 
 ## See Also
 
-* Class [StringBuilder](../)
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IFormatProvider](../../../system/iformatprovider/)
 * Class [String](../../../system/string/)
@@ -65,7 +64,6 @@ This pointer.
 
 ## See Also
 
-* Class [StringBuilder](../)
 * Class [String](../../../system/string/)
 * Class [StringBuilder](../)
 * Namespace [System::Text](../../)

@@ -13,7 +13,7 @@ url: /cpp/system.linq/iorderedenumerable/comparator/
 RTTI information.
 
 ```cpp
-using System::Linq::IOrderedEnumerable< T >::Comparator =  std::function<bool(const T&, const T&)>
+using System::Linq::IOrderedEnumerable< T >::Comparator = std::function<bool(const T&, const T&)>
 ```
 
 ## See Also

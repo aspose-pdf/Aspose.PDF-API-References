@@ -13,7 +13,7 @@ url: /cpp/system/smartptr/valuetype/
 Storage type of pointed array. Only meaningful if T is a specialization of [System::Array](../../array/).
 
 ```cpp
-using System::SmartPtr< T >::ValueType =  typename System::Details::SelectType<typename System::Details::ArrayTypeResolver<T>::value_type>::type
+using System::SmartPtr< T >::ValueType = typename System::Details::SelectType<typename System::Details::ArrayTypeResolver<T>::value_type>::type
 ```
 
 ## See Also

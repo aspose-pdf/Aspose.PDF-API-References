@@ -28,6 +28,5 @@ True if objects are equal, otherwise - false
 ## See Also
 
 * Class [BitVector32](../)
-* Class [BitVector32](../)
 * Namespace [System::Collections::Specialized](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -4,7 +4,7 @@ linktitle: Encoding
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Text::Encoding class. Encoding services in C++.'
 type: docs
-weight: 1600
+weight: 1700
 url: /cpp/system.text/encoding/
 ---
 ## Encoding class
@@ -25,7 +25,7 @@ class Encoding : public System::Object
 | static [Convert](./convert/)(const EncodingPtr\&, const EncodingPtr\&, const ArrayPtr\<uint8_t\>\&, int, int) | Converts bytes between two encodings. |
 | [Equals](./equals/)(SharedPtr\<Object\>) override | Compares encodings. |
 | static [get_ASCII](./get_ascii/)() | Gets ASCII encoding. |
-| static [get_BigEndianUnicode](./get_bigendianunicode/)() | Gets the standard big-endian Unicode encoding object. |
+| static [get_BigEndianUnicode](./get_bigendianunicode/)() | Gets the standard big-endian [Unicode](../../system.text.unicode/) encoding object. |
 | static [get_BigEndianUTF32](./get_bigendianutf32/)() | Gets the standard big-endian UTF-32 encoding object. |
 | virtual [get_BodyName](./get_bodyname/)() | Gets mail agent body compatible encoding name. |
 | virtual [get_CodePage](./get_codepage/)() | Gets [Windows](../../system.windows/) codepage ID. |
@@ -41,7 +41,7 @@ class Encoding : public System::Object
 | [get_IsReadOnly](./get_isreadonly/)() | Checks whether encoding is read-only. |
 | virtual [get_IsSingleByte](./get_issinglebyte/)() | Checks whether encoding is single byte. |
 | static [get_Latin1](./get_latin1/)() | Gets Latin1 encoding. FOR INTERNAL USE. |
-| static [get_Unicode](./get_unicode/)() | Gets the standard Unicode encoding object. |
+| static [get_Unicode](./get_unicode/)() | Gets the standard [Unicode](../../system.text.unicode/) encoding object. |
 | static [get_UTF32](./get_utf32/)() |  |
 | static [get_UTF7](./get_utf7/)() | Gets the standard UTF-7 encoding object. |
 | static [get_UTF8](./get_utf8/)() | Gets the standard UTF-8 encoding object. |
@@ -90,6 +90,7 @@ class Encoding : public System::Object
 | virtual [GetString](./getstring/)(ArrayPtr\<uint8_t\>, int, int) | Decodes a buffer of bytes into a string. |
 | virtual [GetString](./getstring/)(const System::Details::ArrayView\<uint8_t\>\&, int, int) | Decodes a buffer of bytes into a string. |
 | [GetString](./getstring/)(System::Details::StackArray\<uint8_t, N\>, int, int) | Decodes a buffer of bytes into a string. |
+| static [RegisterProvider](./registerprovider/)(const SharedPtr\<EncodingProvider\>\&) | Registers an encodings provider. |
 | [set_DecoderFallback](./set_decoderfallback/)(const DecoderFallbackPtr\&) | Sets decoder fallback. |
 | [set_EncoderFallback](./set_encoderfallback/)(const EncoderFallbackPtr\&) | Sets encoder fallback. |
 ## Fields

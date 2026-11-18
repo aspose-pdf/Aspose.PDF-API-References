@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.facades/positioningmode/
 ## PositioningMode enum
 
 
-Defines positioning mode. Possible values include Legacy (backward compatibility) and Current (updated text position calculation method)
+Defines positioning mode. Possible values include Legacy (backward compatibility) and Current (updated text position calculation method).
 
 ```cpp
 enum class PositioningMode
@@ -21,7 +21,7 @@ enum class PositioningMode
 | Name | Value | Description |
 | --- | --- | --- |
 | Legacy | 0 | Legacy text positioning. |
-| ModernLineSpacing | 1 | Updated line spacing, vertical position calculation is done by the old rules (i.e. text is positioned relative to bottom-left corner of the specified rectangle) |
+| ModernLineSpacing | 1 | Updated line spacing, vertical position calculation is done by the old rules (i.e. text is positioned relative to bottom-left corner of the specified rectangle). |
 | Current | 2 | Updated line spacing and vertical position calculation is done based on left-top corner rather than left-bottom. |
 
 ## See Also

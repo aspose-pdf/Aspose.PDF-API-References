@@ -13,7 +13,7 @@ url: /cpp/system.xml/xmlexception/
 
 
 ```cpp
-using System::Xml::XmlException =  System::ExceptionWrapper<Details_XmlException>
+using System::Xml::XmlException = System::ExceptionWrapper<Details_XmlException>
 ```
 
 ## See Also

@@ -29,7 +29,6 @@ The number with the specified number of digits nearest to **value**
 
 ## See Also
 
-* Class [Decimal](../)
 * Enum [MidpointRounding](../../midpointrounding/)
 * Class [Decimal](../)
 * Namespace [System](../../)
@@ -55,7 +54,6 @@ static Decimal System::Decimal::Round(const Decimal &d, MidpointRounding mode=Mi
 
 ## See Also
 
-* Class [Decimal](../)
 * Enum [MidpointRounding](../../midpointrounding/)
 * Class [Decimal](../)
 * Namespace [System](../../)

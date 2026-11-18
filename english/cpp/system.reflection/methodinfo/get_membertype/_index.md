@@ -4,7 +4,7 @@ linktitle: get_MemberType
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Reflection::MethodInfo::get_MemberType method. Gets a MemberTypes value indicating that this member is a method in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/system.reflection/methodinfo/get_membertype/
 ---
 ## MethodInfo::get_MemberType method

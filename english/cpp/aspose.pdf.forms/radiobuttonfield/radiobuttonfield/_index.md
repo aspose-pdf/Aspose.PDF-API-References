@@ -45,7 +45,6 @@ Aspose::Pdf::Forms::RadioButtonField::RadioButtonField(const System::SharedPtr<D
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Document](../../../aspose.pdf/document/)
 * Class [RadioButtonField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

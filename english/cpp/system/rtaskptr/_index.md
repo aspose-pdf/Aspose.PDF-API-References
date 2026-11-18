@@ -4,7 +4,7 @@ linktitle: RTaskPtr
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::RTaskPtr typedef. An alias for a smart pointer that points to an instance of System::Threading::Tasks::ResultTask class in C++.'
 type: docs
-weight: 13200
+weight: 13900
 url: /cpp/system/rtaskptr/
 ---
 ## RTaskPtr typedef
@@ -13,7 +13,7 @@ url: /cpp/system/rtaskptr/
 An alias for a smart pointer that points to an instance of [System::Threading::Tasks::ResultTask](../../system.threading.tasks/resulttask/) class.
 
 ```cpp
-using System::RTaskPtr =  System::SmartPtr<System::Threading::Tasks::ResultTask<T>>
+using System::RTaskPtr = System::SmartPtr<System::Threading::Tasks::ResultTask<T>>
 ```
 
 ## See Also

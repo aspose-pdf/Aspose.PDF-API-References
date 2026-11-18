@@ -25,7 +25,7 @@ class DictionaryEditor : public System::Collections::Generic::IDictionary<System
 | [Clear](./clear/)() override | Removes all items from the [DictionaryEditor](./). |
 | [Contains](./contains/)(const System::Collections::Generic::KeyValuePair\<System::String, System::SharedPtr\<ICosPdfPrimitive\>\>\&) const override | Determines whether the [DictionaryEditor](./) contains a specific value. |
 | [ContainsKey](./containskey/)(const System::String\&) const override | Determines whether the [DictionaryEditor](./) contains an element with the specified key. |
-| [CopyTo](./copyto/)(System::ArrayPtr\<System::Collections::Generic::KeyValuePair\<System::String, System::SharedPtr\<ICosPdfPrimitive\>\>\>, int32_t) override | Copies the elements of the [DictionaryEditor](./) to an [Array](../../aspose.pdf/xmpfieldtype/), starting at a particular [Array](../../aspose.pdf/xmpfieldtype/) index. |
+| [CopyTo](./copyto/)(System::ArrayPtr\<System::Collections::Generic::KeyValuePair\<System::String, System::SharedPtr\<ICosPdfPrimitive\>\>\>, int32_t) override | Copies the elements of the [DictionaryEditor](./) to an [Array](../), starting at a particular [Array](../) index. |
 | [DictionaryEditor](./dictionaryeditor/)(const System::SharedPtr\<Page\>\&) | ArgumentNullException |
 | [DictionaryEditor](./dictionaryeditor/)(const System::SharedPtr\<Document\>\&) | ArgumentNullException |
 | [DictionaryEditor](./dictionaryeditor/)(const System::SharedPtr\<Resources\>\&) | ArgumentNullException |

@@ -25,7 +25,6 @@ virtual void System::Xml::XPath::XPathExpression::AddSort(SharedPtr<Object> expr
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [IComparer](../../../system.collections.generic/icomparer/)
 * Class [XPathExpression](../)
 * Namespace [System::Xml::XPath](../../)
@@ -51,7 +50,6 @@ virtual void System::Xml::XPath::XPathExpression::AddSort(SharedPtr<Object> expr
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Enum [XmlSortOrder](../../xmlsortorder/)
 * Enum [XmlCaseOrder](../../xmlcaseorder/)
 * Class [String](../../../system/string/)

@@ -21,7 +21,7 @@ class ImageAttributes : public System::Object
 | Method | Description |
 | --- | --- |
 | [ClearBrushRemapTable](./clearbrushremaptable/)() | NOT IMPLEMENTED. |
-| [ClearColorKey](./clearcolorkey/)(ColorAdjustType) | NOT IMPLEMENTED. |
+| [ClearColorKey](./clearcolorkey/)(ColorAdjustType) | Clears the color key for the specified category. |
 | [ClearColorMatrix](./clearcolormatrix/)(ColorAdjustType) | NOT IMPLEMENTED. |
 | [ClearGamma](./cleargamma/)(ColorAdjustType) | NOT IMPLEMENTED. |
 | [ClearNoOp](./clearnoop/)(ColorAdjustType) | NOT IMPLEMENTED. |
@@ -34,7 +34,7 @@ class ImageAttributes : public System::Object
 | [GetAdjustedPalette](./getadjustedpalette/)(const SharedPtr\<ColorPalette\>\&, ColorAdjustType) | NOT IMPLEMENTED. |
 | [ImageAttributes](./imageattributes/)() | Default constructor. |
 | [SetBrushRemapTable](./setbrushremaptable/)(const ArrayPtr\<SharedPtr\<ColorMap\>\>\&) | NOT IMPLEMENTED. |
-| [SetColorKey](./setcolorkey/)(Color, Color, ColorAdjustType) | NOT IMPLEMENTED. |
+| [SetColorKey](./setcolorkey/)(Color, Color, ColorAdjustType) | Sets the color range that is made transparent during rendering. |
 | [SetColorMatrices](./setcolormatrices/)(const SharedPtr\<ColorMatrix\>\&, const SharedPtr\<ColorMatrix\>\&, ColorMatrixFlag, ColorAdjustType) | NOT IMPLEMENTED. |
 | [SetColorMatrix](./setcolormatrix/)(const SharedPtr\<ColorMatrix\>\&, ColorMatrixFlag, ColorAdjustType) | Sets the color-adjustment matrix. |
 | [SetGamma](./setgamma/)(float, ColorAdjustType) | NOT IMPLEMENTED. |

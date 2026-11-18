@@ -27,7 +27,6 @@ An instance of [Color](../) class that represents **kc** color
 
 ## See Also
 
-* Class [Color](../)
 * Enum [KnownColor](../../knowncolor/)
 * Class [Color](../)
 * Namespace [System::Drawing](../../)

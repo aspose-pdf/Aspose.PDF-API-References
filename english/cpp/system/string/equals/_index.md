@@ -28,7 +28,6 @@ true if strings match, false otherwise.
 ## See Also
 
 * Class [String](../)
-* Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## String::Equals(const String\&, System::StringComparison) const method
@@ -52,7 +51,6 @@ true if strings match using selected comparison type, false otherwise.
 
 ## See Also
 
-* Class [String](../)
 * Enum [StringComparison](../../stringcomparison/)
 * Class [String](../)
 * Namespace [System](../../)
@@ -79,7 +77,6 @@ true if strings match, false otherwise.
 ## See Also
 
 * Class [String](../)
-* Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## String::Equals(const String\&, const String\&, System::StringComparison) method
@@ -104,7 +101,6 @@ true if strings match, false otherwise.
 
 ## See Also
 
-* Class [String](../)
 * Enum [StringComparison](../../stringcomparison/)
 * Class [String](../)
 * Namespace [System](../../)

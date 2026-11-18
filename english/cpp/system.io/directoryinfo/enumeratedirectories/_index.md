@@ -19,7 +19,6 @@ SharedPtr<IEnumerable<DirectoryInfoPtr>> System::IO::DirectoryInfo::EnumerateDir
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IEnumerable](../../../system.collections.generic/ienumerable/)
 * Typedef [DirectoryInfoPtr](../../../system/directoryinfoptr/)
 * Class [DirectoryInfo](../)
 * Namespace [System::IO](../../)
@@ -45,7 +44,6 @@ The enumerable collection of shared pointers to [DirectoryInfo](../) objects rep
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IEnumerable](../../../system.collections.generic/ienumerable/)
 * Typedef [DirectoryInfoPtr](../../../system/directoryinfoptr/)
 * Class [String](../../../system/string/)
 * Class [DirectoryInfo](../)
@@ -73,7 +71,6 @@ The enumerable collection of shared pointers to [DirectoryInfo](../) objects rep
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [IEnumerable](../../../system.collections.generic/ienumerable/)
 * Typedef [DirectoryInfoPtr](../../../system/directoryinfoptr/)
 * Class [String](../../../system/string/)
 * Enum [SearchOption](../../searchoption/)

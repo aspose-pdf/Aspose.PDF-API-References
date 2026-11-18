@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf/matrix/getangle/
 ## Matrix::GetAngle method
 
 
-Transaltes rotation into angle (degrees)
+Transaltes rotation into angle (degrees).
 
 ```cpp
 static double Aspose::Pdf::Matrix::GetAngle(Aspose::Pdf::Rotation rotation)

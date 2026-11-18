@@ -4,7 +4,7 @@ linktitle: X509Extension
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Security::Cryptography::X509Certificates::X509Extension class. Extension object to keep extra information associated with X.509 certificate. Objects of this class should only be allocated using System::MakeObject() function. Never create instance of this type on stack or using operator new, as it will result in runtime errors and/or assertion faults. Always wrap this class into System::SmartPtr pointer and use this pointer to pass it to functions as argument in C++.'
 type: docs
-weight: 1200
+weight: 1500
 url: /cpp/system.security.cryptography.x509certificates/x509extension/
 ---
 ## X509Extension class

@@ -4,7 +4,7 @@ linktitle: ResultValueTaskAwaiter
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use System::Runtime::CompilerServices::ResultValueTaskAwaiter class in C++.'
 type: docs
-weight: 700
+weight: 800
 url: /cpp/system.runtime.compilerservices/resultvaluetaskawaiter/
 ---
 ## ResultValueTaskAwaiter class

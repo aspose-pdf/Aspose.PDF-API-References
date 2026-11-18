@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.security/encryptionparameters/get_userkey/
 ## EncryptionParameters::get_UserKey method
 
 
-Gets the user key (The "U" field of encryption dictionary.)
+Gets the user key (The "U" field of encryption dictionary.).
 
 ```cpp
 const System::ArrayPtr<uint8_t> & Aspose::Pdf::Security::EncryptionParameters::get_UserKey() const

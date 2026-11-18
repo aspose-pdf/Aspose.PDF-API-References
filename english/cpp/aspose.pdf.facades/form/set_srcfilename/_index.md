@@ -2,7 +2,7 @@
 title: Aspose::Pdf::Facades::Form::set_SrcFileName method
 linktitle: set_SrcFileName
 second_title: Aspose.PDF for C++ API Reference
-description: 'Aspose::Pdf::Facades::Form::set_SrcFileName method. Sets source file name in C++.'
+description: 'Aspose::Pdf::Facades::Form::set_SrcFileName method. Sets source file name.  in C++.'
 type: docs
 weight: 4700
 url: /cpp/aspose.pdf.facades/form/set_srcfilename/

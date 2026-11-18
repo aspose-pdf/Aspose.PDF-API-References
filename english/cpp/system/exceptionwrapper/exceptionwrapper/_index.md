@@ -58,7 +58,6 @@ System::ExceptionWrapper<T>::ExceptionWrapper(const ExceptionWrapper &other)
 ## See Also
 
 * Class [ExceptionWrapper](../)
-* Class [ExceptionWrapper](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## ExceptionWrapper::ExceptionWrapper(ExceptionWrapper\&&) constructor
@@ -77,7 +76,6 @@ System::ExceptionWrapper<T>::ExceptionWrapper(ExceptionWrapper &&other) noexcept
 
 ## See Also
 
-* Class [ExceptionWrapper](../)
 * Class [ExceptionWrapper](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

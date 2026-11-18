@@ -31,7 +31,7 @@ class Task : public System::IDisposable
 | [Dispose](./dispose/)() override | Releases resources associated with the task. |
 | [Execute](./execute/)() | Executes the task's function. |
 | [get_AsyncState](./get_asyncstate/)() const | Gets the user-defined state object associated with the task. |
-| static [get_CompletedTask](./get_completedtask/)() | Gets a completed task (singleton) |
+| static [get_CompletedTask](./get_completedtask/)() | Gets a completed task (singleton). |
 | static [get_CurrentId](./get_currentid/)() |  |
 | [get_Exception](./get_exception/)() const | Gets the ID for task. |
 | [get_Id](./get_id/)() const |  |

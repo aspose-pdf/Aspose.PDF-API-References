@@ -35,7 +35,5 @@ The returned source will immediately cancel if either input token is already can
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [CancellationTokenSource](../)
-* Class [CancellationToken](../../cancellationtoken/)
-* Class [CancellationTokenSource](../)
 * Namespace [System::Threading](../../)
 * Library [Aspose.PDF for C++](../../../)

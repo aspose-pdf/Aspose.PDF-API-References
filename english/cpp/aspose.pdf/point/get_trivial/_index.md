@@ -20,6 +20,5 @@ static System::SharedPtr<Point> Aspose::Pdf::Point::get_Trivial()
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Point](../)
-* Class [Point](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

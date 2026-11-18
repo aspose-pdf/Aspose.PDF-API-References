@@ -13,7 +13,7 @@ url: /cpp/system.io/stdiostreamwrapperbase/pos_type/
 
 
 ```cpp
-using System::IO::STDIOStreamWrapperBase< T, typename >::pos_type =  typename T::pos_type
+using System::IO::STDIOStreamWrapperBase< T, typename >::pos_type = typename T::pos_type
 ```
 
 ## See Also

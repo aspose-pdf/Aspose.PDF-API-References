@@ -13,7 +13,7 @@ url: /cpp/system.xml/xmlconvert/ptr/
 An alias for shared pointer to an instance of this class.
 
 ```cpp
-using System::Xml::XmlConvert::Ptr =  SharedPtr<XmlConvert>
+using System::Xml::XmlConvert::Ptr = SharedPtr<XmlConvert>
 ```
 
 ## See Also

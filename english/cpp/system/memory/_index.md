@@ -4,7 +4,7 @@ linktitle: Memory
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Memory class. Represents a mutable memory segment backed by an array in C++.'
 type: docs
-weight: 4700
+weight: 5000
 url: /cpp/system/memory/
 ---
 ## Memory class

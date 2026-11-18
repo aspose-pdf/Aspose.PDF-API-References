@@ -4,7 +4,7 @@ linktitle: CookieException
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use System::Net::CookieException typedef in C++.'
 type: docs
-weight: 5200
+weight: 5300
 url: /cpp/system.net/cookieexception/
 ---
 ## CookieException typedef
@@ -13,7 +13,7 @@ url: /cpp/system.net/cookieexception/
 
 
 ```cpp
-using System::Net::CookieException =  System::ExceptionWrapper<Details_CookieException>
+using System::Net::CookieException = System::ExceptionWrapper<Details_CookieException>
 ```
 
 ## See Also

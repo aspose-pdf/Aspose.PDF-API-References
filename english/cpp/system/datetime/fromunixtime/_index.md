@@ -28,6 +28,5 @@ A new instance of [DateTime](../) class representing the same date and time as *
 ## See Also
 
 * Class [DateTime](../)
-* Class [DateTime](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

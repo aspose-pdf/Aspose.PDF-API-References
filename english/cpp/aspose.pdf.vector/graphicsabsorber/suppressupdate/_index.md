@@ -10,11 +10,7 @@ url: /cpp/aspose.pdf.vector/graphicsabsorber/suppressupdate/
 ## GraphicsAbsorber::SuppressUpdate method
 
 
-Suppresses update for [Page::Contents](../) and all [XForm::Contents](../) Was made for performance increase, see also 
-[OperatorCollection::SuppressUpdate](../../../aspose.pdf/operatorcollection/suppressupdate/)
-
-
-.
+Suppresses update for [Page::Contents](../) and all [XForm::Contents](../) Was made for performance increase, see also [OperatorCollection::SuppressUpdate](../../../aspose.pdf/operatorcollection/suppressupdate/).
 
 ```cpp
 void Aspose::Pdf::Vector::GraphicsAbsorber::SuppressUpdate()

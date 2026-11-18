@@ -19,7 +19,6 @@ void Aspose::Pdf::Annotations::MarkupAnnotation::set_Popup(const System::SharedP
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [PopupAnnotation](../../popupannotation/)
 * Class [MarkupAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

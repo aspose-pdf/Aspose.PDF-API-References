@@ -20,9 +20,11 @@ class DSASignatureFormatter : public System::Security::Cryptography::AsymmetricS
 
 | Method | Description |
 | --- | --- |
-| [CreateSignature](./createsignature/)(ArrayPtr\<uint8_t\>) override | NOT IMPLEMENTED. |
-| [SetHashAlgorithm](./sethashalgorithm/)(String) override | NOT IMPLEMENTED. |
-| [SetKey](./setkey/)(SharedPtr\<AsymmetricAlgorithm\>) override | NOT IMPLEMENTED. |
+| [CreateSignature](./createsignature/)(ArrayPtr\<uint8_t\>) override | Creates the [DSA](../dsa/) signature for the specified hash. |
+| [DSASignatureFormatter](./dsasignatureformatter/)() | Constructor. |
+| [DSASignatureFormatter](./dsasignatureformatter/)(const SharedPtr\<AsymmetricAlgorithm\>\&) | Constructor. |
+| [SetHashAlgorithm](./sethashalgorithm/)(String) override | Sets hash algorithm to use. |
+| [SetKey](./setkey/)(SharedPtr\<AsymmetricAlgorithm\>) override | Sets key to use for signing. |
 ## See Also
 
 * Class [AsymmetricSignatureFormatter](../asymmetricsignatureformatter/)

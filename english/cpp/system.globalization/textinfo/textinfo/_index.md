@@ -19,6 +19,5 @@ System::Globalization::TextInfo::TextInfo(const TextInfo &)=delete
 ## See Also
 
 * Class [TextInfo](../)
-* Class [TextInfo](../)
 * Namespace [System::Globalization](../../)
 * Library [Aspose.PDF for C++](../../../)

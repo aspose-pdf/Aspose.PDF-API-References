@@ -29,8 +29,6 @@ Newly created [XForm](../).
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XForm](../)
-* Class [Page](../../page/)
 * Class [Document](../../document/)
 * Class [XForm](../)
 * Namespace [Aspose::Pdf](../../)

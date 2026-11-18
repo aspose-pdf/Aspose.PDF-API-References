@@ -28,7 +28,6 @@ true if current object is exact equal to **other**, otherwise - false.
 ## See Also
 
 * Class [DateTimeOffset](../)
-* Class [DateTimeOffset](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## DateTimeOffset::EqualsExact(const SharedPtr\<Object\>\&) const method

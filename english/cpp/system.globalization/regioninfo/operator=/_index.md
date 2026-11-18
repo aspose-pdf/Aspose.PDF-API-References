@@ -19,6 +19,5 @@ RegionInfo & System::Globalization::RegionInfo::operator=(const RegionInfo &)=de
 ## See Also
 
 * Class [RegionInfo](../)
-* Class [RegionInfo](../)
 * Namespace [System::Globalization](../../)
 * Library [Aspose.PDF for C++](../../../)

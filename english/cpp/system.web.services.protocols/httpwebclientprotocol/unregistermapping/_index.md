@@ -19,7 +19,6 @@ void System::Web::Services::Protocols::HttpWebClientProtocol::UnregisterMapping(
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [HttpWebClientProtocol](../)
 * Namespace [System::Web::Services::Protocols](../../)
 * Library [Aspose.PDF for C++](../../../)

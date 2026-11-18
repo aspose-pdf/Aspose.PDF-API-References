@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf/baseparagraph/get_isinlineparagraph/
 ## BaseParagraph::get_IsInLineParagraph method
 
 
-Gets a paragraph is inline. Default is false.(for pdf generation)
+Gets a paragraph is inline. Default is false.(for pdf generation).
 
 ```cpp
 bool Aspose::Pdf::BaseParagraph::get_IsInLineParagraph() const

@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.operators/blocktextoperator/
 ## BlockTextOperator class
 
 
-Abstract base class for text block operators i.e. Begin and End text operators (BT/ET)
+Abstract base class for text block operators i.e. Begin and End text operators (BT/ET).
 
 ```cpp
 class BlockTextOperator : public Aspose::Pdf::Operators::TextOperator

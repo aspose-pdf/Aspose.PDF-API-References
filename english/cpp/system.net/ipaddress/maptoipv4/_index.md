@@ -25,6 +25,5 @@ The corresponding IPv4 address.
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IPAddress](../)
-* Class [IPAddress](../)
 * Namespace [System::Net](../../)
 * Library [Aspose.PDF for C++](../../../)

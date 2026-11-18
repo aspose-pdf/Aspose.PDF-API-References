@@ -29,6 +29,5 @@ The result of subtracting **d2** from **d1**.
 ## See Also
 
 * Class [Decimal](../)
-* Class [Decimal](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

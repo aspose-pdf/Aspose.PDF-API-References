@@ -4,7 +4,7 @@ linktitle: FtpWebRequest
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Net::FtpWebRequest class. Implements a File Transfer Protocol (FTP) client. Dummy class making it possible linking translated code with FtpWebRequest references, but not executing it. Contains no properly implemented members in C++.'
 type: docs
-weight: 1200
+weight: 1300
 url: /cpp/system.net/ftpwebrequest/
 ---
 ## FtpWebRequest class

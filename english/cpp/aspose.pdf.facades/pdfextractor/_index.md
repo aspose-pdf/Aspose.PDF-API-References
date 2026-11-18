@@ -45,9 +45,9 @@ class PdfExtractor : public Aspose::Pdf::Facades::Facade
 | [GetNextImage](./getnextimage/)(const System::SharedPtr\<System::IO::Stream\>\&) | Retrieve next image from PDF file and stores it into stream. |
 | [GetNextPageText](./getnextpagetext/)(const System::String\&) | Saves one page's text to file. |
 | [GetNextPageText](./getnextpagetext/)(const System::SharedPtr\<System::IO::Stream\>\&) | Saves one page's text to stream. |
-| [GetText](./gettext/)(const System::String\&) | Saves text to file. see also:[ExtractText](./extracttext/) |
-| [GetText](./gettext/)(const System::SharedPtr\<System::IO::Stream\>\&) | Saves text to stream. see also:[ExtractText](./extracttext/) |
-| [GetText](./gettext/)(const System::SharedPtr\<System::IO::Stream\>\&, bool) | Saves text to stream. see also:[ExtractText](./extracttext/) |
+| [GetText](./gettext/)(const System::String\&) | Saves text to file. see also:[ExtractText](./extracttext/). |
+| [GetText](./gettext/)(const System::SharedPtr\<System::IO::Stream\>\&) | Saves text to stream. see also:[ExtractText](./extracttext/). |
+| [GetText](./gettext/)(const System::SharedPtr\<System::IO::Stream\>\&, bool) | Saves text to stream. see also:[ExtractText](./extracttext/). |
 | [HasNextImage](./hasnextimage/)() | Checks if more images are accessible in PDF document. [Note](../../aspose.pdf/note/): ExtractImage must be called before using of this method. |
 | [HasNextPageText](./hasnextpagetext/)() | Indicates that whether can get more texts or not. |
 | [PdfExtractor](./pdfextractor/)() | Initializes new [PdfExtractor](./) object. |

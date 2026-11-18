@@ -28,6 +28,5 @@ Self reference.
 ## See Also
 
 * Class [Thread](../)
-* Class [Thread](../)
 * Namespace [System::Threading](../../)
 * Library [Aspose.PDF for C++](../../../)

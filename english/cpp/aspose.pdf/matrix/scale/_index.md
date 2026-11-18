@@ -53,6 +53,5 @@ A new matrix that is the result of scaling the source matrix.
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Matrix](../)
-* Class [Matrix](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

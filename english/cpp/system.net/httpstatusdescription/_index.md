@@ -4,7 +4,7 @@ linktitle: HttpStatusDescription
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Net::HttpStatusDescription class. Contains the utility methods to get the string representation of the HTTP status in C++.'
 type: docs
-weight: 1800
+weight: 1900
 url: /cpp/system.net/httpstatusdescription/
 ---
 ## HttpStatusDescription class

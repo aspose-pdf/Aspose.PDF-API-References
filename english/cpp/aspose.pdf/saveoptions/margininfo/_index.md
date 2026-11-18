@@ -26,10 +26,10 @@ class MarginInfo : public System::Object
 
 | Field | Description |
 | --- | --- |
-| [BottomMarginIfAny](./bottommarginifany/) | Represents bottom page margin(if any) |
-| [LeftMarginIfAny](./leftmarginifany/) | Represents left page margin(if any) |
-| [RightMarginIfAny](./rightmarginifany/) | Represents right page margin(if any) |
-| [TopMarginIfAny](./topmarginifany/) | Represents top page margin(if any) |
+| [BottomMarginIfAny](./bottommarginifany/) | Represents bottom page margin(if any). |
+| [LeftMarginIfAny](./leftmarginifany/) | Represents left page margin(if any). |
+| [RightMarginIfAny](./rightmarginifany/) | Represents right page margin(if any). |
+| [TopMarginIfAny](./topmarginifany/) | Represents top page margin(if any). |
 ## See Also
 
 * Class [Object](../../../system/object/)

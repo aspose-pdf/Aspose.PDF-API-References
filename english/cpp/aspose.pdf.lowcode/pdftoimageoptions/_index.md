@@ -28,11 +28,7 @@ class PdfToImageOptions : public Aspose::Pdf::LowCode::IPluginOptions,
 | Method | Description |
 | --- | --- |
 | [AddInput](./addinput/)(const System::SharedPtr\<IDataSource\>\&) override | Adds new data source to the [PdfToImage](../pdftoimage/) plugin data collection. |
-| [AddOutput](./addoutput/)(const System::SharedPtr\<IDataSource\>\&) override | Sets new save data source. Can only be a 
-[FileDataSource](../filedatasource/)
-
-
-. If you want save images into memory streams, pass null as parameter. |
+| [AddOutput](./addoutput/)(const System::SharedPtr\<IDataSource\>\&) override | Sets new save data source. Can only be a [FileDataSource](../filedatasource/). If you want save images into memory streams, pass null as parameter. |
 | [get_ConversionMode](./get_conversionmode/)() | Gets image conversion mode. |
 | [get_Inputs](./get_inputs/)() override | Returns [PdfToImage](../pdftoimage/) plugin data collection. |
 | virtual [get_OperationName](./get_operationname/)() | Returns operation name. |

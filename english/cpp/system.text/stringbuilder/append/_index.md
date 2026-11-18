@@ -28,7 +28,6 @@ This pointer.
 ## See Also
 
 * Class [StringBuilder](../)
-* Class [StringBuilder](../)
 * Namespace [System::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## StringBuilder::Append(char_t, int) method
@@ -53,7 +52,6 @@ This pointer.
 ## See Also
 
 * Class [StringBuilder](../)
-* Class [StringBuilder](../)
 * Namespace [System::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## StringBuilder::Append(const ArrayPtr\<char_t\>\&) method
@@ -76,7 +74,6 @@ This pointer.
 
 ## See Also
 
-* Class [StringBuilder](../)
 * Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [StringBuilder](../)
 * Namespace [System::Text](../../)
@@ -103,7 +100,6 @@ This pointer.
 
 ## See Also
 
-* Class [StringBuilder](../)
 * Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [StringBuilder](../)
 * Namespace [System::Text](../../)
@@ -128,7 +124,6 @@ This pointer.
 
 ## See Also
 
-* Class [StringBuilder](../)
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [StringBuilder](../)
 * Namespace [System::Text](../../)
@@ -157,7 +152,6 @@ This pointer.
 
 ## See Also
 
-* Class [StringBuilder](../)
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [StringBuilder](../)
 * Namespace [System::Text](../../)
@@ -182,7 +176,6 @@ This pointer.
 
 ## See Also
 
-* Class [StringBuilder](../)
 * Class [String](../../../system/string/)
 * Class [StringBuilder](../)
 * Namespace [System::Text](../../)
@@ -209,7 +202,6 @@ This pointer.
 
 ## See Also
 
-* Class [StringBuilder](../)
 * Class [String](../../../system/string/)
 * Class [StringBuilder](../)
 * Namespace [System::Text](../../)
@@ -234,7 +226,6 @@ This pointer.
 
 ## See Also
 
-* Class [StringBuilder](../)
 * Class [StringBuilder](../)
 * Namespace [System::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -263,7 +254,6 @@ This pointer.
 ## See Also
 
 * Class [StringBuilder](../)
-* Class [StringBuilder](../)
 * Namespace [System::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## StringBuilder::Append(float) method
@@ -287,7 +277,6 @@ This pointer.
 ## See Also
 
 * Class [StringBuilder](../)
-* Class [StringBuilder](../)
 * Namespace [System::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## StringBuilder::Append(int) method
@@ -310,7 +299,6 @@ This pointer.
 
 ## See Also
 
-* Class [StringBuilder](../)
 * Class [StringBuilder](../)
 * Namespace [System::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -338,7 +326,6 @@ This pointer.
 
 ## See Also
 
-* Class [StringBuilder](../)
 * Class [StringBuilder](../)
 * Namespace [System::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -28,7 +28,6 @@ A new [PointF](../) object whose X coordinate value is equal to the result of su
 
 ## See Also
 
-* Class [PointF](../)
 * Class [Size](../../size/)
 * Class [PointF](../)
 * Namespace [System::Drawing](../../)
@@ -54,7 +53,6 @@ A new [PointF](../) object whose X coordinate value is equal to the result of su
 
 ## See Also
 
-* Class [PointF](../)
 * Class [SizeF](../../sizef/)
 * Class [PointF](../)
 * Namespace [System::Drawing](../../)

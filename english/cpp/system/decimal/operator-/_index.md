@@ -19,7 +19,6 @@ Decimal System::Decimal::operator-() const
 ## See Also
 
 * Class [Decimal](../)
-* Class [Decimal](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## Decimal::operator-(const Decimal\&) const method
@@ -42,7 +41,6 @@ A new instance of [Decimal](../) class that represents a value that is the resul
 
 ## See Also
 
-* Class [Decimal](../)
 * Class [Decimal](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

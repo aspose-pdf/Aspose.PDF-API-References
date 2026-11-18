@@ -4,7 +4,7 @@ linktitle: TypeInfo
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::TypeInfo class. Represents a particular type and provides information about it in C++.'
 type: docs
-weight: 7100
+weight: 7500
 url: /cpp/system/typeinfo/
 ---
 ## TypeInfo class
@@ -26,8 +26,10 @@ class TypeInfo
 | [AddDefaultConstructor](./adddefaultconstructor/)() | Sets default constructor for the type T. |
 | [AddDefaultConstructor](./adddefaultconstructor/)(DefaultConstructor) | Sets default constructor by the functor that creates class instanse. |
 | [AddMember](./addmember/)(const SharedPtr\<System::Reflection::MemberInfo\>\&) | Adds the specified member to the list of type's members. |
+| [AddMethod](./addmethod/)(const SharedPtr\<System::Reflection::MethodInfo\>\&) | Adds a method to the list of type's methods. |
 | static [BoxedValueType](./boxedvaluetype/)() | Provides unique [TypeInfo](./) structure for [BoxedValue](./boxedvalue/) type to be shared by multiple Boxed* classes. |
 | [Equals](./equals/)(const TypeInfo\&) const |  |
+| [Equals](./equals/)() const | Determines whether the current type is equal to the specified type. |
 | [get_Assembly](./get_assembly/)() const | NOT IMPLEMENTED. Returns a pointer to the assembly in which the type represented by the current object is declared. |
 | [get_AssemblyQualifiedName](./get_assemblyqualifiedname/)() const | NOT IMPLEMENTED. Returns the fully qualified name including the assembly name of the type represented by the current object. |
 | [get_BaseType](./get_basetype/)() const | Returns base type descritor. |
@@ -42,6 +44,7 @@ class TypeInfo
 | [get_IsGenericType](./get_isgenerictype/)() const |  |
 | [get_IsGenericTypeDefinition](./get_isgenerictypedefinition/)() const | Gets a value indicating whether the current Type represents a generic type definition, from which other generic types can be constructed. |
 | [get_IsInterface](./get_isinterface/)() const | Gets a value indicating whether the Type is an interface; that is, not a class or a value type. |
+| [get_IsPublic](./get_ispublic/)() const | Gets a value indicating whether the Type is public. |
 | [get_IsSealed](./get_issealed/)() const | Gets a value indicating whether the Type is declared sealed. |
 | [get_IsValueType](./get_isvaluetype/)() const | Gets a value indicating whether the Type is a value type. |
 | [get_IsVisible](./get_isvisible/)() const | Gets a value indicating whether the Type can be accessed by code outside the assembly. |
@@ -61,6 +64,8 @@ class TypeInfo
 | [GetInterfaces](./getinterfaces/)() const | Gets all the interfaces implemented or inherited by the current Type. |
 | [GetMember](./getmember/)(const String\&) const | Gets list of the members with specified name. |
 | [GetMethod](./getmethod/)(const String\&) const | Gets method with specified name. |
+| [GetMethods](./getmethods/)(System::Reflection::BindingFlags) const | Searches for the methods defined for the current Type, using the specified binding constraints. |
+| [GetMethods](./getmethods/)() const | Returns all the public methods of the current Type. |
 | [GetProperties](./getproperties/)() const | Returns all the public properties of the current Type. |
 | [GetProperties](./getproperties/)(System::Reflection::BindingFlags) const | Searches for the properties of the current Type, using the specified binding constraints. |
 | [GetTemplParamType](./gettemplparamtype/)() const | Gets template parameter type descritor. |
@@ -74,6 +79,7 @@ class TypeInfo
 | [operator==](./operator==/)(const TypeInfo\&) const | Determines if the current and the specified [TypeInfo](./) objects are equal. |
 | [operator==](./operator==/)(std::nullptr_t) const | Determines if the current [TypeInfo](./) object is a null-object, i.e. does not represent any type. |
 | [reset](./reset/)() | Sets [TypeInfo](./) to null. |
+| [set_IsPublic](./set_ispublic/)(bool) | Sets the public flag. |
 | [set_IsValueType](./set_isvaluetype/)(bool) | Sets a value indicating whether the Type is a value type. |
 | [SetBaseType](./setbasetype/)(GetTypeInfoFunPtr) | Sets base type descritor. |
 | [SetTemplParamType](./settemplparamtype/)(const TypeInfo\&) | Sets template parameter type descritor. |

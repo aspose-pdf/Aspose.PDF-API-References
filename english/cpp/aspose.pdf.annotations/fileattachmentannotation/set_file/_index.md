@@ -19,7 +19,6 @@ void Aspose::Pdf::Annotations::FileAttachmentAnnotation::set_File(const System::
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [FileSpecification](../../../aspose.pdf/filespecification/)
 * Class [FileAttachmentAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

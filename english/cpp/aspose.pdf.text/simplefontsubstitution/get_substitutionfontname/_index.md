@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.text/simplefontsubstitution/get_substitutionfontname/
 ## SimpleFontSubstitution::get_SubstitutionFontName method
 
 
-Gets font name that should substitute the [OriginalFontName](../)
+Gets font name that should substitute the [OriginalFontName](../).
 
 ```cpp
 System::String Aspose::Pdf::Text::SimpleFontSubstitution::get_SubstitutionFontName() const

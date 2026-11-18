@@ -13,7 +13,7 @@ url: /cpp/system.timers/elapsedeventhandler/
 Delegate type to handle timer event.
 
 ```cpp
-using System::Timers::ElapsedEventHandler =  EventHandler<SharedPtr<ElapsedEventArgs>>
+using System::Timers::ElapsedEventHandler = EventHandler<SharedPtr<ElapsedEventArgs>>
 ```
 
 ## See Also

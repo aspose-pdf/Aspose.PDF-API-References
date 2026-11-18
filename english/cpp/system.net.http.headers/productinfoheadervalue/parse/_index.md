@@ -28,7 +28,6 @@ An instance of the [ProductInfoHeaderValue](../) class.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ProductInfoHeaderValue](../)
 * Class [String](../../../system/string/)
 * Class [ProductInfoHeaderValue](../)
 * Namespace [System::Net::Http::Headers](../../)

@@ -29,6 +29,5 @@ Only those properties will be copied that were changed explicitly.
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextState](../)
-* Class [TextState](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
