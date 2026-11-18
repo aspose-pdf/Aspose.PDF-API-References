@@ -27,6 +27,7 @@ class BinaryWriter : public System::IDisposable
 | [get_BaseStream](./get_basestream/)() | Returns the output stream. |
 | [Seek](./seek/)(int, System::IO::SeekOrigin) | Sets the position of the stream represented by the current object. |
 | virtual [Write](./write/)(uint8_t) | Writes the specified unsigned 8-bit integer value to the output stream. |
+| virtual [Write](./write/)(int8_t) | Writes the specified signed 8-bit integer value to the output stream. |
 | virtual [Write](./write/)(const ArrayPtr\<uint8_t\>\&, int, int) | Writes the specified subrange of bytes from the specified byte array to the output stream. |
 | virtual [Write](./write/)(const ArrayPtr\<char_t\>\&, int, int) | Writes the specified subrange of UTF-16 characters from the specified character array to the output stream. |
 | virtual [Write](./write/)(bool) | Writes single byte with a value of 0 if **value** is 'true' and 1 if **value** is 'false' to the output stream. |

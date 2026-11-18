@@ -22,7 +22,7 @@ enum class HeadingRecognitionStrategy
 | --- | --- | --- |
 | Outlines | 0 | Represents the header recognition strategy by means of outlines. |
 | Heuristic | 1 | Represents the header recognition strategy by means of heuristics rules and font size statistic. |
-| Auto | 2 | Provides an automatic header recognition strategy selection. This is the default option. If the document contains bookmarks, the [Outlines](../outlines/) strategy will be selected, otherwise [Heuristic](./) |
+| Auto | 2 | Provides an automatic header recognition strategy selection. This is the default option. If the document contains bookmarks, the [Outlines](../outlines/) strategy will be selected, otherwise [Heuristic](../). |
 | None | 3 | Do not recognize headers. This option can be useful in complexly formatted documents. |
 
 ## See Also

@@ -14,7 +14,8 @@ url: /cpp/system.collections.generic/baseset/
 
 ```cpp
 template<typename T,typename SET_T>class BaseSet : public virtual System::Object,
-                                                   public System::Collections::Generic::ICollection<T>
+                                                   public System::Collections::Generic::ICollection<T>,
+                                                   public System::Collections::Generic::IReadOnlyCollection<T>
 ```
 
 ## Nested classes
@@ -39,6 +40,7 @@ template<typename T,typename SET_T>class BaseSet : public virtual System::Object
 | [GetEnumerator](./getenumerator/)() override | Creates enumerator. |
 | [Remove](./remove/)(const T\&) override | Removes element from set. |
 | [TryAdd](./tryadd/)(const T\&) | Adds element into set. |
+| [UnionWith](./unionwith/)(const SharedPtr\<IEnumerable\<T\>\>\&) |  |
 | [virtualizeBeginConstIterator](./virtualizebeginconstiterator/)() const override | Gets the implementation of begin const iterator for the current container. |
 | [virtualizeBeginIterator](./virtualizebeginiterator/)() override | Gets the implementation of begin iterator for the current container. |
 | [virtualizeEndConstIterator](./virtualizeendconstiterator/)() const override | Gets the implementation of end const iterator for the current container. |
@@ -60,5 +62,6 @@ template<typename T,typename SET_T>class BaseSet : public virtual System::Object
 
 * Class [Object](../../system/object/)
 * Class [ICollection](../icollection/)
+* Class [IReadOnlyCollection](../ireadonlycollection/)
 * Namespace [System::Collections::Generic](../)
 * Library [Aspose.PDF for C++](../../)

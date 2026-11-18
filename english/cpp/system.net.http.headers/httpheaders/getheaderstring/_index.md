@@ -54,7 +54,6 @@ A string representation of values by the specified header name.
 
 * Class [String](../../../system/string/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [HttpHeaders](../)
 * Namespace [System::Net::Http::Headers](../../)
 * Library [Aspose.PDF for C++](../../../)

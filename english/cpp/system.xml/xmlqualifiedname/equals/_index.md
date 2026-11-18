@@ -28,7 +28,6 @@ bool System::Xml::XmlQualifiedName::Equals(SharedPtr<Object> other) override
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [XmlQualifiedName](../)
 * Namespace [System::Xml](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -19,7 +19,6 @@ void System::Security::Cryptography::Xml::SignedXml::AddReference(SharedPtr<Refe
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Reference](../../reference/)
 * Class [SignedXml](../)
 * Namespace [System::Security::Cryptography::Xml](../../)
 * Library [Aspose.PDF for C++](../../../)

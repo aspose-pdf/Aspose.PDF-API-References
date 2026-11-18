@@ -29,7 +29,6 @@ Encoded Html fragment.
 
 * Class [String](../../../system/string/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [HttpUtility](../)
 * Namespace [System::Web](../../)
 * Library [Aspose.PDF for C++](../../../)

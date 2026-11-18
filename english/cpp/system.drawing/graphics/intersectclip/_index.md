@@ -24,7 +24,6 @@ void System::Drawing::Graphics::IntersectClip(const System::SharedPtr<Region> &r
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Region](../../region/)
 * Class [Graphics](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.PDF for C++](../../../)

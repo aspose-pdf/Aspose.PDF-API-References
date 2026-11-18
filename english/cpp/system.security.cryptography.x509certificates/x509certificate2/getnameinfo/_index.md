@@ -4,7 +4,7 @@ linktitle: GetNameInfo
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Security::Cryptography::X509Certificates::X509Certificate2::GetNameInfo method. Gets subject or issuer name from certificate in C++.'
 type: docs
-weight: 2100
+weight: 1700
 url: /cpp/system.security.cryptography.x509certificates/x509certificate2/getnameinfo/
 ---
 ## X509Certificate2::GetNameInfo method

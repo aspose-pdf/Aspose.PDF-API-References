@@ -37,7 +37,6 @@ true if the **input** converted successfully, otherwise - false.
 * Class [IFormatProvider](../../iformatprovider/)
 * Enum [DateTimeStyles](../../../system.globalization/datetimestyles/)
 * Class [DateTimeOffset](../)
-* Class [DateTimeOffset](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## DateTimeOffset::TryParseExact(const String\&, const String\&, const SharedPtr\<IFormatProvider\>\&, Globalization::DateTimeStyles, DateTimeOffset\&) method
@@ -68,7 +67,6 @@ true if the **input** converted successfully, otherwise - false.
 * Typedef [SharedPtr](../../sharedptr/)
 * Class [IFormatProvider](../../iformatprovider/)
 * Enum [DateTimeStyles](../../../system.globalization/datetimestyles/)
-* Class [DateTimeOffset](../)
 * Class [DateTimeOffset](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

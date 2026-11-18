@@ -33,7 +33,6 @@ An [IAsyncResult](../../../system/iasyncresult/) object representing the initiat
 * Class [IAsyncResult](../../../system/iasyncresult/)
 * Class [String](../../../system/string/)
 * Typedef [AsyncCallback](../../../system/asynccallback/)
-* Class [Object](../../../system/object/)
 * Class [Dns](../)
 * Namespace [System::Net](../../)
 * Library [Aspose.PDF for C++](../../../)

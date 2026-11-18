@@ -29,6 +29,5 @@ Intersection of rectangles; null if rectangles are not intersected.
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Rectangle](../)
-* Class [Rectangle](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

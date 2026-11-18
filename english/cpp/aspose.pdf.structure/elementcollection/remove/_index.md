@@ -28,7 +28,6 @@ True if element was removed.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Element](../../element/)
 * Class [ElementCollection](../)
 * Namespace [Aspose::Pdf::Structure](../../)
 * Library [Aspose.PDF for C++](../../../)

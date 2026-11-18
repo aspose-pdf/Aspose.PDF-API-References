@@ -13,7 +13,7 @@ url: /cpp/system.xml.schema/xmlschemaidentityconstraint/ptr/
 An alias for shared pointer to an instance of this class.
 
 ```cpp
-using System::Xml::Schema::XmlSchemaIdentityConstraint::Ptr =  SharedPtr<XmlSchemaIdentityConstraint>
+using System::Xml::Schema::XmlSchemaIdentityConstraint::Ptr = SharedPtr<XmlSchemaIdentityConstraint>
 ```
 
 ## See Also

@@ -98,7 +98,6 @@ void System::Net::Sockets::Socket::SetSocketOption(SocketOptionLevel optionLevel
 * Enum [SocketOptionLevel](../../socketoptionlevel/)
 * Enum [SocketOptionName](../../socketoptionname/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [Socket](../)
 * Namespace [System::Net::Sockets](../../)
 * Library [Aspose.PDF for C++](../../../)

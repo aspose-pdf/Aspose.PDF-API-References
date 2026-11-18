@@ -4,7 +4,7 @@ linktitle: Array
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Array class. Class that represents an array data structure. Objects of this class should only be allocated using System::MakeArray() and System::MakeObject() functions. Never create instance of this type on stack or using operator new, as it will result in runtime errors and/or assertion faults. Always wrap this class into System::SmartPtr pointer and use this pointer to pass it to functions as argument in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/system/array/
 ---
 ## Array class
@@ -14,7 +14,8 @@ Class that represents an array data structure. Objects of this class should only
 
 ```cpp
 template<typename T>class Array : public System::ArrayBase,
-                                  public System::Collections::Generic::IList<T>
+                                  public System::Collections::Generic::IList<T>,
+                                  public System::Collections::Generic::IReadOnlyList<T>
 ```
 
 
@@ -81,6 +82,7 @@ template<typename T>class Array : public System::ArrayBase,
 | [data](./data/)() const | Returns a constant reference to the internal data structure used to store the array elements. |
 | [data_ptr](./data_ptr/)() | Returns a raw pointer to the beginning of the memory buffer where the array elements are stored. |
 | [data_ptr](./data_ptr/)() const | Returns a constant raw pointer to the beginning of the memory buffer where the array elements are stored. |
+| static [Empty](../arraybase/empty/)() | Returns an empty array. |
 | [end](./end/)() | Returns an iterator to the element following the last element of the container. This element acts as a placeholder; attempting to access it results in undefined behavior. |
 | [end](./end/)() const | Returns an iterator to the element following the last element of the const-qualified container. This element acts as a placeholder; attempting to access it results in undefined behavior. |
 | static [Exists](./exists/)(ArrayPtr\<T\>, std::function\<bool(T)>) | Determines if the specified [Array](./) object contains an element that satisfies requirements of the specified predicate. |
@@ -216,5 +218,6 @@ This code example produces the following output:
 
 * Class [ArrayBase](../arraybase/)
 * Class [IList](../../system.collections.generic/ilist/)
+* Class [IReadOnlyList](../../system.collections.generic/ireadonlylist/)
 * Namespace [System](../)
 * Library [Aspose.PDF for C++](../../)

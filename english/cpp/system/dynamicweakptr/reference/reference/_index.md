@@ -45,7 +45,6 @@ System::DynamicWeakPtr<T, trunkMode, weakLeafs>::Reference::Reference(Reference 
 ## See Also
 
 * Class [Reference](../)
-* Class [Reference](../)
 * Class [DynamicWeakPtr](../../)
 * Namespace [System](../../../)
 * Library [Aspose.PDF for C++](../../../../)

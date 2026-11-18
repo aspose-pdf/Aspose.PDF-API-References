@@ -24,6 +24,12 @@ class SignatureName : public System::Object
 | [get_HasSignature](./get_hassignature/)() | Indicates whether the signature is present or not. |
 | [GetHashCode](./gethashcode/)() const override | Returns a hash code for this instance based on the FullName property. |
 | [ToString](./tostring/)() const override | Returns a string representation of the [SignatureName](./) instance, primarily using its name. |
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [FullName](./fullname/) | Gets the full name of the signature, providing a unique and precise identifier for the signature field. |
+| [Name](./name/) | Gets the name of a signature. |
 ## Remarks
 
 

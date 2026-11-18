@@ -4,7 +4,7 @@ linktitle: IsDefined
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::TypeInfo::IsDefined method. NOT IMPLEMENTED. Indicates whether one or more attributes of the specified type or of its derived types is applied to this member in C++.'
 type: docs
-weight: 4400
+weight: 4700
 url: /cpp/system/typeinfo/isdefined/
 ---
 ## TypeInfo::IsDefined method
@@ -28,7 +28,6 @@ true if one or more instances of attributeType or any of its derived types is ap
 
 ## See Also
 
-* Class [TypeInfo](../)
 * Class [TypeInfo](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

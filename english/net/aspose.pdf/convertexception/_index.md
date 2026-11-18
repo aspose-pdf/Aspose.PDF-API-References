@@ -3,7 +3,7 @@ title: Class ConvertException
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.ConvertException class. Represents errors that occur during PDF_A conversion with helpers objects
 type: docs
-weight: 3480
+weight: 3510
 url: /net/aspose.pdf/convertexception/
 ---
 ## ConvertException class

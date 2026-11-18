@@ -31,7 +31,6 @@ True if the construction succeeded, otherwise - false
 
 * Typedef [SharedPtr](../../sharedptr/)
 * Class [Uri](../)
-* Class [Uri](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## Uri::TryCreate(const SharedPtr\<Uri\>\&, const String\&, SharedPtr\<Uri\>\&) method
@@ -57,7 +56,6 @@ True if the construction succeeded, otherwise - false
 ## See Also
 
 * Typedef [SharedPtr](../../sharedptr/)
-* Class [Uri](../)
 * Class [String](../../string/)
 * Class [Uri](../)
 * Namespace [System](../../)
@@ -87,7 +85,6 @@ True if the construction succeeded, otherwise - false
 * Class [String](../../string/)
 * Enum [UriKind](../../urikind/)
 * Typedef [SharedPtr](../../sharedptr/)
-* Class [Uri](../)
 * Class [Uri](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

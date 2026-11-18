@@ -27,7 +27,6 @@ A new instance of [DateTime](../) class that represents the date and time value 
 
 ## See Also
 
-* Class [DateTime](../)
 * Class [String](../../string/)
 * Class [DateTime](../)
 * Namespace [System](../../)
@@ -43,7 +42,6 @@ static DateTime System::DateTime::Parse(const String &s, const SharedPtr<Globali
 
 ## See Also
 
-* Class [DateTime](../)
 * Class [String](../../string/)
 * Typedef [SharedPtr](../../sharedptr/)
 * Class [CultureInfo](../../../system.globalization/cultureinfo/)
@@ -62,7 +60,6 @@ static DateTime System::DateTime::Parse(const String &s, const SharedPtr<Globali
 
 ## See Also
 
-* Class [DateTime](../)
 * Class [String](../../string/)
 * Typedef [SharedPtr](../../sharedptr/)
 * Class [DateTimeFormatInfo](../../../system.globalization/datetimeformatinfo/)
@@ -92,7 +89,6 @@ A new instance of [DateTime](../) class that represents the date and time value 
 
 ## See Also
 
-* Class [DateTime](../)
 * Class [String](../../string/)
 * Typedef [SharedPtr](../../sharedptr/)
 * Class [IFormatProvider](../../iformatprovider/)
@@ -111,7 +107,6 @@ static DateTime System::DateTime::Parse(const String &s, std::nullptr_t, Globali
 
 ## See Also
 
-* Class [DateTime](../)
 * Class [String](../../string/)
 * Enum [DateTimeStyles](../../../system.globalization/datetimestyles/)
 * Class [DateTime](../)

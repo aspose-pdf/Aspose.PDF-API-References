@@ -29,6 +29,5 @@ The [Size](../) object which is the sum of **size1** and **size2**
 ## See Also
 
 * Class [Size](../)
-* Class [Size](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.PDF for C++](../../../)

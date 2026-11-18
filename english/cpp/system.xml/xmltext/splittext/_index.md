@@ -29,6 +29,5 @@ The new node.
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmlText](../)
-* Class [XmlText](../)
 * Namespace [System::Xml](../../)
 * Library [Aspose.PDF for C++](../../../)

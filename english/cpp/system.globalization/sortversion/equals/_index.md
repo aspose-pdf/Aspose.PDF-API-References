@@ -28,7 +28,6 @@ true if objects represents the same version, otherwise - false.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [SortVersion](../)
 * Namespace [System::Globalization](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -53,7 +52,6 @@ true if objects represents the same version, otherwise - false.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [SortVersion](../)
 * Class [SortVersion](../)
 * Namespace [System::Globalization](../../)
 * Library [Aspose.PDF for C++](../../../)

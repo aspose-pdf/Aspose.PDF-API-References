@@ -27,7 +27,6 @@ void System::Xml::Xsl::XsltArgumentList::AddParam(const String &name, const Stri
 
 * Class [String](../../../system/string/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [XsltArgumentList](../)
 * Namespace [System::Xml::Xsl](../../)
 * Library [Aspose.PDF for C++](../../../)

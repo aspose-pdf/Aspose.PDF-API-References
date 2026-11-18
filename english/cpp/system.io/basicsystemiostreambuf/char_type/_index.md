@@ -13,7 +13,7 @@ url: /cpp/system.io/basicsystemiostreambuf/char_type/
 
 
 ```cpp
-using System::IO::BasicSystemIOStreamBuf< Elem, Traits >::char_type =  Elem
+using System::IO::BasicSystemIOStreamBuf< Elem, Traits >::char_type = Elem
 ```
 
 ## See Also

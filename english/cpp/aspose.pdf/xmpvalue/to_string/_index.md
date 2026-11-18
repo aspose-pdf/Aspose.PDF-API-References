@@ -30,6 +30,5 @@ XmlValue.
 * Class [String](../../../system/string/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmpValue](../)
-* Class [XmpValue](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

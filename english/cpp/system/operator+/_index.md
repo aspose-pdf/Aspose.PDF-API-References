@@ -4,7 +4,7 @@ linktitle: operator+
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::operator+ method. String concatenation in C++.'
 type: docs
-weight: 28700
+weight: 29600
 url: /cpp/system/operator+/
 ---
 ## System::operator+(const char_t, const String\&) method
@@ -113,17 +113,17 @@ Returns a delegate that contains the callbacks of the left hand value and then t
 [String](../string/) concatenation.
 
 ```cpp
-template<typename T> std::enable_if<IsStringLiteral<T, char_t>::value, String>::type System::operator+(T &left, const String &right)
+template<typename T> std::enable_if<IsStringPointer<T, char_t>::value, String>::type System::operator+(T &left, const String &right)
 ```
 
 
 | Parameter | Description |
 | --- | --- |
-| T | [String](../string/) literal type. |
+| T | [String](../string/) pointer type. |
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| left | T\& | Literal to concatenate to string. |
+| left | T\& | [String](../string/) pointer to concatenate to string. |
 | right | const String\& | [String](../string/) to concatenate. |
 
 ### ReturnValue
@@ -141,17 +141,17 @@ Concatenated string.
 [String](../string/) concatenation.
 
 ```cpp
-template<typename T> std::enable_if<IsStringPointer<T, char_t>::value, String>::type System::operator+(T &left, const String &right)
+template<typename T> std::enable_if<IsStringLiteral<T, char_t>::value, String>::type System::operator+(T &left, const String &right)
 ```
 
 
 | Parameter | Description |
 | --- | --- |
-| T | [String](../string/) pointer type. |
+| T | [String](../string/) literal type. |
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| left | T\& | [String](../string/) pointer to concatenate to string. |
+| left | T\& | Literal to concatenate to string. |
 | right | const String\& | [String](../string/) to concatenate. |
 
 ### ReturnValue

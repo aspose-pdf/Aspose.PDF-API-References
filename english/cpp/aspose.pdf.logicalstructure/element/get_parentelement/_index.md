@@ -24,6 +24,5 @@ Parent element.
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Element](../)
-* Class [Element](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)
 * Library [Aspose.PDF for C++](../../../)

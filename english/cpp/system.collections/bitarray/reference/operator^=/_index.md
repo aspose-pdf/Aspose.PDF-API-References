@@ -28,7 +28,6 @@ This reference.
 ## See Also
 
 * Class [Reference](../)
-* Class [Reference](../)
 * Class [BitArray](../../)
 * Namespace [System::Collections](../../../)
 * Library [Aspose.PDF for C++](../../../../)

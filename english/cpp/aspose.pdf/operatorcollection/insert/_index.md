@@ -26,7 +26,6 @@ void Aspose::Pdf::OperatorCollection::Insert(int32_t at, const System::ArrayPtr<
 
 * Typedef [ArrayPtr](../../../system/arrayptr/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Operator](../../operator/)
 * Class [OperatorCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -49,7 +48,6 @@ void Aspose::Pdf::OperatorCollection::Insert(int32_t at, const System::SharedPtr
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IList](../../../system.collections.generic/ilist/)
-* Class [Operator](../../operator/)
 * Class [OperatorCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -71,7 +69,6 @@ void Aspose::Pdf::OperatorCollection::Insert(int32_t index, const System::Shared
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Operator](../../operator/)
 * Class [OperatorCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

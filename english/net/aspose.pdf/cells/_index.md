@@ -32,9 +32,10 @@ public sealed class Cells : IEnumerable<Cell>
 | Name | Description |
 | --- | --- |
 | [Add](../../aspose.pdf/cells/add/#add)() | Add cell to collection. |
-| [Add](../../aspose.pdf/cells/add/#add_3)(Cell) | Add cell to collection. |
-| [Add](../../aspose.pdf/cells/add/#add_1)(string) | Add cell to collection. |
-| [Add](../../aspose.pdf/cells/add/#add_2)(string, TextState) | Add cell to collection. |
+| [Add](../../aspose.pdf/cells/add/#add_4)(Cell) | Add cell to collection. |
+| [Add](../../aspose.pdf/cells/add/#add_2)(string) | Add cell to collection. |
+| [Add](../../aspose.pdf/cells/add/#add_1)(TextFragment) | Add cell to collection. |
+| [Add](../../aspose.pdf/cells/add/#add_3)(string, TextState) | Add cell to collection. |
 | [Dispose](../../aspose.pdf/cells/dispose/)() | Dispose method |
 | [GetEnumerator](../../aspose.pdf/cells/getenumerator/)() | Gets collection's enumerator. |
 | [Insert](../../aspose.pdf/cells/insert/)(int, Cell) | Insert cell to collection. |

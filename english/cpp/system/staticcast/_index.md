@@ -2,11 +2,41 @@
 title: System::StaticCast method
 linktitle: StaticCast
 second_title: Aspose.PDF for C++ API Reference
-description: 'System::StaticCast method. Performs static cast on non-pointer objects in C++.'
+description: 'System::StaticCast method. Performs static cast on Exception objects in C++.'
 type: docs
-weight: 43700
+weight: 44600
 url: /cpp/system/staticcast/
 ---
+## System::StaticCast(const TFrom\&) method
+
+
+Performs static cast on [Exception](../exception/) objects.
+
+```cpp
+template<typename TTo,typename TFrom> std::enable_if<IsExceptionWrapper<TFrom>::value &&IsExceptionWrapper<TTo>::value &&(std::is_convertible<TTo, TFrom>::value||std::is_base_of<TTo, TFrom>::value), TTo>::type System::StaticCast(const TFrom &obj)
+```
+
+
+| Parameter | Description |
+| --- | --- |
+| TTo | Target [Exception](../exception/) type. |
+| TFrom | Source [Exception](../exception/) type. |
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| obj | const TFrom\& | Source pointer. |
+
+### ReturnValue
+
+Cast result if cast is allowed.
+
+## Deprecated
+Left for backwards compatibility. Use ExplicitCast instead. 
+
+## See Also
+
+* Namespace [System](../)
+* Library [Aspose.PDF for C++](../../)
 ## System::StaticCast(const TFrom\&) method
 
 
@@ -38,36 +68,6 @@ Left for backwards compatibility. Use ExplicitCast instead.
 * Class [String](../string/)
 * Namespace [System](../)
 * Library [Aspose.PDF for C++](../../)
-## System::StaticCast(const TFrom\&) method
-
-
-Performs static cast on [Exception](../exception/) objects.
-
-```cpp
-template<typename TTo,typename TFrom> std::enable_if<IsExceptionWrapper<TFrom>::value &&IsExceptionWrapper<TTo>::value &&(std::is_convertible<TTo, TFrom>::value||std::is_base_of<TTo, TFrom>::value), TTo>::type System::StaticCast(const TFrom &obj)
-```
-
-
-| Parameter | Description |
-| --- | --- |
-| TTo | Target [Exception](../exception/) type. |
-| TFrom | Source [Exception](../exception/) type. |
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| obj | const TFrom\& | Source pointer. |
-
-### ReturnValue
-
-Cast result if cast is allowed.
-
-## Deprecated
-Left for backwards compatibility. Use ExplicitCast instead. 
-
-## See Also
-
-* Namespace [System](../)
-* Library [Aspose.PDF for C++](../../)
 ## System::StaticCast(const TFrom *) method
 
 
@@ -76,6 +76,10 @@ Specialization for arithmetic types.
 ```cpp
 template<typename TTo,typename TFrom> std::enable_if<std::is_arithmetic<TFrom>::value, TTo>::type System::StaticCast(const TFrom *value)
 ```
+
+
+## Deprecated
+
 
 ## See Also
 
@@ -178,6 +182,10 @@ Specialization for arithmetic types.
 template<typename TTo,typename TFrom> std::enable_if<std::is_arithmetic<TFrom>::value, TTo>::type System::StaticCast(TFrom value)
 ```
 
+
+## Deprecated
+
+
 ## See Also
 
 * Namespace [System](../)
@@ -190,6 +198,10 @@ Process cast from [String](../string/) to [String](../string/).
 ```cpp
 template<typename TTo> std::enable_if<std::is_same<TTo, System::String>::value, TTo>::type System::StaticCast(TTo value)
 ```
+
+
+## Deprecated
+
 
 ## See Also
 

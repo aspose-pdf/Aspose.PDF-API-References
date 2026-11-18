@@ -29,7 +29,6 @@ Negative value if first substring is less then second, zero if they match, posit
 ## See Also
 
 * Class [String](../)
-* Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## String::CompareOrdinal(const String\&, int, const String\&, int, int) method
@@ -56,7 +55,6 @@ Negative value if first substring is less then second, zero if they match, posit
 
 ## See Also
 
-* Class [String](../)
 * Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

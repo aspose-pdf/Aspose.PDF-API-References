@@ -2,18 +2,18 @@
 title: System::Default method
 linktitle: Default
 second_title: Aspose.PDF for C++ API Reference
-description: 'System::Default method. Returns the reference to the single default-constructed instance of the exception type in C++.'
+description: 'System::Default method. Returns the reference to the single default-constructed instance of the non-exception type in C++.'
 type: docs
-weight: 16900
+weight: 17800
 url: /cpp/system/default/
 ---
 ## System::Default() method
 
 
-Returns the reference to the single default-constructed instance of the exception type.
+Returns the reference to the single default-constructed instance of the non-exception type.
 
 ```cpp
-template<typename T> std::enable_if<IsExceptionWrapper<T>::value, constT &>::type System::Default()
+template<typename T> std::enable_if<!IsExceptionWrapper<T>::value, constT &>::type System::Default()
 ```
 
 
@@ -28,10 +28,10 @@ template<typename T> std::enable_if<IsExceptionWrapper<T>::value, constT &>::typ
 ## System::Default() method
 
 
-Returns the reference to the single default-constructed instance of the non-exception type.
+Returns the reference to the single default-constructed instance of the exception type.
 
 ```cpp
-template<typename T> std::enable_if<!IsExceptionWrapper<T>::value, constT &>::type System::Default()
+template<typename T> std::enable_if<IsExceptionWrapper<T>::value, constT &>::type System::Default()
 ```
 
 

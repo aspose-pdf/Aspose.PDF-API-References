@@ -13,7 +13,7 @@ url: /cpp/system.threading/timercallback/
 Callback function to be called by timer.
 
 ```cpp
-using System::Threading::TimerCallback =  System::MulticastDelegate<void(System::SharedPtr<System::Object>)>
+using System::Threading::TimerCallback = System::MulticastDelegate<void(System::SharedPtr<System::Object>)>
 ```
 
 ## See Also

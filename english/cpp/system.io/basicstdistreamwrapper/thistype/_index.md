@@ -13,7 +13,7 @@ url: /cpp/system.io/basicstdistreamwrapper/thistype/
 
 
 ```cpp
-using System::IO::BasicSTDIStreamWrapper< T, typename >::ThisType =  BasicSTDIStreamWrapper<T>
+using System::IO::BasicSTDIStreamWrapper< T, typename >::ThisType = BasicSTDIStreamWrapper<T>
 ```
 
 ## See Also

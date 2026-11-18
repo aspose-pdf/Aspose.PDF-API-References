@@ -28,6 +28,5 @@ True if both the current and the specified objects represent the same color, oth
 ## See Also
 
 * Class [Color](../)
-* Class [Color](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.PDF for C++](../../../)

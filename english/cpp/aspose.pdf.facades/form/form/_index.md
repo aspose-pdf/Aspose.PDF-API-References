@@ -2,7 +2,7 @@
 title: Aspose::Pdf::Facades::Form::Form constructor
 linktitle: Form
 second_title: Aspose.PDF for C++ API Reference
-description: 'Aspose::Pdf::Facades::Form::Form constructor. Construtcor of Form without parameters in C++.'
+description: 'Aspose::Pdf::Facades::Form::Form constructor. Construtcor of Form without parameters.  in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.pdf.facades/form/form/

@@ -25,6 +25,5 @@ The parent [XmlSchemaObject](../) of this [XmlSchemaObject](../).
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmlSchemaObject](../)
-* Class [XmlSchemaObject](../)
 * Namespace [System::Xml::Schema](../../)
 * Library [Aspose.PDF for C++](../../../)

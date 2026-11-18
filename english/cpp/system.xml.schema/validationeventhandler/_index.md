@@ -13,7 +13,7 @@ url: /cpp/system.xml.schema/validationeventhandler/
 Represents the callback method that will handle XML schema validation events and the [ValidationEventArgs](../validationeventargs/).
 
 ```cpp
-using System::Xml::Schema::ValidationEventHandler =  System::MulticastDelegate<void(SharedPtr<Object> , SharedPtr<ValidationEventArgs> )>
+using System::Xml::Schema::ValidationEventHandler = System::MulticastDelegate<void(SharedPtr<Object> , SharedPtr<ValidationEventArgs> )>
 ```
 
 

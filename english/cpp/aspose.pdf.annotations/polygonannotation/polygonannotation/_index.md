@@ -51,7 +51,6 @@ Aspose::Pdf::Annotations::PolygonAnnotation::PolygonAnnotation(const System::Sha
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Document](../../../aspose.pdf/document/)
 * Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [Point](../../../aspose.pdf/point/)
 * Class [PolygonAnnotation](../)

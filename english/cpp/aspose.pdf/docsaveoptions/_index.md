@@ -52,6 +52,13 @@ class DocSaveOptions : public Aspose::Pdf::UnifiedSaveOptions,
 | [set_RecognizeBullets](./set_recognizebullets/)(bool) | Switch on the recognition of bullets. |
 | [set_RelativeHorizontalProximity](./set_relativehorizontalproximity/)(float) | In [Pdf](../) words may be innerly represented with operators that prints words by independently printing their letters or syllables. So, to detect words sometimes we need detect groups of independent chars that are in fact words. This setting defines width of space between text elements(letters, syllables) that must be treated as distance between words during recognition of words in source PDF. (presence of empty space at least with this width between letters means that textual elements pertain to different words). It's normed to font size - 1.0 means 100% of supposed word's font size. ATTENTION!It's used only in cases when source PDF contains specific rarely used fonts for which optimal value cannot be calculated from font. So, in vast majority of cases this parameter changes nothing in result document. |
 | [set_ReSaveFonts](./set_resavefonts/)(bool) | Sets the procedure for resaving fonts. If set to true, we reload fonts on every page to avoid the influence of previous font properties and load the newly created font from scratch. Set this option to false if you want to improve performance. The default value is true;. |
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [CustomProgressHandler](./customprogresshandler/) | This handler can be used to handle conversion progress events f.e. it can be used to show progress bar or messages about current amount of processed pages, example of handler's code that shows progress on console is : |
+| [IsMultiThreading](../unifiedsaveoptions/ismultithreading/) | Process pages in few threads. |
+| [TryMergeAdjacentSameBackgroundImages](../unifiedsaveoptions/trymergeadjacentsamebackgroundimages/) | Sometimes PDFs contain background images (of pages or table cells) constructed from several same tiling background images put one near other. In such case renderers of target formats (f.e MsWord for DOCS format) sometimes generates visible boundaries beetween parts of background images, cause their techniques of image edge smoothing (anti-aliasing) is different from Acrobat Reader. If it looks like exported document contains such visible boundaries between parts of same background images, please try use this setting to get rid of that unwanted effect. ATTENTION! This optimization of quality usually essentially slows down conversion, so, please, use this option only when it's really necessary. |
 ## See Also
 
 * Class [UnifiedSaveOptions](../unifiedsaveoptions/)

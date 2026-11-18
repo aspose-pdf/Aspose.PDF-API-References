@@ -4,7 +4,7 @@ linktitle: ConfiguredResultTaskAwaitable
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use System::Runtime::CompilerServices::ConfiguredResultTaskAwaitable class in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system.runtime.compilerservices/configuredresulttaskawaitable/
 ---
 ## ConfiguredResultTaskAwaitable class

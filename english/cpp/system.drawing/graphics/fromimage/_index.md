@@ -28,7 +28,6 @@ The created [Graphics](../) object
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Graphics](../)
 * Class [Image](../../image/)
 * Class [Graphics](../)
 * Namespace [System::Drawing](../../)

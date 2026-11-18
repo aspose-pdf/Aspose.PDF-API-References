@@ -29,7 +29,6 @@ The element content converted to the requested typed object.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [TypeInfo](../../../system/typeinfo/)
 * Class [IXmlNamespaceResolver](../../ixmlnamespaceresolver/)
 * Class [XmlReader](../)
@@ -59,7 +58,6 @@ The element content converted to the requested typed object.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [TypeInfo](../../../system/typeinfo/)
 * Class [IXmlNamespaceResolver](../../ixmlnamespaceresolver/)
 * Class [String](../../../system/string/)

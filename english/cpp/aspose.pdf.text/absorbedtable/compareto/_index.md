@@ -29,6 +29,5 @@ A value that indicates the relative order of the objects being compared. The ret
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [AbsorbedTable](../)
-* Class [AbsorbedTable](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

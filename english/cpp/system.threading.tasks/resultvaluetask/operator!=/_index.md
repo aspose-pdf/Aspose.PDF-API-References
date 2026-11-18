@@ -28,6 +28,5 @@ bool True if the instances are not equal; otherwise, false.
 ## See Also
 
 * Class [ResultValueTask](../)
-* Class [ResultValueTask](../)
 * Namespace [System::Threading::Tasks](../../)
 * Library [Aspose.PDF for C++](../../../)

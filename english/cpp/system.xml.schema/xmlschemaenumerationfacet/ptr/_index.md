@@ -13,7 +13,7 @@ url: /cpp/system.xml.schema/xmlschemaenumerationfacet/ptr/
 An alias for shared pointer to an instance of this class.
 
 ```cpp
-using System::Xml::Schema::XmlSchemaEnumerationFacet::Ptr =  SharedPtr<XmlSchemaEnumerationFacet>
+using System::Xml::Schema::XmlSchemaEnumerationFacet::Ptr = SharedPtr<XmlSchemaEnumerationFacet>
 ```
 
 ## See Also

@@ -23,7 +23,6 @@ The view array.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [PDF3DViewArray](../../pdf3dviewarray/)
 * Class [PDF3DAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

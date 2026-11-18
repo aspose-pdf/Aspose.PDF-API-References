@@ -4,7 +4,7 @@ linktitle: HttpResponseHeader
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Net::HttpResponseHeader enum. Enumerates the http response headers in C++.'
 type: docs
-weight: 4500
+weight: 4600
 url: /cpp/system.net/httpresponseheader/
 ---
 ## HttpResponseHeader enum

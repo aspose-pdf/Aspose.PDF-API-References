@@ -4,7 +4,7 @@ linktitle: get_TabOrder
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Page::get_TabOrder method. Gets tab order of the page. Possible values: Row, Column. Default, Manual in C++.'
 type: docs
-weight: 3900
+weight: 4000
 url: /cpp/aspose.pdf/page/get_taborder/
 ---
 ## Page::get_TabOrder method

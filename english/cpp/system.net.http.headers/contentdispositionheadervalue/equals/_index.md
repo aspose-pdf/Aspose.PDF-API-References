@@ -28,7 +28,6 @@ True if objects are considered equal and false otherwise.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [ContentDispositionHeaderValue](../)
 * Namespace [System::Net::Http::Headers](../../)
 * Library [Aspose.PDF for C++](../../../)

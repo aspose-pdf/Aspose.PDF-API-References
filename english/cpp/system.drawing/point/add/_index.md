@@ -28,7 +28,6 @@ A new [Point](../) object whose X coordinate value is equal to the sum of X coor
 
 ## See Also
 
-* Class [Point](../)
 * Class [Size](../../size/)
 * Class [Point](../)
 * Namespace [System::Drawing](../../)

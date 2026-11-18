@@ -20,7 +20,6 @@ static bool System::Threading::Monitor::Wait(const SharedPtr<Object> &obj)
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [Monitor](../)
 * Namespace [System::Threading](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -37,7 +36,6 @@ static bool System::Threading::Monitor::Wait(const SharedPtr<Object> &obj, int32
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [Monitor](../)
 * Namespace [System::Threading](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -54,7 +52,6 @@ static bool System::Threading::Monitor::Wait(const SharedPtr<Object> &obj, int32
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [Monitor](../)
 * Namespace [System::Threading](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -71,7 +68,6 @@ static bool System::Threading::Monitor::Wait(const SharedPtr<Object> &obj, TimeS
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [TimeSpan](../../../system/timespan/)
 * Class [Monitor](../)
 * Namespace [System::Threading](../../)
@@ -89,7 +85,6 @@ static bool System::Threading::Monitor::Wait(const SharedPtr<Object> &obj, TimeS
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [TimeSpan](../../../system/timespan/)
 * Class [Monitor](../)
 * Namespace [System::Threading](../../)

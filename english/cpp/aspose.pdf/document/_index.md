@@ -120,14 +120,14 @@ class Document : public System::IDisposable,
 | [get_IsXrefGapsAllowed](./get_isxrefgapsallowed/)() | Gets the is document pdfa compliant. |
 | [get_JavaScript](./get_javascript/)() | [Collection](../collection/) of JavaScript of document level. |
 | [get_LogicalStructure](./get_logicalstructure/)() | Gets logical structure of the document. |
-| [get_Metadata](./get_metadata/)() | [Document](./) metadata. (A PDF document may include general information, such as the document's title, author, and creation and modification dates. Such global information about the document (as opposed to its content or structure) is called metadata and is intended to assist in cataloguing and searching for documents in external databases.) |
+| [get_Metadata](./get_metadata/)() | [Document](./) metadata. (A PDF document may include general information, such as the document's title, author, and creation and modification dates. Such global information about the document (as opposed to its content or structure) is called metadata and is intended to assist in cataloguing and searching for documents in external databases.). |
 | [get_NamedDestinations](./get_nameddestinations/)() | [Collection](../collection/) of Named Destination in the document. |
 | [get_NonFullScreenPageMode](./get_nonfullscreenpagemode/)() | Gets page mode, specifying how to display the document on exiting full-screen mode. |
 | [get_OpenAction](./get_openaction/)() | Gets action performed at document opening. |
 | [get_OptimizeSize](./get_optimizesize/)() | Gets optimization flag. When pages are added to document, equal resource streams in resultant file are merged into one PDF object if this flag set. This allows to decrease resultant file size but may cause slower execution and larger memory requirements. Default value: false. |
 | [get_Outlines](./get_outlines/)() | Gets document outlines. |
 | [get_OutputIntents](./get_outputintents/)() | Gets the collection of Output intents in the document. |
-| [get_PageInfo](./get_pageinfo/)() | Gets the page info.(for generator only, not filled in when reading document) |
+| [get_PageInfo](./get_pageinfo/)() | Gets the page info.(for generator only, not filled in when reading document). |
 | [get_PageLabels](./get_pagelabels/)() | Gets page labels in the document. |
 | [get_PageLayout](./get_pagelayout/)() | Gets page layout which shall be used when the document is opened. |
 | [get_PageMode](./get_pagemode/)() | Gets page mode, specifying how document should be displayed when opened. |
@@ -201,7 +201,7 @@ class Document : public System::IDisposable,
 | [set_NonFullScreenPageMode](./set_nonfullscreenpagemode/)(Aspose::Pdf::PageMode) | Sets page mode, specifying how to display the document on exiting full-screen mode. |
 | [set_OpenAction](./set_openaction/)(const System::SharedPtr\<Annotations::IAppointment\>\&) | Sets action performed at document opening. |
 | [set_OptimizeSize](./set_optimizesize/)(bool) | Sets optimization flag. When pages are added to document, equal resource streams in resultant file are merged into one PDF object if this flag set. This allows to decrease resultant file size but may cause slower execution and larger memory requirements. Default value: false. |
-| [set_PageInfo](./set_pageinfo/)(const System::SharedPtr\<Aspose::Pdf::PageInfo\>\&) | Sets the page info.(for generator only, not filled in when reading document) |
+| [set_PageInfo](./set_pageinfo/)(const System::SharedPtr\<Aspose::Pdf::PageInfo\>\&) | Sets the page info.(for generator only, not filled in when reading document). |
 | [set_PageLayout](./set_pagelayout/)(Aspose::Pdf::PageLayout) | Sets page layout which shall be used when the document is opened. |
 | [set_PageMode](./set_pagemode/)(Aspose::Pdf::PageMode) | Sets page mode, specifying how document should be displayed when opened. |
 | [set_PickTrayByPdfSize](./set_picktraybypdfsize/)(bool) | Sets a flag specifying whether the PDF page size shall be used to select the input paper tray. |
@@ -217,6 +217,7 @@ class Document : public System::IDisposable,
 | Field | Description |
 | --- | --- |
 | static [DefaultNodesNumInSubtrees](./defaultnodesnuminsubtrees/) |  |
+| [FontSubstitution](./fontsubstitution/) | Occurs when font replaces another font in document. |
 ## Typedefs
 
 | Typedef | Description |

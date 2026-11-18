@@ -30,7 +30,6 @@ A stream object or **nullptr** if a type other than stream is specified.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [Uri](../../../system/uri/)
 * Class [String](../../../system/string/)
 * Class [TypeInfo](../../../system/typeinfo/)

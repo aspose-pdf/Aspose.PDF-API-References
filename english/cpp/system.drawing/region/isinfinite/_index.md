@@ -24,7 +24,6 @@ bool System::Drawing::Region::IsInfinite(const SharedPtr<Graphics> &g) const
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Graphics](../../graphics/)
 * Class [Region](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.PDF for C++](../../../)

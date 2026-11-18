@@ -13,7 +13,7 @@ url: /cpp/system.xml.schema/xmlschematotaldigitsfacet/ptr/
 An alias for shared pointer to an instance of this class.
 
 ```cpp
-using System::Xml::Schema::XmlSchemaTotalDigitsFacet::Ptr =  SharedPtr<XmlSchemaTotalDigitsFacet>
+using System::Xml::Schema::XmlSchemaTotalDigitsFacet::Ptr = SharedPtr<XmlSchemaTotalDigitsFacet>
 ```
 
 ## See Also

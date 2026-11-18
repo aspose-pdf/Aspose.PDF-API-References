@@ -32,6 +32,5 @@ If either instance contains a direct result value, compares the results directly
 ## See Also
 
 * Class [ResultValueTask](../)
-* Class [ResultValueTask](../)
 * Namespace [System::Threading::Tasks](../../)
 * Library [Aspose.PDF for C++](../../../)

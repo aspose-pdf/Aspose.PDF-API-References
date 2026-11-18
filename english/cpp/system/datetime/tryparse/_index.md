@@ -23,7 +23,6 @@ static bool System::DateTime::TryParse(const String &s, const SharedPtr<Globaliz
 * Class [CultureInfo](../../../system.globalization/cultureinfo/)
 * Enum [DateTimeStyles](../../../system.globalization/datetimestyles/)
 * Class [DateTime](../)
-* Class [DateTime](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## DateTime::TryParse(const String\&, const SharedPtr\<Globalization::DateTimeFormatInfo\>\&, Globalization::DateTimeStyles, DateTime\&) method
@@ -41,7 +40,6 @@ static bool System::DateTime::TryParse(const String &s, const SharedPtr<Globaliz
 * Typedef [SharedPtr](../../sharedptr/)
 * Class [DateTimeFormatInfo](../../../system.globalization/datetimeformatinfo/)
 * Enum [DateTimeStyles](../../../system.globalization/datetimestyles/)
-* Class [DateTime](../)
 * Class [DateTime](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -73,7 +71,6 @@ True if conversion succeeds, otherwise - false.
 * Class [IFormatProvider](../../iformatprovider/)
 * Enum [DateTimeStyles](../../../system.globalization/datetimestyles/)
 * Class [DateTime](../)
-* Class [DateTime](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## DateTime::TryParse(const String\&, DateTime\&) method
@@ -99,7 +96,6 @@ True if conversion succeeds, otherwise - false.
 
 * Class [String](../../string/)
 * Class [DateTime](../)
-* Class [DateTime](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## DateTime::TryParse(const String\&, std::nullptr_t, Globalization::DateTimeStyles, DateTime\&) method
@@ -115,7 +111,6 @@ static bool System::DateTime::TryParse(const String &s, std::nullptr_t, Globaliz
 
 * Class [String](../../string/)
 * Enum [DateTimeStyles](../../../system.globalization/datetimestyles/)
-* Class [DateTime](../)
 * Class [DateTime](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

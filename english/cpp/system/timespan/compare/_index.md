@@ -29,6 +29,5 @@ static constexpr int System::TimeSpan::Compare(TimeSpan t1, TimeSpan t2)
 ## See Also
 
 * Class [TimeSpan](../)
-* Class [TimeSpan](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

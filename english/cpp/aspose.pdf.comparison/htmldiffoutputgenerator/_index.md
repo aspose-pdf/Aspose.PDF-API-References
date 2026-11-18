@@ -25,15 +25,15 @@ class HtmlDiffOutputGenerator : public Aspose::Pdf::Comparison::IStringOutputGen
 | [GenerateOutput](./generateoutput/)(const System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<DiffOperation\>\>\>\&, const System::String\&) override | Generates the output based on the differences between texts and saves it to a file. |
 | [GenerateOutput](./generateoutput/)(const System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<DiffOperation\>\>\>\>\>\&) override | Generates the output based on the differences between texts and saves it to a file. |
 | [GenerateOutput](./generateoutput/)(const System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<DiffOperation\>\>\>\>\>\&, const System::String\&) override | Generates the output based on the differences between texts and saves it to a file. |
-| [get_DeleteStyle](./get_deletestyle/)() const | Gets and sets the CSS-style string for Delete operation. Example: **color: &#35;003300; background-color: &#35;ccff66;** |
-| [get_EqualStyle](./get_equalstyle/)() const | Gets and sets the CSS-style string for Equal operation. Example: **color: &#35;003300; background-color: &#35;ccff66;** |
-| [get_InsertStyle](./get_insertstyle/)() const | Gets and sets the CSS-style string for Insert operation. Example: **color: &#35;003300; background-color: &#35;ccff66;** |
+| [get_DeleteStyle](./get_deletestyle/)() const | Gets and sets the CSS-style string for Delete operation. Example: **color: &#35;003300; background-color: &#35;ccff66;**. |
+| [get_EqualStyle](./get_equalstyle/)() const | Gets and sets the CSS-style string for Equal operation. Example: **color: &#35;003300; background-color: &#35;ccff66;**. |
+| [get_InsertStyle](./get_insertstyle/)() const | Gets and sets the CSS-style string for Insert operation. Example: **color: &#35;003300; background-color: &#35;ccff66;**. |
 | [get_StrikethroughDeleted](./get_strikethroughdeleted/)() const | Get or set text-decoration: line-through style for the delete operation. Default value is **False**. |
 | [HtmlDiffOutputGenerator](./htmldiffoutputgenerator/)() | Creates an instance of [HtmlDiffOutputGenerator](./) class. |
 | [HtmlDiffOutputGenerator](./htmldiffoutputgenerator/)(const System::SharedPtr\<OutputTextStyle\>\&) | Creates an instance of [HtmlDiffOutputGenerator](./) class. |
-| [set_DeleteStyle](./set_deletestyle/)(const System::String\&) | Gets and sets the CSS-style string for Delete operation. Example: **color: &#35;003300; background-color: &#35;ccff66;** |
-| [set_EqualStyle](./set_equalstyle/)(const System::String\&) | Gets and sets the CSS-style string for Equal operation. Example: **color: &#35;003300; background-color: &#35;ccff66;** |
-| [set_InsertStyle](./set_insertstyle/)(const System::String\&) | Gets and sets the CSS-style string for Insert operation. Example: **color: &#35;003300; background-color: &#35;ccff66;** |
+| [set_DeleteStyle](./set_deletestyle/)(const System::String\&) | Gets and sets the CSS-style string for Delete operation. Example: **color: &#35;003300; background-color: &#35;ccff66;**. |
+| [set_EqualStyle](./set_equalstyle/)(const System::String\&) | Gets and sets the CSS-style string for Equal operation. Example: **color: &#35;003300; background-color: &#35;ccff66;**. |
+| [set_InsertStyle](./set_insertstyle/)(const System::String\&) | Gets and sets the CSS-style string for Insert operation. Example: **color: &#35;003300; background-color: &#35;ccff66;**. |
 | [set_StrikethroughDeleted](./set_strikethroughdeleted/)(bool) | Get or set text-decoration: line-through style for the delete operation. Default value is **False**. |
 ## See Also
 

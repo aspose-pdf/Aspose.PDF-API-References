@@ -52,7 +52,6 @@ True if the specified rectangle is located within the rectangle represented by t
 ## See Also
 
 * Class [Rectangle](../)
-* Class [Rectangle](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## Rectangle::Contains(int, int) const method

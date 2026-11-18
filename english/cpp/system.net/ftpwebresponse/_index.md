@@ -4,7 +4,7 @@ linktitle: FtpWebResponse
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Net::FtpWebResponse class. Dummy class making it possible linking translated code with FtpWebResponse references, but not executing it. Contains no properly implemented members. Objects of this class should only be allocated using System::MakeObject() function. Never create instance of this type on stack or using operator new, as it will result in runtime errors and/or assertion faults. Always wrap this class into System::SmartPtr pointer and use this pointer to pass it to functions as argument in C++.'
 type: docs
-weight: 1300
+weight: 1400
 url: /cpp/system.net/ftpwebresponse/
 ---
 ## FtpWebResponse class

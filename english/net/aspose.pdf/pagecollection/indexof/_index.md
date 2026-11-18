@@ -3,7 +3,7 @@ title: PageCollection.IndexOf
 second_title: Aspose.PDF for .NET API Reference
 description: PageCollection method. Returns index of the specified page
 type: docs
-weight: 150
+weight: 170
 url: /net/aspose.pdf/pagecollection/indexof/
 ---
 ## PageCollection.IndexOf method

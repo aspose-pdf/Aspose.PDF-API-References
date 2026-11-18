@@ -13,7 +13,7 @@ url: /cpp/system.componentmodel/propertychangedeventhandler/
 Handler type to handle PropertyChanged event.
 
 ```cpp
-using System::ComponentModel::PropertyChangedEventHandler =  System::EventHandler<System::SharedPtr<PropertyChangedEventArgs>>
+using System::ComponentModel::PropertyChangedEventHandler = System::EventHandler<System::SharedPtr<PropertyChangedEventArgs>>
 ```
 
 ## See Also

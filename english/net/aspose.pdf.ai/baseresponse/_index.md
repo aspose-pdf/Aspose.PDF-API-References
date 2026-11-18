@@ -3,7 +3,7 @@ title: Class BaseResponse
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.BaseResponse class. Base class for API responses
 type: docs
-weight: 170
+weight: 140
 url: /net/aspose.pdf.ai/baseresponse/
 ---
 ## BaseResponse class

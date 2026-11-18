@@ -19,7 +19,6 @@ Aspose::Pdf::Annotations::GenericAnnotation::GenericAnnotation(const System::Sha
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Document](../../../aspose.pdf/document/)
 * Class [GenericAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

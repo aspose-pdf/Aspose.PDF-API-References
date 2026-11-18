@@ -13,7 +13,7 @@ url: /cpp/system.io.compression/brotlistream/
 An alias for Aspose::Brotli::BrotliStream.
 
 ```cpp
-using System::IO::Compression::BrotliStream =  Aspose::Brotli::BrotliStream
+using System::IO::Compression::BrotliStream = Aspose::Brotli::BrotliStream
 ```
 
 ## See Also

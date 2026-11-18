@@ -4,7 +4,7 @@ linktitle: Dns
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Net::Dns class. Provides methods to work with DNS in C++.'
 type: docs
-weight: 700
+weight: 800
 url: /cpp/system.net/dns/
 ---
 ## Dns class

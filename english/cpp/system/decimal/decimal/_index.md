@@ -58,7 +58,6 @@ System::Decimal::Decimal(const Decimal &d)
 ## See Also
 
 * Class [Decimal](../)
-* Class [Decimal](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## Decimal::Decimal(const number_type\&) constructor

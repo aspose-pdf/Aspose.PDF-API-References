@@ -28,6 +28,5 @@ A span representing the array.
 ## See Also
 
 * Class [Span](../)
-* Class [Span](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

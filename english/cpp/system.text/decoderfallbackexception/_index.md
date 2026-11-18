@@ -4,7 +4,7 @@ linktitle: DecoderFallbackException
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use System::Text::DecoderFallbackException typedef in C++.'
 type: docs
-weight: 3000
+weight: 3300
 url: /cpp/system.text/decoderfallbackexception/
 ---
 ## DecoderFallbackException typedef
@@ -13,7 +13,7 @@ url: /cpp/system.text/decoderfallbackexception/
 
 
 ```cpp
-using System::Text::DecoderFallbackException =  System::ExceptionWrapper<Details_DecoderFallbackException>
+using System::Text::DecoderFallbackException = System::ExceptionWrapper<Details_DecoderFallbackException>
 ```
 
 ## See Also

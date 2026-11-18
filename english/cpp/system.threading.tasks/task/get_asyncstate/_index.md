@@ -24,7 +24,6 @@ const SharedPtr<Object> & System::Threading::Tasks::Task::get_AsyncState() const
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [Task](../)
 * Namespace [System::Threading::Tasks](../../)
 * Library [Aspose.PDF for C++](../../../)

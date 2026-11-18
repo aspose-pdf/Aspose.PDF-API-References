@@ -28,7 +28,7 @@ class Annotation : public Aspose::Pdf::BaseParagraph
 | [get_Alignment](./get_alignment/)() | [Annotation](./) alignment. This property is obsolete. Use HorizontalAligment instead. |
 | virtual [get_AnnotationType](./get_annotationtype/)() | Gets type of annotation. |
 | [get_Appearance](./get_appearance/)() | Gets appearance dictionary of the annotation. |
-| [get_Border](./get_border/)() const | Gets annotation border characteristics. [Border](../border/) |
+| [get_Border](./get_border/)() const | Gets annotation border characteristics. [Border](../border/). |
 | [get_Characteristics](./get_characteristics/)() | Gets annotation characteristics. |
 | [get_Color](./get_color/)() | Gets annotation color. |
 | [get_Contents](./get_contents/)() | Gets annotation text. |
@@ -48,7 +48,7 @@ class Annotation : public Aspose::Pdf::BaseParagraph
 | [GetRectangle](./getrectangle/)(bool) | Returns rectangle of annotation taking into consideration page rotation. |
 | virtual [set_ActiveState](./set_activestate/)(System::String) | Sets current annotation appearance state. |
 | [set_Alignment](./set_alignment/)(TextAlignment) | [Annotation](./) alignment. This property is obsolete. Use HorizontalAligment instead. |
-| [set_Border](./set_border/)(const System::SharedPtr\<Aspose::Pdf::Annotations::Border\>\&) | Sets annotation border characteristics. [Border](../border/) |
+| [set_Border](./set_border/)(const System::SharedPtr\<Aspose::Pdf::Annotations::Border\>\&) | Sets annotation border characteristics. [Border](../border/). |
 | [set_Color](./set_color/)(const System::SharedPtr\<Aspose::Pdf::Color\>\&) | Sets annotation color. |
 | [set_Contents](./set_contents/)(const System::String\&) | Sets annotation text. |
 | [set_Flags](./set_flags/)(AnnotationFlags) | Flags of the annotation. |

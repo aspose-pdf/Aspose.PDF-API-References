@@ -4,7 +4,7 @@ linktitle: StringBuilder
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Text::StringBuilder class. Buffer to accumulate string part by part. This type can be allocated either in stack as value type or in heap using System::MakeObject() function. Once the object is allocated, never mix up these two usecases: having SmartPtr pointers onto stack-allocated objects is strictly prohibited in C++.'
 type: docs
-weight: 2400
+weight: 2600
 url: /cpp/system.text/stringbuilder/
 ---
 ## StringBuilder class

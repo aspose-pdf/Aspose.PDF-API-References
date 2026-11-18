@@ -3,7 +3,7 @@ title: Class AICopilotException
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.AICopilotException class. Represents an exception specific to Copilots operations
 type: docs
-weight: 70
+weight: 40
 url: /net/aspose.pdf.ai/aicopilotexception/
 ---
 ## AICopilotException class

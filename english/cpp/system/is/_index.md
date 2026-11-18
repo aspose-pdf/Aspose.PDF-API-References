@@ -4,7 +4,7 @@ linktitle: Is
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Is method. Top-level matching function. Applies a pattern to a value in C++.'
 type: docs
-weight: 22800
+weight: 23700
 url: /cpp/system/is/
 ---
 ## System::Is(const E\&, const A\&) method

@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf/saveoptions/resourcesavinginfo/
 ## ResourceSavingInfo class
 
 
-This class represents set of data that related to external resource file's saving that occures during conversion of PDF to some other format (f.e. HTML)
+This class represents set of data that related to external resource file's saving that occures during conversion of PDF to some other format (f.e. HTML).
 
 ```cpp
 class ResourceSavingInfo : public System::Object
@@ -21,6 +21,13 @@ class ResourceSavingInfo : public System::Object
 | Method | Description |
 | --- | --- |
 | [get_ResourceType](./get_resourcetype/)() const | Set by converter. Supposed file name that goes from converter to code of custom method Can be use in custom code to decide how to process or where save that file. |
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [ContentStream](./contentstream/) | Set by converter. Represents binary content of saved file. |
+| [CustomProcessingCancelled](./customprocessingcancelled/) | this flag must set to "true" in custom code if for some reasons proposed file should be processed not with custom code but with converter's code itself in standard for converter way. So, it' setting set to true means that custom code did not process referenced file and converter must handle it itself (in both sences - for saving somewhere and for naming in referencing file). |
+| [SupposedFileName](./supposedfilename/) | Set by converter. Supposed file name that goes from converter to code of custom method Can be use in custom code to decide how to process or where save that file. |
 ## See Also
 
 * Class [Object](../../../system/object/)

@@ -19,6 +19,5 @@ static int8_t System::Decimal::ToSByte(Decimal value)
 ## See Also
 
 * Class [Decimal](../)
-* Class [Decimal](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

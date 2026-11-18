@@ -13,7 +13,7 @@ url: /cpp/system.io/stdiostreamwrapperbase/char_type/
 RTTI information.
 
 ```cpp
-using System::IO::STDIOStreamWrapperBase< T, typename >::char_type =  typename T::char_type
+using System::IO::STDIOStreamWrapperBase< T, typename >::char_type = typename T::char_type
 ```
 
 ## See Also

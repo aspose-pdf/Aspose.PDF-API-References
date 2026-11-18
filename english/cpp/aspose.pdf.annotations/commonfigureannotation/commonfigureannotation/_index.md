@@ -24,7 +24,6 @@ Aspose::Pdf::Annotations::CommonFigureAnnotation::CommonFigureAnnotation(const S
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Document](../../../aspose.pdf/document/)
 * Class [CommonFigureAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

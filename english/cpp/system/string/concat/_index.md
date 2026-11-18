@@ -27,7 +27,6 @@ static String System::String::Concat(const ArrayPtr<String> &parts)
 
 ## See Also
 
-* Class [String](../)
 * Typedef [ArrayPtr](../../arrayptr/)
 * Class [String](../)
 * Namespace [System](../../)
@@ -54,7 +53,6 @@ static String System::String::Concat(const String &str0, const String &str1)
 ## See Also
 
 * Class [String](../)
-* Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## String::Concat(const String\&, const String\&, const String\&) method
@@ -79,7 +77,6 @@ static String System::String::Concat(const String &str0, const String &str1, con
 
 ## See Also
 
-* Class [String](../)
 * Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -106,7 +103,6 @@ static String System::String::Concat(const String &str0, const String &str1, con
 
 ## See Also
 
-* Class [String](../)
 * Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

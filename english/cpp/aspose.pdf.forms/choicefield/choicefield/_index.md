@@ -33,7 +33,7 @@ Aspose::Pdf::Forms::ChoiceField::ChoiceField(const System::SharedPtr<Aspose::Pdf
 ## ChoiceField::ChoiceField(const System::SharedPtr\<Document\>\&) constructor
 
 
-Creates choice field (for Generator)
+Creates choice field (for Generator).
 
 ```cpp
 Aspose::Pdf::Forms::ChoiceField::ChoiceField(const System::SharedPtr<Document> &doc)
@@ -47,7 +47,6 @@ Aspose::Pdf::Forms::ChoiceField::ChoiceField(const System::SharedPtr<Document> &
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Document](../../../aspose.pdf/document/)
 * Class [ChoiceField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -69,7 +68,6 @@ Aspose::Pdf::Forms::ChoiceField::ChoiceField(const System::SharedPtr<Document> &
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Document](../../../aspose.pdf/document/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [ChoiceField](../)
 * Namespace [Aspose::Pdf::Forms](../../)

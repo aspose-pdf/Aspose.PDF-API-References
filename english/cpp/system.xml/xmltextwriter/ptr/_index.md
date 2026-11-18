@@ -13,7 +13,7 @@ url: /cpp/system.xml/xmltextwriter/ptr/
 An alias for shared pointer to an instance of this class.
 
 ```cpp
-using System::Xml::XmlTextWriter::Ptr =  SharedPtr<XmlTextWriter>
+using System::Xml::XmlTextWriter::Ptr = SharedPtr<XmlTextWriter>
 ```
 
 ## See Also

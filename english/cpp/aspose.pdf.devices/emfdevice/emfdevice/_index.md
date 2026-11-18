@@ -40,7 +40,7 @@ Aspose::Pdf::Devices::EmfDevice::EmfDevice(const System::SharedPtr<Aspose::Pdf::
 ## EmfDevice::EmfDevice(const System::SharedPtr\<PageSize\>\&) constructor
 
 
-Initializes a new instance of the [EmfDevice](../) class with provided page size, and default resolution for the raster image written to emf (=150)
+Initializes a new instance of the [EmfDevice](../) class with provided page size, and default resolution for the raster image written to emf (=150).
 
 ```cpp
 Aspose::Pdf::Devices::EmfDevice::EmfDevice(const System::SharedPtr<PageSize> &pageSize)
@@ -84,7 +84,7 @@ Aspose::Pdf::Devices::EmfDevice::EmfDevice(const System::SharedPtr<PageSize> &pa
 ## EmfDevice::EmfDevice(int32_t, int32_t) constructor
 
 
-Initializes a new instance of the [EmfDevice](../) class with provided image dimensions, and default resolution for the raster image written to emf (=150)
+Initializes a new instance of the [EmfDevice](../) class with provided image dimensions, and default resolution for the raster image written to emf (=150).
 
 ```cpp
 Aspose::Pdf::Devices::EmfDevice::EmfDevice(int32_t width, int32_t height)

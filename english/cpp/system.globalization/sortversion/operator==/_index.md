@@ -28,6 +28,5 @@ true if objects represents the same version, otherwise - false.
 ## See Also
 
 * Class [SortVersion](../)
-* Class [SortVersion](../)
 * Namespace [System::Globalization](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -28,7 +28,6 @@ The row index
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Row](../../row/)
 * Class [Rows](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

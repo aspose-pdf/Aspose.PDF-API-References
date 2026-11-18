@@ -4,7 +4,7 @@ linktitle: WeakPtr
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::WeakPtr class. Subclass of System::SmartPtr which sets itself to weak mode at construction. Please note that this class doesn''t guarantee that its instance will always remain in weak mode as set_Mode() is still accessible. This type is a pointer to manage other object''s deletion. It should be allocated on stack and passed to functions either by value or by const reference in C++.'
 type: docs
-weight: 8000
+weight: 8400
 url: /cpp/system/weakptr/
 ---
 ## WeakPtr class
@@ -39,7 +39,7 @@ template<class T>class WeakPtr : public System::SmartPtr<T>
 
 | Typedef | Description |
 | --- | --- |
-| [Pointee_](./pointee_/) | Pointed type. |
+| [Pointee_](./pointee_/) | Alias for pointee type. |
 | [SmartPtr_](./smartptr_/) | Alias for corresponding [SmartPtr](../smartptr/) class. |
 | [WeakPtr_](./weakptr_/) | Alias for self type. |
 

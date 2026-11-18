@@ -4,7 +4,7 @@ linktitle: System::Collections::Generic
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use System::Collections::Generic namespace in C++.'
 type: docs
-weight: 3200
+weight: 3300
 url: /cpp/system.collections.generic/
 ---
 
@@ -29,6 +29,7 @@ url: /cpp/system.collections.generic/
 | [DictionaryPtr](./dictionaryptr/) | [Dictionary](./dictionary/) pointer class with operator overloads. This type is a pointer to manage other object's deletion. It should be allocated on stack and passed to functions either by value or by const reference. |
 | [EnumerableExt](./enumerableext/) |  |
 | [EnumeratorWrapperIterator](./enumeratorwrapperiterator/) | Iterator that wraps the pre-created enumerator and redirects all calls into it. |
+| [EqualityComparer](./equalitycomparer/) | Provides a base class for implementations of the [System::Collections::Generic::IEqualityComparer](./iequalitycomparer/) generic interface. |
 | [HashDictionary](./hashdictionary/) | Stub for [HashDictionary](./hashdictionary/) class (not implemented currently). Objects of this class should only be allocated using [System::MakeObject()](../system/makeobject/) function. Never create instance of this type on stack or using operator new, as it will result in runtime errors and/or assertion faults. Always wrap this class into [System::SmartPtr](../system/smartptr/) pointer and use this pointer to pass it to functions as argument. |
 | [HashSet](./hashset/) | Forward declaration of [HashSet](./hashset/) class. |
 | [HashSetPtr](./hashsetptr/) | Pointer to keep [HashSet](./hashset/) references. This type is a pointer to manage other object's deletion. It should be allocated on stack and passed to functions either by value or by const reference. |
@@ -40,6 +41,9 @@ url: /cpp/system.collections.generic/
 | [IEqualityComparer](./iequalitycomparer/) | Interface providing means to compare two objects for equality. Objects of this class should only be allocated using [System::MakeObject()](../system/makeobject/) function. Never create instance of this type on stack or using operator new, as it will result in runtime errors and/or assertion faults. Always wrap this class into [System::SmartPtr](../system/smartptr/) pointer and use this pointer to pass it to functions as argument. |
 | [IKVCollection](./ikvcollection/) | Interface of container containing keys or values of the dictionary-like container. Objects of this class should only be allocated using [System::MakeObject()](../system/makeobject/) function. Never create instance of this type on stack or using operator new, as it will result in runtime errors and/or assertion faults. Always wrap this class into [System::SmartPtr](../system/smartptr/) pointer and use this pointer to pass it to functions as argument. |
 | [IList](./ilist/) | Interface of indexed container of elements. Objects of this class should only be allocated using [System::MakeObject()](../system/makeobject/) function. Never create instance of this type on stack or using operator new, as it will result in runtime errors and/or assertion faults. Always wrap this class into [System::SmartPtr](../system/smartptr/) pointer and use this pointer to pass it to functions as argument. |
+| [IReadOnlyCollection](./ireadonlycollection/) | Interface of read-only collection of elements. Objects of this class should only be allocated using [System::MakeObject()](../system/makeobject/) function. Never create instance of this type on stack or using operator new, as it will result in runtime errors and/or assertion faults. Always wrap this class into [System::SmartPtr](../system/smartptr/) pointer and use this pointer to pass it to functions as argument. |
+| [IReadOnlyDictionary](./ireadonlydictionary/) | Interface for read-only dictionary-alike containers. Objects of this class should only be allocated using [System::MakeObject()](../system/makeobject/) function. Never create instance of this type on stack or using operator new, as it will result in runtime errors and/or assertion faults. Always wrap this class into [System::SmartPtr](../system/smartptr/) pointer and use this pointer to pass it to functions as argument. |
+| [IReadOnlyList](./ireadonlylist/) | Interface of read-only indexed container of elements. Objects of this class should only be allocated using [System::MakeObject()](../system/makeobject/) function. Never create instance of this type on stack or using operator new, as it will result in runtime errors and/or assertion faults. Always wrap this class into [System::SmartPtr](../system/smartptr/) pointer and use this pointer to pass it to functions as argument. |
 | [ISet](./iset/) | Interface of collection containing a set of unique elements. Objects of this class should only be allocated using [System::MakeObject()](../system/makeobject/) function. Never create instance of this type on stack or using operator new, as it will result in runtime errors and/or assertion faults. Always wrap this class into [System::SmartPtr](../system/smartptr/) pointer and use this pointer to pass it to functions as argument. |
 | [KeyIterator](./keyiterator/) | [Dictionary](./dictionary/) iterator that provides key access. |
 | [KeyValuePair](./keyvaluepair/) | Pair of key and value. This type should be allocated on stack and passed to functions by value or by reference. Never use [System::SmartPtr](../system/smartptr/) class to manage objects of this type. |
@@ -49,6 +53,7 @@ url: /cpp/system.collections.generic/
 | [List](./list/) | [List](./list/) forward declaration. |
 | [ListExt](./listext/) | generic [List](./list/) class that implements [IListWrapper](../system.collections/ilistwrapper/) interface |
 | [ListPtr](./listptr/) | [List](./list/) pointer with access operators. This type is a pointer to manage other object's deletion. It should be allocated on stack and passed to functions either by value or by const reference. |
+| [ObjectEqualityComparer](./objectequalitycomparer/) | Provides a default implementation of the [System::Collections::Generic::EqualityComparer<T>](./equalitycomparer/) abstract class. |
 | [Queue](./queue/) | [Queue](./queue/) class forward declaration. |
 | [QueuePtr](./queueptr/) | [Queue](./queue/) pointer. This type is a pointer to manage other object's deletion. It should be allocated on stack and passed to functions either by value or by const reference. |
 | [ReverseEnumerator](./reverseenumerator/) | [Enumerator](./baseset/) that reverse-iterates through container. Objects of this class should only be allocated using [System::MakeObject()](../system/makeobject/) function. Never create instance of this type on stack or using operator new, as it will result in runtime errors and/or assertion faults. Always wrap this class into [System::SmartPtr](../system/smartptr/) pointer and use this pointer to pass it to functions as argument. |

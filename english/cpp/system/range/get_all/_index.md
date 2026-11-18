@@ -24,6 +24,5 @@ A [Range](../) object that selects all elements.
 ## See Also
 
 * Class [Range](../)
-* Class [Range](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

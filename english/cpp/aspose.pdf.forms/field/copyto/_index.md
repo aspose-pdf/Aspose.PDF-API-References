@@ -30,6 +30,5 @@ Use CopyTo(WidgetAnnotation[], index) instead.
 * Typedef [ArrayPtr](../../../system/arrayptr/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Field](../)
-* Class [Field](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

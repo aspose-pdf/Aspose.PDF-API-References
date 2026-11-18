@@ -20,6 +20,5 @@ static SharedPtr<FontFamily> System::Drawing::FontFamily::get_GenericSerif()
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [FontFamily](../)
-* Class [FontFamily](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.PDF for C++](../../../)

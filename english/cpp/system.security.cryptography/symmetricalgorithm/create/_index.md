@@ -28,7 +28,6 @@ Newly created algorithm.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [SymmetricAlgorithm](../)
 * Class [String](../../../system/string/)
 * Class [SymmetricAlgorithm](../)
 * Namespace [System::Security::Cryptography](../../)

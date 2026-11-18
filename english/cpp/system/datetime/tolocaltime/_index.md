@@ -19,6 +19,5 @@ DateTime System::DateTime::ToLocalTime() const
 ## See Also
 
 * Class [DateTime](../)
-* Class [DateTime](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

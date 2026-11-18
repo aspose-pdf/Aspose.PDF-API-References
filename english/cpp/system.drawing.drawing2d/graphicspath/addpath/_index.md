@@ -26,6 +26,5 @@ void System::Drawing::Drawing2D::GraphicsPath::AddPath(const SharedPtr<GraphicsP
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [GraphicsPath](../)
-* Class [GraphicsPath](../)
 * Namespace [System::Drawing::Drawing2D](../../)
 * Library [Aspose.PDF for C++](../../../)

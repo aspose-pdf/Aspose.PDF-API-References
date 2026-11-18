@@ -24,7 +24,6 @@ Aspose::Pdf::Annotations::Measure::NumberFormatList::NumberFormatList(const Syst
 ## See Also
 
 * Typedef [SharedPtr](../../../../system/sharedptr/)
-* Class [Measure](../../)
 * Class [NumberFormatList](../)
 * Class [Measure](../../)
 * Namespace [Aspose::Pdf::Annotations](../../../)

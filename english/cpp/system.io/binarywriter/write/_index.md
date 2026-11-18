@@ -243,6 +243,25 @@ virtual void System::IO::BinaryWriter::Write(int64_t value)
 * Class [BinaryWriter](../)
 * Namespace [System::IO](../../)
 * Library [Aspose.PDF for C++](../../../)
+## BinaryWriter::Write(int8_t) method
+
+
+Writes the specified signed 8-bit integer value to the output stream.
+
+```cpp
+virtual void System::IO::BinaryWriter::Write(int8_t value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int8_t | The value to write |
+
+## See Also
+
+* Class [BinaryWriter](../)
+* Namespace [System::IO](../../)
+* Library [Aspose.PDF for C++](../../../)
 ## BinaryWriter::Write(uint16_t) method
 
 

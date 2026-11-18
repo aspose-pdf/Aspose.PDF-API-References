@@ -13,7 +13,7 @@ url: /cpp/system.componentmodel/win32exception/
 
 
 ```cpp
-using System::ComponentModel::Win32Exception =  System::ExceptionWrapper<Details_Win32Exception>
+using System::ComponentModel::Win32Exception = System::ExceptionWrapper<Details_Win32Exception>
 ```
 
 ## See Also

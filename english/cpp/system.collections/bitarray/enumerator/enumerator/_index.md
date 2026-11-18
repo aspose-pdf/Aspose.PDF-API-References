@@ -24,7 +24,6 @@ System::Collections::BitArray::Enumerator::Enumerator(const SharedPtr<BitArray> 
 ## See Also
 
 * Typedef [SharedPtr](../../../../system/sharedptr/)
-* Class [BitArray](../../)
 * Class [Enumerator](../)
 * Class [BitArray](../../)
 * Namespace [System::Collections](../../../)

@@ -47,7 +47,6 @@ Constructor.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [AsnEncodedData](../../../system.security.cryptography/asnencodeddata/)
 * Class [X500DistinguishedName](../)
 * Namespace [System::Security::Cryptography::X509Certificates](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -68,7 +67,6 @@ System::Security::Cryptography::X509Certificates::X500DistinguishedName::X500Dis
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [X500DistinguishedName](../)
 * Class [X500DistinguishedName](../)
 * Namespace [System::Security::Cryptography::X509Certificates](../../)
 * Library [Aspose.PDF for C++](../../../)

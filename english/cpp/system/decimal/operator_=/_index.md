@@ -28,7 +28,6 @@ A reference to the self
 ## See Also
 
 * Class [Decimal](../)
-* Class [Decimal](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ---
@@ -61,7 +60,6 @@ True if the value represented by the current object is less than or equal to the
 ## See Also
 
 * Class [Decimal](../)
-* Class [Decimal](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ---
@@ -93,7 +91,6 @@ True if the value represented by the current object is greater than or equal to 
 
 ## See Also
 
-* Class [Decimal](../)
 * Class [Decimal](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

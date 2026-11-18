@@ -29,6 +29,7 @@ class AssemblyConstants : public System::Object
 | static [PRODUCT](./product/) |  |
 | static [Product](./product/) | This is used by **Aspose** licensing code to verify the license is for the correct product. |
 | static [ReleaseDate](./releasedate/) | This is used by **Aspose** licensing code to check for subscription expiry. You need to set this to the date you publish a release or a hotfix. |
+| static [SystemDrawingCommonVersion](./systemdrawingcommonversion/) |  |
 | static [Title](./title/) |  |
 | static [VERSION](./version/) |  |
 | static [Version](./version/) | The version of the assembly. |

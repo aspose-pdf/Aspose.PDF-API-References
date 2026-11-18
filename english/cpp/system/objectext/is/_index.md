@@ -4,7 +4,7 @@ linktitle: Is
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::ObjectExt::Is method. Implements ''is'' operator translation. Specialization for string literal in C++.'
 type: docs
-weight: 1100
+weight: 1200
 url: /cpp/system/objectext/is/
 ---
 ## ObjectExt::Is(const char16_t *) method
@@ -93,34 +93,6 @@ True if 'is' returns true, false otherwise.
 ## ObjectExt::Is(const Object\&) method
 
 
-Implements 'is' operator translation. Specialization for value types.
-
-```cpp
-template<class T> static std::enable_if<std::is_convertible<T, Object>::value, bool>::type System::ObjectExt::Is(const Object &obj)
-```
-
-
-| Parameter | Description |
-| --- | --- |
-| T | Target type. |
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| obj | const Object\& | [Object](../../object/) to test for 'is' operator. |
-
-### ReturnValue
-
-True if 'is' returns true, false otherwise.
-
-## See Also
-
-* Class [Object](../../object/)
-* Class [ObjectExt](../)
-* Namespace [System](../../)
-* Library [Aspose.PDF for C++](../../../)
-## ObjectExt::Is(const Object\&) method
-
-
 Implements 'is' operator translation. Specialization for unconvertible types.
 
 ```cpp
@@ -146,13 +118,41 @@ Always returns false as types are unconvertible.
 * Class [ObjectExt](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
+## ObjectExt::Is(const Object\&) method
+
+
+Implements 'is' operator translation. Specialization for value types.
+
+```cpp
+template<class T> static std::enable_if<std::is_convertible<T, Object>::value, bool>::type System::ObjectExt::Is(const Object &obj)
+```
+
+
+| Parameter | Description |
+| --- | --- |
+| T | Target type. |
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| obj | const Object\& | [Object](../../object/) to test for 'is' operator. |
+
+### ReturnValue
+
+True if 'is' returns true, false otherwise.
+
+## See Also
+
+* Class [Object](../../object/)
+* Class [ObjectExt](../)
+* Namespace [System](../../)
+* Library [Aspose.PDF for C++](../../../)
 ## ObjectExt::Is(const SmartPtr\<Object\>\&) method
 
 
-Implements 'is' operator translation. Specialization for nullable types.
+Implements 'is' operator translation. Specialization for boxable types without defined ==.
 
 ```cpp
-template<class T> static std::enable_if<IsNullable<T>::value, bool>::type System::ObjectExt::Is(const SmartPtr<Object> &obj)
+template<class T> static std::enable_if<System::IsBoxable<T>::value &&!IsNullable<T>::value &&!std::is_enum<T>::value &&!detail::has_operator_equal<T>::value, bool>::type System::ObjectExt::Is(const SmartPtr<Object> &obj)
 ```
 
 
@@ -207,10 +207,10 @@ True if 'is' returns true, false otherwise.
 ## ObjectExt::Is(const SmartPtr\<Object\>\&) method
 
 
-Implements 'is' operator translation. Specialization for boxable types without defined ==.
+Implements 'is' operator translation. Specialization for nullable types.
 
 ```cpp
-template<class T> static std::enable_if<System::IsBoxable<T>::value &&!IsNullable<T>::value &&!std::is_enum<T>::value &&!detail::has_operator_equal<T>::value, bool>::type System::ObjectExt::Is(const SmartPtr<Object> &obj)
+template<class T> static std::enable_if<IsNullable<T>::value, bool>::type System::ObjectExt::Is(const SmartPtr<Object> &obj)
 ```
 
 
@@ -236,16 +236,17 @@ True if 'is' returns true, false otherwise.
 ## ObjectExt::Is(const SmartPtr\<U\>\&) method
 
 
-Implements 'is' operator translation. Specialization for pointer types.
+Implements 'is' operator translation. Specialization for enum types.
 
 ```cpp
-template<class T,class U> static std::enable_if<IsSmartPtr<T>::value, bool>::type System::ObjectExt::Is(const SmartPtr<U> &obj)
+template<class T,class U> static std::enable_if<std::is_enum<T>::value, bool>::type System::ObjectExt::Is(const SmartPtr<U> &obj)
 ```
 
 
 | Parameter | Description |
 | --- | --- |
 | T | Target type. |
+| U | Type of the pointed object. |
 
 | Parameter | Type | Description |
 | --- | --- | --- |
@@ -264,17 +265,16 @@ True if 'is' returns true, false otherwise.
 ## ObjectExt::Is(const SmartPtr\<U\>\&) method
 
 
-Implements 'is' operator translation. Specialization for enum types.
+Implements 'is' operator translation. Specialization for pointer types.
 
 ```cpp
-template<class T,class U> static std::enable_if<std::is_enum<T>::value, bool>::type System::ObjectExt::Is(const SmartPtr<U> &obj)
+template<class T,class U> static std::enable_if<IsSmartPtr<T>::value, bool>::type System::ObjectExt::Is(const SmartPtr<U> &obj)
 ```
 
 
 | Parameter | Description |
 | --- | --- |
 | T | Target type. |
-| U | Type of the pointed object. |
 
 | Parameter | Type | Description |
 | --- | --- | --- |
@@ -350,10 +350,10 @@ Always true
 ## ObjectExt::Is(const U\&) method
 
 
-Implements 'is' operator translation. Specialization for pointer types optimized for 'final' classes.
+Implements 'is' operator translation. Specialization for pointer types.
 
 ```cpp
-template<class T,class U> static std::enable_if<std::is_convertible<T, Object>::value &&std::is_final<T>::value &&!System::IsBoxable<T>::value &&System::IsSmartPtr<U>::value, bool>::type System::ObjectExt::Is(const U &obj)
+template<class T,class U> static std::enable_if<std::is_convertible<T, Object>::value &&!std::is_final<T>::value &&!System::IsBoxable<T>::value &&System::IsSmartPtr<U>::value, bool>::type System::ObjectExt::Is(const U &obj)
 ```
 
 
@@ -379,10 +379,10 @@ True if 'is' returns true, false otherwise.
 ## ObjectExt::Is(const U\&) method
 
 
-Implements 'is' operator translation. Specialization for pointer types.
+Implements 'is' operator translation. Specialization for pointer types optimized for 'final' classes.
 
 ```cpp
-template<class T,class U> static std::enable_if<std::is_convertible<T, Object>::value &&!std::is_final<T>::value &&!System::IsBoxable<T>::value &&System::IsSmartPtr<U>::value, bool>::type System::ObjectExt::Is(const U &obj)
+template<class T,class U> static std::enable_if<std::is_convertible<T, Object>::value &&std::is_final<T>::value &&!System::IsBoxable<T>::value &&System::IsSmartPtr<U>::value, bool>::type System::ObjectExt::Is(const U &obj)
 ```
 
 

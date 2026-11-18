@@ -29,6 +29,5 @@ The returned token will never transition to a canceled state.
 ## See Also
 
 * Class [CancellationToken](../)
-* Class [CancellationToken](../)
 * Namespace [System::Threading](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -4,7 +4,7 @@ linktitle: LINQ_Skip
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::IEnumerable::LINQ_Skip method. Skip a specified number of contiguous elements from the start of a sequence and returns rest in C++.'
 type: docs
-weight: 2900
+weight: 3300
 url: /cpp/system.collections.generic/ienumerable/linq_skip/
 ---
 ## IEnumerable::LINQ_Skip method

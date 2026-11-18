@@ -31,7 +31,6 @@ static System::SharedPtr<Color> Aspose::Pdf::Color::FromRgb(double r, double g, 
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Color](../)
-* Class [Color](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## Color::FromRgb(System::Drawing::Color) method
@@ -55,7 +54,6 @@ static System::SharedPtr<Color> Aspose::Pdf::Color::FromRgb(System::Drawing::Col
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Color](../)
 * Class [Color](../../../system.drawing/color/)
 * Class [Color](../)
 * Namespace [Aspose::Pdf](../../)

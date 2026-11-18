@@ -29,7 +29,6 @@ The concatenated text content or attribute value converted to the requested type
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [TypeInfo](../../../system/typeinfo/)
 * Class [IXmlNamespaceResolver](../../ixmlnamespaceresolver/)
 * Class [XmlReader](../)

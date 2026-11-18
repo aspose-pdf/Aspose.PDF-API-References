@@ -27,7 +27,6 @@ A [Range](../) object that starts at **start** and ends at the end of the collec
 
 ## See Also
 
-* Class [Range](../)
 * Class [Index](../../index/)
 * Class [Range](../)
 * Namespace [System](../../)

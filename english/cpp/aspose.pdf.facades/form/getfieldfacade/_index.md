@@ -2,7 +2,7 @@
 title: Aspose::Pdf::Facades::Form::GetFieldFacade method
 linktitle: GetFieldFacade
 second_title: Aspose.PDF for C++ API Reference
-description: 'Aspose::Pdf::Facades::Form::GetFieldFacade method. Returns FrofmFieldFacade object containing all appearance attributes in C++.'
+description: 'Aspose::Pdf::Facades::Form::GetFieldFacade method. Returns FrofmFieldFacade object containing all appearance attributes.  in C++.'
 type: docs
 weight: 2700
 url: /cpp/aspose.pdf.facades/form/getfieldfacade/

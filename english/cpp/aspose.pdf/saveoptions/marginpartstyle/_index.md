@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf/saveoptions/marginpartstyle/
 ## MarginPartStyle class
 
 
-Represents information of one part of margin(top, botom, left side or right side)
+Represents information of one part of margin(top, botom, left side or right side).
 
 ```cpp
 class MarginPartStyle : public System::Object

@@ -4,7 +4,7 @@ linktitle: X509ExtensionCollectionPtr
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Security::Cryptography::X509Certificates::X509ExtensionCollectionPtr class. Pointer to collection of X509 extensions. This type is a pointer to manage other object''s deletion. It should be allocated on stack and passed to functions either by value or by const reference in C++.'
 type: docs
-weight: 1400
+weight: 1700
 url: /cpp/system.security.cryptography.x509certificates/x509extensioncollectionptr/
 ---
 ## X509ExtensionCollectionPtr class

@@ -28,7 +28,6 @@ System::Web::Services::Protocols::InvokeCompletedEventArgs::InvokeCompletedEvent
 
 * Typedef [Exception](../../../system/exception/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [InvokeCompletedEventArgs](../)
 * Namespace [System::Web::Services::Protocols](../../)

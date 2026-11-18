@@ -25,7 +25,6 @@ static SharedPtr<DSA> System::Security::Cryptography::DSA::Create()
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [DSA](../)
-* Class [DSA](../)
 * Namespace [System::Security::Cryptography](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## DSA::Create(const DSAParameters\&) method
@@ -45,7 +44,6 @@ static SharedPtr<DSA> System::Security::Cryptography::DSA::Create(const DSAParam
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [DSA](../)
 * Class [DSA](../)
 * Namespace [System::Security::Cryptography](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -70,7 +68,6 @@ static SharedPtr<DSA> System::Security::Cryptography::DSA::Create(const String &
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [DSA](../)
 * Class [String](../../../system/string/)
 * Class [DSA](../)
 * Namespace [System::Security::Cryptography](../../)
@@ -92,7 +89,6 @@ static SharedPtr<DSA> System::Security::Cryptography::DSA::Create(int32_t key_si
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [DSA](../)
 * Class [DSA](../)
 * Namespace [System::Security::Cryptography](../../)
 * Library [Aspose.PDF for C++](../../../)

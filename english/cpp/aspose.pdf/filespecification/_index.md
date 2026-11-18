@@ -40,6 +40,7 @@ class FileSpecification : public System::IDisposable
 | [get_Params](./get_params/)() | Gets file paramteres. |
 | [get_StreamContents](./get_streamcontents/)() | Gets contents of file as stream. Contents is not loaded into memory which allows to decrease memory usage. But this stream does not support positioning and Length property. If you need this features please use Contents property instead. |
 | [get_UnicodeName](./get_unicodename/)() | Gets file specification unicode name. |
+| [GetFileName](./getfilename/)(const System::String\&, bool) | Gets the file name using the available file specification names, the specified fallback name, or a generated name if no other name is available. |
 | [GetValue](./getvalue/)(const System::String\&) | Gets application-specific parameter. |
 | [set_AFRelationship](./set_afrelationship/)(Aspose::Pdf::AFRelationship) | Associated file Relationship. |
 | [set_Contents](./set_contents/)(const System::SharedPtr\<System::IO::Stream\>\&) | Sets contents file. This property returns data loaded in memory which may cause Out of memory exception for large data. To decrease memory usage please use StreamContents. |

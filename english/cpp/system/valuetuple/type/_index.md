@@ -4,7 +4,7 @@ linktitle: Type
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::ValueTuple::Type method. Returns a reference to the TypeInfo object representing the ValueTuple class type information in C++.'
 type: docs
-weight: 1000
+weight: 1400
 url: /cpp/system/valuetuple/type/
 ---
 ## ValueTuple::Type method

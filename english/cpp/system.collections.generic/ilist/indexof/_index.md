@@ -4,7 +4,7 @@ linktitle: IndexOf
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::IList::IndexOf method. Gets index of first appearance of item in container in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/system.collections.generic/ilist/indexof/
 ---
 ## IList::IndexOf method

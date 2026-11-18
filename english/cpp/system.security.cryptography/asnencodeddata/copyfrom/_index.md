@@ -25,6 +25,5 @@ virtual void System::Security::Cryptography::AsnEncodedData::CopyFrom(const Shar
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [AsnEncodedData](../)
-* Class [AsnEncodedData](../)
 * Namespace [System::Security::Cryptography](../../)
 * Library [Aspose.PDF for C++](../../../)

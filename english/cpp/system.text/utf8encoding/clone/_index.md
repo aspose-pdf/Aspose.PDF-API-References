@@ -24,7 +24,6 @@ SharedPtr<Object> System::Text::UTF8Encoding::Clone() override
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [UTF8Encoding](../)
 * Namespace [System::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

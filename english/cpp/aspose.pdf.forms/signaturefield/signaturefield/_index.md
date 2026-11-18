@@ -48,7 +48,6 @@ Aspose::Pdf::Forms::SignatureField::SignatureField(const System::SharedPtr<Docum
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Document](../../../aspose.pdf/document/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [SignatureField](../)
 * Namespace [Aspose::Pdf::Forms](../../)

@@ -44,6 +44,5 @@ string representation of object
 
 * Class [String](../../../system/string/)
 * Class [BitVector32](../)
-* Class [BitVector32](../)
 * Namespace [System::Collections::Specialized](../../)
 * Library [Aspose.PDF for C++](../../../)

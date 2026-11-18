@@ -28,7 +28,6 @@ System::SharedPtr<OBJRElement> Aspose::Pdf::LogicalStructure::OBJRElement::Tag(c
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [OBJRElement](../)
 * Class [Annotation](../../../aspose.pdf.annotations/annotation/)
 * Class [OBJRElement](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)
@@ -54,7 +53,6 @@ System::SharedPtr<MCRElement> Aspose::Pdf::LogicalStructure::OBJRElement::Tag(co
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [MCRElement](../../mcrelement/)
 * Class [Artifact](../../../aspose.pdf/artifact/)
 * Class [OBJRElement](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)
@@ -80,7 +78,6 @@ System::SharedPtr<MCRElement> Aspose::Pdf::LogicalStructure::OBJRElement::Tag(co
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [MCRElement](../../mcrelement/)
 * Class [BDC](../../../aspose.pdf.operators/bdc/)
 * Class [OBJRElement](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)
@@ -106,7 +103,6 @@ System::SharedPtr<OBJRElement> Aspose::Pdf::LogicalStructure::OBJRElement::Tag(c
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [OBJRElement](../)
 * Class [XForm](../../../aspose.pdf/xform/)
 * Class [OBJRElement](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)
@@ -132,7 +128,6 @@ System::SharedPtr<OBJRElement> Aspose::Pdf::LogicalStructure::OBJRElement::Tag(c
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [OBJRElement](../)
 * Class [XImage](../../../aspose.pdf/ximage/)
 * Class [OBJRElement](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)

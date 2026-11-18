@@ -16,6 +16,13 @@ Represents the result of a PDF/A validation process.
 class PdfAValidationResult : public System::Object
 ```
 
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [DataSource](./datasource/) | Gets the data source that was validated. |
+| [IsValid](./isvalid/) | Gets a value indicating whether the validation was successful. |
+| [StandardVersion](./standardversion/) | Gets the PDF/A standard version used for validation. |
 ## See Also
 
 * Class [Object](../../system/object/)

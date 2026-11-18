@@ -19,6 +19,5 @@ SortVersion & System::Globalization::SortVersion::operator=(const SortVersion &)
 ## See Also
 
 * Class [SortVersion](../)
-* Class [SortVersion](../)
 * Namespace [System::Globalization](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -52,7 +52,6 @@ True if the specified rectangle is located within the rectangle represented by t
 ## See Also
 
 * Class [RectangleF](../)
-* Class [RectangleF](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## RectangleF::Contains(float, float) method

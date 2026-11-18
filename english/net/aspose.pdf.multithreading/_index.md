@@ -3,7 +3,7 @@ title: Aspose.Pdf.Multithreading
 second_title: Aspose.PDF for .NET API Reference
 description: The Aspose.Pdf.Multithreading namespace provides classes that are meant to be used in multithreaded scenarios
 type: docs
-weight: 150
+weight: 130
 url: /net/aspose.pdf.multithreading/
 ---
 The **Aspose.Pdf.Multithreading** namespace provides classes that are meant to be used in multi-threaded scenarios.

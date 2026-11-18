@@ -27,7 +27,6 @@ Implementation.
 
 ## See Also
 
-* Class [SmartPtr](../)
 * Class [Object](../../object/)
 * Class [SmartPtr](../)
 * Namespace [System](../../)

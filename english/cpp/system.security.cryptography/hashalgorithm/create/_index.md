@@ -24,7 +24,6 @@ static SharedPtr<HashAlgorithm> System::Security::Cryptography::HashAlgorithm::C
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [HashAlgorithm](../)
 * Class [String](../../../system/string/)
 * Class [HashAlgorithm](../)
 * Namespace [System::Security::Cryptography](../../)

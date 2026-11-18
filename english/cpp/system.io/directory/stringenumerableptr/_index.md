@@ -13,7 +13,7 @@ url: /cpp/system.io/directory/stringenumerableptr/
 An alias for a shared pointer to IEnumerable object that enumerates over a set of [String](../../../system/string/) objects.
 
 ```cpp
-using System::IO::Directory::StringEnumerablePtr =  SharedPtr<Collections::Generic::IEnumerable<String>>
+using System::IO::Directory::StringEnumerablePtr = SharedPtr<Collections::Generic::IEnumerable<String>>
 ```
 
 ## See Also

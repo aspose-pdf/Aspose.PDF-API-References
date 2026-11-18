@@ -25,7 +25,6 @@ Enumerator of pages
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IEnumerator](../../../system.collections.generic/ienumerator/)
-* Class [Page](../../page/)
 * Class [PageCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

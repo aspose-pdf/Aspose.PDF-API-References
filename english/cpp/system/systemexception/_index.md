@@ -4,7 +4,7 @@ linktitle: SystemException
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use System::SystemException typedef in C++.'
 type: docs
-weight: 13800
+weight: 14500
 url: /cpp/system/systemexception/
 ---
 ## SystemException typedef
@@ -13,7 +13,7 @@ url: /cpp/system/systemexception/
 
 
 ```cpp
-using System::SystemException =  System::ExceptionWrapper<Details_SystemException>
+using System::SystemException = System::ExceptionWrapper<Details_SystemException>
 ```
 
 ## See Also

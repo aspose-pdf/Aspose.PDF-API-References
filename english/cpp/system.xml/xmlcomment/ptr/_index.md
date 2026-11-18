@@ -13,7 +13,7 @@ url: /cpp/system.xml/xmlcomment/ptr/
 An alias for shared pointer to an instance of this class.
 
 ```cpp
-using System::Xml::XmlComment::Ptr =  SharedPtr<XmlComment>
+using System::Xml::XmlComment::Ptr = SharedPtr<XmlComment>
 ```
 
 ## See Also

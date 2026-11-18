@@ -28,10 +28,8 @@ static String System::String::Join(const String &separator, const ArrayPtr<Share
 
 ## See Also
 
-* Class [String](../)
 * Typedef [ArrayPtr](../../arrayptr/)
 * Typedef [SharedPtr](../../sharedptr/)
-* Class [Object](../../object/)
 * Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -58,7 +56,6 @@ static String System::String::Join(const String &separator, const ArrayPtr<Strin
 
 ## See Also
 
-* Class [String](../)
 * Typedef [ArrayPtr](../../arrayptr/)
 * Class [String](../)
 * Namespace [System](../../)
@@ -84,7 +81,6 @@ static String System::String::Join(const String &separator, const SharedPtr<Syst
 
 ## See Also
 
-* Class [String](../)
 * Typedef [SharedPtr](../../sharedptr/)
 * Class [IEnumerable](../../../system.collections.generic/ienumerable/)
 * Class [String](../)
@@ -113,7 +109,6 @@ static String System::String::Join(const String &separator, const System::Detail
 
 ## See Also
 
-* Class [String](../)
 * Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

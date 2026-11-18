@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf/baseparagraph/get_margin/
 ## BaseParagraph::get_Margin method
 
 
-Gets a outer margin for paragraph (for pdf generation)
+Gets a outer margin for paragraph (for pdf generation).
 
 ```cpp
 System::SharedPtr<MarginInfo> Aspose::Pdf::BaseParagraph::get_Margin()

@@ -4,7 +4,7 @@ linktitle: Import
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Security::Cryptography::X509Certificates::X509Certificate2::Import method. Imports information from the specified certificate data in C++.'
 type: docs
-weight: 2400
+weight: 1800
 url: /cpp/system.security.cryptography.x509certificates/x509certificate2/import/
 ---
 ## X509Certificate2::Import(const ByteArrayPtr\&) method

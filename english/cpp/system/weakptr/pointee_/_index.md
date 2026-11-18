@@ -2,7 +2,7 @@
 title: System::WeakPtr::Pointee_ typedef
 linktitle: Pointee_
 second_title: Aspose.PDF for C++ API Reference
-description: 'System::WeakPtr::Pointee_ typedef. Pointed type in C++.'
+description: 'System::WeakPtr::Pointee_ typedef. Alias for pointee type in C++.'
 type: docs
 weight: 600
 url: /cpp/system/weakptr/pointee_/
@@ -10,7 +10,7 @@ url: /cpp/system/weakptr/pointee_/
 ## Pointee_ typedef
 
 
-Pointed type.
+Alias for pointee type.
 
 ```cpp
 typedef T System::SmartPtr< T >::Pointee_

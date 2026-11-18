@@ -24,6 +24,5 @@ void System::IO::BasicSystemOStreamWrapper<Elem, Traits>::AssignRV(BasicSystemOS
 ## See Also
 
 * Class [BasicSystemOStreamWrapper](../)
-* Class [BasicSystemOStreamWrapper](../)
 * Namespace [System::IO](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -13,7 +13,7 @@ url: /cpp/system.io/basicsystemiostreamwrapper/mysb/
 
 
 ```cpp
-using System::IO::BasicSystemIOStreamWrapper< Elem, Traits >::Mysb =  BasicSystemIOStreamBuf<char_type, traits_type>
+using System::IO::BasicSystemIOStreamWrapper< Elem, Traits >::Mysb = BasicSystemIOStreamBuf<char_type, traits_type>
 ```
 
 ## See Also

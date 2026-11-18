@@ -32,7 +32,6 @@ An istance of [TransitionTime](../) class that represents the described time cha
 
 ## See Also
 
-* Class [TransitionTime](../)
 * Class [DateTime](../../../datetime/)
 * Enum [DayOfWeek](../../../dayofweek/)
 * Class [TransitionTime](../)

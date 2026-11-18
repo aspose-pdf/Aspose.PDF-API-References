@@ -13,7 +13,7 @@ url: /cpp/system.xml/xmlreadersettings/ptr/
 An alias for shared pointer to an instance of this class.
 
 ```cpp
-using System::Xml::XmlReaderSettings::Ptr =  SharedPtr<XmlReaderSettings>
+using System::Xml::XmlReaderSettings::Ptr = SharedPtr<XmlReaderSettings>
 ```
 
 ## See Also

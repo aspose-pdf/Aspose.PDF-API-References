@@ -29,7 +29,6 @@ A shared pointer to the object representing boxed value of the specified enumera
 ## See Also
 
 * Typedef [SharedPtr](../../sharedptr/)
-* Class [Object](../../object/)
 * Class [TypeInfo](../../typeinfo/)
 * Class [String](../../string/)
 * Class [BoxedValueBase](../)
@@ -58,7 +57,6 @@ A shared pointer to the object representing boxed value of the specified enumera
 ## See Also
 
 * Typedef [SharedPtr](../../sharedptr/)
-* Class [Object](../../object/)
 * Class [TypeInfo](../../typeinfo/)
 * Class [String](../../string/)
 * Class [BoxedValueBase](../)

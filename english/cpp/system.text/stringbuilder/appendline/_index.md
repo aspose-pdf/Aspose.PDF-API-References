@@ -24,7 +24,6 @@ This pointer.
 ## See Also
 
 * Class [StringBuilder](../)
-* Class [StringBuilder](../)
 * Namespace [System::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## StringBuilder::AppendLine(const String\&) method
@@ -47,7 +46,6 @@ This pointer.
 
 ## See Also
 
-* Class [StringBuilder](../)
 * Class [String](../../../system/string/)
 * Class [StringBuilder](../)
 * Namespace [System::Text](../../)

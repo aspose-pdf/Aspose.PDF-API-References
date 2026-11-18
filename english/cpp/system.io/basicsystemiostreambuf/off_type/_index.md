@@ -13,7 +13,7 @@ url: /cpp/system.io/basicsystemiostreambuf/off_type/
 
 
 ```cpp
-using System::IO::BasicSystemIOStreamBuf< Elem, Traits >::off_type =  typename traits_type::off_type
+using System::IO::BasicSystemIOStreamBuf< Elem, Traits >::off_type = typename traits_type::off_type
 ```
 
 ## See Also

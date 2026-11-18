@@ -13,7 +13,7 @@ url: /cpp/system.testpredicates.typetraits/arefpandarithmetic/
 Checks that **T1** is arithmetic and **T2** is floating point, or vice versa. If so, sets value member to true, otherwise it is false.
 
 ```cpp
-using System::TestPredicates::TypeTraits::AreFPandArithmetic =  std::integral_constant<bool, (std::is_floating_point<T1>::value && std::is_arithmetic<T2>::value) || (std::is_arithmetic<T1>::value && std::is_floating_point<T2>::value) >
+using System::TestPredicates::TypeTraits::AreFPandArithmetic = std::integral_constant<bool, (std::is_floating_point<T1>::value && std::is_arithmetic<T2>::value) || (std::is_arithmetic<T1>::value && std::is_floating_point<T2>::value) >
 ```
 
 

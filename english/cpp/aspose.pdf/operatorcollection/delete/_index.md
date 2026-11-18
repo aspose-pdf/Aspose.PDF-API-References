@@ -25,7 +25,6 @@ void Aspose::Pdf::OperatorCollection::Delete(const System::ArrayPtr<System::Shar
 
 * Typedef [ArrayPtr](../../../system/arrayptr/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Operator](../../operator/)
 * Class [OperatorCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -47,7 +46,6 @@ void Aspose::Pdf::OperatorCollection::Delete(const System::SharedPtr<System::Col
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IList](../../../system.collections.generic/ilist/)
-* Class [Operator](../../operator/)
 * Class [OperatorCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

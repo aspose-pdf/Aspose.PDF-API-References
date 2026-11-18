@@ -13,7 +13,7 @@ url: /cpp/system.xml.schema/xmlschemaany/ptr/
 An alias for shared pointer to an instance of this class.
 
 ```cpp
-using System::Xml::Schema::XmlSchemaAny::Ptr =  SharedPtr<XmlSchemaAny>
+using System::Xml::Schema::XmlSchemaAny::Ptr = SharedPtr<XmlSchemaAny>
 ```
 
 ## See Also

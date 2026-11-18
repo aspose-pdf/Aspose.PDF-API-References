@@ -18,7 +18,6 @@ static TimeSpan System::TimeSpan::ParseExact(const String &input, const ArrayPtr
 
 ## See Also
 
-* Class [TimeSpan](../)
 * Class [String](../../string/)
 * Typedef [ArrayPtr](../../arrayptr/)
 * Typedef [SharedPtr](../../sharedptr/)
@@ -38,7 +37,6 @@ static TimeSpan System::TimeSpan::ParseExact(const String &input, const ArrayPtr
 
 ## See Also
 
-* Class [TimeSpan](../)
 * Class [String](../../string/)
 * Typedef [ArrayPtr](../../arrayptr/)
 * Typedef [SharedPtr](../../sharedptr/)
@@ -70,7 +68,6 @@ Time interval that corresponds to string.
 
 ## See Also
 
-* Class [TimeSpan](../)
 * Class [String](../../string/)
 * Typedef [ArrayPtr](../../arrayptr/)
 * Typedef [SharedPtr](../../sharedptr/)
@@ -90,7 +87,6 @@ static TimeSpan System::TimeSpan::ParseExact(const String &input, const ArrayPtr
 
 ## See Also
 
-* Class [TimeSpan](../)
 * Class [String](../../string/)
 * Typedef [ArrayPtr](../../arrayptr/)
 * Enum [TimeSpanStyles](../../../system.globalization/timespanstyles/)
@@ -108,7 +104,6 @@ static TimeSpan System::TimeSpan::ParseExact(const String &input, const String &
 
 ## See Also
 
-* Class [TimeSpan](../)
 * Class [String](../../string/)
 * Typedef [SharedPtr](../../sharedptr/)
 * Class [CultureInfo](../../../system.globalization/cultureinfo/)
@@ -127,7 +122,6 @@ static TimeSpan System::TimeSpan::ParseExact(const String &input, const String &
 
 ## See Also
 
-* Class [TimeSpan](../)
 * Class [String](../../string/)
 * Typedef [SharedPtr](../../sharedptr/)
 * Class [DateTimeFormatInfo](../../../system.globalization/datetimeformatinfo/)
@@ -158,7 +152,6 @@ Time interval that corresponds to string.
 
 ## See Also
 
-* Class [TimeSpan](../)
 * Class [String](../../string/)
 * Typedef [SharedPtr](../../sharedptr/)
 * Class [IFormatProvider](../../iformatprovider/)
@@ -177,7 +170,6 @@ static TimeSpan System::TimeSpan::ParseExact(const String &input, const String &
 
 ## See Also
 
-* Class [TimeSpan](../)
 * Class [String](../../string/)
 * Enum [TimeSpanStyles](../../../system.globalization/timespanstyles/)
 * Class [TimeSpan](../)

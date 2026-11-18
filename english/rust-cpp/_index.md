@@ -92,6 +92,8 @@ pub struct Document { /* private fields */ }
 | [is_pdfua_compliant](./organize/is_pdfua_compliant/) | Get is a PDF-document PDF/UA compliant |
 | [reverse_pages](./organize/reverse_pages/) | Reverse the order of pages in PDF-document. |
 | [reorder_pages](./organize/reorder_pages/) | Reorder pages in PDF-document. |
+| [redact_text](./organize/redact_text/) | Redact permanently and blacks out sensitive text in PDF-document. |
+| [add_stamp](./organize/add_stamp/) | Add stamp to PDF-document. |
 | [page_rotate](./organize/page_rotate/) | Rotate a page in the PDF-document. |
 | [page_set_size](./organize/page_set_size/) | Set the size of a page in the PDF-document. |
 | [page_grayscale](./organize/page_grayscale/) | Convert page to black and white. |
@@ -112,6 +114,7 @@ pub struct Document { /* private fields */ }
 | [page_replace_font](./organize/page_replace_font/) | Replace font in page. |
 | [page_merge_layers](./organize/page_merge_layers/) | Merge all layers on the page into a single layer with the specified new layer name. |
 | [page_layers](./organize/page_layers/) | Get layers' names on page. |
+| [page_add_stamp](./organize/page_add_stamp/) | Add stamp on page. |
 
 
 ## Core PDF functions
@@ -160,6 +163,7 @@ pub struct Document { /* private fields */ }
 | [sign_pkcs7_detached](./security/sign_pkcs7_detached/) | Sign a PDF-document using PKCS#7 Detached digital signatures. |
 | [is_signed](./security/is_signed/) | Get signed status of PDF-document. |
 | [remove_signs](./security/remove_signs/) | Remove signs from PDF-document. |
+| [verify_signs](./security/verify_signs/) | Verify signs from PDF-document. |
 
 
 ## Miscellaneous
@@ -213,6 +217,21 @@ bitflags! {
     }
 }
 ```
+
+## PdfSignStatus contains status of signature in PDF-document.
+```rust
+#[derive(Debug, Clone, PartialEq, Deserialize)]
+pub struct PdfSignStatus {
+    /// name of signature
+    #[serde(rename = "sign_name")]
+    pub name: String,
+
+    /// status of signature
+    #[serde(rename = "sign_status")]
+    pub status: SignStatus,
+}
+```
+
 
 # Enums
 
@@ -343,6 +362,22 @@ pub enum ConvertErrorAction {
     Delete = 0,
     /// Do nothing, keep non-conforming elements.
     None = 1,
+}
+```
+
+## Enumeration of possible status of signature.
+```rust
+#[derive(Debug, Clone, Copy, PartialEq, Eq, serde::Deserialize)]
+pub enum SignStatus {
+    /// Status is VALID.
+    #[serde(rename = "VALID")]
+    Valid,
+    /// Status is INVALID.
+    #[serde(rename = "INVALID")]
+    Invalid,
+    /// Status is INACTIVE.
+    #[serde(rename = "INACTIVE")]
+    Inactive,
 }
 ```
 

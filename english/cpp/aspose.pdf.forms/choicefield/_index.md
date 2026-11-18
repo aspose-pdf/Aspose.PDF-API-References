@@ -23,7 +23,7 @@ class ChoiceField : public Aspose::Pdf::Forms::Field
 | virtual [AddOption](./addoption/)(const System::String\&) | Adds new option with specified name. |
 | virtual [AddOption](./addoption/)(const System::String\&, const System::String\&) | Adds new option with specified export value and name. |
 | [ChoiceField](./choicefield/)(const System::SharedPtr\<Aspose::Pdf::Page\>\&, const System::SharedPtr\<Rectangle\>\&) | Constructor for [ChoiceField](./). |
-| [ChoiceField](./choicefield/)(const System::SharedPtr\<Document\>\&) | Creates choice field (for Generator) |
+| [ChoiceField](./choicefield/)(const System::SharedPtr\<Document\>\&) | Creates choice field (for Generator). |
 | [ChoiceField](./choicefield/)(const System::SharedPtr\<Document\>\&, const System::SharedPtr\<Rectangle\>\&) | Constructor for [ChoiceField](./). |
 | virtual [DeleteOption](./deleteoption/)(const System::String\&) | Deletes option by its name. |
 | [get_CommitImmediately](./get_commitimmediately/)() | Gets commit on selection change flag. |

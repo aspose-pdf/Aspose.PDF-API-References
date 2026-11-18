@@ -19,7 +19,6 @@ void System::Security::Cryptography::Xml::XmlDsigExcC14NTransform::LoadInput(Sha
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [XmlDsigExcC14NTransform](../)
 * Namespace [System::Security::Cryptography::Xml](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -25,7 +25,6 @@ void Aspose::Pdf::OperatorCollection::Replace(const System::SharedPtr<System::Co
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IList](../../../system.collections.generic/ilist/)
-* Class [Operator](../../operator/)
 * Class [OperatorCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

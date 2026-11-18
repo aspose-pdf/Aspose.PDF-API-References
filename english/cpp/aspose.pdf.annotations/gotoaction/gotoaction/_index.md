@@ -43,7 +43,6 @@ Aspose::Pdf::Annotations::GoToAction::GoToAction(const System::SharedPtr<Documen
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Document](../../../aspose.pdf/document/)
 * Class [String](../../../system/string/)
 * Class [GoToAction](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

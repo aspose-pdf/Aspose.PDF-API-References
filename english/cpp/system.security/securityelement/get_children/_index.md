@@ -25,6 +25,5 @@ List of child elements.
 
 * Class [List](../../../system.collections.generic/list/)
 * Class [SecurityElement](../)
-* Class [SecurityElement](../)
 * Namespace [System::Security](../../)
 * Library [Aspose.PDF for C++](../../../)

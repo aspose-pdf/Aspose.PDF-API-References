@@ -16,6 +16,15 @@ Represents information about a file or directory.
 class FileSystemInfoStat
 ```
 
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [aTime](./atime/) | Last access time. |
+| [attr](./attr/) | Attributes of a file or a directory. |
+| [cTime](./ctime/) | Creation time. |
+| [size](./size/) | [File](../file/) size in bytes. |
+| [wTime](./wtime/) | Last write time. |
 ## See Also
 
 * Namespace [System::IO](../)

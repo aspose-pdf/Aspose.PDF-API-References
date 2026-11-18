@@ -28,6 +28,5 @@ int System::Version::CompareTo(const Version &ver) const
 ## See Also
 
 * Class [Version](../)
-* Class [Version](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

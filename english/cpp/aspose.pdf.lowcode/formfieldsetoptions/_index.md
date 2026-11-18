@@ -22,6 +22,11 @@ class FormFieldSetOptions : public Aspose::Pdf::LowCode::FormFieldOptions
 | --- | --- |
 | [get_Rect](./get_rect/)() const | [Rectangle](../../aspose.pdf/rectangle/) that be setted to field(s). |
 | [set_Rect](./set_rect/)(const System::SharedPtr\<Rectangle\>\&) | [Rectangle](../../aspose.pdf/rectangle/) that be setted to field(s). |
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [Highlighting](../formfieldoptions/highlighting/) | Gets/sets the value to determine property Highlighting for created/modified field (if will be set). |
 ## See Also
 
 * Class [FormFieldOptions](../formfieldoptions/)

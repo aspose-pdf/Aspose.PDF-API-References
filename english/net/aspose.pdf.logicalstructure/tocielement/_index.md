@@ -3,7 +3,7 @@ title: Class TOCIElement
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LogicalStructure.TOCIElement class. Represents TOCI structure element in logical structure
 type: docs
-weight: 6890
+weight: 6910
 url: /net/aspose.pdf.logicalstructure/tocielement/
 ---
 ## TOCIElement class
@@ -35,6 +35,7 @@ public sealed class TOCIElement : GroupingElement
 
 | Name | Description |
 | --- | --- |
+| [AddRef](../../aspose.pdf.logicalstructure/tocielement/addref/)(StructureElement) | Adds a reference to the specified structure element within the Table of Contents Item (TOCI) element. |
 | [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild/)(Element, bool) | Append Element to collection of children. |
 | [ChangeParentElement](../../aspose.pdf.logicalstructure/structureelement/changeparentelement/)(StructureElement, bool) | Change parent element for current structure element |
 | [ClearChilds](../../aspose.pdf.logicalstructure/element/clearchilds/)() | Clear all childs. |

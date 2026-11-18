@@ -34,6 +34,5 @@ System::Collections::Specialized::NameValueCollection::NameValueCollection(const
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [NameValueCollection](../)
-* Class [NameValueCollection](../)
 * Namespace [System::Collections::Specialized](../../)
 * Library [Aspose.PDF for C++](../../../)

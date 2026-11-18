@@ -4,7 +4,7 @@ linktitle: MakeWeakPtr
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::MakeWeakPtr method. Converts raw pointer to weak pointer. Overload for const pointers. Useful e. g. when using ''this'' variable in C# methods translated as const in C++.'
 type: docs
-weight: 26300
+weight: 27200
 url: /cpp/system/makeweakptr/
 ---
 ## System::MakeWeakPtr(const X *) method

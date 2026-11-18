@@ -29,7 +29,6 @@ An instance of [TimeSpan](../../timespan/) class representing the time interval 
 
 * Class [TimeSpan](../../timespan/)
 * Class [DateTime](../)
-* Class [DateTime](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## DateTime::Subtract(TimeSpan) const method
@@ -52,7 +51,6 @@ A new instance of the [DateTime](../) class representing the date and time value
 
 ## See Also
 
-* Class [DateTime](../)
 * Class [TimeSpan](../../timespan/)
 * Class [DateTime](../)
 * Namespace [System](../../)

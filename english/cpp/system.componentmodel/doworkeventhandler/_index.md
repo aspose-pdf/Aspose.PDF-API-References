@@ -13,7 +13,7 @@ url: /cpp/system.componentmodel/doworkeventhandler/
 Handler type to handle DoWork event.
 
 ```cpp
-using System::ComponentModel::DoWorkEventHandler =  System::EventHandler<System::SharedPtr<DoWorkEventArgs>>
+using System::ComponentModel::DoWorkEventHandler = System::EventHandler<System::SharedPtr<DoWorkEventArgs>>
 ```
 
 ## See Also

@@ -3,7 +3,7 @@ title: Aspose.Pdf
 second_title: Aspose.PDF for .NET API Reference
 description: The Aspose.Pdf is a root namespace for all classes of Aspose.Pdf library which are either directly in it like Document or indirectly through several subnamespaces
 type: docs
-weight: 30
+weight: 10
 url: /net/aspose.pdf/
 ---
 The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library which are either directly in it like **Document** or indirectly through several subnamespaces.
@@ -116,6 +116,7 @@ The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library whi
 | [Metadata](./metadata/) | Provides access to XMP metadata stream. |
 | [Metered](./metered/) | Provides methods to set metered key. |
 | [MhtLoadOptions](./mhtloadoptions/) | Represents options for loading/importing of .mht-file into pdf document. |
+| [MissingOptionalDependencyException](./missingoptionaldependencyexception/) | Represents an error that occurs when an optional dependency required by a feature is not available in the application. |
 | [MobiXmlSaveOptions](./mobixmlsaveoptions/) | Save options for export to Xml format |
 | [NamedDestinationCollection](./nameddestinationcollection/) | Class represents the collection of all destinations (a name tree mapping name strings to destinations (see 12.3.2.3, "Named Destinations") and (see 7.7.4, "Name Dictionary")) in the pdf document. |
 | [Note](./note/) | This class represents generator paragraph note. |
@@ -137,6 +138,7 @@ The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library whi
 | [PageCollection](./pagecollection/) | Collection of PDF document pages. |
 | [PageCollectionExtensions](./pagecollectionextensions/) | Represents the extension method for updating header and footer pagination. |
 | [PageDate](./pagedate/) | Represents a date format composed of day, month, and year components. |
+| [PageExtensions](./pageextensions/) | Provides additional capabilities for the Page class. |
 | [PageInfo](./pageinfo/) | Represents the page information. |
 | [PageLabel](./pagelabel/) | Class representing Page Label range. |
 | [PageLabelCollection](./pagelabelcollection/) | Class represeingting page label collection. |
@@ -168,6 +170,7 @@ The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library whi
 | [Right](./right/) | Represents the right alignment settings for header and footer data. |
 | [Row](./row/) | Represents a row of the table. |
 | [Rows](./rows/) | Represents a rows collection of table. |
+| [RtfLoadOptions](./rtfloadoptions/) | Load options for RTF format. |
 | [SaveOptions](./saveoptions/) | SaveOptions type hold level of abstraction on individual save options |
 | [SignaturesCompromiseDetector](./signaturescompromisedetector/) | Represents a class for checking compromising signatures of the document. |
 | [Stamp](./stamp/) | An abstract class for various kinds of stamps which come as descendants. |
@@ -240,6 +243,7 @@ The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library whi
 | [ConvertSoftMaskAction](./convertsoftmaskaction/) | This action represents actions for conversion of images with soft mask. |
 | [ConvertTransparencyAction](./converttransparencyaction/) | This class represents action for conversion of transparency. |
 | [CryptoAlgorithm](./cryptoalgorithm/) | Represent type of cryptographic algorithm that used in encryption/decryption routines. |
+| [DefaultState](./defaultstate/) | Represents the default state of a PDF layer. |
 | [DigestHashAlgorithm](./digesthashalgorithm/) | Represent type of algorithm that maps data to a "hash" |
 | [Direction](./direction/) | Text direction. |
 | [EmphasisStyle](./emphasisstyle/) | Defines the available serialization styles for emphasis and strong emphasis. For specification see CommonMark - Emphasis and strong emphasis. |

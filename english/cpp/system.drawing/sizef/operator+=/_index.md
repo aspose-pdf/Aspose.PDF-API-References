@@ -28,6 +28,5 @@ A reference to the self
 ## See Also
 
 * Class [SizeF](../)
-* Class [SizeF](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.PDF for C++](../../../)

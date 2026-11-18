@@ -24,7 +24,6 @@ System::Collections::BitArray::BitArray(const BitArray &bits)
 ## See Also
 
 * Class [BitArray](../)
-* Class [BitArray](../)
 * Namespace [System::Collections](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## BitArray::BitArray(const BitArrayPtr\&) constructor

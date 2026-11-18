@@ -3,7 +3,7 @@ title: Class HtmlLoadOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.HtmlLoadOptions class. Represents options for loading/importing html file into pdf document
 type: docs
-weight: 5660
+weight: 5670
 url: /net/aspose.pdf/htmlloadoptions/
 ---
 ## HtmlLoadOptions class
@@ -26,6 +26,7 @@ public sealed class HtmlLoadOptions : LoadOptions
 | Name | Description |
 | --- | --- |
 | [BasePath](../../aspose.pdf/htmlloadoptions/basepath/) { get; } | The base path/url for the html file. |
+| [CreateLogicalStructure](../../aspose.pdf/htmlloadoptions/createlogicalstructure/) { get; set; } | Gets or sets a value indicating whether to create a logical structure in the resulting PDF document. |
 | [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Gets or sets flag to disable any license restrictions for all fonts while loading the file. When `true`, allows to execute operations with font that are prohibited by a license of this font, for example allows to embed a font into a PDF document even if license rules disable embedding for this font. By default `false`. |
 | [HtmlMediaType](../../aspose.pdf/htmlloadoptions/htmlmediatype/) { get; set; } | Gets or sets possible media types used during rendering. |
 | [InputEncoding](../../aspose.pdf/htmlloadoptions/inputencoding/) { get; set; } | Gets or sets the attribute specifying the encoding used for this document at the time of the parsing. If this attribute is null the encoding will determine from document character set atribute. |
@@ -43,53 +44,6 @@ public sealed class HtmlLoadOptions : LoadOptions
 | --- | --- |
 | [CustomLoaderOfExternalResources](../../aspose.pdf/htmlloadoptions/customloaderofexternalresources/) | Sometimes it's necessary to avoid usage of internal loader of external resources(like images or CSSes) and supply custom method that will get requested resources from somewhere. For example, during usage of Aspose.PDF in cloude direct access to referenced files impossible: in such case some custome code put into special method should be used, and delegate that refers that method should be assygned to this attribute. |
 | [ExternalResourcesCredentials](../../aspose.pdf/htmlloadoptions/externalresourcescredentials/) | If loading of external data referenced in HTML requirs credentials, You can put them into this parameter - they will be used during loading of external resources |
-
-## Examples
-
-The following example shows how to convert HTML file to PDF file
-
-```csharp
-[C#]
-	// The path to the documents directory.
-	string dataDir = @"YOUR_DATA_DIRECTORY";
-
-	// The path to your HTML File.
-	string htmlFile = Path.Combine(dataDir, "HTML-to-PDF.html");
-
-	// The path to output PDF File.
-	string pdfFile = Path.Combine(dataDir, "HTML-to-PDF.pdf");
-
-	// Initialize HtmlLoadOptions	
-	HtmlLoadOptions htmlLoadOptions = new HtmlLoadOptions();
-		
-	using (Document pdfDocument = new Document(htmlFile, htmlLoadOptions))
-	{ 
-		// Save PDF file
-		pdfDocument.Save(pdfFile);
-	}
-```
-
-```csharp
-[VB.NET]
-
-    ' The path to the documents directory.
-    Dim dataDir As String = "YOUR_DATA_DIRECTORY"
-
-    ' The path to your HTML File.
-    Dim htmlFile = Path.Combine(dataDir, "HTML-to-PDF.html")
-
-    ' The path to output PDF File.
-    Dim pdfFile = Path.Combine(dataDir, "HTML-to-PDF.pdf")
- 
-    ' Initialize HtmlLoadOptions    
-    Dim htmlLoadOptions As HtmlLoadOptions = New HtmlLoadOptions()
- 
-    Using pdfDocument As Document = New Document(htmlFile, htmlLoadOptions)
- 
-        ' Save PDF file
-        pdfDocument.Save(pdfFile)
-    End Using
-```
 
 ### See Also
 

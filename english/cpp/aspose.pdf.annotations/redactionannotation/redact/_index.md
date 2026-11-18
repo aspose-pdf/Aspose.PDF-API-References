@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.annotations/redactionannotation/redact/
 ## RedactionAnnotation::Redact method
 
 
-Flattens annotation and redacts page contents (i.e. removes text and image under redacted annotation)
+Flattens annotation and redacts page contents (i.e. removes text and image under redacted annotation).
 
 ```cpp
 void Aspose::Pdf::Annotations::RedactionAnnotation::Redact()

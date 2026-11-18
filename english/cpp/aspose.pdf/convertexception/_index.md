@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/convertexception/
 
 
 ```cpp
-using Aspose::Pdf::ConvertException =  System::ExceptionWrapper<Details_ConvertException>
+using Aspose::Pdf::ConvertException = System::ExceptionWrapper<Details_ConvertException>
 ```
 
 ## See Also

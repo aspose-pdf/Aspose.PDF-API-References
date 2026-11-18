@@ -26,7 +26,6 @@ void Aspose::Pdf::OutlineCollection::CopyTo(System::ArrayPtr<System::SharedPtr<O
 
 * Typedef [ArrayPtr](../../../system/arrayptr/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [OutlineItemCollection](../../outlineitemcollection/)
 * Class [OutlineCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

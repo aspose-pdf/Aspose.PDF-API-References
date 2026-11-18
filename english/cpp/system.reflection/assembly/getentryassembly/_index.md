@@ -25,6 +25,5 @@ Pointer to entry aseembly.
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Assembly](../)
-* Class [Assembly](../)
 * Namespace [System::Reflection](../../)
 * Library [Aspose.PDF for C++](../../../)

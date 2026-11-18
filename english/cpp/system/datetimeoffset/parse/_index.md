@@ -27,7 +27,6 @@ static DateTimeOffset System::DateTimeOffset::Parse(const String &input)
 
 ## See Also
 
-* Class [DateTimeOffset](../)
 * Class [String](../../string/)
 * Class [DateTimeOffset](../)
 * Namespace [System](../../)
@@ -54,7 +53,6 @@ static DateTimeOffset System::DateTimeOffset::Parse(const String &input, const S
 
 ## See Also
 
-* Class [DateTimeOffset](../)
 * Class [String](../../string/)
 * Typedef [SharedPtr](../../sharedptr/)
 * Class [IFormatProvider](../../iformatprovider/)

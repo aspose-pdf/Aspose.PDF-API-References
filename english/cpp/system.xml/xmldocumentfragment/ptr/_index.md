@@ -13,7 +13,7 @@ url: /cpp/system.xml/xmldocumentfragment/ptr/
 An alias for shared pointer to an instance of this class.
 
 ```cpp
-using System::Xml::XmlDocumentFragment::Ptr =  SharedPtr<XmlDocumentFragment>
+using System::Xml::XmlDocumentFragment::Ptr = SharedPtr<XmlDocumentFragment>
 ```
 
 ## See Also

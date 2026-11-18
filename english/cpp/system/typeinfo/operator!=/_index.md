@@ -4,7 +4,7 @@ linktitle: operator!=
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::TypeInfo::operator!= method. Determines if the current and the specified TypeInfo objects are not equal in C++.'
 type: docs
-weight: 4700
+weight: 5000
 url: /cpp/system/typeinfo/operator!=/
 ---
 ## TypeInfo::operator!=(const TypeInfo\&) const method
@@ -27,7 +27,6 @@ True if the objects' hashes are not equal, otherwise - false
 
 ## See Also
 
-* Class [TypeInfo](../)
 * Class [TypeInfo](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

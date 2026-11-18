@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/cells/virtualized_iterator/
 Virtualized type.
 
 ```cpp
-using Aspose::Pdf::Cells::virtualized_iterator =  typename iterator_holder_type::virtualized_iterator
+using Aspose::Pdf::Cells::virtualized_iterator = typename iterator_holder_type::virtualized_iterator
 ```
 
 ## See Also

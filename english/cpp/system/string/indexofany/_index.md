@@ -128,6 +128,5 @@ int System::String::IndexOfAny(const String &str, int startIndex=0) const
 ## See Also
 
 * Class [String](../)
-* Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

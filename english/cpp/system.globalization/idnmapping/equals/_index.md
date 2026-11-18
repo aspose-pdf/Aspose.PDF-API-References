@@ -28,7 +28,6 @@ true if two objects are equal, otherwise - false.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [IdnMapping](../)
 * Namespace [System::Globalization](../../)
 * Library [Aspose.PDF for C++](../../../)

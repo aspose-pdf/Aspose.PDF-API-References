@@ -4,7 +4,7 @@ linktitle: Cookie
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Net::Cookie class. Represents an HTTP cookie. Objects of this class should only be allocated using System::MakeObject() function. Never create instance of this type on stack or using operator new, as it will result in runtime errors and/or assertion faults. Always wrap this class into System::SmartPtr pointer and use this pointer to pass it to functions as argument in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/system.net/cookie/
 ---
 ## Cookie class
@@ -76,6 +76,8 @@ class Cookie : public System::Object
 | static [EqualsLiteral](./equalsliteral/) | The separator that is used to separates the name and value of an attribute. |
 | static [ExpiresAttributeName](./expiresattributename/) | The 'Expires' attribute's name. |
 | static [HttpOnlyAttributeName](./httponlyattributename/) | The 'HttpOnly' attribute's name. |
+| [IsQuotedDomain](./isquoteddomain/) | A value that indicates if the domain is wrapped in the quotes. |
+| [IsQuotedVersion](./isquotedversion/) | A value that indicates if the version is wrapped in the quotes. |
 | static [MaxAgeAttributeName](./maxageattributename/) | The 'Max-Age' attribute's name. |
 | static [MaxSupportedVersion](./maxsupportedversion/) | RTTI information. |
 | static [MaxSupportedVersionString](./maxsupportedversionstring/) | The string representation of the maximum supported version. |

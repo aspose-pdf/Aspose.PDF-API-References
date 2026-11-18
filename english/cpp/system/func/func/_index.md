@@ -38,7 +38,6 @@ System::Func<Args>::Func(const Func &func)
 ## See Also
 
 * Class [Func](../)
-* Class [Func](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## Func::Func(Func\&&) constructor
@@ -57,7 +56,6 @@ System::Func<Args>::Func(Func &&func) noexcept
 
 ## See Also
 
-* Class [Func](../)
 * Class [Func](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -47,7 +47,6 @@ Aspose::Pdf::Annotations::TextAnnotation::TextAnnotation(const System::SharedPtr
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Document](../../../aspose.pdf/document/)
 * Class [TextAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

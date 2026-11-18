@@ -62,7 +62,6 @@ Aspose::Pdf::Forms::ButtonField::ButtonField(const System::SharedPtr<Document> &
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Document](../../../aspose.pdf/document/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [ButtonField](../)
 * Namespace [Aspose::Pdf::Forms](../../)

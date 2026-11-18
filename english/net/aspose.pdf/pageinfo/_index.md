@@ -3,7 +3,7 @@ title: Class PageInfo
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.PageInfo class. Represents the page information
 type: docs
-weight: 8290
+weight: 9420
 url: /net/aspose.pdf/pageinfo/
 ---
 ## PageInfo class

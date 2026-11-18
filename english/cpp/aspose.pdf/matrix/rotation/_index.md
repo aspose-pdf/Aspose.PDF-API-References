@@ -28,7 +28,6 @@ static System::SharedPtr<Matrix> Aspose::Pdf::Matrix::Rotation(Aspose::Pdf::Rota
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Matrix](../)
 * Enum [Rotation](../../rotation/)
 * Class [Matrix](../)
 * Namespace [Aspose::Pdf](../../)
@@ -54,7 +53,6 @@ Transformation matrix.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Matrix](../)
 * Class [Matrix](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

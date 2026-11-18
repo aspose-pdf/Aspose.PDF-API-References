@@ -38,7 +38,6 @@ template<typename T1> System::Nullable<T>::Nullable(const Nullable<T1> &value)
 ## See Also
 
 * Class [Nullable](../)
-* Class [Nullable](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## Nullable::Nullable(const T1\&) constructor

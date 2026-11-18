@@ -27,7 +27,6 @@ An instance of [Version](../) class that represents the version number equivalen
 
 ## See Also
 
-* Class [Version](../)
 * Class [String](../../string/)
 * Class [Version](../)
 * Namespace [System](../../)

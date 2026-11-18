@@ -13,7 +13,7 @@ url: /cpp/system.xml/xmlnodelist/ptr/
 An alias for shared pointer to an instance of this class.
 
 ```cpp
-using System::Xml::XmlNodeList::Ptr =  SharedPtr<XmlNodeList>
+using System::Xml::XmlNodeList::Ptr = SharedPtr<XmlNodeList>
 ```
 
 ## See Also

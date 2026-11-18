@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf/baseparagraph/set_iskeptwithnext/
 ## BaseParagraph::set_IsKeptWithNext method
 
 
-Sets a bool value that indicates whether current paragraph remains in the same page along with next paragraph. Default is false.(for pdf generation)
+Sets a bool value that indicates whether current paragraph remains in the same page along with next paragraph. Default is false.(for pdf generation).
 
 ```cpp
 void Aspose::Pdf::BaseParagraph::set_IsKeptWithNext(bool value)

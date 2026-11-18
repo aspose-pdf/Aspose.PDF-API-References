@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/cells/iterator_holder_type/
 A collection type whose iterator types is used as iterator types in the current collection.
 
 ```cpp
-using Aspose::Pdf::Cells::iterator_holder_type =  System::Collections::Generic::List<System::SharedPtr<Cell>>
+using Aspose::Pdf::Cells::iterator_holder_type = System::Collections::Generic::List<System::SharedPtr<Cell>>
 ```
 
 ## See Also

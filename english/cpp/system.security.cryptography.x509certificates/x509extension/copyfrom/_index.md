@@ -24,7 +24,6 @@ virtual void System::Security::Cryptography::X509Certificates::X509Extension::Co
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [AsnEncodedData](../../../system.security.cryptography/asnencodeddata/)
 * Class [X509Extension](../)
 * Namespace [System::Security::Cryptography::X509Certificates](../../)
 * Library [Aspose.PDF for C++](../../../)

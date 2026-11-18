@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/cells/const_iterator/
 Const iterator type.
 
 ```cpp
-using Aspose::Pdf::Cells::const_iterator =  typename iterator_holder_type::const_iterator
+using Aspose::Pdf::Cells::const_iterator = typename iterator_holder_type::const_iterator
 ```
 
 ## See Also

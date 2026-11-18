@@ -4,7 +4,7 @@ linktitle: GetMember
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::TypeInfo::GetMember method. Gets list of the members with specified name in C++.'
 type: docs
-weight: 3800
+weight: 4000
 url: /cpp/system/typeinfo/getmember/
 ---
 ## TypeInfo::GetMember method

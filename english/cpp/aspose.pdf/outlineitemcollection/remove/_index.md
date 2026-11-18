@@ -29,7 +29,6 @@ True - if item removed; otherwise, false.
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [OutlineItemCollection](../)
-* Class [OutlineItemCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## OutlineItemCollection::Remove(int32_t) method

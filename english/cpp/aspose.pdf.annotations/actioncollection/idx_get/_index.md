@@ -28,7 +28,6 @@ Retreived action.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [PdfAction](../../pdfaction/)
 * Class [ActionCollection](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

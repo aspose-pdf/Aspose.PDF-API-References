@@ -27,6 +27,5 @@ Dictionary value.
 * Class [Dictionary](../../../system.collections.generic/dictionary/)
 * Class [String](../../../system/string/)
 * Class [XmpValue](../)
-* Class [XmpValue](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

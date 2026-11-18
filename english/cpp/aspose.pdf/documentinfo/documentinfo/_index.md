@@ -24,7 +24,6 @@ Aspose::Pdf::DocumentInfo::DocumentInfo(const System::SharedPtr<Document> &docum
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Document](../../document/)
 * Class [DocumentInfo](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

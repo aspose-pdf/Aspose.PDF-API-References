@@ -13,7 +13,7 @@ url: /cpp/system.text.regularexpressions/matchevaluator/
 Delegate type to evaluate match.
 
 ```cpp
-using System::Text::RegularExpressions::MatchEvaluator =  System::MulticastDelegate<System::String(MatchPtr)>
+using System::Text::RegularExpressions::MatchEvaluator = System::MulticastDelegate<System::String(MatchPtr)>
 ```
 
 ## See Also

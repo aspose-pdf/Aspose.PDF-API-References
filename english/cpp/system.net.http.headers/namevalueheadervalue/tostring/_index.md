@@ -53,7 +53,6 @@ A string representation of the collection of the NameValueHeaderValue-class inst
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ObjectCollection](../../objectcollection/)
 * Class [NameValueHeaderValue](../)
-* Class [NameValueHeaderValue](../)
 * Namespace [System::Net::Http::Headers](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## NameValueHeaderValue::ToString(System::SharedPtr\<ObjectCollection\<System::SharedPtr\<NameValueHeaderValue\>\>\>, char16_t, bool, System::SharedPtr\<Text::StringBuilder\>) method
@@ -77,7 +76,6 @@ static void System::Net::Http::Headers::NameValueHeaderValue::ToString(System::S
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ObjectCollection](../../objectcollection/)
-* Class [NameValueHeaderValue](../)
 * Class [StringBuilder](../../../system.text/stringbuilder/)
 * Class [NameValueHeaderValue](../)
 * Namespace [System::Net::Http::Headers](../../)

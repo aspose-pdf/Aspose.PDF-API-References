@@ -26,7 +26,6 @@ void Aspose::Pdf::OperatorCollection::CopyTo(System::ArrayPtr<System::SharedPtr<
 
 * Typedef [ArrayPtr](../../../system/arrayptr/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Operator](../../operator/)
 * Class [OperatorCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

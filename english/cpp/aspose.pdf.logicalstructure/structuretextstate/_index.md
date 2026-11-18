@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.logicalstructure/structuretextstate/
 ## StructureTextState class
 
 
-Represents text state settings for [Text](../../aspose.pdf.text/)[Structure](../../aspose.pdf.structure/) Elements and TaggedContent ([ITextElement](../itextelement/), ITaggedContent)
+Represents text state settings for [Text](../../aspose.pdf.text/)[Structure](../../aspose.pdf.structure/) Elements and TaggedContent ([ITextElement](../itextelement/), ITaggedContent).
 
 ```cpp
 class StructureTextState : public System::Object

@@ -25,7 +25,6 @@ ECDSA algorithm object.
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ECDsa](../)
-* Class [ECDsa](../)
 * Namespace [System::Security::Cryptography](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## ECDsa::Create(const ECCurve\&) method
@@ -49,7 +48,6 @@ ECDSA algorithm object.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ECDsa](../)
 * Class [ECDsa](../)
 * Namespace [System::Security::Cryptography](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -75,7 +73,6 @@ ECDSA algorithm object.
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ECDsa](../)
-* Class [ECDsa](../)
 * Namespace [System::Security::Cryptography](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## ECDsa::Create(const String\&) method
@@ -99,7 +96,6 @@ ECDSA algorithm object.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ECDsa](../)
 * Class [String](../../../system/string/)
 * Class [ECDsa](../)
 * Namespace [System::Security::Cryptography](../../)

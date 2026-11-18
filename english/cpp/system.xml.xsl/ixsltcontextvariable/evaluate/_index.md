@@ -28,7 +28,6 @@ An [Object](../../../system/object/) representing the value of the variable. Pos
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [XsltContext](../../xsltcontext/)
 * Class [IXsltContextVariable](../)
 * Namespace [System::Xml::Xsl](../../)

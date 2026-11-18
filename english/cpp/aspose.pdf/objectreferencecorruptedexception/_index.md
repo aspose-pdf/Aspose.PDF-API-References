@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/objectreferencecorruptedexception/
 
 
 ```cpp
-using Aspose::Pdf::ObjectReferenceCorruptedException =  System::ExceptionWrapper<Details_ObjectReferenceCorruptedException>
+using Aspose::Pdf::ObjectReferenceCorruptedException = System::ExceptionWrapper<Details_ObjectReferenceCorruptedException>
 ```
 
 ## See Also

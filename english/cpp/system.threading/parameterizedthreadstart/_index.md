@@ -13,7 +13,7 @@ url: /cpp/system.threading/parameterizedthreadstart/
 [Thread](../thread/) function with single parameter.
 
 ```cpp
-using System::Threading::ParameterizedThreadStart =  System::MulticastDelegate<void(System::SharedPtr<System::Object>)>
+using System::Threading::ParameterizedThreadStart = System::MulticastDelegate<void(System::SharedPtr<System::Object>)>
 ```
 
 ## See Also

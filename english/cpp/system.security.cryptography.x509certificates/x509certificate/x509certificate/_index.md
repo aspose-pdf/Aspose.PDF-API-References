@@ -174,7 +174,6 @@ System::Security::Cryptography::X509Certificates::X509Certificate::X509Certifica
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [X509Certificate](../)
-* Class [X509Certificate](../)
 * Namespace [System::Security::Cryptography::X509Certificates](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## X509Certificate::X509Certificate(const String\&) constructor
@@ -298,7 +297,6 @@ System::Security::Cryptography::X509Certificates::X509Certificate::X509Certifica
 
 ## See Also
 
-* Class [X509Certificate](../)
 * Class [X509Certificate](../)
 * Namespace [System::Security::Cryptography::X509Certificates](../../)
 * Library [Aspose.PDF for C++](../../../)

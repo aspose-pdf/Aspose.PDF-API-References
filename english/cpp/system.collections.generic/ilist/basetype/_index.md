@@ -4,7 +4,7 @@ linktitle: BaseType
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::IList::BaseType typedef. RTTI information in C++.'
 type: docs
-weight: 700
+weight: 800
 url: /cpp/system.collections.generic/ilist/basetype/
 ---
 ## BaseType typedef

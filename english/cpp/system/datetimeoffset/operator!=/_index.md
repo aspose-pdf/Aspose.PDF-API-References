@@ -28,7 +28,6 @@ True if the current object and the specified object represent distinct date and 
 ## See Also
 
 * Class [DateTimeOffset](../)
-* Class [DateTimeOffset](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## DateTimeOffset::operator!=(std::nullptr_t) const method

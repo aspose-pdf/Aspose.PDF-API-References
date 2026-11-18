@@ -2,7 +2,7 @@
 title: Aspose::Pdf::Facades::PdfProducer::Produce method
 linktitle: Produce
 second_title: Aspose.PDF for C++ API Reference
-description: 'Aspose::Pdf::Facades::PdfProducer::Produce method. Produce the PDF file using specified import option in C++.'
+description: 'Aspose::Pdf::Facades::PdfProducer::Produce method. Produce the PDF file using specified import option.  in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.pdf.facades/pdfproducer/produce/

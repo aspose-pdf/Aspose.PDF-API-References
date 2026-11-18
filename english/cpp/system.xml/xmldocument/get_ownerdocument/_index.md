@@ -25,6 +25,5 @@ For [XmlDocument](../) nodes ([XmlDocument::get_NodeType](../get_nodetype/) equa
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmlDocument](../)
-* Class [XmlDocument](../)
 * Namespace [System::Xml](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -29,6 +29,11 @@ class FormTextBoxFieldCreateOptions : public Aspose::Pdf::LowCode::FormFieldCrea
 | [set_MaxLen](./set_maxlen/)(System::Nullable\<int32_t\>) | Gets/sets the value to determine property MaxLen for created TextBoxField (if will be set). |
 | [set_Multiline](./set_multiline/)(System::Nullable\<bool\>) | Gets/sets the value to determine whether created TextBoxField is multiline or not (if will be set). |
 | [set_SpellCheck](./set_spellcheck/)(System::Nullable\<bool\>) | Gets/sets the value to determine whether created TextBoxField is spellcheck or not (if will be set). |
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [Highlighting](../formfieldoptions/highlighting/) | Gets/sets the value to determine property Highlighting for created/modified field (if will be set). |
 ## See Also
 
 * Class [FormFieldCreateOptions](../formfieldcreateoptions/)

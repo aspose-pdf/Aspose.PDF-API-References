@@ -24,7 +24,6 @@ static void System::Decimal::GetBytes(const Decimal &value, const System::ArrayP
 
 ## See Also
 
-* Class [Decimal](../)
 * Typedef [ArrayPtr](../../arrayptr/)
 * Class [Decimal](../)
 * Namespace [System](../../)

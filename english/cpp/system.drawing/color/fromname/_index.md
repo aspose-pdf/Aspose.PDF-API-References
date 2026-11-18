@@ -27,7 +27,6 @@ An instance of [Color](../) class that represents a color named **name**
 
 ## See Also
 
-* Class [Color](../)
 * Class [String](../../../system/string/)
 * Class [Color](../)
 * Namespace [System::Drawing](../../)

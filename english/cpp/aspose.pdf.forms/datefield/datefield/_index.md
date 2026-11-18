@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.forms/datefield/datefield/
 ## DateField::DateField() constructor
 
 
-Initializes a new instance of the [DateField](../)
+Initializes a new instance of the [DateField](../).
 
 ```cpp
 Aspose::Pdf::Forms::DateField::DateField()
@@ -24,7 +24,7 @@ Aspose::Pdf::Forms::DateField::DateField()
 ## DateField::DateField(const System::SharedPtr\<Aspose::Pdf::Page\>\&, const System::SharedPtr\<Rectangle\>\&) constructor
 
 
-Initializes a new instance of the [DateField](../)
+Initializes a new instance of the [DateField](../).
 
 ```cpp
 Aspose::Pdf::Forms::DateField::DateField(const System::SharedPtr<Aspose::Pdf::Page> &page, const System::SharedPtr<Rectangle> &rect)
@@ -61,14 +61,13 @@ Aspose::Pdf::Forms::DateField::DateField(const System::SharedPtr<Document> &doc)
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Document](../../../aspose.pdf/document/)
 * Class [DateField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## DateField::DateField(const System::SharedPtr\<Document\>\&, const System::SharedPtr\<Rectangle\>\&) constructor
 
 
-Initializes a new instance of the [DateField](../)
+Initializes a new instance of the [DateField](../).
 
 ```cpp
 Aspose::Pdf::Forms::DateField::DateField(const System::SharedPtr<Document> &doc, const System::SharedPtr<Rectangle> &rect)
@@ -83,7 +82,6 @@ Aspose::Pdf::Forms::DateField::DateField(const System::SharedPtr<Document> &doc,
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Document](../../../aspose.pdf/document/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
 * Class [DateField](../)
 * Namespace [Aspose::Pdf::Forms](../../)

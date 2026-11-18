@@ -4,7 +4,7 @@ linktitle: EmptyTypes
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::TypeInfo::EmptyTypes field. Constant representing empty list of TypeInfo in C++.'
 type: docs
-weight: 5500
+weight: 5900
 url: /cpp/system/typeinfo/emptytypes/
 ---
 ## EmptyTypes field

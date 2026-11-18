@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/headerelementtextconflictexception/
 
 
 ```cpp
-using Aspose::Pdf::LogicalStructure::HeaderElementTextConflictException =  System::ExceptionWrapper<Details_HeaderElementTextConflictException>
+using Aspose::Pdf::LogicalStructure::HeaderElementTextConflictException = System::ExceptionWrapper<Details_HeaderElementTextConflictException>
 ```
 
 ## See Also

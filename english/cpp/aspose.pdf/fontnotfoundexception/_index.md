@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/fontnotfoundexception/
 
 
 ```cpp
-using Aspose::Pdf::FontNotFoundException =  System::ExceptionWrapper<Details_FontNotFoundException>
+using Aspose::Pdf::FontNotFoundException = System::ExceptionWrapper<Details_FontNotFoundException>
 ```
 
 ## See Also

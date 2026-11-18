@@ -26,7 +26,6 @@ void System::Xml::Serialization::XmlSerializer::Serialize(System::SharedPtr<IO::
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Stream](../../../system.io/stream/)
-* Class [Object](../../../system/object/)
 * Class [XmlSerializer](../)
 * Namespace [System::Xml::Serialization](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -50,7 +49,6 @@ void System::Xml::Serialization::XmlSerializer::Serialize(System::SharedPtr<IO::
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Stream](../../../system.io/stream/)
-* Class [Object](../../../system/object/)
 * Class [XmlSerializerNamespaces](../../xmlserializernamespaces/)
 * Class [XmlSerializer](../)
 * Namespace [System::Xml::Serialization](../../)
@@ -74,7 +72,6 @@ void System::Xml::Serialization::XmlSerializer::Serialize(System::SharedPtr<IO::
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextWriter](../../../system.io/textwriter/)
-* Class [Object](../../../system/object/)
 * Class [XmlSerializer](../)
 * Namespace [System::Xml::Serialization](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -98,7 +95,6 @@ void System::Xml::Serialization::XmlSerializer::Serialize(System::SharedPtr<IO::
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TextWriter](../../../system.io/textwriter/)
-* Class [Object](../../../system/object/)
 * Class [XmlSerializerNamespaces](../../xmlserializernamespaces/)
 * Class [XmlSerializer](../)
 * Namespace [System::Xml::Serialization](../../)
@@ -122,7 +118,6 @@ void System::Xml::Serialization::XmlSerializer::Serialize(System::SharedPtr<XmlW
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmlWriter](../../../system.xml/xmlwriter/)
-* Class [Object](../../../system/object/)
 * Class [XmlSerializer](../)
 * Namespace [System::Xml::Serialization](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -146,7 +141,6 @@ void System::Xml::Serialization::XmlSerializer::Serialize(System::SharedPtr<XmlW
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmlWriter](../../../system.xml/xmlwriter/)
-* Class [Object](../../../system/object/)
 * Class [XmlSerializerNamespaces](../../xmlserializernamespaces/)
 * Class [XmlSerializer](../)
 * Namespace [System::Xml::Serialization](../../)
@@ -172,7 +166,6 @@ void System::Xml::Serialization::XmlSerializer::Serialize(System::SharedPtr<XmlW
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmlWriter](../../../system.xml/xmlwriter/)
-* Class [Object](../../../system/object/)
 * Class [XmlSerializerNamespaces](../../xmlserializernamespaces/)
 * Class [String](../../../system/string/)
 * Class [XmlSerializer](../)
@@ -200,7 +193,6 @@ void System::Xml::Serialization::XmlSerializer::Serialize(System::SharedPtr<XmlW
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmlWriter](../../../system.xml/xmlwriter/)
-* Class [Object](../../../system/object/)
 * Class [XmlSerializerNamespaces](../../xmlserializernamespaces/)
 * Class [String](../../../system/string/)
 * Class [XmlSerializer](../)

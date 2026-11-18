@@ -2,7 +2,8 @@
 title: Aspose::Pdf::Facades::DocumentPrivilege::CompareTo method
 linktitle: CompareTo
 second_title: Aspose.PDF for C++ API Reference
-description: 'Aspose::Pdf::Facades::DocumentPrivilege::CompareTo method. Compares two DocumentPrivilege objects in C++.'
+description: 'Aspose::Pdf::Facades::DocumentPrivilege::CompareTo method. Compares two DocumentPrivilege objects. 
+ in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.pdf.facades/documentprivilege/compareto/

@@ -13,7 +13,7 @@ url: /cpp/system/array/valuetype/
 Alias for the type of the elements of the array.
 
 ```cpp
-using System::Array< T >::ValueType =  T
+using System::Array< T >::ValueType = T
 ```
 
 ## See Also

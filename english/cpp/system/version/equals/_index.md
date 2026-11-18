@@ -28,6 +28,5 @@ True if version numbers represented by the current object and the specified obje
 ## See Also
 
 * Class [Version](../)
-* Class [Version](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

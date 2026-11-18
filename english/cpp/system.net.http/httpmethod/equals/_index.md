@@ -29,7 +29,6 @@ True if the objects are equal, otherwise - false
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [HttpMethod](../)
-* Class [HttpMethod](../)
 * Namespace [System::Net::Http](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## HttpMethod::Equals(System::SharedPtr\<Object\>) method
@@ -53,7 +52,6 @@ True if objects are considered equal and false otherwise.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [HttpMethod](../)
 * Namespace [System::Net::Http](../../)
 * Library [Aspose.PDF for C++](../../../)

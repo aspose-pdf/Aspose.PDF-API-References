@@ -28,7 +28,6 @@ New rectangle.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Rectangle](../)
 * Class [Rectangle](../../../system.drawing/rectangle/)
 * Class [Rectangle](../)
 * Namespace [Aspose::Pdf](../../)
@@ -54,7 +53,6 @@ New rectangle.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Rectangle](../)
 * Class [RectangleF](../../../system.drawing/rectanglef/)
 * Class [Rectangle](../)
 * Namespace [Aspose::Pdf](../../)

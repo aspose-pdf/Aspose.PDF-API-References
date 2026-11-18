@@ -4,7 +4,7 @@ linktitle: ArrayPtr
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::ArrayPtr typedef. Alias for ''pointer to array'' type in C++.'
 type: docs
-weight: 10100
+weight: 10800
 url: /cpp/system/arrayptr/
 ---
 ## ArrayPtr typedef
@@ -13,7 +13,7 @@ url: /cpp/system/arrayptr/
 Alias for 'pointer to array' type.
 
 ```cpp
-using System::ArrayPtr =  SmartPtr<Array<T>>
+using System::ArrayPtr = SmartPtr<Array<T>>
 ```
 
 

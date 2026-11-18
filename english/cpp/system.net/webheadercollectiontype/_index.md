@@ -4,7 +4,7 @@ linktitle: WebHeaderCollectionType
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Net::WebHeaderCollectionType enum. Enumerates the types of the protocol headers collection in C++.'
 type: docs
-weight: 5000
+weight: 5100
 url: /cpp/system.net/webheadercollectiontype/
 ---
 ## WebHeaderCollectionType enum

@@ -20,10 +20,10 @@ enum class CMapEncodingTableType : int16_t
 
 | Name | Value | Description |
 | --- | --- | --- |
-| WindowsUnicodeTable | 0 | Specifies windows unicode table(3,1) - Unicode BMP-only (UCS-2) |
-| WindowsSymbolicTable | 1 | Specifies windows symbolic table - (3,0) |
-| MacTable | 2 | Specifies mac table(1,0) |
-| UnicodeTable | 3 | Specifies unicode table(0,3) |
+| WindowsUnicodeTable | 0 | Specifies windows unicode table(3,1) - Unicode BMP-only (UCS-2). |
+| WindowsSymbolicTable | 1 | Specifies windows symbolic table - (3,0). |
+| MacTable | 2 | Specifies mac table(1,0). |
+| UnicodeTable | 3 | Specifies unicode table(0,3). |
 
 ## See Also
 

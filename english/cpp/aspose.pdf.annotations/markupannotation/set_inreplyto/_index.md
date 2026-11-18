@@ -19,7 +19,6 @@ void Aspose::Pdf::Annotations::MarkupAnnotation::set_InReplyTo(const System::Sha
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Annotation](../../annotation/)
 * Class [MarkupAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

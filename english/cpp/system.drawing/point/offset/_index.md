@@ -44,6 +44,5 @@ void System::Drawing::Point::Offset(Point point)
 ## See Also
 
 * Class [Point](../)
-* Class [Point](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.PDF for C++](../../../)

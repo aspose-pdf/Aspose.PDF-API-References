@@ -4,7 +4,7 @@ linktitle: FontSubstitutionHandler
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::FontSubstitutionHandler typedef. Represents the method that will handle FontSubstitution event in C++.'
 type: docs
-weight: 12500
+weight: 12600
 url: /cpp/aspose.pdf/document/fontsubstitutionhandler/
 ---
 ## FontSubstitutionHandler typedef
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/document/fontsubstitutionhandler/
 Represents the method that will handle FontSubstitution event.
 
 ```cpp
-using Aspose::Pdf::Document::FontSubstitutionHandler =  System::MulticastDelegate<void(const System::SharedPtr<Aspose::Pdf::Text::Font>&, const System::SharedPtr<Aspose::Pdf::Text::Font>&)>
+using Aspose::Pdf::Document::FontSubstitutionHandler = System::MulticastDelegate<void(const System::SharedPtr<Aspose::Pdf::Text::Font>&, const System::SharedPtr<Aspose::Pdf::Text::Font>&)>
 ```
 
 

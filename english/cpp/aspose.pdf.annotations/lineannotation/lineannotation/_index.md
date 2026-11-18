@@ -52,7 +52,6 @@ Aspose::Pdf::Annotations::LineAnnotation::LineAnnotation(const System::SharedPtr
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Document](../../../aspose.pdf/document/)
 * Class [Point](../../../aspose.pdf/point/)
 * Class [LineAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

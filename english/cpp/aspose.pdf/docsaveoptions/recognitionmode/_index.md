@@ -4,7 +4,7 @@ linktitle: RecognitionMode
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::DocSaveOptions::RecognitionMode enum. Allows to control how a PDF document is converted into a word processing document in C++.'
 type: docs
-weight: 2700
+weight: 2800
 url: /cpp/aspose.pdf/docsaveoptions/recognitionmode/
 ---
 ## RecognitionMode enum

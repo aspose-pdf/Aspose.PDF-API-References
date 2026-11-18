@@ -29,7 +29,6 @@ String System::String::Replace(char_t oldValue, char_t newValue) const
 ## See Also
 
 * Class [String](../)
-* Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## String::Replace(const String\&, const String\&) const method
@@ -53,7 +52,6 @@ String System::String::Replace(const String &oldValue, const String &newValue) c
 
 ## See Also
 
-* Class [String](../)
 * Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

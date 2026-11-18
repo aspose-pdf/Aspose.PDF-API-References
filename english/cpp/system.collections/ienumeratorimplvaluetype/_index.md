@@ -4,7 +4,7 @@ linktitle: IEnumeratorImplValueType
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::IEnumeratorImplValueType class. Wrapper the creates non generic IEnumerator implementation over the generic Iterator IEnumeratorImplRefType - wrapper for the value Types in C++.'
 type: docs
-weight: 800
+weight: 900
 url: /cpp/system.collections/ienumeratorimplvaluetype/
 ---
 ## IEnumeratorImplValueType class

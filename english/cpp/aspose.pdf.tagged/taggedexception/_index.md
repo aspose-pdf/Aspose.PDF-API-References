@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.tagged/taggedexception/
 
 
 ```cpp
-using Aspose::Pdf::Tagged::TaggedException =  System::ExceptionWrapper<Details_TaggedException>
+using Aspose::Pdf::Tagged::TaggedException = System::ExceptionWrapper<Details_TaggedException>
 ```
 
 ## See Also

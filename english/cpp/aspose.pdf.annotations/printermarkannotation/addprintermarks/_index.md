@@ -56,7 +56,6 @@ This method adds various types of printer's marks based on the provided [Printer
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Document](../../../aspose.pdf/document/)
 * Enum [PrinterMarksKind](../../printermarkskind/)
 * Class [PrinterMarkAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

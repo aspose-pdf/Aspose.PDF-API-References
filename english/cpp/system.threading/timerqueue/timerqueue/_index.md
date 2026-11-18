@@ -19,6 +19,5 @@ System::Threading::TimerQueue::TimerQueue(const TimerQueue &)=delete
 ## See Also
 
 * Class [TimerQueue](../)
-* Class [TimerQueue](../)
 * Namespace [System::Threading](../../)
 * Library [Aspose.PDF for C++](../../../)

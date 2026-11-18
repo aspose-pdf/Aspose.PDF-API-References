@@ -24,7 +24,6 @@ void Aspose::Pdf::Forms::Form::Add(const System::SharedPtr<Field> &field)
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Field](../../field/)
 * Class [Form](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -46,7 +45,6 @@ void Aspose::Pdf::Forms::Form::Add(const System::SharedPtr<Field> &field, int32_
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Field](../../field/)
 * Class [Form](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -73,7 +71,6 @@ Added field returned. If copy of the field was created it will be returned.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Field](../../field/)
 * Class [String](../../../system/string/)
 * Class [Form](../)
 * Namespace [Aspose::Pdf::Forms](../../)

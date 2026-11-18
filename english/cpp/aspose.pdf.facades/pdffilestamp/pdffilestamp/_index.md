@@ -2,7 +2,7 @@
 title: Aspose::Pdf::Facades::PdfFileStamp::PdfFileStamp constructor
 linktitle: PdfFileStamp
 second_title: Aspose.PDF for C++ API Reference
-description: 'Aspose::Pdf::Facades::PdfFileStamp::PdfFileStamp constructor. Constructor of the PdfFileStamp. Input file and output file may be specified via corresponding properties in C++.'
+description: 'Aspose::Pdf::Facades::PdfFileStamp::PdfFileStamp constructor. Constructor of the PdfFileStamp. Input file and output file may be specified via corresponding properties.  in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.pdf.facades/pdffilestamp/pdffilestamp/

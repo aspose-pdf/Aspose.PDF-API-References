@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.facades/pdfextractor/gettext/
 ## PdfExtractor::GetText(const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
-Saves text to stream. see also:[ExtractText](../extracttext/)
+Saves text to stream. see also:[ExtractText](../extracttext/).
 
 ```cpp
 void Aspose::Pdf::Facades::PdfExtractor::GetText(const System::SharedPtr<System::IO::Stream> &outputStream)
@@ -31,7 +31,7 @@ void Aspose::Pdf::Facades::PdfExtractor::GetText(const System::SharedPtr<System:
 ## PdfExtractor::GetText(const System::SharedPtr\<System::IO::Stream\>\&, bool) method
 
 
-Saves text to stream. see also:[ExtractText](../extracttext/)
+Saves text to stream. see also:[ExtractText](../extracttext/).
 
 ```cpp
 void Aspose::Pdf::Facades::PdfExtractor::GetText(const System::SharedPtr<System::IO::Stream> &outputStream, bool filterNotAscii)
@@ -53,7 +53,7 @@ void Aspose::Pdf::Facades::PdfExtractor::GetText(const System::SharedPtr<System:
 ## PdfExtractor::GetText(const System::String\&) method
 
 
-Saves text to file. see also:[ExtractText](../extracttext/)
+Saves text to file. see also:[ExtractText](../extracttext/).
 
 ```cpp
 void Aspose::Pdf::Facades::PdfExtractor::GetText(const System::String &outputFile)

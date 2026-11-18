@@ -31,7 +31,6 @@ An [IAsyncResult](../../../system/iasyncresult/) object representing the initiat
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IAsyncResult](../../../system/iasyncresult/)
 * Typedef [AsyncCallback](../../../system/asynccallback/)
-* Class [Object](../../../system/object/)
 * Class [HttpWebRequest](../)
 * Namespace [System::Net](../../)
 * Library [Aspose.PDF for C++](../../../)

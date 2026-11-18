@@ -20,7 +20,6 @@ static bool System::Threading::Monitor::TryEnter(const SharedPtr<Object> &obj)
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [Monitor](../)
 * Namespace [System::Threading](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -37,7 +36,6 @@ static bool System::Threading::Monitor::TryEnter(const SharedPtr<Object> &obj, i
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [Monitor](../)
 * Namespace [System::Threading](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -54,7 +52,6 @@ static bool System::Threading::Monitor::TryEnter(const SharedPtr<Object> &obj, T
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [TimeSpan](../../../system/timespan/)
 * Class [Monitor](../)
 * Namespace [System::Threading](../../)
@@ -71,7 +68,6 @@ static void System::Threading::Monitor::TryEnter(const System::SharedPtr<Object>
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [Monitor](../)
 * Namespace [System::Threading](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -87,7 +83,6 @@ static void System::Threading::Monitor::TryEnter(const System::SharedPtr<Object>
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [Monitor](../)
 * Namespace [System::Threading](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -103,7 +98,6 @@ static void System::Threading::Monitor::TryEnter(const System::SharedPtr<Object>
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [TimeSpan](../../../system/timespan/)
 * Class [Monitor](../)
 * Namespace [System::Threading](../../)

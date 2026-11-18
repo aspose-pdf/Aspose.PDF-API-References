@@ -3,7 +3,7 @@ title: Aspose.Pdf.Security
 second_title: Aspose.PDF for .NET API Reference
 description: The Aspose.Pdf.Security namespace contains classes used for encryption and digital signing
 type: docs
-weight: 210
+weight: 190
 url: /net/aspose.pdf.security/
 ---
 The **Aspose.Pdf.Security** namespace contains classes used for encryption and digital signing.
@@ -22,8 +22,10 @@ The **Aspose.Pdf.Security** namespace contains classes used for encryption and d
 | [SignatureLengthMismatchException](./signaturelengthmismatchexception/) | Represents errors that occur during PDF signing. Occurs if [`SignHash`](../aspose.pdf.forms/signhash/) is used to sign a document and the actual length of the signature is greater than that specified in the [`DefaultSignatureLength`](../aspose.pdf.forms/signature/defaultsignaturelength/) option. |
 | [TimestampAlgorithmInfo](./timestampalgorithminfo/) | Represents a class for the information about the timestamp signature algorithm. |
 | [UnknownSignatureAlgorithmInfo](./unknownsignaturealgorithminfo/) | Represents a class for the unknown signature algorithm information. |
+| [UnsignedContentAbsorber](./unsignedcontentabsorber/) | Represents a class for extracting unsigned content from a PDF file managed by digital signatures. |
 | [ValidationOptions](./validationoptions/) | Represents options for validating a digital signature in a PDF document. |
 | [ValidationResult](./validationresult/) | Represents the result of a validation process for a certificate. |
+| [VerificationResult](./verificationresult/) | Represents the result of verifying a digital signature in a PDF file. |
 ## Interfaces
 
 | Interface | Description |
@@ -38,5 +40,6 @@ The **Aspose.Pdf.Security** namespace contains classes used for encryption and d
 | [ValidationMethod](./validationmethod/) | Represents an enum defined the method used for certificate validation. |
 | [ValidationMode](./validationmode/) | Specifies the validation mode for PDF signature validation processes. |
 | [ValidationStatus](./validationstatus/) | Represents the validation status of a certificate validation. |
+| [VerificationState](./verificationstate/) | Specifies the state of a digital signature verification process in a PDF document. |
 
 

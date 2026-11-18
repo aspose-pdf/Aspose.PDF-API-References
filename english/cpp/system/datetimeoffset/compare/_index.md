@@ -29,6 +29,5 @@ static int System::DateTimeOffset::Compare(const DateTimeOffset &first, const Da
 ## See Also
 
 * Class [DateTimeOffset](../)
-* Class [DateTimeOffset](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

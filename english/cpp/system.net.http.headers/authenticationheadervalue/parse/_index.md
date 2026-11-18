@@ -28,7 +28,6 @@ An instance of the [AuthenticationHeaderValue](../) class.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [AuthenticationHeaderValue](../)
 * Class [String](../../../system/string/)
 * Class [AuthenticationHeaderValue](../)
 * Namespace [System::Net::Http::Headers](../../)

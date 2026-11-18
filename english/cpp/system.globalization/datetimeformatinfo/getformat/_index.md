@@ -28,7 +28,6 @@ Formatter or null if not availsable.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [TypeInfo](../../../system/typeinfo/)
 * Class [DateTimeFormatInfo](../)
 * Namespace [System::Globalization](../../)

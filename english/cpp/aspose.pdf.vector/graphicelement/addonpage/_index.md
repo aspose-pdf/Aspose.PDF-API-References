@@ -24,7 +24,6 @@ virtual void Aspose::Pdf::Vector::GraphicElement::AddOnPage(const System::Shared
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Page](../../../aspose.pdf/page/)
 * Class [GraphicElement](../)
 * Namespace [Aspose::Pdf::Vector](../../)
 * Library [Aspose.PDF for C++](../../../)

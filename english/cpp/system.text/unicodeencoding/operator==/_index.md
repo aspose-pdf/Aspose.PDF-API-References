@@ -24,6 +24,5 @@ True if codepages and flags match, false otherwise.
 ## See Also
 
 * Class [UnicodeEncoding](../)
-* Class [UnicodeEncoding](../)
 * Namespace [System::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

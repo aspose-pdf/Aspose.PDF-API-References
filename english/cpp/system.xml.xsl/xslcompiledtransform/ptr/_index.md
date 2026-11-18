@@ -13,7 +13,7 @@ url: /cpp/system.xml.xsl/xslcompiledtransform/ptr/
 An alias for shared pointer to an instance of this class.
 
 ```cpp
-using System::Xml::Xsl::XslCompiledTransform::Ptr =  SharedPtr<XslCompiledTransform>
+using System::Xml::Xsl::XslCompiledTransform::Ptr = SharedPtr<XslCompiledTransform>
 ```
 
 ## See Also

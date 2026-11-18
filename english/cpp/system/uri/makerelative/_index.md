@@ -30,6 +30,5 @@ If the hostname and scheme of the URIs represented by the current object and **t
 * Class [String](../../string/)
 * Typedef [SharedPtr](../../sharedptr/)
 * Class [Uri](../)
-* Class [Uri](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -4,7 +4,7 @@ linktitle: LINQ_Take
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::IEnumerable::LINQ_Take method. Returns a specified number of contiguous elements from the start of a sequence in C++.'
 type: docs
-weight: 3000
+weight: 3500
 url: /cpp/system.collections.generic/ienumerable/linq_take/
 ---
 ## IEnumerable::LINQ_Take method

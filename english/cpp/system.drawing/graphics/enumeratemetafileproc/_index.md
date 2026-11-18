@@ -13,7 +13,7 @@ url: /cpp/system.drawing/graphics/enumeratemetafileproc/
 The type of a callback fuction object used as an argument for EnumerateMetafile method.
 
 ```cpp
-using System::Drawing::Graphics::EnumerateMetafileProc =  MulticastDelegate<bool(Imaging::EmfPlusRecordType, int32_t, int32_t, IntPtr, Imaging::PlayRecordCallback)>
+using System::Drawing::Graphics::EnumerateMetafileProc = MulticastDelegate<bool(Imaging::EmfPlusRecordType, int32_t, int32_t, IntPtr, Imaging::PlayRecordCallback)>
 ```
 
 ## See Also

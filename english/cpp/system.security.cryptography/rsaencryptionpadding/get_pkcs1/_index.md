@@ -24,6 +24,5 @@ Gets PKCS #1 v1.5 mode.
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [RSAEncryptionPadding](../)
-* Class [RSAEncryptionPadding](../)
 * Namespace [System::Security::Cryptography](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/sortedset/thisptr/
 Pointer type.
 
 ```cpp
-using System::Collections::Generic::SortedSet< T >::ThisPtr =  SharedPtr<ThisType>
+using System::Collections::Generic::SortedSet< T >::ThisPtr = SharedPtr<ThisType>
 ```
 
 ## See Also

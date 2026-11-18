@@ -10,11 +10,7 @@ url: /cpp/aspose.pdf.vector/graphicsabsorber/resumeupdate/
 ## GraphicsAbsorber::ResumeUpdate method
 
 
-Resume update for [Page::Contents](../) and all [XForm::Contents](../) Was made for performance increase, see also 
-[OperatorCollection::ResumeUpdate](../../../aspose.pdf/operatorcollection/resumeupdate/)
-
-
-.
+Resume update for [Page::Contents](../) and all [XForm::Contents](../) Was made for performance increase, see also [OperatorCollection::ResumeUpdate](../../../aspose.pdf/operatorcollection/resumeupdate/).
 
 ```cpp
 void Aspose::Pdf::Vector::GraphicsAbsorber::ResumeUpdate()

@@ -58,6 +58,11 @@ class FormFieldOptions : public System::Object
 | [set_UpdateAppearanceOnConvert](./set_updateappearanceonconvert/)(System::Nullable\<bool\>) | Gets/sets the value to determine whether created/modified field is update appearance on convert or not (if will be set). |
 | [set_UseFontSubset](./set_usefontsubset/)(System::Nullable\<bool\>) | Gets/sets the value to determine whether created/modified field is use font subset or not (if will be set). |
 | [set_Value](./set_value/)(const System::String\&) | Gets/sets the value to determine property Value for created/modified field (if will be set). |
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [Highlighting](./highlighting/) | Gets/sets the value to determine property Highlighting for created/modified field (if will be set). |
 ## See Also
 
 * Class [Object](../../system/object/)

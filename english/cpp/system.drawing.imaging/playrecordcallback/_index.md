@@ -13,7 +13,7 @@ url: /cpp/system.drawing.imaging/playrecordcallback/
 A delegate used as a parameter in EnumerateMetafileProc function object.
 
 ```cpp
-using System::Drawing::Imaging::PlayRecordCallback =  MulticastDelegate<void(EmfPlusRecordType, int32_t, int32_t, IntPtr)>
+using System::Drawing::Imaging::PlayRecordCallback = MulticastDelegate<void(EmfPlusRecordType, int32_t, int32_t, IntPtr)>
 ```
 
 ## See Also

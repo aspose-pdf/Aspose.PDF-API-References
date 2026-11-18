@@ -24,6 +24,5 @@ The default settings enable auto-tagging and use the automatic strategy for head
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [AutoTaggingSettings](../)
-* Class [AutoTaggingSettings](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

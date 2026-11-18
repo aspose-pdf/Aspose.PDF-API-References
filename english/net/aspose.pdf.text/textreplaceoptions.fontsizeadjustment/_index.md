@@ -3,7 +3,7 @@ title: Enum TextReplaceOptions.FontSizeAdjustment
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Text.TextReplaceOptionsFontSizeAdjustment enum. Specifies a policy for how the font size of text should be adjusted to fit within a containing area
 type: docs
-weight: 11200
+weight: 11420
 url: /net/aspose.pdf.text/textreplaceoptions.fontsizeadjustment/
 ---
 ## TextReplaceOptions.FontSizeAdjustment enumeration

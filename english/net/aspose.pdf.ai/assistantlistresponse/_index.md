@@ -3,7 +3,7 @@ title: Class AssistantListResponse
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.AssistantListResponse class. Represents the response containing a list of assistant responses
 type: docs
-weight: 120
+weight: 90
 url: /net/aspose.pdf.ai/assistantlistresponse/
 ---
 ## AssistantListResponse class

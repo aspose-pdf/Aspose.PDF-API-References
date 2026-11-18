@@ -28,7 +28,6 @@ int System::DateTimeOffset::CompareTo(const DateTimeOffset &other) const
 ## See Also
 
 * Class [DateTimeOffset](../)
-* Class [DateTimeOffset](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## DateTimeOffset::CompareTo(const SharedPtr\<Object\>\&) const method

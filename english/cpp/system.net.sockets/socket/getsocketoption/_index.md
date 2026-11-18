@@ -29,7 +29,6 @@ The value that corresponds to the specified option name.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Enum [SocketOptionLevel](../../socketoptionlevel/)
 * Enum [SocketOptionName](../../socketoptionname/)
 * Class [Socket](../)

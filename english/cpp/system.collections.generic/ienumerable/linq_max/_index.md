@@ -2,11 +2,30 @@
 title: System::Collections::Generic::IEnumerable::LINQ_Max method
 linktitle: LINQ_Max
 second_title: Aspose.PDF for C++ API Reference
-description: 'How to use LINQ_Max method of System::Collections::Generic::IEnumerable class in C++.'
+description: 'System::Collections::Generic::IEnumerable::LINQ_Max method. Returns maximal element of the sequence in C++.'
 type: docs
-weight: 2100
+weight: 2200
 url: /cpp/system.collections.generic/ienumerable/linq_max/
 ---
+## IEnumerable::LINQ_Max() method
+
+
+Returns maximal element of the sequence.
+
+```cpp
+Source System::Collections::Generic::IEnumerable<Source>::LINQ_Max()
+```
+
+
+### ReturnValue
+
+The maximal value in the sequence.
+
+## See Also
+
+* Class [IEnumerable](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.PDF for C++](../../../)
 ## IEnumerable::LINQ_Max(const Func\<Source, ResultType\>\&) method
 
 

@@ -22,7 +22,7 @@ class Operator : public System::Object
 | --- | --- |
 | virtual [Accept](./accept/)(const System::SharedPtr\<IOperatorSelector\>\&) | Accepts visitor [IOperatorSelector](../ioperatorselector/) which provides operators processing. |
 | [get_Index](./get_index/)() | [Operator](./) index in page operators list. |
-| static [IsTextShowOperator](./istextshowoperator/)(const System::SharedPtr\<Operator\>\&) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
+| static [IsTextShowOperator](./istextshowoperator/)(const System::SharedPtr\<Operator\>\&) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc). |
 | [set_Index](./set_index/)(int32_t) | [Operator](./) index in page operators list. |
 | [ToString](./tostring/)() const override | Returns text of operator and its parameters. |
 | [ValueEquals](./valueequals/)(const System::SharedPtr\<Operator\>\&) | Compares this instance with the given object. |

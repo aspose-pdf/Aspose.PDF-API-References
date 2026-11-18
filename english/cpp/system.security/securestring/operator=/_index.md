@@ -19,6 +19,5 @@ SecureString & System::Security::SecureString::operator=(const SecureString &)=d
 ## See Also
 
 * Class [SecureString](../)
-* Class [SecureString](../)
 * Namespace [System::Security](../../)
 * Library [Aspose.PDF for C++](../../../)

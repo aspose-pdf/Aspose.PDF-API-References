@@ -4,7 +4,7 @@ linktitle: set_CreateLogicalStructure
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::HtmlLoadOptions::set_CreateLogicalStructure method. Sets a value indicating whether to create a logical structure in the resulting PDF document in C++.'
 type: docs
-weight: 1100
+weight: 1300
 url: /cpp/aspose.pdf/htmlloadoptions/set_createlogicalstructure/
 ---
 ## HtmlLoadOptions::set_CreateLogicalStructure method

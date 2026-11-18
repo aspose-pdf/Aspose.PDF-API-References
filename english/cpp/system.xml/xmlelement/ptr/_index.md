@@ -13,7 +13,7 @@ url: /cpp/system.xml/xmlelement/ptr/
 An alias for shared pointer to an instance of this class.
 
 ```cpp
-using System::Xml::XmlElement::Ptr =  SharedPtr<XmlElement>
+using System::Xml::XmlElement::Ptr = SharedPtr<XmlElement>
 ```
 
 ## See Also

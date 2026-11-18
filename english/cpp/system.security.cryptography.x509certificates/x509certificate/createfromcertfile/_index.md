@@ -28,7 +28,6 @@ The newly created certificate.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [X509Certificate](../)
 * Class [String](../../../system/string/)
 * Class [X509Certificate](../)
 * Namespace [System::Security::Cryptography::X509Certificates](../../)

@@ -20,7 +20,6 @@ void Aspose::Pdf::Forms::Form::set_CalculatedFields(const System::SharedPtr<Syst
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IEnumerable](../../../system.collections.generic/ienumerable/)
-* Class [Field](../../field/)
 * Class [Form](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -28,7 +28,6 @@ An empty dictionary.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [CosPdfDictionary](../)
 * Class [Document](../../../aspose.pdf/document/)
 * Class [CosPdfDictionary](../)
 * Namespace [Aspose::Pdf::DataEditor](../../)
@@ -54,7 +53,6 @@ An empty dictionary.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [CosPdfDictionary](../)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [CosPdfDictionary](../)
 * Namespace [Aspose::Pdf::DataEditor](../../)

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/incorrectcmapusageexception/
 
 
 ```cpp
-using Aspose::Pdf::IncorrectCMapUsageException =  System::ExceptionWrapper<Details_IncorrectCMapUsageException>
+using Aspose::Pdf::IncorrectCMapUsageException = System::ExceptionWrapper<Details_IncorrectCMapUsageException>
 ```
 
 ## See Also

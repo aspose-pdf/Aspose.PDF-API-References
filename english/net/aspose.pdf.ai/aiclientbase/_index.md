@@ -3,7 +3,7 @@ title: Class AIClientBase
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.AIClientBase class. Represents client to access AI API
 type: docs
-weight: 50
+weight: 20
 url: /net/aspose.pdf.ai/aiclientbase/
 ---
 ## AIClientBase class

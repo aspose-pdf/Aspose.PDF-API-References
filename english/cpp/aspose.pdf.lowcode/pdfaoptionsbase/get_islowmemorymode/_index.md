@@ -21,9 +21,7 @@ bool Aspose::Pdf::LowCode::PdfAOptionsBase::get_IsLowMemoryMode()
 
 **true**
 
-if low memory mode is enabled; otherwise, **false**
-
-. 
+if low memory mode is enabled; otherwise, **false**.
 ## See Also
 
 * Class [PdfAOptionsBase](../)

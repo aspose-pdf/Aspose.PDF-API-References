@@ -19,7 +19,6 @@ void System::Drawing::Graphics::set_Clip(const SharedPtr<Region> &region)
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Region](../../region/)
 * Class [Graphics](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.PDF for C++](../../../)

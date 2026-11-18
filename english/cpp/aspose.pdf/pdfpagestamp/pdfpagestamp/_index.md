@@ -24,7 +24,6 @@ Aspose::Pdf::PdfPageStamp::PdfPageStamp(const System::SharedPtr<Page> &pdfPage)
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Page](../../page/)
 * Class [PdfPageStamp](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

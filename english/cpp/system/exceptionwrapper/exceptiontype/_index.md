@@ -13,7 +13,7 @@ url: /cpp/system/exceptionwrapper/exceptiontype/
 Used for casting functions.
 
 ```cpp
-using System::ExceptionWrapper< T >::ExceptionType =  T
+using System::ExceptionWrapper< T >::ExceptionType = T
 ```
 
 ## See Also

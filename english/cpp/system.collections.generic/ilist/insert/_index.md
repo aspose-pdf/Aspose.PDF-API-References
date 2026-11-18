@@ -4,7 +4,7 @@ linktitle: Insert
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::IList::Insert method. Inserts element into specified position, shifting other elements in C++.'
 type: docs
-weight: 500
+weight: 600
 url: /cpp/system.collections.generic/ilist/insert/
 ---
 ## IList::Insert method

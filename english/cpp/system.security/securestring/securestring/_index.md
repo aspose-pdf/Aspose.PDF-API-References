@@ -57,6 +57,5 @@ System::Security::SecureString::SecureString(const SecureString &)=delete
 ## See Also
 
 * Class [SecureString](../)
-* Class [SecureString](../)
 * Namespace [System::Security](../../)
 * Library [Aspose.PDF for C++](../../../)

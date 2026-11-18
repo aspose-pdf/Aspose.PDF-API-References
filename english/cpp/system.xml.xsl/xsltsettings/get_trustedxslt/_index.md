@@ -25,6 +25,5 @@ An [XsltSettings](../) object with the [XsltSettings::set_EnableDocumentFunction
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XsltSettings](../)
-* Class [XsltSettings](../)
 * Namespace [System::Xml::Xsl](../../)
 * Library [Aspose.PDF for C++](../../../)

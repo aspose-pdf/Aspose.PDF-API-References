@@ -29,7 +29,6 @@ The [XmlSchema](../) object representing the XML [Schema](../../).
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlSchema](../)
 * Class [Stream](../../../system.io/stream/)
 * Typedef [ValidationEventHandler](../../validationeventhandler/)
 * Class [XmlSchema](../)
@@ -57,7 +56,6 @@ The [XmlSchema](../) object representing the XML [Schema](../../).
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlSchema](../)
 * Class [TextReader](../../../system.io/textreader/)
 * Typedef [ValidationEventHandler](../../validationeventhandler/)
 * Class [XmlSchema](../)
@@ -85,7 +83,6 @@ The [XmlSchema](../) object representing the XML [Schema](../../).
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmlSchema](../)
 * Class [XmlReader](../../../system.xml/xmlreader/)
 * Typedef [ValidationEventHandler](../../validationeventhandler/)
 * Class [XmlSchema](../)

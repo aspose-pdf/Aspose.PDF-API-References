@@ -20,7 +20,6 @@ System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<Shape>>> 
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [List](../../../system.collections.generic/list/)
-* Class [Shape](../../shape/)
 * Class [Path](../)
 * Namespace [Aspose::Pdf::Drawing](../../)
 * Library [Aspose.PDF for C++](../../../)

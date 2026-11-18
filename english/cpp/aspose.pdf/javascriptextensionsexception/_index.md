@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/javascriptextensionsexception/
 
 
 ```cpp
-using Aspose::Pdf::JavascriptExtensionsException =  System::ExceptionWrapper<Details_JavascriptExtensionsException>
+using Aspose::Pdf::JavascriptExtensionsException = System::ExceptionWrapper<Details_JavascriptExtensionsException>
 ```
 
 ## See Also

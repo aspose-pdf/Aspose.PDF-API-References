@@ -30,7 +30,6 @@ A Stream or TextReader object that corresponds to the actual source.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [Uri](../../../system/uri/)
 * Class [String](../../../system/string/)
 * Class [TypeInfo](../../../system/typeinfo/)

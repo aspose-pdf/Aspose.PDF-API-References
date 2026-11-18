@@ -39,7 +39,6 @@ System::Drawing::StringFormat::StringFormat(const SharedPtr<StringFormat> &forma
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [StringFormat](../)
-* Class [StringFormat](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## StringFormat::StringFormat(StringFormatFlags, int32_t) constructor

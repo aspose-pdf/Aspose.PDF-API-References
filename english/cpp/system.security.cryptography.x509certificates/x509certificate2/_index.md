@@ -4,7 +4,7 @@ linktitle: X509Certificate2
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Security::Cryptography::X509Certificates::X509Certificate2 class. Represents X509 certificate. Objects of this class should only be allocated using System::MakeObject() function. Never create instance of this type on stack or using operator new, as it will result in runtime errors and/or assertion faults. Always wrap this class into System::SmartPtr pointer and use this pointer to pass it to functions as argument in C++.'
 type: docs
-weight: 400
+weight: 700
 url: /cpp/system.security.cryptography.x509certificates/x509certificate2/
 ---
 ## X509Certificate2 class
@@ -37,13 +37,7 @@ class X509Certificate2 : public System::Security::Cryptography::X509Certificates
 | [get_Version](./get_version/)() const | Gets certificate format version. |
 | static [GetCertContentType](./getcertcontenttype/)(const ByteArrayPtr\&) | Gets the type of certificate contained in the specified byte array. |
 | static [GetCertContentType](./getcertcontenttype/)(const String\&) | Gets the type of certificate contained in the specified file. |
-| [GetDSAPrivateKey](./getdsaprivatekey/)() const | Gets [RSA](../../system.security.cryptography/rsa/) private key;. |
-| [GetDSAPublicKey](./getdsapublickey/)() const | Gets [RSA](../../system.security.cryptography/rsa/) public key. |
-| [GetECDsaPrivateKey](./getecdsaprivatekey/)() const | Gets [RSA](../../system.security.cryptography/rsa/) private key;. |
-| [GetECDsaPublicKey](./getecdsapublickey/)() const | Gets [RSA](../../system.security.cryptography/rsa/) public key. |
 | [GetNameInfo](./getnameinfo/)(X509NameType, bool) const | Gets subject or issuer name from certificate. |
-| [GetRSAPrivateKey](./getrsaprivatekey/)() const | Gets [RSA](../../system.security.cryptography/rsa/) private key;. |
-| [GetRSAPublicKey](./getrsapublickey/)() const | Gets [RSA](../../system.security.cryptography/rsa/) public key. |
 | [Import](./import/)(const String\&, const SecureStringPtr\&, X509KeyStorageFlags) override | Imports information from the specified certificate file. |
 | [Import](./import/)(const String\&, const String\&, X509KeyStorageFlags) override | Imports information from the specified certificate file. |
 | [Import](./import/)(const ByteArrayPtr\&, const SecureStringPtr\&, X509KeyStorageFlags) override | Imports information from the specified certificate data. |

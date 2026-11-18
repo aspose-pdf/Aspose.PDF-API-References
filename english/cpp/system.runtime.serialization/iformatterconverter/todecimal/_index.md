@@ -29,7 +29,6 @@ The converted value.
 
 * Class [Decimal](../../../system/decimal/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [IFormatterConverter](../)
 * Namespace [System::Runtime::Serialization](../../)
 * Library [Aspose.PDF for C++](../../../)

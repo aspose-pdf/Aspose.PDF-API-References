@@ -26,7 +26,6 @@ Aspose::Pdf::XmpValue::XmpValue(const System::ArrayPtr<System::SharedPtr<XmpValu
 * Typedef [ArrayPtr](../../../system/arrayptr/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmpValue](../)
-* Class [XmpValue](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## XmpValue::XmpValue(const System::String\&) constructor

@@ -28,7 +28,6 @@ The parsed, typed text value of the element if the element has simple content.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [XmlSchemaInfo](../../xmlschemainfo/)
 * Class [XmlSchemaValidator](../)
 * Namespace [System::Xml::Schema](../../)
@@ -55,7 +54,6 @@ The parsed, typed simple content of the element.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [XmlSchemaInfo](../../xmlschemainfo/)
 * Class [XmlSchemaValidator](../)
 * Namespace [System::Xml::Schema](../../)

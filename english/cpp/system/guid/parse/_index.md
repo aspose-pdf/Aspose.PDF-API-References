@@ -27,7 +27,6 @@ A [Guid](../) object representing a GUID equivalent to that represented by **inp
 
 ## See Also
 
-* Class [Guid](../)
 * Class [String](../../string/)
 * Class [Guid](../)
 * Namespace [System](../../)

@@ -9,7 +9,7 @@ url: /net/aspose.pdf.logicalstructure/blstextelement/settext/
 ## BLSTextElement.SetText method
 
 ```csharp
-public void SetText(string text)
+public virtual void SetText(string text)
 ```
 
 ### See Also

@@ -27,7 +27,6 @@ A new instance of [DateTimeOffset](../) class that represents the date and time 
 
 ## See Also
 
-* Class [DateTimeOffset](../)
 * Class [TimeSpan](../../timespan/)
 * Class [DateTimeOffset](../)
 * Namespace [System](../../)

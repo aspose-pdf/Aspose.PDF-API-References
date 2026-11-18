@@ -13,7 +13,7 @@ url: /cpp/system.threading/threadstart/
 [Thread](../thread/) function with no parameters.
 
 ```cpp
-using System::Threading::ThreadStart =  System::MulticastDelegate<void()>
+using System::Threading::ThreadStart = System::MulticastDelegate<void()>
 ```
 
 ## See Also

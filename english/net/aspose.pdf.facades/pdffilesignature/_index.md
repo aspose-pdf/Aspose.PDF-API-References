@@ -3,7 +3,7 @@ title: Class PdfFileSignature
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Facades.PdfFileSignature class. Represents a class to sign a pdf file with a certificate
 type: docs
-weight: 4680
+weight: 4720
 url: /net/aspose.pdf.facades/pdffilesignature/
 ---
 ## PdfFileSignature class
@@ -73,6 +73,10 @@ public sealed class PdfFileSignature : SaveableFacade
 | [Sign](../../aspose.pdf.facades/pdffilesignature/sign/#sign_3)(int, string, string, string, string, bool, Rectangle, Signature) | Sign the document with the given type signature which is placed in already presented signature field. Before signing pdf document should already has signature field, corresponding page and rectangle are taken from signature field which is found by signature name (see SigName parameter). |
 | [TryExtractCertificate](../../aspose.pdf.facades/pdffilesignature/tryextractcertificate/#tryextractcertificate)(SignatureName, out Stream) | Extracts signature's single X.509 certificate as a stream. |
 | [TryExtractCertificate](../../aspose.pdf.facades/pdffilesignature/tryextractcertificate/#tryextractcertificate_1)(SignatureName, out X509Certificate2) | Extracts signature's single X.509 certificate. |
+| [TryVerifySignature](../../aspose.pdf.facades/pdffilesignature/tryverifysignature/#tryverifysignature_1)(SignatureName, out VerificationResult) | Try to check the validity of a signature. |
+| [TryVerifySignature](../../aspose.pdf.facades/pdffilesignature/tryverifysignature/#tryverifysignature_3)(SignatureName, X509Certificate2, out VerificationResult) | Try to check the validity of a signature. Verification is performed using the external public key certificate. |
+| [TryVerifySignature](../../aspose.pdf.facades/pdffilesignature/tryverifysignature/#tryverifysignature)(SignatureName, ValidationOptions, out ValidationResult, out VerificationResult) | Try to check the validity of a signature. |
+| [TryVerifySignature](../../aspose.pdf.facades/pdffilesignature/tryverifysignature/#tryverifysignature_2)(SignatureName, X509Certificate2, ValidationOptions, out ValidationResult, out VerificationResult) | Try to check the validity of a signature. Verification is performed using the external public key certificate. |
 | [VerifySignature](../../aspose.pdf.facades/pdffilesignature/verifysignature/#verifysignature)(SignatureName) | Checks the validity of a signature. |
 | [VerifySignature](../../aspose.pdf.facades/pdffilesignature/verifysignature/#verifysignature_2)(SignatureName, X509Certificate2) | Checks the validity of a signature. Verification is performed using the external public key certificate. |
 | [VerifySignature](../../aspose.pdf.facades/pdffilesignature/verifysignature/#verifysignature_1)(SignatureName, ValidationOptions, out ValidationResult) | Checks the validity of a signature. |

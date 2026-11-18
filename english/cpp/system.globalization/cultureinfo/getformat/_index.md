@@ -28,7 +28,6 @@ Format info object or null if not found.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [TypeInfo](../../../system/typeinfo/)
 * Class [CultureInfo](../)
 * Namespace [System::Globalization](../../)

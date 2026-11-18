@@ -28,7 +28,6 @@ The converted value.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [IFormatterConverter](../)
 * Namespace [System::Runtime::Serialization](../../)
 * Library [Aspose.PDF for C++](../../../)

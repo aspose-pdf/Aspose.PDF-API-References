@@ -25,6 +25,5 @@ Pointer to next node (if any) or null.
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [LinkedListNode](../)
-* Class [LinkedListNode](../)
 * Namespace [System::Collections::Generic](../../)
 * Library [Aspose.PDF for C++](../../../)

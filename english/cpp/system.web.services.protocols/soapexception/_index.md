@@ -13,7 +13,7 @@ url: /cpp/system.web.services.protocols/soapexception/
 
 
 ```cpp
-using System::Web::Services::Protocols::SoapException =  System::ExceptionWrapper<Details_SoapException>
+using System::Web::Services::Protocols::SoapException = System::ExceptionWrapper<Details_SoapException>
 ```
 
 ## See Also

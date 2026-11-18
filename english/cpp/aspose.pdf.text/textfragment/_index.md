@@ -23,8 +23,8 @@ class TextFragment : public Aspose::Pdf::BaseParagraph
 | [Clone](./clone/)() override | Clone the fragment. |
 | virtual [CloneWithSegments](./clonewithsegments/)() | Clone the fragment with all segments. |
 | [get_BaselinePosition](./get_baselineposition/)() | Gets text position for text, represented with [TextFragment](./) object. The YIndent of the [Position](../position/) structure represents baseline coordinate of the text fragment. |
-| [get_EndNote](./get_endnote/)() const | Gets the paragraph end note.(for pdf generation only) |
-| [get_FootNote](./get_footnote/)() const | Gets the paragraph foot note.(for pdf generation only) |
+| [get_EndNote](./get_endnote/)() const | Gets the paragraph end note.(for pdf generation only). |
+| [get_FootNote](./get_footnote/)() const | Gets the paragraph foot note.(for pdf generation only). |
 | [get_Form](./get_form/)() const | Gets form object that contains the [TextFragment](./). |
 | [get_HorizontalAlignment](./get_horizontalalignment/)() override | Gets a horizontal alignment of text fragment. |
 | [get_Page](./get_page/)() const | Gets page that contains the [TextFragment](./). |
@@ -36,11 +36,11 @@ class TextFragment : public Aspose::Pdf::BaseParagraph
 | [get_TextEditOptions](./get_texteditoptions/)() const | Gets text edit options. The options define special behavior when requested symbol cannot be written with font. |
 | [get_TextState](./get_textstate/)() | Gets text state for the text that [TextFragment](./) object represents. |
 | [get_VerticalAlignment](./get_verticalalignment/)() override | Gets a vertical alignment of text fragment. |
-| [get_WrapLinesCount](./get_wraplinescount/)() const | Gets wrap lines count for this paragraph(for pdf generation only) |
+| [get_WrapLinesCount](./get_wraplinescount/)() const | Gets wrap lines count for this paragraph(for pdf generation only). |
 | [IsolateTextSegments](./isolatetextsegments/)(int32_t, int32_t) | Gets [TextSegment](../textsegment/)(s) representing specified part of the [TextFragment](./) text. |
 | [set_BaselinePosition](./set_baselineposition/)(const System::SharedPtr\<Aspose::Pdf::Text::Position\>\&) | Gets text position for text, represented with [TextFragment](./) object. The YIndent of the [Position](../position/) structure represents baseline coordinate of the text fragment. |
-| [set_EndNote](./set_endnote/)(const System::SharedPtr\<Note\>\&) | Sets the paragraph end note.(for pdf generation only) |
-| [set_FootNote](./set_footnote/)(const System::SharedPtr\<Note\>\&) | Sets the paragraph foot note.(for pdf generation only) |
+| [set_EndNote](./set_endnote/)(const System::SharedPtr\<Note\>\&) | Sets the paragraph end note.(for pdf generation only). |
+| [set_FootNote](./set_footnote/)(const System::SharedPtr\<Note\>\&) | Sets the paragraph foot note.(for pdf generation only). |
 | [set_HorizontalAlignment](./set_horizontalalignment/)(Aspose::Pdf::HorizontalAlignment) override | Sets a horizontal alignment of text fragment. |
 | [set_Hyperlink](./set_hyperlink/)(System::SharedPtr\<Aspose::Pdf::Hyperlink\>) override | Sets the fragment hyperlink. |
 | [set_Position](./set_position/)(const System::SharedPtr\<Aspose::Pdf::Text::Position\>\&) | Sets text position for text, represented with [TextFragment](./) object. |
@@ -48,7 +48,7 @@ class TextFragment : public Aspose::Pdf::BaseParagraph
 | [set_Text](./set_text/)(const System::String\&) | Sets [System::String](../../system/string/) text object that the [TextFragment](./) object represents. |
 | [set_TextEditOptions](./set_texteditoptions/)(const System::SharedPtr\<Aspose::Pdf::Text::TextEditOptions\>\&) | Sets text edit options. The options define special behavior when requested symbol cannot be written with font. |
 | [set_VerticalAlignment](./set_verticalalignment/)(Aspose::Pdf::VerticalAlignment) override | Sets a vertical alignment of text fragment. |
-| [set_WrapLinesCount](./set_wraplinescount/)(int32_t) | Sets wrap lines count for this paragraph(for pdf generation only) |
+| [set_WrapLinesCount](./set_wraplinescount/)(int32_t) | Sets wrap lines count for this paragraph(for pdf generation only). |
 | [TextFragment](./textfragment/)() | Initializes new instance of the [TextFragment](./) object. |
 | [TextFragment](./textfragment/)(const System::SharedPtr\<TabStops\>\&) | Initializes new instance of the [TextFragment](./) object with predefined [TabStops](../tabstops/) positions. |
 | [TextFragment](./textfragment/)(const System::String\&) | Creates [TextFragment](./) object with single [TextSegment](../textsegment/) object inside. Specifies text string inside the segment. |

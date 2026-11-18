@@ -13,7 +13,7 @@ url: /cpp/system.collections/ienumerator/valuetype/
 RTTI information.
 
 ```cpp
-using System::Collections::IEnumerator::ValueType =  SharedPtr<System::Object>
+using System::Collections::IEnumerator::ValueType = SharedPtr<System::Object>
 ```
 
 ## Remarks

@@ -28,6 +28,5 @@ True if the rectangles represented by the current object and **rect** intersect,
 ## See Also
 
 * Class [Rectangle](../)
-* Class [Rectangle](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.PDF for C++](../../../)

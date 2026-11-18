@@ -28,7 +28,6 @@ static System::SharedPtr<Color> Aspose::Pdf::Color::Parse(const System::String &
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Color](../)
 * Class [String](../../../system/string/)
 * Class [Color](../)
 * Namespace [Aspose::Pdf](../../)

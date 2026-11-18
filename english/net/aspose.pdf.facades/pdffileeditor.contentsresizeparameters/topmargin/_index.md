@@ -3,7 +3,7 @@ title: PdfFileEditor.ContentsResizeParameters.TopMargin
 second_title: Aspose.PDF for .NET API Reference
 description: ContentsResizeParameters property. Gets or sets top margin on the resultant page
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/topmargin/
 ---
 ## PdfFileEditor.ContentsResizeParameters.TopMargin property

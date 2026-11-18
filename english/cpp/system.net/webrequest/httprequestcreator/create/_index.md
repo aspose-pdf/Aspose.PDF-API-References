@@ -28,7 +28,6 @@ A newly created WebRequest-class instance.
 ## See Also
 
 * Typedef [SharedPtr](../../../../system/sharedptr/)
-* Class [WebRequest](../../)
 * Class [Uri](../../../../system/uri/)
 * Class [HttpRequestCreator](../)
 * Class [WebRequest](../../)

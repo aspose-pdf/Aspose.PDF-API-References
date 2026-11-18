@@ -13,7 +13,7 @@ url: /cpp/system.io/stdiostreamwrapperbase/int_type/
 
 
 ```cpp
-using System::IO::STDIOStreamWrapperBase< T, typename >::int_type =  typename T::int_type
+using System::IO::STDIOStreamWrapperBase< T, typename >::int_type = typename T::int_type
 ```
 
 ## See Also

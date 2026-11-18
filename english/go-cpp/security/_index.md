@@ -20,6 +20,7 @@ url: /go-cpp/security/
 | [SignPKCS7Detached](./signpkcs7detached/) | Sign a PDF-document using PKCS#7 Detached digital signatures. |
 | [IsSigned](./issigned/) | Get signed status of PDF-document. |
 | [RemoveSigns](./removesigns/) | Remove signs from PDF-document. |
+| [VerifySigns](./verifysigns/) | Verify signs from PDF-document. |
 
 
 ## Detailed Description

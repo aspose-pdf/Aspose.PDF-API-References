@@ -38,7 +38,6 @@ System::DateTime::DateTime(const DateTime &dt)=default
 ## See Also
 
 * Class [DateTime](../)
-* Class [DateTime](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## DateTime::DateTime(int, int, int) constructor

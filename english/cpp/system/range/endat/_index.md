@@ -27,7 +27,6 @@ A [Range](../) object that starts at the beginning of the collection and ends at
 
 ## See Also
 
-* Class [Range](../)
 * Class [Index](../../index/)
 * Class [Range](../)
 * Namespace [System](../../)

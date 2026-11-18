@@ -101,7 +101,6 @@ int System::String::LastIndexOf(const String &str, int startIndex, System::Strin
 
 ## See Also
 
-* Class [String](../)
 * Enum [StringComparison](../../stringcomparison/)
 * Class [String](../)
 * Namespace [System](../../)
@@ -128,7 +127,6 @@ int System::String::LastIndexOf(const String &str, int startIndex=INT32_MAX) con
 ## See Also
 
 * Class [String](../)
-* Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## String::LastIndexOf(const String\&, System::StringComparison) const method
@@ -152,7 +150,6 @@ int System::String::LastIndexOf(const String &str, System::StringComparison comp
 
 ## See Also
 
-* Class [String](../)
 * Enum [StringComparison](../../stringcomparison/)
 * Class [String](../)
 * Namespace [System](../../)
@@ -180,7 +177,6 @@ int System::String::LastIndexOf(const String &value, int startIndex, int count, 
 
 ## See Also
 
-* Class [String](../)
 * Enum [StringComparison](../../stringcomparison/)
 * Class [String](../)
 * Namespace [System](../../)

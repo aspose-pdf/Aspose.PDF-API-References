@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf/baseparagraph/set_isfirstparagraphincolumn/
 ## BaseParagraph::set_IsFirstParagraphInColumn method
 
 
-Sets a bool value that indicates whether this paragraph will be at next column. Default is false.(for pdf generation)
+Sets a bool value that indicates whether this paragraph will be at next column. Default is false.(for pdf generation).
 
 ```cpp
 void Aspose::Pdf::BaseParagraph::set_IsFirstParagraphInColumn(bool value)

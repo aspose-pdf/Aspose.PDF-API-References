@@ -28,9 +28,7 @@ ArrayPtr<SharedPtr<Region>> System::Drawing::Graphics::MeasureCharacterRanges(co
 
 * Typedef [ArrayPtr](../../../system/arrayptr/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Region](../../region/)
 * Class [String](../../../system/string/)
-* Class [Font](../../font/)
 * Class [RectangleF](../../rectanglef/)
 * Class [StringFormat](../../stringformat/)
 * Class [Graphics](../)

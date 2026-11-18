@@ -27,7 +27,6 @@ True if compared objects reference the same object, false otherwise.
 
 ## See Also
 
-* Class [WeakReference](../../weakreference/)
 * Class [WeakReference< T >](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

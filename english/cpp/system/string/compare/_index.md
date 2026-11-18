@@ -30,7 +30,6 @@ Negative value if first substring is less then second, zero if they match, posit
 
 ## See Also
 
-* Class [String](../)
 * Typedef [SharedPtr](../../sharedptr/)
 * Class [CultureInfo](../../../system.globalization/cultureinfo/)
 * Class [String](../)
@@ -59,7 +58,6 @@ Negative value if first substring is less then second, zero if they match, posit
 ## See Also
 
 * Class [String](../)
-* Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## String::Compare(const String\&, const String\&, System::StringComparison) method
@@ -84,7 +82,6 @@ Negative value if first substring is less then second, zero if they match, posit
 
 ## See Also
 
-* Class [String](../)
 * Enum [StringComparison](../../stringcomparison/)
 * Class [String](../)
 * Namespace [System](../../)
@@ -115,7 +112,6 @@ Negative value if first substring is less then second, zero if they match, posit
 
 ## See Also
 
-* Class [String](../)
 * Typedef [SharedPtr](../../sharedptr/)
 * Class [CultureInfo](../../../system.globalization/cultureinfo/)
 * Class [String](../)
@@ -147,7 +143,6 @@ Negative value if first substring is less then second, zero if they match, posit
 ## See Also
 
 * Class [String](../)
-* Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## String::Compare(const String\&, int, const String\&, int, int, System::StringComparison) method
@@ -175,7 +170,6 @@ Negative value if first substring is less then second, zero if they match, posit
 
 ## See Also
 
-* Class [String](../)
 * Enum [StringComparison](../../stringcomparison/)
 * Class [String](../)
 * Namespace [System](../../)

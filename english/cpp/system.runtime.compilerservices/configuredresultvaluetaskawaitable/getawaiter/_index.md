@@ -13,12 +13,12 @@ url: /cpp/system.runtime.compilerservices/configuredresultvaluetaskawaitable/get
 
 
 ```cpp
-Runtime::CompilerServices::ResultTaskAwaiter<T> System::Runtime::CompilerServices::ConfiguredResultValueTaskAwaitable<T>::GetAwaiter() const
+Runtime::CompilerServices::ResultValueTaskAwaiter<T> System::Runtime::CompilerServices::ConfiguredResultValueTaskAwaitable<T>::GetAwaiter() const
 ```
 
 ## See Also
 
-* Class [ResultTaskAwaiter](../../resulttaskawaiter/)
+* Class [ResultValueTaskAwaiter](../../resultvaluetaskawaiter/)
 * Class [ConfiguredResultValueTaskAwaitable](../)
 * Namespace [System::Runtime::CompilerServices](../../)
 * Library [Aspose.PDF for C++](../../../)

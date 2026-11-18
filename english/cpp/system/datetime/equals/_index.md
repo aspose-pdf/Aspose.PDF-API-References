@@ -28,7 +28,6 @@ True if both **other** and current object represent the same value, otherwise - 
 ## See Also
 
 * Class [DateTime](../)
-* Class [DateTime](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## DateTime::Equals(DateTime, DateTime) method
@@ -52,7 +51,6 @@ True if both **t1** and **t2** represent the same value, otherwise - false
 
 ## See Also
 
-* Class [DateTime](../)
 * Class [DateTime](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

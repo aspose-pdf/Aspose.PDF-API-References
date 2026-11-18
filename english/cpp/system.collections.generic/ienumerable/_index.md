@@ -4,7 +4,7 @@ linktitle: IEnumerable
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::IEnumerable class. Interface of object providing enumerator on contained elements in C++.'
 type: docs
-weight: 2200
+weight: 2300
 url: /cpp/system.collections.generic/ienumerable/
 ---
 ## IEnumerable class
@@ -44,6 +44,7 @@ template<typename T>class IEnumerable : public virtual System::Object
 | [LINQ_Contains](./linq_contains/)(T) | Determines if a sequence contains a specified value. |
 | [LINQ_Count](./linq_count/)() | Returns the number of elements in the sequence (calculated via direct counting). |
 | [LINQ_Count](./linq_count/)(const Func\<T, bool\>\&) | Returns the number of elements in the sequence that satisfy the specified condition. |
+| [LINQ_Distinct](./linq_distinct/)() | Returns distinct elements from a sequence by using the default equality comparer to compare values. |
 | [LINQ_ElementAt](./linq_elementat/)(int) | Returns the element at a specified index in a sequence. |
 | [LINQ_ElementAtOrDefault](./linq_elementatordefault/)(int) | Returns the element at a specified index in a sequence. |
 | [LINQ_First](./linq_first/)() | Returns the first element of a sequence. |
@@ -56,8 +57,10 @@ template<typename T>class IEnumerable : public virtual System::Object
 | [LINQ_GroupBy](./linq_groupby/)(System::Func\<Source, Key\>, System::Func\<Source, Element\>) |  |
 | [LINQ_Last](./linq_last/)() | Returns the last element of a sequence. |
 | [LINQ_LastOrDefault](./linq_lastordefault/)() | Returns the last element of a sequence, or a default value if the sequence is empty. |
+| [LINQ_Max](./linq_max/)() | Returns maximal element of the sequence. |
 | [LINQ_Max](./linq_max/)(const Func\<T, ResultType\>\&) | Invokes a transform function on each element of a generic sequence and returns the maximum resulting value. |
 | [LINQ_Max](./linq_max/)(const Func\<Source, ResultType\>\&) |  |
+| [LINQ_Min](./linq_min/)() | Returns minimal element of the sequence. |
 | [LINQ_Min](./linq_min/)(const Func\<T, ResultType\>\&) | Invokes a transform function on each element of a generic sequence and returns the minimum resulting value. |
 | [LINQ_Min](./linq_min/)(const Func\<Source, ResultType\>\&) |  |
 | [LINQ_OfType](./linq_oftype/)() | Filters the elements of the sequence based on the specified type. |
@@ -73,11 +76,20 @@ template<typename T>class IEnumerable : public virtual System::Object
 | [LINQ_Select](./linq_select/)(const Func\<Source, int32_t, Result\>\&) |  |
 | [LINQ_SelectMany](./linq_selectmany/)(const Func\<T, SharedPtr\<IEnumerable\<ResultType\>\>\>\&) | Projects each element of a sequence and combines the resulting sequences into one sequence. |
 | [LINQ_SelectMany](./linq_selectmany/)(const Func\<Source, SharedPtr\<IEnumerable\<Result\>\>\>\&) |  |
+| [LINQ_SequenceEqual](./linq_sequenceequal/)(SharedPtr\<IEnumerable\<T\>\>, const SharedPtr\<IEqualityComparer\<T\>\>\&) | Compares two sequences. |
+| [LINQ_SequenceEqual](./linq_sequenceequal/)(SharedPtr\<IEnumerable\<T\>\>) | Compares two sequences. |
+| [LINQ_Single](./linq_single/)() | Returns the single elemet of the sequence and throws an exception if there are zero or more than one element. |
+| [LINQ_Single](./linq_single/)(const Func\<T, bool\>\&) | Returns the single elemet of the sequence that satisfies a condition and throws an exception if there are zero or more than one such elements. |
+| [LINQ_SingleOrDefault](./linq_singleordefault/)() | Returns the single elemet of the sequence or default value if there are zero or more than one element. |
+| [LINQ_SingleOrDefault](./linq_singleordefault/)(const Func\<T, bool\>\&) | Returns the single elemet of the sequence that satisfies a condition or default value if there are zero or more than one such elements. |
 | [LINQ_Skip](./linq_skip/)(int32_t) | Skip a specified number of contiguous elements from the start of a sequence and returns rest. |
+| [LINQ_Sum](./linq_sum/)() | Computes the sum of all elelments in the sequence. |
 | [LINQ_Take](./linq_take/)(int32_t) | Returns a specified number of contiguous elements from the start of a sequence. |
 | [LINQ_ToArray](./linq_toarray/)() | Creates an array from a sequence. |
 | [LINQ_ToList](./linq_tolist/)() | Creates a [List<T>](../list/) from a sequence. |
 | [LINQ_Where](./linq_where/)(std::function\<bool(T)>) | Filters a sequence based on the specified predicate. |
+| [LINQ_Zip](./linq_zip/)(SharedPtr\<IEnumerable\<TSecond\>\>, const Func\<T, TSecond, TResult\>\&) | Applies a specified function to the corresponding elements of two sequences, producing a sequence of the results. |
+| [LINQ_Zip](./linq_zip/)(SharedPtr\<IEnumerable\<TSecond\>\>, const Func\<TFirst, TSecond, TResult\>\&) |  |
 | virtual [virtualizeBeginConstIterator](./virtualizebeginconstiterator/)() const | Gets the implementation of begin const iterator for the current container. |
 | virtual [virtualizeBeginIterator](./virtualizebeginiterator/)() | Gets the implementation of begin iterator for the current container. |
 | virtual [virtualizeEndConstIterator](./virtualizeendconstiterator/)() const | Gets the implementation of end const iterator for the current container. |

@@ -19,7 +19,6 @@ System::SharedPtr<Page> Aspose::Pdf::Vector::GraphicElement::get_SourcePage() co
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Page](../../../aspose.pdf/page/)
 * Class [GraphicElement](../)
 * Namespace [Aspose::Pdf::Vector](../../)
 * Library [Aspose.PDF for C++](../../../)

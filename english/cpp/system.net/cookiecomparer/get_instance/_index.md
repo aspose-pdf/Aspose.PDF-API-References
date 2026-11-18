@@ -28,6 +28,5 @@ A 'singleton' implementation. Always returns the same instance of this class.
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [CookieComparer](../)
-* Class [CookieComparer](../)
 * Namespace [System::Net](../../)
 * Library [Aspose.PDF for C++](../../../)

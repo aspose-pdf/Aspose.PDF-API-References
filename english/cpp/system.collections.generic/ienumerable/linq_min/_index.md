@@ -2,11 +2,30 @@
 title: System::Collections::Generic::IEnumerable::LINQ_Min method
 linktitle: LINQ_Min
 second_title: Aspose.PDF for C++ API Reference
-description: 'How to use LINQ_Min method of System::Collections::Generic::IEnumerable class in C++.'
+description: 'System::Collections::Generic::IEnumerable::LINQ_Min method. Returns minimal element of the sequence in C++.'
 type: docs
-weight: 2200
+weight: 2300
 url: /cpp/system.collections.generic/ienumerable/linq_min/
 ---
+## IEnumerable::LINQ_Min() method
+
+
+Returns minimal element of the sequence.
+
+```cpp
+Source System::Collections::Generic::IEnumerable<Source>::LINQ_Min()
+```
+
+
+### ReturnValue
+
+The minimal value in the sequence.
+
+## See Also
+
+* Class [IEnumerable](../)
+* Namespace [System::Collections::Generic](../../)
+* Library [Aspose.PDF for C++](../../../)
 ## IEnumerable::LINQ_Min(const Func\<Source, ResultType\>\&) method
 
 

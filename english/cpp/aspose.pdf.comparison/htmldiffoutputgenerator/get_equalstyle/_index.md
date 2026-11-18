@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.comparison/htmldiffoutputgenerator/get_equalstyle/
 ## HtmlDiffOutputGenerator::get_EqualStyle method
 
 
-Gets and sets the CSS-style string for Equal operation. Example: **color: &#35;003300; background-color: &#35;ccff66;**
+Gets and sets the CSS-style string for Equal operation. Example: **color: &#35;003300; background-color: &#35;ccff66;**.
 
 ```cpp
 System::String Aspose::Pdf::Comparison::HtmlDiffOutputGenerator::get_EqualStyle() const

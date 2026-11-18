@@ -31,6 +31,5 @@ An instance of [Rectangle](../) class that represents the speified rectangle
 ## See Also
 
 * Class [Rectangle](../)
-* Class [Rectangle](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.PDF for C++](../../../)

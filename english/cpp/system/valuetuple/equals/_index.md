@@ -7,18 +7,17 @@ type: docs
 weight: 200
 url: /cpp/system/valuetuple/equals/
 ---
-## ValueTuple::Equals(const ValueTuple\&) method
+## ValueTuple::Equals(const ValueTuple\&) const method
 
 
 
 
 ```cpp
-bool System::ValueTuple<Args>::Equals(const ValueTuple &other)
+bool System::ValueTuple<Args>::Equals(const ValueTuple &other) const
 ```
 
 ## See Also
 
-* Class [ValueTuple](../)
 * Class [ValueTuple](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

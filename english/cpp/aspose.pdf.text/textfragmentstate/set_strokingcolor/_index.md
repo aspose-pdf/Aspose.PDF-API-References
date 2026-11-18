@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.text/textfragmentstate/set_strokingcolor/
 ## TextFragmentState::set_StrokingColor method
 
 
-Sets color stroking operations of [TextFragment](../../textfragment/) rendering (stroke text, rectangle border)
+Sets color stroking operations of [TextFragment](../../textfragment/) rendering (stroke text, rectangle border).
 
 ```cpp
 void Aspose::Pdf::Text::TextFragmentState::set_StrokingColor(System::SharedPtr<Color> value) override

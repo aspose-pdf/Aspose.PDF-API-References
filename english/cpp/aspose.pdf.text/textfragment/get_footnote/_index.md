@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.text/textfragment/get_footnote/
 ## TextFragment::get_FootNote method
 
 
-Gets the paragraph foot note.(for pdf generation only)
+Gets the paragraph foot note.(for pdf generation only).
 
 ```cpp
 System::SharedPtr<Note> Aspose::Pdf::Text::TextFragment::get_FootNote() const
@@ -19,7 +19,6 @@ System::SharedPtr<Note> Aspose::Pdf::Text::TextFragment::get_FootNote() const
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Note](../../../aspose.pdf/note/)
 * Class [TextFragment](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

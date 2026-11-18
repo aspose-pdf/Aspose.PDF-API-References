@@ -20,7 +20,6 @@ System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<PageMarku
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [List](../../../system.collections.generic/list/)
-* Class [PageMarkup](../../pagemarkup/)
 * Class [ParagraphAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

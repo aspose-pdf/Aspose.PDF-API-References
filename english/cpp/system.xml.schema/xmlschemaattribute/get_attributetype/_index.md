@@ -27,7 +27,6 @@ It is recommended to use get_AttributeSchemaType method instead.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [XmlSchemaAttribute](../)
 * Namespace [System::Xml::Schema](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -21,7 +21,7 @@ static void System::IO::Path::CheckPath(const String &path, const String &msg=s_
 | --- | --- | --- |
 | path | const String\& | The path to check |
 | msg | const String\& | The message to pass to the exception object's constructor |
-| allow_empty | bool | Specifies whether an empty or null string should be considered a correct path (true) or not (false); if this parameter is false and **path** is empty an ArgumentException is thrown; if this parameter is false and **path** is null an ArgumentNullException is thrown |
+| allow_empty | bool | Specifies whether an empty or null string should be considered a correct path (true) or not (false); if this parameter is false and **path** is empty an [ArgumentException](../../../system/argumentexception/) is thrown; if this parameter is false and **path** is null an ArgumentNullException is thrown |
 
 ## See Also
 

@@ -4,7 +4,7 @@ linktitle: GetCertContentType
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Security::Cryptography::X509Certificates::X509Certificate2::GetCertContentType method. Gets the type of certificate contained in the specified byte array in C++.'
 type: docs
-weight: 3100
+weight: 2500
 url: /cpp/system.security.cryptography.x509certificates/x509certificate2/getcertcontenttype/
 ---
 ## X509Certificate2::GetCertContentType(const ByteArrayPtr\&) method

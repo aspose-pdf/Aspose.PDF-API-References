@@ -19,7 +19,6 @@ System::SharedPtr<Resources> Aspose::Pdf::Forms::Form::get_DefaultResources()
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Resources](../../../aspose.pdf/resources/)
 * Class [Form](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -24,7 +24,6 @@ System::Array<T>::Enumerator::Enumerator(const SharedPtr<Array<T>> &arr)
 ## See Also
 
 * Typedef [SharedPtr](../../../sharedptr/)
-* Class [Array](../../)
 * Class [Enumerator](../)
 * Class [Array](../../)
 * Namespace [System](../../../)

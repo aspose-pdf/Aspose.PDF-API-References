@@ -19,7 +19,6 @@ virtual void System::Security::Cryptography::Xml::Transform::LoadInput(SharedPtr
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [Transform](../)
 * Namespace [System::Security::Cryptography::Xml](../../)
 * Library [Aspose.PDF for C++](../../../)

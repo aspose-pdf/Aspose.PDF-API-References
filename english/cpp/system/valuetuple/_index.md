@@ -4,7 +4,7 @@ linktitle: ValueTuple
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::ValueTuple class. Class that represents a ValueTuple data structure in C++.'
 type: docs
-weight: 7600
+weight: 8000
 url: /cpp/system/valuetuple/
 ---
 ## ValueTuple class
@@ -21,14 +21,18 @@ template<typename ...>class ValueTuple : public System::Details::BoxableObjectBa
 | Method | Description |
 | --- | --- |
 | [Equals](./equals/)(SharedPtr\<Object\>) | Determines if the current and the specified objects are identical. |
-| [Equals](./equals/)(const ValueTuple\&) |  |
+| [Equals](./equals/)(const ValueTuple\&) const |  |
 | [GetHashCode](./gethashcode/)() const |  |
 | [GetType](./gettype/)() const |  |
 | [Item](./item/)() | Gets the reference to value of the [ValueTuple](./) object's component. |
 | [Item](./item/)() const | Gets the value of the [ValueTuple](./) object's component. |
+| [operator<](./operator_/)(const ValueTuple\&) const |  |
+| [operator<=](./operator_=/)(const ValueTuple\&) const |  |
 | [operator=](./operator=/)(const ValueTuple\<OtherArgs...\>\&) |  |
 | [operator=](./operator=/)(const SharedPtr\<T\>\&) | Deconstructs object to this value tuple. |
-| [operator==](./operator==/)(const ValueTuple\&) const |  |
+| [operator==](./operator==/)(const ValueTuple\<OtherArgs...\>\&) const |  |
+| [operator>](./operator_/)(const ValueTuple\&) const |  |
+| [operator>=](./operator_=/)(const ValueTuple\&) const |  |
 | [ToString](./tostring/)() const |  |
 | [tuple](./tuple/)() |  |
 | [tuple](./tuple/)() const |  |

@@ -33,7 +33,6 @@ System::Collections::Generic::ICollection<T>::ICollection(const ICollection &)
 ## See Also
 
 * Class [ICollection](../)
-* Class [ICollection](../)
 * Namespace [System::Collections::Generic](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## ICollection::ICollection(ICollection\&&) constructor
@@ -47,7 +46,6 @@ System::Collections::Generic::ICollection<T>::ICollection(ICollection &&) noexce
 
 ## See Also
 
-* Class [ICollection](../)
 * Class [ICollection](../)
 * Namespace [System::Collections::Generic](../../)
 * Library [Aspose.PDF for C++](../../../)

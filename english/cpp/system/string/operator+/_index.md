@@ -28,7 +28,6 @@ String System::String::operator+(char_t x) const
 ## See Also
 
 * Class [String](../)
-* Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## String::operator+(const String\&) const method
@@ -51,7 +50,6 @@ Concatenated string.
 
 ## See Also
 
-* Class [String](../)
 * Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -80,6 +78,32 @@ Concatenated string.
 ## See Also
 
 * Class [String](../)
+* Namespace [System](../../)
+* Library [Aspose.PDF for C++](../../../)
+## String::operator+(const T\&) const method
+
+
+Adds value type object string representation to the end of the string.
+
+```cpp
+template<typename T,std::enable_if_t<!IsSmartPtr< T >::value &&!std::is_scalar< T >::value &&!std::is_array< T >::value > *> String System::String::operator+(const T &value) const
+```
+
+
+| Parameter | Description |
+| --- | --- |
+| T | Value type to call [ToString()](../tostring/) upon. |
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | const T\& | [Object](../../object/) to convert to string using [ToString()](../tostring/) call and to add to current string. |
+
+### ReturnValue
+
+[String](../) concatenation result.
+
+## See Also
+
 * Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -108,35 +132,6 @@ template<typename T,std::enable_if_t< IsSmartPtr< T >::value > *> String System:
 ## See Also
 
 * Class [String](../)
-* Class [String](../)
-* Namespace [System](../../)
-* Library [Aspose.PDF for C++](../../../)
-## String::operator+(const T\&) const method
-
-
-Adds value type object string representation to the end of the string.
-
-```cpp
-template<typename T,std::enable_if_t<!IsSmartPtr< T >::value &&!std::is_scalar< T >::value &&!std::is_array< T >::value > *> String System::String::operator+(const T &value) const
-```
-
-
-| Parameter | Description |
-| --- | --- |
-| T | Value type to call [ToString()](../tostring/) upon. |
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | const T\& | [Object](../../object/) to convert to string using [ToString()](../tostring/) call and to add to current string. |
-
-### ReturnValue
-
-[String](../) concatenation result.
-
-## See Also
-
-* Class [String](../)
-* Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## String::operator+(double) const method
@@ -159,7 +154,6 @@ String System::String::operator+(double d) const
 
 ## See Also
 
-* Class [String](../)
 * Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -184,7 +178,6 @@ String System::String::operator+(int i) const
 ## See Also
 
 * Class [String](../)
-* Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## String::operator+(int64_t) const method
@@ -207,7 +200,6 @@ String System::String::operator+(int64_t v) const
 
 ## See Also
 
-* Class [String](../)
 * Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -236,7 +228,6 @@ template<typename T,std::enable_if_t< std::is_same< T, bool >::value > *> String
 ## See Also
 
 * Class [String](../)
-* Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## String::operator+(uint32_t) const method
@@ -259,7 +250,6 @@ String System::String::operator+(uint32_t i) const
 
 ## See Also
 
-* Class [String](../)
 * Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

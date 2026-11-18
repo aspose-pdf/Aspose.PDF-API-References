@@ -25,7 +25,7 @@ class XImageCollection : public System::Collections::Generic::ICollection<System
 | [Add](./add/)(const System::SharedPtr\<System::IO::Stream\>\&, Aspose::Pdf::ImageFilterType) | Adds entity to the end of the collection, so entity can be accessed by the last index. |
 | [Add](./add/)(const System::SharedPtr\<Aspose::Pdf::BitmapInfo\>\&, Aspose::Pdf::ImageFilterType) | Adds entity to the end of the collection, so entity can be accessed by the last index. |
 | [Add](./add/)(const System::SharedPtr\<System::IO::Stream\>\&, int32_t) | Adds entity to the end of the collection, so entity can be accessed by the last index. |
-| [AddWithName](./addwithname/)(const System::SharedPtr\<Aspose::Pdf::XImage\>\&) | Adds new image to [Image](../image/) list. This method adds image as reference to the same PdfObject (which allows to decrease file size) |
+| [AddWithName](./addwithname/)(const System::SharedPtr\<Aspose::Pdf::XImage\>\&) | Adds new image to [Image](../image/) list. This method adds image as reference to the same PdfObject (which allows to decrease file size). |
 | [Clear](./clear/)() override | Clears all items from the collection. |
 | [Contains](./contains/)(const System::SharedPtr\<Aspose::Pdf::XImage\>\&) const override | Determines whether the collection contains a specific value. |
 | [CopyTo](./copyto/)(System::ArrayPtr\<System::SharedPtr\<Aspose::Pdf::XImage\>\>, int32_t) override | Copies array of images into collection. |
@@ -43,8 +43,7 @@ class XImageCollection : public System::Collections::Generic::ICollection<System
 | [GetImageName](./getimagename/)(const System::SharedPtr\<Aspose::Pdf::XImage\>\&) | Returns name in images list which is key of the given image. |
 | [idx_get](./idx_get/)(int32_t) | Gets image from collection by its index. |
 | [idx_get](./idx_get/)(const System::String\&) | Gets image from collection by its name. |
-| [Remove](./remove/)(const System::SharedPtr\<Aspose::Pdf::XImage\>\&) override | Removes item from collection, throws NotImplementedException
-. |
+| [Remove](./remove/)(const System::SharedPtr\<Aspose::Pdf::XImage\>\&) override | Removes item from collection, throws NotImplementedException. |
 | [Replace](./replace/)(int32_t, const System::SharedPtr\<System::IO::Stream\>\&) | Replace image in collection with another image. |
 | [Replace](./replace/)(int32_t, const System::SharedPtr\<System::IO::Stream\>\&, int32_t, bool) | Replace image in collection with another image. |
 | [Replace](./replace/)(int32_t, const System::SharedPtr\<System::IO::Stream\>\&, int32_t) | Replace image in collection with another image. |

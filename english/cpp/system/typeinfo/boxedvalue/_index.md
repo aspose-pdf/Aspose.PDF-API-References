@@ -4,7 +4,7 @@ linktitle: BoxedValue
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::TypeInfo::BoxedValue struct. TypeInfo structure for BoxedValue class in C++.'
 type: docs
-weight: 5700
+weight: 6100
 url: /cpp/system/typeinfo/boxedvalue/
 ---
 ## BoxedValue struct
@@ -21,6 +21,11 @@ template<class T>class BoxedValue : public System::TypeInfoPtr
 | Method | Description |
 | --- | --- |
 | [BoxedValue](./boxedvalue/)() | Fills appropriate type name. |
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [ptr](../../typeinfoptr/ptr/) | Unique pointer to the [TypeInfo](../) object. |
 ## See Also
 
 * Class [TypeInfo](../)

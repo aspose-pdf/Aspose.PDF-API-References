@@ -19,6 +19,5 @@ CompareInfo & System::Globalization::CompareInfo::operator=(const CompareInfo &)
 ## See Also
 
 * Class [CompareInfo](../)
-* Class [CompareInfo](../)
 * Namespace [System::Globalization](../../)
 * Library [Aspose.PDF for C++](../../../)

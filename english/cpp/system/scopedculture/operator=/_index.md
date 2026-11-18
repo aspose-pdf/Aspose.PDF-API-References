@@ -19,6 +19,5 @@ ScopedCulture & System::ScopedCulture::operator=(const ScopedCulture &)=delete
 ## See Also
 
 * Class [ScopedCulture](../)
-* Class [ScopedCulture](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

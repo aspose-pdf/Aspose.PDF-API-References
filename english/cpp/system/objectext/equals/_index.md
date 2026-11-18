@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::ObjectExt::Equals method. Substitution for C# Object.Equals calls working for any type in C++. Overload for string literal with string comparison in C++.'
 type: docs
-weight: 800
+weight: 900
 url: /cpp/system/objectext/equals/
 ---
 ## ObjectExt::Equals(const char_t(&), String) method
@@ -84,14 +84,44 @@ True if **obj** and **another** are both NaN or equal, false otherwise.
 * Class [ObjectExt](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
+## ObjectExt::Equals(const System::String\&, const System::String\&) method
+
+
+[Object.Equals](../../object/equals/) for [System.String](../../string/).
+
+```cpp
+static bool System::ObjectExt::Equals(const System::String &obj, const System::String &another)
+```
+
+## See Also
+
+* Class [String](../../string/)
+* Class [ObjectExt](../)
+* Namespace [System](../../)
+* Library [Aspose.PDF for C++](../../../)
 ## ObjectExt::Equals(const T\&, const T2\&) method
 
 
-
+Substitution for C# [Object.Equals](../../object/equals/) calls working for any type in C++. Overload for scalar types.
 
 ```cpp
-template<typename T,typename T2> static std::enable_if<IsExceptionWrapper<T>::value, bool>::type System::ObjectExt::Equals(const T &obj, const T2 &another)
+template<typename T,typename T2> static std::enable_if<!IsSmartPtr<T>::value &&std::is_scalar<T>::value, bool>::type System::ObjectExt::Equals(const T &obj, const T2 &another)
 ```
+
+
+| Parameter | Description |
+| --- | --- |
+| T | First object type. |
+| T2 | Second object type. |
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| obj | const T\& | First object. |
+| another | const T2\& | Second object. |
+
+### ReturnValue
+
+True if objects are considered equal, false otherwise.
 
 ## See Also
 
@@ -130,26 +160,11 @@ True if objects are considered equal, false otherwise.
 ## ObjectExt::Equals(const T\&, const T2\&) method
 
 
-Substitution for C# [Object.Equals](../../object/equals/) calls working for any type in C++. Overload for scalar types.
+
 
 ```cpp
-template<typename T,typename T2> static std::enable_if<!IsSmartPtr<T>::value &&std::is_scalar<T>::value, bool>::type System::ObjectExt::Equals(const T &obj, const T2 &another)
+template<typename T,typename T2> static std::enable_if<IsExceptionWrapper<T>::value, bool>::type System::ObjectExt::Equals(const T &obj, const T2 &another)
 ```
-
-
-| Parameter | Description |
-| --- | --- |
-| T | First object type. |
-| T2 | Second object type. |
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| obj | const T\& | First object. |
-| another | const T2\& | Second object. |
-
-### ReturnValue
-
-True if objects are considered equal, false otherwise.
 
 ## See Also
 

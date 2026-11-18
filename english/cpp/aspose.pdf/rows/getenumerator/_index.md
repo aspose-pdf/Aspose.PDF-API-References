@@ -25,7 +25,6 @@ Enumerator object.
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IEnumerator](../../../system.collections.generic/ienumerator/)
-* Class [Row](../../row/)
 * Class [Rows](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -4,7 +4,7 @@ linktitle: X509KeyStorageFlags
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Security::Cryptography::X509Certificates::X509KeyStorageFlags enum. Defines how to store key in C++.'
 type: docs
-weight: 2100
+weight: 2400
 url: /cpp/system.security.cryptography.x509certificates/x509keystorageflags/
 ---
 ## X509KeyStorageFlags enum

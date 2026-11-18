@@ -32,7 +32,6 @@ Converts a value to the given [System::TypeInfo](../../../system/typeinfo/).
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [TypeInfo](../../../system/typeinfo/)
 * Class [IFormatterConverter](../)
 * Namespace [System::Runtime::Serialization](../../)
@@ -59,7 +58,6 @@ The converted value.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Enum [TypeCode](../../../system/typecode/)
 * Class [IFormatterConverter](../)
 * Namespace [System::Runtime::Serialization](../../)

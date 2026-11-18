@@ -4,7 +4,7 @@ linktitle: set_PrivateKey
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Security::Cryptography::X509Certificates::X509Certificate2::set_PrivateKey method. Sets or clears private key associated with certificate in C++.'
 type: docs
-weight: 2800
+weight: 2200
 url: /cpp/system.security.cryptography.x509certificates/x509certificate2/set_privatekey/
 ---
 ## X509Certificate2::set_PrivateKey method

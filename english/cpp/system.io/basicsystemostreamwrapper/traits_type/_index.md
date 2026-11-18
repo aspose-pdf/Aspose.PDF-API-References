@@ -13,7 +13,7 @@ url: /cpp/system.io/basicsystemostreamwrapper/traits_type/
 
 
 ```cpp
-using System::IO::BasicSystemOStreamWrapper< Elem, Traits >::traits_type =  Traits
+using System::IO::BasicSystemOStreamWrapper< Elem, Traits >::traits_type = Traits
 ```
 
 ## See Also

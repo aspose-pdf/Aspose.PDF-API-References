@@ -117,7 +117,7 @@ The **[Aspose.Pdf.Annotations](./)** namespace provides classes for working with
 | [SoundData](./sounddata/) | Represents a sound data defining the sound to be played when the annotation is activated. |
 | [SoundEncodingConverter](./soundencodingconverter/) |  |
 | [SoundIconConverter](./soundiconconverter/) |  |
-| [SoundSampleData](./soundsampledata/) | Represents additional entries specific to a sound object (Section 9.2 PDF1-7) |
+| [SoundSampleData](./soundsampledata/) | Represents additional entries specific to a sound object (Section 9.2 PDF1-7). |
 | [SquareAnnotation](./squareannotation/) | Class representing square annotation. |
 | [SquigglyAnnotation](./squigglyannotation/) | Represents the squiggly annotation that appears as a jagged underline in the text of a document. |
 | [StampAnnotation](./stampannotation/) | Represents rubber stamp annotation. This type of annotation displays text or graphics intended to look as if they were stamped on the page with a rubber stamp. |

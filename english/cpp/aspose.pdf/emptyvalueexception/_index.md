@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/emptyvalueexception/
 
 
 ```cpp
-using Aspose::Pdf::EmptyValueException =  System::ExceptionWrapper<Details_EmptyValueException>
+using Aspose::Pdf::EmptyValueException = System::ExceptionWrapper<Details_EmptyValueException>
 ```
 
 ## See Also

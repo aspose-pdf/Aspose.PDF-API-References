@@ -19,7 +19,6 @@ System::SharedPtr<DestinationCollection> Aspose::Pdf::Document::get_Destinations
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [DestinationCollection](../../destinationcollection/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

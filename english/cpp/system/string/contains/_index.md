@@ -51,6 +51,5 @@ true if substring is present, false otherwise.
 ## See Also
 
 * Class [String](../)
-* Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

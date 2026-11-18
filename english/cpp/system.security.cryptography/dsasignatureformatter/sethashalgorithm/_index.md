@@ -2,20 +2,24 @@
 title: System::Security::Cryptography::DSASignatureFormatter::SetHashAlgorithm method
 linktitle: SetHashAlgorithm
 second_title: Aspose.PDF for C++ API Reference
-description: 'System::Security::Cryptography::DSASignatureFormatter::SetHashAlgorithm method. NOT IMPLEMENTED in C++.'
+description: 'System::Security::Cryptography::DSASignatureFormatter::SetHashAlgorithm method. Sets hash algorithm to use in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/system.security.cryptography/dsasignatureformatter/sethashalgorithm/
 ---
 ## DSASignatureFormatter::SetHashAlgorithm method
 
 
-NOT IMPLEMENTED.
+Sets hash algorithm to use.
 
 ```cpp
 void System::Security::Cryptography::DSASignatureFormatter::SetHashAlgorithm(String strName) override
 ```
 
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| strName | String | Hash algorithm name. Should be "SHA1", "SHA256", "SHA384" or "SHA512". |
 
 ## See Also
 

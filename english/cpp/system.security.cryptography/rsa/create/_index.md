@@ -20,7 +20,6 @@ static SharedPtr<RSA> System::Security::Cryptography::RSA::Create()
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [RSA](../)
-* Class [RSA](../)
 * Namespace [System::Security::Cryptography](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## RSA::Create(const RSAParameters\&) method
@@ -41,7 +40,6 @@ static SharedPtr<RSA> System::Security::Cryptography::RSA::Create(const RSAParam
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [RSA](../)
-* Class [RSA](../)
 * Namespace [System::Security::Cryptography](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## RSA::Create(const String\&) method
@@ -61,7 +59,6 @@ static SharedPtr<RSA> System::Security::Cryptography::RSA::Create(const String &
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [RSA](../)
 * Class [String](../../../system/string/)
 * Class [RSA](../)
 * Namespace [System::Security::Cryptography](../../)
@@ -83,7 +80,6 @@ static SharedPtr<RSA> System::Security::Cryptography::RSA::Create(int32_t key_si
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [RSA](../)
 * Class [RSA](../)
 * Namespace [System::Security::Cryptography](../../)
 * Library [Aspose.PDF for C++](../../../)

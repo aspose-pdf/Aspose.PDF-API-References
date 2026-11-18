@@ -29,7 +29,6 @@ System::SharedPtr<System::IO::MemoryStream> Aspose::Pdf::Document::ConvertPageTo
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [MemoryStream](../../../system.io/memorystream/)
-* Class [Page](../../page/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

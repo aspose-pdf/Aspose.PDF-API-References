@@ -4,7 +4,7 @@ linktitle: IsNull
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::IsNull method. Implements ''is null'' pattern in C++.'
 type: docs
-weight: 23800
+weight: 24700
 url: /cpp/system/isnull/
 ---
 ## System::IsNull method

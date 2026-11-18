@@ -42,7 +42,6 @@ True if the time interval represented by the current object is shorter than the 
 ## See Also
 
 * Class [TimeSpan](../)
-* Class [TimeSpan](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ---
@@ -88,7 +87,6 @@ True if the time interval represented by the current object is longer than the t
 
 ## See Also
 
-* Class [TimeSpan](../)
 * Class [TimeSpan](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

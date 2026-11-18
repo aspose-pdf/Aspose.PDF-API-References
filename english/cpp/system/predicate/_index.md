@@ -4,7 +4,7 @@ linktitle: Predicate
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Predicate typedef. Represents a pointer to a predicate - an invokable entity that accepts a single argument and returns a bool value in C++.'
 type: docs
-weight: 13100
+weight: 13800
 url: /cpp/system/predicate/
 ---
 ## Predicate typedef
@@ -13,7 +13,7 @@ url: /cpp/system/predicate/
 Represents a pointer to a predicate - an invokable entity that accepts a single argument and returns a bool value.
 
 ```cpp
-using System::Predicate =  MulticastDelegate<bool(T)>
+using System::Predicate = MulticastDelegate<bool(T)>
 ```
 
 ## Remarks

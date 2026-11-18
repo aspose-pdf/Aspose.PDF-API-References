@@ -13,7 +13,7 @@ url: /cpp/system/multicastdelegate_returntype(argumenttypes...)_/function/
 The type of the function related to delegate signature.
 
 ```cpp
-using System::MulticastDelegate< ReturnType(ArgumentTypes...)>::Function =  ReturnType(ArgumentTypes...)
+using System::MulticastDelegate< ReturnType(ArgumentTypes...)>::Function = ReturnType(ArgumentTypes...)
 ```
 
 ## See Also

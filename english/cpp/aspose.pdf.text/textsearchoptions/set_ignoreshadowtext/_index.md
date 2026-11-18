@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.text/textsearchoptions/set_ignoreshadowtext/
 ## TextSearchOptions::set_IgnoreShadowText method
 
 
-Sets indication that text fragments representing shadow of normal text will be ignored during search. true - means that shadow text will not be found (try this if text search returns duplicated fragments on the close positions) false - means that shadow text will be found as well as normal text (default value)
+Sets indication that text fragments representing shadow of normal text will be ignored during search. true - means that shadow text will not be found (try this if text search returns duplicated fragments on the close positions) false - means that shadow text will be found as well as normal text (default value).
 
 ```cpp
 void Aspose::Pdf::Text::TextSearchOptions::set_IgnoreShadowText(bool value)

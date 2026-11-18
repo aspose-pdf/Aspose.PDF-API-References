@@ -42,6 +42,5 @@ True if the current object and the specified object represent the same time inte
 ## See Also
 
 * Class [TimeSpan](../)
-* Class [TimeSpan](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

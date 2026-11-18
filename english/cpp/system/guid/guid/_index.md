@@ -58,7 +58,6 @@ System::Guid::Guid(const Guid &guid)
 ## See Also
 
 * Class [Guid](../)
-* Class [Guid](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## Guid::Guid(const String\&) constructor

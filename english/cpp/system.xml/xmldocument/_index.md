@@ -80,6 +80,16 @@ class XmlDocument : public System::Xml::XmlNode
 | [WriteTo](./writeto/)(const SharedPtr\<XmlWriter\>\&) override | Saves the [XmlDocument](./) node to the specified [XmlWriter](../xmlwriter/). |
 | [XmlDocument](./xmldocument/)() | Initializes a new instance of the [XmlDocument](./) class. |
 | [XmlDocument](./xmldocument/)(const SharedPtr\<XmlNameTable\>\&) | Initializes a new instance of the [XmlDocument](./) class with the specified [XmlNameTable](../xmlnametable/). |
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [NodeChanged](./nodechanged/) | Occurs when the [XmlNode::get_Value](../xmlnode/get_value/) of a node belonging to this document has been changed. |
+| [NodeChanging](./nodechanging/) | Occurs when the [XmlNode::get_Value](../xmlnode/get_value/) of a node belonging to this document is about to be changed. |
+| [NodeInserted](./nodeinserted/) | Occurs when a node belonging to this document has been inserted into another node. |
+| [NodeInserting](./nodeinserting/) | Occurs when a node belonging to this document is about to be inserted into another node. |
+| [NodeRemoved](./noderemoved/) | Occurs when a node belonging to this document has been removed from its parent. |
+| [NodeRemoving](./noderemoving/) | Occurs when a node belonging to this document is about to be removed from the document. |
 ## Typedefs
 
 | Typedef | Description |

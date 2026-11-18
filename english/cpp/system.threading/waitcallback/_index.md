@@ -13,7 +13,7 @@ url: /cpp/system.threading/waitcallback/
 Callback item to be executed once there is a spot.
 
 ```cpp
-using System::Threading::WaitCallback =  System::MulticastDelegate<void(System::SharedPtr<System::Object>)>
+using System::Threading::WaitCallback = System::MulticastDelegate<void(System::SharedPtr<System::Object>)>
 ```
 
 ## See Also

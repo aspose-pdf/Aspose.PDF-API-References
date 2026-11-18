@@ -26,7 +26,6 @@ System::SharedPtr<NetworkCredential> System::Net::NetworkCredential::GetCredenti
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [NetworkCredential](../)
 * Class [String](../../../system/string/)
 * Class [NetworkCredential](../)
 * Namespace [System::Net](../../)
@@ -49,7 +48,6 @@ System::SharedPtr<NetworkCredential> System::Net::NetworkCredential::GetCredenti
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [NetworkCredential](../)
 * Class [Uri](../../../system/uri/)
 * Class [String](../../../system/string/)
 * Class [NetworkCredential](../)

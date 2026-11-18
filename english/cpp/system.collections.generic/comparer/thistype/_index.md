@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/comparer/thistype/
 Curent type.
 
 ```cpp
-using System::Collections::Generic::Comparer< T >::ThisType =  Comparer<T>
+using System::Collections::Generic::Comparer< T >::ThisType = Comparer<T>
 ```
 
 ## See Also

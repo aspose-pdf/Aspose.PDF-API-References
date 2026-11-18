@@ -11,8 +11,7 @@ url: /cpp/aspose.pdf.forms/optioncollection/add/
 ## OptionCollection::Add method
 
 
-Adds item in collection, throws NotImplementedException
-.
+Adds item in collection, throws NotImplementedException.
 
 ```cpp
 void Aspose::Pdf::Forms::OptionCollection::Add(const System::SharedPtr<Option> &item) override

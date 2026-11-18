@@ -28,7 +28,6 @@ An instance of the [RangeConditionHeaderValue](../) class.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [RangeConditionHeaderValue](../)
 * Class [String](../../../system/string/)
 * Class [RangeConditionHeaderValue](../)
 * Namespace [System::Net::Http::Headers](../../)

@@ -28,6 +28,5 @@ Always returns false.
 ## See Also
 
 * Class [KeyValuePair](../)
-* Class [KeyValuePair](../)
 * Namespace [System::Collections::Generic](../../)
 * Library [Aspose.PDF for C++](../../../)

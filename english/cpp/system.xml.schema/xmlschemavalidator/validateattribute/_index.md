@@ -31,7 +31,6 @@ The validated attribute's value.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [String](../../../system/string/)
 * Class [XmlSchemaInfo](../../xmlschemainfo/)
 * Class [XmlSchemaValidator](../)
@@ -61,7 +60,6 @@ The validated attribute's value.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [String](../../../system/string/)
 * Typedef [XmlValueGetter](../../xmlvaluegetter/)
 * Class [XmlSchemaInfo](../../xmlschemainfo/)

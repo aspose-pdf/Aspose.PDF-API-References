@@ -11,8 +11,7 @@ url: /cpp/aspose.pdf.forms/optioncollection/contains/
 ## OptionCollection::Contains method
 
 
-Checks if item exists in collection, throws NotImplementedException
-.
+Checks if item exists in collection, throws NotImplementedException.
 
 ```cpp
 bool Aspose::Pdf::Forms::OptionCollection::Contains(const System::SharedPtr<Option> &item) const override

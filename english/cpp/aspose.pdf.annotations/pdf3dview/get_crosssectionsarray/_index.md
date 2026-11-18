@@ -23,7 +23,6 @@ The cross sections array of view.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [PDF3DCrossSectionArray](../../pdf3dcrosssectionarray/)
 * Class [PDF3DView](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

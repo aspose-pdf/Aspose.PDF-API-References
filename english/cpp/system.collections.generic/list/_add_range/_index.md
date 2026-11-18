@@ -13,7 +13,7 @@ url: /cpp/system.collections.generic/list/_add_range/
 C++ specific.
 
 ```cpp
-void System::Collections::Generic::List<T>::_add_range(std::initializer_list<T> list)
+void System::Collections::Generic::List<T>::_add_range(std::initializer_list<T> list) override
 ```
 
 

@@ -37,7 +37,7 @@ class TextFragmentState : public Aspose::Pdf::Text::TextState
 | [get_RenderingMode](./get_renderingmode/)() override | Gets rendering mode of the text. |
 | [get_Rotation](./get_rotation/)() | Gets rotation angle in degrees. |
 | [get_StrikeOut](./get_strikeout/)() override | Gets strikeout for the text, represented by the [TextFragment](../textfragment/) object. |
-| [get_StrokingColor](./get_strokingcolor/)() override | Gets color stroking operations of [TextFragment](../textfragment/) rendering (stroke text, rectangle border) |
+| [get_StrokingColor](./get_strokingcolor/)() override | Gets color stroking operations of [TextFragment](../textfragment/) rendering (stroke text, rectangle border). |
 | [get_Subscript](./get_subscript/)() override | Gets subscript of the text, represented by the [TextFragment](../textfragment/) object. |
 | [get_Superscript](./get_superscript/)() override | Gets superscript of the text, represented by the [TextFragment](../textfragment/) object. |
 | [get_TabStops](./get_tabstops/)() const | Gets tabstops for the text. |
@@ -62,12 +62,17 @@ class TextFragmentState : public Aspose::Pdf::Text::TextState
 | [set_RenderingMode](./set_renderingmode/)(TextRenderingMode) override | Sets rendering mode of the text. |
 | [set_Rotation](./set_rotation/)(double) | Sets rotation angle in degrees. |
 | [set_StrikeOut](./set_strikeout/)(bool) override | Sets strikeout for the text, represented by the [TextFragment](../textfragment/) object. |
-| [set_StrokingColor](./set_strokingcolor/)(System::SharedPtr\<Color\>) override | Sets color stroking operations of [TextFragment](../textfragment/) rendering (stroke text, rectangle border) |
+| [set_StrokingColor](./set_strokingcolor/)(System::SharedPtr\<Color\>) override | Sets color stroking operations of [TextFragment](../textfragment/) rendering (stroke text, rectangle border). |
 | [set_Subscript](./set_subscript/)(bool) override | Sets subscript of the text, represented by the [TextFragment](../textfragment/) object. |
 | [set_Superscript](./set_superscript/)(bool) override | Sets superscript of the text, represented by the [TextFragment](../textfragment/) object. |
 | [set_Underline](./set_underline/)(bool) override | Sets underline for the text, represented by the [TextFragment](../textfragment/) object. |
 | [set_WordSpacing](./set_wordspacing/)(float) override | Sets word spacing of the text. |
 | [TextFragmentState](./textfragmentstate/)(const System::SharedPtr\<TextFragment\>\&) | Initializes new instance of the [TextFragmentState](./) object with specified [TextFragment](../textfragment/) object. This [TextFragmentState](./) initialization is not supported. [TextFragmentState](./) is only available with [TextFragment::TextState](../) property. |
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [TabstopDefaultValue](../textstate/tabstopdefaultvalue/) | Default value of tabulation in widths of space character of default font. |
 ## Remarks
 
 

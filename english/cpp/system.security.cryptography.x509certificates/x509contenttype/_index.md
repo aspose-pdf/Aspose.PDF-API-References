@@ -4,7 +4,7 @@ linktitle: X509ContentType
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Security::Cryptography::X509Certificates::X509ContentType enum. Format of X.509 certificate in C++.'
 type: docs
-weight: 1900
+weight: 2200
 url: /cpp/system.security.cryptography.x509certificates/x509contenttype/
 ---
 ## X509ContentType enum

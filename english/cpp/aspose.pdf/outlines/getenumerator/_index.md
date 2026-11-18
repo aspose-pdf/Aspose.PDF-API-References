@@ -25,7 +25,6 @@ An [System.Collections.IEnumerator](../../../system.collections/ienumerator/) ob
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IEnumerator](../../../system.collections.generic/ienumerator/)
-* Class [OutlineItemCollection](../../outlineitemcollection/)
 * Class [Outlines](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

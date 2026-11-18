@@ -4,7 +4,7 @@ linktitle: IList
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::IList class. Interface of indexed container of elements. Objects of this class should only be allocated using System::MakeObject() function. Never create instance of this type on stack or using operator new, as it will result in runtime errors and/or assertion faults. Always wrap this class into System::SmartPtr pointer and use this pointer to pass it to functions as argument in C++.'
 type: docs
-weight: 2600
+weight: 2700
 url: /cpp/system.collections.generic/ilist/
 ---
 ## IList class
@@ -24,6 +24,7 @@ template<typename T>class IList : public System::Collections::Generic::ICollecti
 
 | Method | Description |
 | --- | --- |
+| virtual [_add_range](./_add_range/)(std::initializer_list\<T\>) | Adds a range of elements to the collection. |
 | [get_IsFixedSize](./get_isfixedsize/)() | Checks whether the collection is of fixed size. |
 | virtual [idx_get](./idx_get/)(int) const | Gets element at specified index. |
 | virtual [idx_set](./idx_set/)(int, T) | Sets element at specified index. |

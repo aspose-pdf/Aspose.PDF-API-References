@@ -4,7 +4,7 @@ linktitle: SetValue
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::FileSpecification::SetValue method. Sets application-specific parameter in C++.'
 type: docs
-weight: 2700
+weight: 2800
 url: /cpp/aspose.pdf/filespecification/setvalue/
 ---
 ## FileSpecification::SetValue method

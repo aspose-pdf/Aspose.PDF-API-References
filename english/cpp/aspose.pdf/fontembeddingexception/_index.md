@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/fontembeddingexception/
 
 
 ```cpp
-using Aspose::Pdf::FontEmbeddingException =  System::ExceptionWrapper<Details_FontEmbeddingException>
+using Aspose::Pdf::FontEmbeddingException = System::ExceptionWrapper<Details_FontEmbeddingException>
 ```
 
 ## See Also

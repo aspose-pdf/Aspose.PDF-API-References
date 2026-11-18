@@ -23,7 +23,7 @@ The **[Aspose.Pdf.Facades](./)** namespace provides classes originaly came from 
 | [FontColor](./fontcolor/) | Class representing color of the text. |
 | [Form](./form/) | Class representing Acro form object. |
 | [FormattedText](./formattedtext/) | Class which represents formatted text. Contains information about text and its color, size, style. |
-| [FormEditor](./formeditor/) | Class for editing forms (ading/deleting field etc) |
+| [FormEditor](./formeditor/) | Class for editing forms (ading/deleting field etc). |
 | [FormFieldFacade](./formfieldfacade/) | Class for representing field properties. |
 | [IFacade](./ifacade/) | General facade interface that defines common facades methods. |
 | [ISaveableFacade](./isaveablefacade/) | [Facade](./facade/) interface that defines methods common for all saveable facades. |
@@ -66,7 +66,7 @@ The **[Aspose.Pdf.Facades](./)** namespace provides classes originaly came from 
 | [FontStyle](./fontstyle/) | Enumerates 14 types of font. |
 | [ImageMergeMode](./imagemergemode/) | Represents modes for merging images. |
 | [KeySize](./keysize/) | Defines different key sizes which can be used to encrypt pdf documents. |
-| [PositioningMode](./positioningmode/) | Defines positioning mode. Possible values include Legacy (backward compatibility) and Current (updated text position calculation method) |
+| [PositioningMode](./positioningmode/) | Defines positioning mode. Possible values include Legacy (backward compatibility) and Current (updated text position calculation method). |
 | [PropertyFlag](./propertyflag/) | Enumeration of possible field flags. |
 | [StampType](./stamptype/) | Describes stamp types. |
 | [SubmitFormFlag](./submitformflag/) | Enumeration of possible submit form flags. |

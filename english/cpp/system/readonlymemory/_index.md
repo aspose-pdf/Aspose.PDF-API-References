@@ -4,7 +4,7 @@ linktitle: ReadOnlyMemory
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::ReadOnlyMemory class. Represents a read-only memory segment backed by an array in C++.'
 type: docs
-weight: 5700
+weight: 6000
 url: /cpp/system/readonlymemory/
 ---
 ## ReadOnlyMemory class

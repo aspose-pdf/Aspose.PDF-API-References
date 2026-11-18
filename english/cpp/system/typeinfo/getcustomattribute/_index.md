@@ -4,7 +4,7 @@ linktitle: GetCustomAttribute
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::TypeInfo::GetCustomAttribute method. Searches for the custom attribute applied having the specified type and applied to the type reprsented by the current object in C++.'
 type: docs
-weight: 3000
+weight: 3200
 url: /cpp/system/typeinfo/getcustomattribute/
 ---
 ## TypeInfo::GetCustomAttribute method
@@ -27,8 +27,6 @@ A pointer to an object representing the found attribute, or null-pointer if no a
 
 ## See Also
 
-* Class [SmartPtr](../../smartptr/)
-* Class [TypeInfo](../)
 * Class [TypeInfo](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

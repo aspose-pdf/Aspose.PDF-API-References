@@ -18,7 +18,7 @@ The **[Aspose.Pdf.Operators](./)** is a namespace for [Operator](../aspose.pdf/o
 | [BasicSetColorOperator](./basicsetcoloroperator/) | Base class for set color operators. |
 | [BDC](./bdc/) | class representing [BDC](./bdc/) operator (Begin marked-content sequence) |
 | [BI](./bi/) | Class representing [BI](./bi/) operator (Begin inline image obect). |
-| [BlockTextOperator](./blocktextoperator/) | Abstract base class for text block operators i.e. Begin and End text operators (BT/ET) |
+| [BlockTextOperator](./blocktextoperator/) | Abstract base class for text block operators i.e. Begin and End text operators (BT/ET). |
 | [BMC](./bmc/) | Class representing [BMC](./bmc/) operator (Begin marked-content sequence). |
 | [BT](./bt/) | Class representing [BT](./bt/) operator (Begin of text block). |
 | [BX](./bx/) | Class representing [BX](./bx/) operator (begin compatibility section). |
@@ -42,8 +42,8 @@ The **[Aspose.Pdf.Operators](./)** is a namespace for [Operator](../aspose.pdf/o
 | [ET](./et/) | Class representing operator [ET](./et/) (End of text block). |
 | [EX](./ex/) | Class representing [EX](./ex/) operator (End of compatibility section). |
 | [Fill](./fill/) | Class representing f operator (fill path with nonzero winding number rule). |
-| [FillStroke](./fillstroke/) | Class representing B operator (fill and stroke path using nonzero winding rule) |
-| [GlyphPosition](./glyphposition/) | Class describes text and position to use with operator TJ (set glyph with position) |
+| [FillStroke](./fillstroke/) | Class representing B operator (fill and stroke path using nonzero winding rule). |
+| [GlyphPosition](./glyphposition/) | Class describes text and position to use with operator TJ (set glyph with position). |
 | [GRestore](./grestore/) | Class representing Q operator (restore graphics state). |
 | [GS](./gs/) | Class representing gs operator (set parameters from graphic state parameter dictionary). |
 | [GSave](./gsave/) | Class representing q operator (save graphics state). |
@@ -68,7 +68,7 @@ The **[Aspose.Pdf.Operators](./)** is a namespace for [Operator](../aspose.pdf/o
 | [SetColor](./setcolor/) | Represents class for sc operator (set color for non-stroking operations). |
 | [SetColorOperator](./setcoloroperator/) | Class representing set color operation. |
 | [SetColorRenderingIntent](./setcolorrenderingintent/) | Class representing ri operator (set color rendering intent). |
-| [SetColorSpace](./setcolorspace/) | Class representing cs operator (set colorspace for non-stroking operations) |
+| [SetColorSpace](./setcolorspace/) | Class representing cs operator (set colorspace for non-stroking operations). |
 | [SetColorSpaceStroke](./setcolorspacestroke/) | Class representing CS operator (set color for stroking operations). |
 | [SetColorStroke](./setcolorstroke/) | Class representing SC operator set color for stroking color operators. |
 | [SetDash](./setdash/) | Class representing d operator (set line dash pattern). |

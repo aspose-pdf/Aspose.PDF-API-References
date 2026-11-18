@@ -28,6 +28,5 @@ false if sizes and all bits match, true otherwise.
 ## See Also
 
 * Class [BitArray](../)
-* Class [BitArray](../)
 * Namespace [System::Collections](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -13,7 +13,7 @@ url: /cpp/system.xml.schema/xmlatomicvalue/ptr/
 An alias for shared pointer to an instance of this class.
 
 ```cpp
-using System::Xml::Schema::XmlAtomicValue::Ptr =  SharedPtr<XmlAtomicValue>
+using System::Xml::Schema::XmlAtomicValue::Ptr = SharedPtr<XmlAtomicValue>
 ```
 
 ## See Also

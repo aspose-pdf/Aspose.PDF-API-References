@@ -2,7 +2,8 @@
 title: Aspose::Pdf::OutlineCollection::Remove method
 linktitle: Remove
 second_title: Aspose.PDF for C++ API Reference
-description: 'Aspose::Pdf::OutlineCollection::Remove method. Always throws NotImplementedException in C++.'
+description: 'Aspose::Pdf::OutlineCollection::Remove method. Always throws NotImplementedException
+ in C++.'
 type: docs
 weight: 1500
 url: /cpp/aspose.pdf/outlinecollection/remove/
@@ -10,7 +11,7 @@ url: /cpp/aspose.pdf/outlinecollection/remove/
 ## OutlineCollection::Remove(const System::SharedPtr\<OutlineItemCollection\>\&) method
 
 
-Always throws NotImplementedException
+Always throws NotImplementedException.
 
 ```cpp
 bool Aspose::Pdf::OutlineCollection::Remove(const System::SharedPtr<OutlineItemCollection> &item) override
@@ -28,7 +29,6 @@ NotImplementedException
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [OutlineItemCollection](../../outlineitemcollection/)
 * Class [OutlineCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

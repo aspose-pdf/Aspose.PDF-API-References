@@ -28,7 +28,6 @@ An instance of the [NameValueWithParametersHeaderValue](../) class.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [NameValueWithParametersHeaderValue](../)
 * Class [String](../../../system/string/)
 * Class [NameValueWithParametersHeaderValue](../)
 * Namespace [System::Net::Http::Headers](../../)

@@ -18,7 +18,6 @@ System::Drawing::Bitmap::MEMBER_FUNCTION_MAKE_OBJECT(Bitmap, CODEPORTING_ARGS(co
 
 ## See Also
 
-* Class [Bitmap](../)
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Image](../../image/)
 * Class [Bitmap](../)

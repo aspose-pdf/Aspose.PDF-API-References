@@ -10,7 +10,7 @@ url: /cpp/system.threading.tasks/task/get_completedtask/
 ## Task::get_CompletedTask method
 
 
-Gets a completed task (singleton)
+Gets a completed task (singleton).
 
 ```cpp
 static const TaskPtr & System::Threading::Tasks::Task::get_CompletedTask()

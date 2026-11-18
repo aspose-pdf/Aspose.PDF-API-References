@@ -30,7 +30,7 @@ class Matrix : public System::Object
 | [get_E](./get_e/)() | E member of the transformation matrix. |
 | [get_Elements](./get_elements/)() | Elements of the matrix. |
 | [get_F](./get_f/)() | F member of the transformation matrix. |
-| static [GetAngle](./getangle/)(Aspose::Pdf::Rotation) | Transaltes rotation into angle (degrees) |
+| static [GetAngle](./getangle/)(Aspose::Pdf::Rotation) | Transaltes rotation into angle (degrees). |
 | [GetFlipMatrix](./getflipmatrix/)() | Gets the flipping matrix. |
 | [GetHashCode](./gethashcode/)() const override | Hash-code for object. |
 | [Matrix](./matrix/)() | Constructor creates stanrard 1 to 1 matrix: [ A B C D E F ] = [ 1, 0, 0, 1, 0, 0]. |

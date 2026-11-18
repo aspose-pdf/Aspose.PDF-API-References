@@ -30,7 +30,6 @@ void System::Drawing::Graphics::DrawString(const String &str, const SharedPtr<Fo
 
 * Class [String](../../../system/string/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Font](../../font/)
 * Class [Brush](../../brush/)
 * Class [StringFormat](../../stringformat/)
 * Class [Graphics](../)
@@ -58,7 +57,6 @@ void System::Drawing::Graphics::DrawString(const String &str, const SharedPtr<Fo
 
 * Class [String](../../../system/string/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Font](../../font/)
 * Class [Brush](../../brush/)
 * Class [PointF](../../pointf/)
 * Class [StringFormat](../../stringformat/)
@@ -87,7 +85,6 @@ void System::Drawing::Graphics::DrawString(const String &str, const SharedPtr<Fo
 
 * Class [String](../../../system/string/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Font](../../font/)
 * Class [Brush](../../brush/)
 * Class [RectangleF](../../rectanglef/)
 * Class [StringFormat](../../stringformat/)

@@ -13,7 +13,7 @@ url: /cpp/system.net.sockets/socketexception/
 
 
 ```cpp
-using System::Net::Sockets::SocketException =  System::ExceptionWrapper<Details_SocketException>
+using System::Net::Sockets::SocketException = System::ExceptionWrapper<Details_SocketException>
 ```
 
 ## See Also

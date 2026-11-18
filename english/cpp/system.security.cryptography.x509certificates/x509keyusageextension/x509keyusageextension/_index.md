@@ -43,7 +43,6 @@ System::Security::Cryptography::X509Certificates::X509KeyUsageExtension::X509Key
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [AsnEncodedData](../../../system.security.cryptography/asnencodeddata/)
 * Class [X509KeyUsageExtension](../)
 * Namespace [System::Security::Cryptography::X509Certificates](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -28,7 +28,5 @@ The [Rectangle](../) object constructed from **rect**
 ## See Also
 
 * Class [Rectangle](../)
-* Class [RectangleF](../../rectanglef/)
-* Class [Rectangle](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.PDF for C++](../../../)

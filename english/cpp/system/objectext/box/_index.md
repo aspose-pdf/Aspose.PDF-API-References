@@ -36,20 +36,20 @@ Boxed value or null, if source string is null.
 ## ObjectExt::Box(const T\&) method
 
 
-Boxes value types for converting to [Object](../../object/). Implementation for enum types.
+Boxes [Nullable](../../nullable/) types for converting to [Object](../../object/).
 
 ```cpp
-template<typename T> static std::enable_if<std::is_enum<T>::value, System::SmartPtr<System::Object>>::type System::ObjectExt::Box(const T &value)
+template<typename T> static std::enable_if<IsNullable<T>::value, System::SmartPtr<System::Object>>::type System::ObjectExt::Box(const T &value)
 ```
 
 
 | Parameter | Description |
 | --- | --- |
-| T | [Enum](../../enum/) type. |
+| T | Value type. |
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | const T\& | [Enum](../../enum/) value to box. |
+| value | const T\& | Value to box. |
 
 ### ReturnValue
 
@@ -94,20 +94,20 @@ Smart pointer to object keeping boxed value.
 ## ObjectExt::Box(const T\&) method
 
 
-Boxes [Nullable](../../nullable/) types for converting to [Object](../../object/).
+Boxes value types for converting to [Object](../../object/). Implementation for enum types.
 
 ```cpp
-template<typename T> static std::enable_if<IsNullable<T>::value, System::SmartPtr<System::Object>>::type System::ObjectExt::Box(const T &value)
+template<typename T> static std::enable_if<std::is_enum<T>::value, System::SmartPtr<System::Object>>::type System::ObjectExt::Box(const T &value)
 ```
 
 
 | Parameter | Description |
 | --- | --- |
-| T | Value type. |
+| T | [Enum](../../enum/) type. |
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | const T\& | Value to box. |
+| value | const T\& | [Enum](../../enum/) value to box. |
 
 ### ReturnValue
 

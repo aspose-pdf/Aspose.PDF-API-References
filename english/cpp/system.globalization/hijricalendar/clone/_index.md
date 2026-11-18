@@ -23,7 +23,6 @@ Creates a copy of the current object and returns a shared pointer to it.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [HijriCalendar](../)
 * Namespace [System::Globalization](../../)
 * Library [Aspose.PDF for C++](../../../)

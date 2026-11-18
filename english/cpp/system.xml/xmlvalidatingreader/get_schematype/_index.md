@@ -24,7 +24,6 @@ XmlSchemaDatatype, XmlSchemaSimpleType, or XmlSchemaComplexType depending whethe
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [XmlValidatingReader](../)
 * Namespace [System::Xml](../../)
 * Library [Aspose.PDF for C++](../../../)

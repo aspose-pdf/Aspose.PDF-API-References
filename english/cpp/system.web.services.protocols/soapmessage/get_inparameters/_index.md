@@ -25,7 +25,6 @@ The parameters that are passed into the XML [Web](../../../system.web/) service 
 
 * Typedef [ArrayPtr](../../../system/arrayptr/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [SoapMessage](../)
 * Namespace [System::Web::Services::Protocols](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -16,6 +16,11 @@ Represents options for creating Field.
 class FormFieldCreateOptions : public Aspose::Pdf::LowCode::FormFieldOptions
 ```
 
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [Highlighting](../formfieldoptions/highlighting/) | Gets/sets the value to determine property Highlighting for created/modified field (if will be set). |
 ## See Also
 
 * Class [FormFieldOptions](../formfieldoptions/)

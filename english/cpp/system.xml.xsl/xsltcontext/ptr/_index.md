@@ -13,7 +13,7 @@ url: /cpp/system.xml.xsl/xsltcontext/ptr/
 An alias for shared pointer to an instance of this class.
 
 ```cpp
-using System::Xml::Xsl::XsltContext::Ptr =  SharedPtr<XsltContext>
+using System::Xml::Xsl::XsltContext::Ptr = SharedPtr<XsltContext>
 ```
 
 ## See Also

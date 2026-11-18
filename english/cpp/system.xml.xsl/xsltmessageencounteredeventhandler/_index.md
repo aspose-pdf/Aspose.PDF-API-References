@@ -10,10 +10,10 @@ url: /cpp/system.xml.xsl/xsltmessageencounteredeventhandler/
 ## XsltMessageEncounteredEventHandler typedef
 
 
-Represents the method that will handle the **XsltArgumentList::XsltMessageEncountered** event.
+Represents the method that will handle the [XsltArgumentList::XsltMessageEncountered](../xsltargumentlist/xsltmessageencountered/) event.
 
 ```cpp
-using System::Xml::Xsl::XsltMessageEncounteredEventHandler =  System::MulticastDelegate<void(SharedPtr<Object> , SharedPtr<XsltMessageEncounteredEventArgs> )>
+using System::Xml::Xsl::XsltMessageEncounteredEventHandler = System::MulticastDelegate<void(SharedPtr<Object> , SharedPtr<XsltMessageEncounteredEventArgs> )>
 ```
 
 

@@ -27,7 +27,6 @@ Time interval that corresponds to string.
 
 ## See Also
 
-* Class [TimeSpan](../)
 * Class [String](../../string/)
 * Class [TimeSpan](../)
 * Namespace [System](../../)
@@ -43,7 +42,6 @@ static TimeSpan System::TimeSpan::Parse(const String &input, const SharedPtr<Glo
 
 ## See Also
 
-* Class [TimeSpan](../)
 * Class [String](../../string/)
 * Typedef [SharedPtr](../../sharedptr/)
 * Class [CultureInfo](../../../system.globalization/cultureinfo/)
@@ -61,7 +59,6 @@ static TimeSpan System::TimeSpan::Parse(const String &input, const SharedPtr<Glo
 
 ## See Also
 
-* Class [TimeSpan](../)
 * Class [String](../../string/)
 * Typedef [SharedPtr](../../sharedptr/)
 * Class [DateTimeFormatInfo](../../../system.globalization/datetimeformatinfo/)
@@ -89,7 +86,6 @@ Time interval that corresponds to string.
 
 ## See Also
 
-* Class [TimeSpan](../)
 * Class [String](../../string/)
 * Typedef [SharedPtr](../../sharedptr/)
 * Class [IFormatProvider](../../iformatprovider/)
@@ -107,7 +103,6 @@ static TimeSpan System::TimeSpan::Parse(const String &input, std::nullptr_t)
 
 ## See Also
 
-* Class [TimeSpan](../)
 * Class [String](../../string/)
 * Class [TimeSpan](../)
 * Namespace [System](../../)

@@ -24,7 +24,6 @@ void Aspose::Pdf::Rows::idx_set(int32_t index, const System::SharedPtr<Row> &val
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Row](../../row/)
 * Class [Rows](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

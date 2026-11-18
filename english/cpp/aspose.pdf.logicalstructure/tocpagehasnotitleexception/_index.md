@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/tocpagehasnotitleexception/
 
 
 ```cpp
-using Aspose::Pdf::LogicalStructure::TOCpageHasNoTitleException =  System::ExceptionWrapper<Details_TOCpageHasNoTitleException>
+using Aspose::Pdf::LogicalStructure::TOCpageHasNoTitleException = System::ExceptionWrapper<Details_TOCpageHasNoTitleException>
 ```
 
 ## See Also

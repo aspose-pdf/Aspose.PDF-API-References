@@ -10,7 +10,7 @@ url: /cpp/system.text/encoding/get_bigendianunicode/
 ## Encoding::get_BigEndianUnicode method
 
 
-Gets the standard big-endian Unicode encoding object.
+Gets the standard big-endian [Unicode](../../../system.text.unicode/) encoding object.
 
 ```cpp
 static EncodingPtr System::Text::Encoding::get_BigEndianUnicode()

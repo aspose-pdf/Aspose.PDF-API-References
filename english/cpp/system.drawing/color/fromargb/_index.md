@@ -29,7 +29,6 @@ An object that represents the specified color.
 ## See Also
 
 * Class [Color](../)
-* Class [Color](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## Color::FromArgb(int, int, int, int) method
@@ -56,7 +55,6 @@ An object that represents the specified color.
 ## See Also
 
 * Class [Color](../)
-* Class [Color](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## Color::FromArgb(int) method
@@ -79,7 +77,6 @@ An object that represents the specified color.
 
 ## See Also
 
-* Class [Color](../)
 * Class [Color](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -105,7 +102,6 @@ An object that represents the specified color.
 
 ## See Also
 
-* Class [Color](../)
 * Class [Color](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.PDF for C++](../../../)

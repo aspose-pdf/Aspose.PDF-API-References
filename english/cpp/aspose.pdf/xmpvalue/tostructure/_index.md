@@ -25,7 +25,6 @@ System::ArrayPtr<System::SharedPtr<XmpField>> Aspose::Pdf::XmpValue::ToStructure
 
 * Typedef [ArrayPtr](../../../system/arrayptr/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmpField](../../xmpfield/)
 * Class [XmpValue](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

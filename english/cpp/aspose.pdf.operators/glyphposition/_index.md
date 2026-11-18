@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.operators/glyphposition/
 ## GlyphPosition class
 
 
-Class describes text and position to use with operator TJ (set glyph with position)
+Class describes text and position to use with operator TJ (set glyph with position).
 
 ```cpp
 class GlyphPosition : public System::Object

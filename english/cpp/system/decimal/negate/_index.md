@@ -19,6 +19,5 @@ static Decimal System::Decimal::Negate(const Decimal &d)
 ## See Also
 
 * Class [Decimal](../)
-* Class [Decimal](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

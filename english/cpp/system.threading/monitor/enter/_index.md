@@ -24,7 +24,6 @@ static void System::Threading::Monitor::Enter(const SharedPtr<Object> &obj)
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [Monitor](../)
 * Namespace [System::Threading](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -40,7 +39,6 @@ static void System::Threading::Monitor::Enter(const System::SharedPtr<Object> &o
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [Monitor](../)
 * Namespace [System::Threading](../../)
 * Library [Aspose.PDF for C++](../../../)

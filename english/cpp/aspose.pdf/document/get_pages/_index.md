@@ -19,7 +19,6 @@ System::SharedPtr<PageCollection> Aspose::Pdf::Document::get_Pages()
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [PageCollection](../../pagecollection/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

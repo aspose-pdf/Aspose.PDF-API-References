@@ -13,7 +13,7 @@ url: /cpp/system/multicastdelegate_returntype(argumenttypes...)_/callback/
 The type of the delegates represented by the MulticastDelegate class.
 
 ```cpp
-using System::MulticastDelegate< ReturnType(ArgumentTypes...)>::Callback =  Delegate<ReturnType(ArgumentTypes...)>
+using System::MulticastDelegate< ReturnType(ArgumentTypes...)>::Callback = Delegate<ReturnType(ArgumentTypes...)>
 ```
 
 ## See Also

@@ -24,7 +24,6 @@ System::Collections::Specialized::StringCollection::Enumerator::Enumerator(const
 ## See Also
 
 * Typedef [SharedPtr](../../../../system/sharedptr/)
-* Class [StringCollection](../../)
 * Class [Enumerator](../)
 * Class [StringCollection](../../)
 * Namespace [System::Collections::Specialized](../../../)

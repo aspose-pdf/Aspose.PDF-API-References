@@ -4,7 +4,7 @@ linktitle: HttpResponseHeaderExtensions
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Net::HttpResponseHeaderExtensions class. Contains utility methods to work with the HttpResponseHeader enumeration values in C++.'
 type: docs
-weight: 1700
+weight: 1800
 url: /cpp/system.net/httpresponseheaderextensions/
 ---
 ## HttpResponseHeaderExtensions class

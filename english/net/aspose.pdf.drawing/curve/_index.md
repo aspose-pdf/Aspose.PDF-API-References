@@ -3,7 +3,7 @@ title: Class Curve
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Drawing.Curve class. Represents bezier curve
 type: docs
-weight: 4020
+weight: 4060
 url: /net/aspose.pdf.drawing/curve/
 ---
 ## Curve class

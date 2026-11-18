@@ -4,7 +4,7 @@ linktitle: X509IncludeOption
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Security::Cryptography::X509Certificates::X509IncludeOption enum. Specifies what certificates in chain to include in C++.'
 type: docs
-weight: 2000
+weight: 2300
 url: /cpp/system.security.cryptography.x509certificates/x509includeoption/
 ---
 ## X509IncludeOption enum

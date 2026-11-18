@@ -4,13 +4,13 @@ linktitle: set_NoteLineStyle
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Page::set_NoteLineStyle method. Sets the line style for notes.(for generator only, not filled in when reading document) in C++.'
 type: docs
-weight: 6500
+weight: 6600
 url: /cpp/aspose.pdf/page/set_notelinestyle/
 ---
 ## Page::set_NoteLineStyle method
 
 
-Sets the line style for notes.(for generator only, not filled in when reading document)
+Sets the line style for notes.(for generator only, not filled in when reading document).
 
 ```cpp
 void Aspose::Pdf::Page::set_NoteLineStyle(const System::SharedPtr<Aspose::Pdf::GraphInfo> &value)

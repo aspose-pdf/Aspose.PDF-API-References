@@ -46,6 +46,8 @@ url: /rust-cpp/organize/
 | [is_pdfua_compliant](./is_pdfua_compliant/) | Get is a PDF-document PDF/UA compliant |
 | [reverse_pages](./reverse_pages/) | Reverse the order of pages in PDF-document. |
 | [reorder_pages](./reorder_pages/) | Reorder pages in PDF-document. |
+| [redact_text](./redact_text/) | Redact permanently and blacks out sensitive text in PDF-document. |
+| [add_stamp](./add_stamp/) | Add stamp to PDF-document. |
 | [page_rotate](./page_rotate/) | Rotate a page in the PDF-document. |
 | [page_set_size](./page_set_size/) | Set the size of a page in the PDF-document. |
 | [page_grayscale](./page_grayscale/) | Convert page to black and white. |
@@ -66,6 +68,7 @@ url: /rust-cpp/organize/
 | [page_replace_font](./page_replace_font/) | Replace font in page. |
 | [page_merge_layers](./page_merge_layers/) | Merge all layers on the page into a single layer with the specified new layer name. |
 | [page_layers](./page_layers/) | Get layers' names on page. |
+| [page_add_stamp](./page_add_stamp/) | Add stamp on page. |
 
 
 ## Detailed Description

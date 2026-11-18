@@ -28,7 +28,6 @@ True if objects are considered equal and false otherwise.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [Cookie](../)
 * Namespace [System::Net](../../)
 * Library [Aspose.PDF for C++](../../../)

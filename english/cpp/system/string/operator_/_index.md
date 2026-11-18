@@ -28,7 +28,6 @@ true if this is considering less than str, false otherwise.
 ## See Also
 
 * Class [String](../)
-* Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ---
@@ -60,7 +59,6 @@ true if this is considering more than str, false otherwise.
 
 ## See Also
 
-* Class [String](../)
 * Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

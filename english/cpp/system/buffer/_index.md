@@ -4,7 +4,7 @@ linktitle: Buffer
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Buffer class. Contains methods that manipulate raw byte arrays. This is a static type with no instance services. You should never create instances of it by any means in C++.'
 type: docs
-weight: 1100
+weight: 1200
 url: /cpp/system/buffer/
 ---
 ## Buffer class

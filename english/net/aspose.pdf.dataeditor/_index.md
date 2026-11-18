@@ -3,7 +3,7 @@ title: Aspose.Pdf.DataEditor
 second_title: Aspose.PDF for .NET API Reference
 description: The Aspose.Pdf.DataEditor contains tools for editing data within a document
 type: docs
-weight: 70
+weight: 50
 url: /net/aspose.pdf.dataeditor/
 ---
 The **Aspose.Pdf.DataEditor** contains tools for editing data within a document.

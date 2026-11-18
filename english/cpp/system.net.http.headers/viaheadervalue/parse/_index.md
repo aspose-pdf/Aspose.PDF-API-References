@@ -28,7 +28,6 @@ An instance of the [ViaHeaderValue](../) class.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ViaHeaderValue](../)
 * Class [String](../../../system/string/)
 * Class [ViaHeaderValue](../)
 * Namespace [System::Net::Http::Headers](../../)

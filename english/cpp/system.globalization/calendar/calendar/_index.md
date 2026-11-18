@@ -19,6 +19,5 @@ System::Globalization::Calendar::Calendar(const Calendar &)=delete
 ## See Also
 
 * Class [Calendar](../)
-* Class [Calendar](../)
 * Namespace [System::Globalization](../../)
 * Library [Aspose.PDF for C++](../../../)

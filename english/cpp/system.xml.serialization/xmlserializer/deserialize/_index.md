@@ -28,7 +28,6 @@ System::SharedPtr<Object> System::Xml::Serialization::XmlSerializer::Deserialize
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [Stream](../../../system.io/stream/)
 * Class [XmlSerializer](../)
 * Namespace [System::Xml::Serialization](../../)
@@ -54,7 +53,6 @@ System::SharedPtr<Object> System::Xml::Serialization::XmlSerializer::Deserialize
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [TextReader](../../../system.io/textreader/)
 * Class [XmlSerializer](../)
 * Namespace [System::Xml::Serialization](../../)
@@ -80,7 +78,6 @@ System::SharedPtr<Object> System::Xml::Serialization::XmlSerializer::Deserialize
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [XmlReader](../../../system.xml/xmlreader/)
 * Class [XmlSerializer](../)
 * Namespace [System::Xml::Serialization](../../)
@@ -107,7 +104,6 @@ System::SharedPtr<Object> System::Xml::Serialization::XmlSerializer::Deserialize
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [XmlReader](../../../system.xml/xmlreader/)
 * Class [String](../../../system/string/)
 * Class [XmlSerializer](../)

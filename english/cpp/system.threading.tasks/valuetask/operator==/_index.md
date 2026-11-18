@@ -28,6 +28,5 @@ bool True if both tasks have the same underlying task; otherwise, false.
 ## See Also
 
 * Class [ValueTask](../)
-* Class [ValueTask](../)
 * Namespace [System::Threading::Tasks](../../)
 * Library [Aspose.PDF for C++](../../../)

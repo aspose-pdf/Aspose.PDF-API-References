@@ -19,7 +19,6 @@ virtual SharedPtr<Image> System::Drawing::Imaging::Metafile::Clone() override
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Image](../../../system.drawing/image/)
 * Class [Metafile](../)
 * Namespace [System::Drawing::Imaging](../../)
 * Library [Aspose.PDF for C++](../../../)

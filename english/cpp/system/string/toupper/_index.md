@@ -24,7 +24,6 @@ Converted string.
 ## See Also
 
 * Class [String](../)
-* Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## String::ToUpper(const SharedPtr\<System::Globalization::CultureInfo\>\&) const method
@@ -47,7 +46,6 @@ Converted string.
 
 ## See Also
 
-* Class [String](../)
 * Typedef [SharedPtr](../../sharedptr/)
 * Class [CultureInfo](../../../system.globalization/cultureinfo/)
 * Class [String](../)

@@ -13,7 +13,7 @@ url: /cpp/system.testpredicates.typetraits/anyofdecimal/
 Checks that at least one of type arguments is [System::Decimal](../../system/decimal/). If so, sets value member to true, otherwise it is false.
 
 ```cpp
-using System::TestPredicates::TypeTraits::AnyOfDecimal =  std::integral_constant<bool, std::is_same<T1, System::Decimal>::value || std::is_same<T2, System::Decimal>::value>
+using System::TestPredicates::TypeTraits::AnyOfDecimal = std::integral_constant<bool, std::is_same<T1, System::Decimal>::value || std::is_same<T2, System::Decimal>::value>
 ```
 
 

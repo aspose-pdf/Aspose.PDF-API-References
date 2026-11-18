@@ -173,7 +173,6 @@ System::Security::Cryptography::X509Certificates::X509Certificate2::X509Certific
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [X509Certificate](../../x509certificate/)
 * Class [X509Certificate2](../)
 * Namespace [System::Security::Cryptography::X509Certificates](../../)
 * Library [Aspose.PDF for C++](../../../)

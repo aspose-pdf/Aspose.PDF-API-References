@@ -19,6 +19,5 @@ static constexpr Index System::Index::get_Start() noexcept
 ## See Also
 
 * Class [Index](../)
-* Class [Index](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

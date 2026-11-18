@@ -28,7 +28,6 @@ Inserted page.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Page](../../page/)
 * Class [PageCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -51,7 +50,6 @@ void Aspose::Pdf::PageCollection::Insert(int32_t pageNumber, const System::Array
 
 * Typedef [ArrayPtr](../../../system/arrayptr/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Page](../../page/)
 * Class [PageCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -77,7 +75,6 @@ Inserted page.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Page](../../page/)
 * Class [PageCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -100,7 +97,6 @@ void Aspose::Pdf::PageCollection::Insert(int32_t pageNumber, const System::Share
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [ICollection](../../../system.collections.generic/icollection/)
-* Class [Page](../../page/)
 * Class [PageCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

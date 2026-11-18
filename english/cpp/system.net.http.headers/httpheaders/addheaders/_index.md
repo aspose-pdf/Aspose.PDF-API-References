@@ -25,6 +25,5 @@ virtual void System::Net::Http::Headers::HttpHeaders::AddHeaders(System::SharedP
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [HttpHeaders](../)
-* Class [HttpHeaders](../)
 * Namespace [System::Net::Http::Headers](../../)
 * Library [Aspose.PDF for C++](../../../)

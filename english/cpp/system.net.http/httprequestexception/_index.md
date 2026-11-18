@@ -13,7 +13,7 @@ url: /cpp/system.net.http/httprequestexception/
 
 
 ```cpp
-using System::Net::Http::HttpRequestException =  System::ExceptionWrapper<Details_HttpRequestException>
+using System::Net::Http::HttpRequestException = System::ExceptionWrapper<Details_HttpRequestException>
 ```
 
 ## See Also

@@ -30,7 +30,7 @@ class FontRepository : public System::Object
 | static [OpenFont](./openfont/)(const System::SharedPtr\<System::IO::Stream\>\&, FontTypes) | Opens font with specified font stream. |
 | static [OpenFont](./openfont/)(const System::String\&) | Opens font with specified font file path. |
 | static [OpenFont](./openfont/)(const System::String\&, const System::String\&) | Opens font with specified font file path and metrics file path. |
-| static [ReloadFonts](./reloadfonts/)() | Reloads all fonts specified by property [Sources](../) |
+| static [ReloadFonts](./reloadfonts/)() | Reloads all fonts specified by property [Sources](../). |
 
 
 ## See Also

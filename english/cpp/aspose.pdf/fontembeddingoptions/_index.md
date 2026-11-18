@@ -21,12 +21,8 @@ class FontEmbeddingOptions : public System::Object
 | Method | Description |
 | --- | --- |
 | [FontEmbeddingOptions](./fontembeddingoptions/)() | Initializes a new instance of the [FontEmbeddingOptions](./) class. |
-| [get_UseDefaultSubstitution](./get_usedefaultsubstitution/)() const | Indicates whether to substitute non-embedded font using default font substitution strategy. Default value: **false**
-
-. |
-| [set_UseDefaultSubstitution](./set_usedefaultsubstitution/)(bool) | Indicates whether to substitute non-embedded font using default font substitution strategy. Default value: **false**
-
-. |
+| [get_UseDefaultSubstitution](./get_usedefaultsubstitution/)() const | Indicates whether to substitute non-embedded font using default font substitution strategy. Default value: **false**. |
+| [set_UseDefaultSubstitution](./set_usedefaultsubstitution/)(bool) | Indicates whether to substitute non-embedded font using default font substitution strategy. Default value: **false**. |
 ## See Also
 
 * Class [Object](../../system/object/)

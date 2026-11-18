@@ -28,7 +28,6 @@ An instance of the [ContentDispositionHeaderValue](../) class.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ContentDispositionHeaderValue](../)
 * Class [String](../../../system/string/)
 * Class [ContentDispositionHeaderValue](../)
 * Namespace [System::Net::Http::Headers](../../)

@@ -24,7 +24,6 @@ SharedPtr<Object> System::Globalization::TextElementEnumerator::get_Current() co
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [TextElementEnumerator](../)
 * Namespace [System::Globalization](../../)
 * Library [Aspose.PDF for C++](../../../)

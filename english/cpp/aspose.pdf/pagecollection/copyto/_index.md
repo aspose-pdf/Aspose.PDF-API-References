@@ -26,7 +26,6 @@ void Aspose::Pdf::PageCollection::CopyTo(System::ArrayPtr<System::SharedPtr<Page
 
 * Typedef [ArrayPtr](../../../system/arrayptr/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Page](../../page/)
 * Class [PageCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

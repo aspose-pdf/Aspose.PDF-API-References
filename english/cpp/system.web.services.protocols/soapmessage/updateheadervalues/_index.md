@@ -25,7 +25,6 @@ void System::Web::Services::Protocols::SoapMessage::UpdateHeaderValues(System::S
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [SoapMessage](../)
 * Namespace [System::Web::Services::Protocols](../../)

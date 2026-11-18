@@ -24,7 +24,6 @@ Pointer to interface providing access to stored keys via [ICollection](../../ico
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ICollection](../../icollection/)
 * Class [IDictionary](../)
 * Namespace [System::Collections::Generic](../../)
 * Library [Aspose.PDF for C++](../../../)

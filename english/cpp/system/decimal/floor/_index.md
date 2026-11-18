@@ -28,6 +28,5 @@ The largest integral value that is less than or equal to **d**
 ## See Also
 
 * Class [Decimal](../)
-* Class [Decimal](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

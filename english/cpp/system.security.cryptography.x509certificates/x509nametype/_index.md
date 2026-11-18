@@ -4,7 +4,7 @@ linktitle: X509NameType
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Security::Cryptography::X509Certificates::X509NameType enum. Type of X.509 certificate-contained name which relates to either issuer or subject of the certificate in C++.'
 type: docs
-weight: 2300
+weight: 2600
 url: /cpp/system.security.cryptography.x509certificates/x509nametype/
 ---
 ## X509NameType enum

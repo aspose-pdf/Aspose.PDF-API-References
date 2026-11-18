@@ -13,7 +13,7 @@ url: /cpp/system.xml.schema/xmlschemainferenceexception/
 
 
 ```cpp
-using System::Xml::Schema::XmlSchemaInferenceException =  System::ExceptionWrapper<Details_XmlSchemaInferenceException>
+using System::Xml::Schema::XmlSchemaInferenceException = System::ExceptionWrapper<Details_XmlSchemaInferenceException>
 ```
 
 ## See Also

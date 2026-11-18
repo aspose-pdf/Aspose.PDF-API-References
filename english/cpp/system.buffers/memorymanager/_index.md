@@ -4,7 +4,7 @@ linktitle: MemoryManager
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Buffers::MemoryManager class. Provides an abstraction for managing memory blocks in C++.'
 type: docs
-weight: 200
+weight: 600
 url: /cpp/system.buffers/memorymanager/
 ---
 ## MemoryManager class

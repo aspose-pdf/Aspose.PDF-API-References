@@ -13,7 +13,7 @@ url: /cpp/system.xml/xmlvalidatingreader/ptr/
 An alias for shared pointer to an instance of this class.
 
 ```cpp
-using System::Xml::XmlValidatingReader::Ptr =  SharedPtr<XmlValidatingReader>
+using System::Xml::XmlValidatingReader::Ptr = SharedPtr<XmlValidatingReader>
 ```
 
 ## See Also

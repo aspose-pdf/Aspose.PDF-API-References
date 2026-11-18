@@ -4,7 +4,7 @@ linktitle: DecompressionMethods
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Net::DecompressionMethods enum. Enumerates the compression-decompression algorithm in C++.'
 type: docs
-weight: 4300
+weight: 4400
 url: /cpp/system.net/decompressionmethods/
 ---
 ## DecompressionMethods enum

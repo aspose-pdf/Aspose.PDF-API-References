@@ -28,7 +28,6 @@ The merged document.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Document](../)
 * Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
@@ -54,7 +53,6 @@ The merged document.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Document](../)
 * Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [String](../../../system/string/)
 * Class [Document](../)
@@ -82,7 +80,6 @@ The merged document.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Document](../)
 * Class [MergeOptions](../mergeoptions/)
 * Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [Document](../)
@@ -110,7 +107,6 @@ The merged document.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Document](../)
 * Class [MergeOptions](../mergeoptions/)
 * Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [String](../../../system/string/)

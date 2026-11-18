@@ -13,7 +13,7 @@ url: /cpp/system.io/basicstdiostreamwrapper/traits_type/
 
 
 ```cpp
-using System::IO::BasicSTDIOStreamWrapper< T, typename >::traits_type =  typename BaseType::traits_type
+using System::IO::BasicSTDIOStreamWrapper< T, typename >::traits_type = typename BaseType::traits_type
 ```
 
 ## See Also

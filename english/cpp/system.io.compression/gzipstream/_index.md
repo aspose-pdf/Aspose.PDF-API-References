@@ -13,7 +13,7 @@ url: /cpp/system.io.compression/gzipstream/
 An alias for Aspose::Zip::GZipStream.
 
 ```cpp
-using System::IO::Compression::GZipStream =  Aspose::Zip::GZipStream
+using System::IO::Compression::GZipStream = Aspose::Zip::GZipStream
 ```
 
 ## See Also

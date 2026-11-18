@@ -28,7 +28,6 @@ True if the date and time value represented by the current object is earlier tha
 ## See Also
 
 * Class [DateTimeOffset](../)
-* Class [DateTimeOffset](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## DateTimeOffset::operator<(std::nullptr_t) const method
@@ -74,7 +73,6 @@ True if the date and time value represented by the current object is later than 
 
 ## See Also
 
-* Class [DateTimeOffset](../)
 * Class [DateTimeOffset](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

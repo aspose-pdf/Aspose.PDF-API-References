@@ -4,7 +4,7 @@ linktitle: SortedDictionary
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::SortedDictionary class. Sorted dictionary type forward declaration in C++.'
 type: docs
-weight: 4000
+weight: 4500
 url: /cpp/system.collections.generic/sorteddictionary/
 ---
 ## SortedDictionary class

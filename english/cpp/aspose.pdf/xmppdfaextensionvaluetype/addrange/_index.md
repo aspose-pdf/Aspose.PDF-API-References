@@ -25,7 +25,6 @@ void Aspose::Pdf::XmpPdfAExtensionValueType::AddRange(const System::ArrayPtr<Sys
 
 * Typedef [ArrayPtr](../../../system/arrayptr/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmpPdfAExtensionField](../../xmppdfaextensionfield/)
 * Class [XmpPdfAExtensionValueType](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

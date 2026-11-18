@@ -4,7 +4,7 @@ linktitle: ICUEncodingPtr
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Text::ICUEncodingPtr typedef. ICU encoding pointer in C++.'
 type: docs
-weight: 3200
+weight: 3500
 url: /cpp/system.text/icuencodingptr/
 ---
 ## ICUEncodingPtr typedef

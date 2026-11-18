@@ -25,6 +25,5 @@ Reverse matrix.
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Matrix](../)
-* Class [Matrix](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

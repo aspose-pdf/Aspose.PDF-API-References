@@ -30,7 +30,6 @@ The stream returned by calling **GetEntity** on the underlying [XmlResolver](../
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [Uri](../../../system/uri/)
 * Class [String](../../../system/string/)
 * Class [TypeInfo](../../../system/typeinfo/)

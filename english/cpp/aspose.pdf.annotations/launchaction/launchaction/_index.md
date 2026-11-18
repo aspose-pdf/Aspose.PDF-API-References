@@ -25,7 +25,6 @@ Aspose::Pdf::Annotations::LaunchAction::LaunchAction(const System::SharedPtr<Doc
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Document](../../../aspose.pdf/document/)
 * Class [String](../../../system/string/)
 * Class [LaunchAction](../)
 * Namespace [Aspose::Pdf::Annotations](../../)

@@ -13,7 +13,7 @@ url: /cpp/system.collections.concurrent/concurrentdictionary/basetype/
 Implementation type.
 
 ```cpp
-using System::Collections::Concurrent::ConcurrentDictionary< TKey, TValue >::BaseType =  System::Collections::Generic::Dictionary<TKey, TValue>
+using System::Collections::Concurrent::ConcurrentDictionary< TKey, TValue >::BaseType = System::Collections::Generic::Dictionary<TKey, TValue>
 ```
 
 ## See Also

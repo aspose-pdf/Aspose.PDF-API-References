@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.operators/fillstroke/
 ## FillStroke class
 
 
-Class representing B operator (fill and stroke path using nonzero winding rule)
+Class representing B operator (fill and stroke path using nonzero winding rule).
 
 ```cpp
 class FillStroke : public Aspose::Pdf::Operator

@@ -47,7 +47,6 @@ Aspose::Pdf::Annotations::PopupAnnotation::PopupAnnotation(const System::SharedP
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Document](../../../aspose.pdf/document/)
 * Class [PopupAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

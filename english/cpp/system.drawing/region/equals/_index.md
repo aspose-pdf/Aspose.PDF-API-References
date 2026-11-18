@@ -30,7 +30,5 @@ True if the interior of the specified region is identical to the interior of the
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Region](../)
-* Class [Graphics](../../graphics/)
-* Class [Region](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.PDF for C++](../../../)

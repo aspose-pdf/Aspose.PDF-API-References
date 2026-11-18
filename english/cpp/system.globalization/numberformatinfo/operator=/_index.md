@@ -19,6 +19,5 @@ NumberFormatInfo & System::Globalization::NumberFormatInfo::operator=(const Numb
 ## See Also
 
 * Class [NumberFormatInfo](../)
-* Class [NumberFormatInfo](../)
 * Namespace [System::Globalization](../../)
 * Library [Aspose.PDF for C++](../../../)

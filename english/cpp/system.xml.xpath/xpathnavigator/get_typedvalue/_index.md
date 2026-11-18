@@ -24,7 +24,6 @@ The current node as a boxed object of the most appropriate type.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [XPathNavigator](../)
 * Namespace [System::Xml::XPath](../../)
 * Library [Aspose.PDF for C++](../../../)

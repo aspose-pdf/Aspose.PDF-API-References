@@ -13,7 +13,7 @@ url: /cpp/system.io/basicsystemostreamwrapper/mybase/
 
 
 ```cpp
-using System::IO::BasicSystemOStreamWrapper< Elem, Traits >::Mybase =  std::basic_ostream<char_type, traits_type>
+using System::IO::BasicSystemOStreamWrapper< Elem, Traits >::Mybase = std::basic_ostream<char_type, traits_type>
 ```
 
 ## See Also

@@ -29,6 +29,5 @@ True when the specified address is a loopback address, otherwise false.
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [IPAddress](../)
-* Class [IPAddress](../)
 * Namespace [System::Net](../../)
 * Library [Aspose.PDF for C++](../../../)

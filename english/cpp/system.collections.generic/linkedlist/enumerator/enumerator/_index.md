@@ -24,7 +24,6 @@ System::Collections::Generic::LinkedList<T>::Enumerator::Enumerator(const Shared
 ## See Also
 
 * Typedef [SharedPtr](../../../../system/sharedptr/)
-* Class [LinkedList](../../)
 * Class [Enumerator](../)
 * Class [LinkedList](../../)
 * Namespace [System::Collections::Generic](../../../)

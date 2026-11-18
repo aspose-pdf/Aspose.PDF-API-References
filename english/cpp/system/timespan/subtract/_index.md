@@ -28,6 +28,5 @@ A new instance of [TimeSpan](../) class that represents a time interval which is
 ## See Also
 
 * Class [TimeSpan](../)
-* Class [TimeSpan](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

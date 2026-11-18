@@ -3,7 +3,7 @@ title: Class BaseListQueryParameters
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.BaseListQueryParameters class. Base query parameters for listing objects
 type: docs
-weight: 160
+weight: 130
 url: /net/aspose.pdf.ai/baselistqueryparameters/
 ---
 ## BaseListQueryParameters class

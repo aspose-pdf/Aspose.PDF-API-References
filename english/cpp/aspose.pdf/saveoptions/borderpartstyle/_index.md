@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf/saveoptions/borderpartstyle/
 ## BorderPartStyle class
 
 
-Represents information of one part of border(top, bottom, left side or right side)
+Represents information of one part of border(top, bottom, left side or right side).
 
 ```cpp
 class BorderPartStyle : public System::Object
@@ -23,6 +23,12 @@ class BorderPartStyle : public System::Object
 | [BorderPartStyle](./borderpartstyle/)() |  |
 | [get_WidthInPoints](./get_widthinpoints/)() const | Represents border line's width in points. Must be number greater then zero. |
 | [set_WidthInPoints](./set_widthinpoints/)(int32_t) | Represents border line's width in points. Must be number greater then zero. |
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [Color](./color/) | Represents border line's line color. |
+| [LineType](./linetype/) | Represents border line's type - f.e. Dashed or Solid. |
 ## See Also
 
 * Class [Object](../../../system/object/)

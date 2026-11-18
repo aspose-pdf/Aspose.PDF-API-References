@@ -28,7 +28,6 @@ True if the value represented by the current and the specified objects are equal
 ## See Also
 
 * Class [Decimal](../)
-* Class [Decimal](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## Decimal::Equals(const SharedPtr\<Object\>\&) const method
@@ -77,7 +76,6 @@ True if the values represented by **d1** and **d2** are equal, otherwise - false
 
 ## See Also
 
-* Class [Decimal](../)
 * Class [Decimal](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

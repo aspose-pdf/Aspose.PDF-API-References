@@ -25,7 +25,6 @@ Newly created hasher instance.
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [RIPEMD160](../)
-* Class [RIPEMD160](../)
 * Namespace [System::Security::Cryptography](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## RIPEMD160::Create(const String\&) method
@@ -49,7 +48,6 @@ Newly created hasher instance.
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [RIPEMD160](../)
 * Class [String](../../../system/string/)
 * Class [RIPEMD160](../)
 * Namespace [System::Security::Cryptography](../../)

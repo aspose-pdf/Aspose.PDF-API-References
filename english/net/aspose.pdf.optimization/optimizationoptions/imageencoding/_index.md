@@ -3,7 +3,7 @@ title: OptimizationOptions.ImageEncoding
 second_title: Aspose.PDF for .NET API Reference
 description: OptimizationOptions property. Image encodre which will be used
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.pdf.optimization/optimizationoptions/imageencoding/
 ---
 ## OptimizationOptions.ImageEncoding property

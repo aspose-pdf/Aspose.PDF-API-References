@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.sanitization/sanitizationexception/
 
 
 ```cpp
-using Aspose::Pdf::Sanitization::SanitizationException =  System::ExceptionWrapper<Details_SanitizationException>
+using Aspose::Pdf::Sanitization::SanitizationException = System::ExceptionWrapper<Details_SanitizationException>
 ```
 
 ## See Also

@@ -21,6 +21,12 @@ class WebRequestPrefixElement : public System::Object
 | Method | Description |
 | --- | --- |
 | [WebRequestPrefixElement](./webrequestprefixelement/)(String, System::SharedPtr\<IWebRequestCreate\>) | Constructs a new instance. |
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [Creator](./creator/) | Creates a new instances of the [WebRequest](../) class. |
+| [Prefix](./prefix/) | The prefix. |
 ## See Also
 
 * Class [Object](../../../system/object/)

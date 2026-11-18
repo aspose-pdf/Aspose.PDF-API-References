@@ -53,6 +53,5 @@ int System::TimeSpan::CompareTo(TimeSpan value) const
 ## See Also
 
 * Class [TimeSpan](../)
-* Class [TimeSpan](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

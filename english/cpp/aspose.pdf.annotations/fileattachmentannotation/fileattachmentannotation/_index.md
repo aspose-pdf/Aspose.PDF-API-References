@@ -28,7 +28,6 @@ Aspose::Pdf::Annotations::FileAttachmentAnnotation::FileAttachmentAnnotation(con
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Page](../../../aspose.pdf/page/)
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
-* Class [FileSpecification](../../../aspose.pdf/filespecification/)
 * Class [FileAttachmentAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

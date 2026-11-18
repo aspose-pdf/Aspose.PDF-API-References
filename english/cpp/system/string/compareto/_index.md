@@ -28,6 +28,5 @@ Negative value if this is considered lower than str, zero if they match, positiv
 ## See Also
 
 * Class [String](../)
-* Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

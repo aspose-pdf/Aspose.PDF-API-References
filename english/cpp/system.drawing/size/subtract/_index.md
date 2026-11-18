@@ -29,6 +29,5 @@ The [Size](../) object which is the result of subtraction of **size2** from **si
 ## See Also
 
 * Class [Size](../)
-* Class [Size](../)
 * Namespace [System::Drawing](../../)
 * Library [Aspose.PDF for C++](../../../)

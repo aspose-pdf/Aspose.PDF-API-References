@@ -3,7 +3,7 @@ title: SideBySideComparisonOptions.ExcludeAreas2
 second_title: Aspose.PDF for .NET API Reference
 description: SideBySideComparisonOptions property. Get and set the exclude areas. Used for the second page or document in the comparison method. This option can be setted along with ExcludeTables. This option cant be setted along with ComparisonArea2 option
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.pdf.comparison/sidebysidecomparisonoptions/excludeareas2/
 ---
 ## SideBySideComparisonOptions.ExcludeAreas2 property

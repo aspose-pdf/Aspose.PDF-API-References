@@ -28,7 +28,6 @@ BasicSystemIOStreamBuf & System::IO::BasicSystemIOStreamBuf<Elem, Traits>::opera
 ## See Also
 
 * Class [BasicSystemIOStreamBuf](../)
-* Class [BasicSystemIOStreamBuf](../)
 * Namespace [System::IO](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## BasicSystemIOStreamBuf::operator=(const BasicSystemIOStreamBuf\&) method
@@ -42,7 +41,6 @@ BasicSystemIOStreamBuf & System::IO::BasicSystemIOStreamBuf<Elem, Traits>::opera
 
 ## See Also
 
-* Class [BasicSystemIOStreamBuf](../)
 * Class [BasicSystemIOStreamBuf](../)
 * Namespace [System::IO](../../)
 * Library [Aspose.PDF for C++](../../../)

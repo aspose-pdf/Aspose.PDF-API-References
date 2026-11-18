@@ -3,7 +3,7 @@ title: Class Id
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Id class. Represents file identifier structure
 type: docs
-weight: 5980
+weight: 5990
 url: /net/aspose.pdf/id/
 ---
 ## Id class

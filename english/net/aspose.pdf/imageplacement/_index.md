@@ -3,7 +3,7 @@ title: Class ImagePlacement
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.ImagePlacement class. Represents characteristics of an image placed to Pdf document page
 type: docs
-weight: 6030
+weight: 6040
 url: /net/aspose.pdf/imageplacement/
 ---
 ## ImagePlacement class

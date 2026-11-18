@@ -19,7 +19,6 @@ SharedPtr<Object> System::Security::Cryptography::Xml::XmlDsigEnvelopedSignature
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [XmlDsigEnvelopedSignatureTransform](../)
 * Namespace [System::Security::Cryptography::Xml](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -35,7 +34,6 @@ SharedPtr<Object> System::Security::Cryptography::Xml::XmlDsigEnvelopedSignature
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [TypeInfo](../../../system/typeinfo/)
 * Class [XmlDsigEnvelopedSignatureTransform](../)
 * Namespace [System::Security::Cryptography::Xml](../../)

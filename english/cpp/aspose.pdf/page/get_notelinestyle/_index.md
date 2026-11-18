@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf/page/get_notelinestyle/
 ## Page::get_NoteLineStyle method
 
 
-Gets the line style for notes.(for generator only, not filled in when reading document)
+Gets the line style for notes.(for generator only, not filled in when reading document).
 
 ```cpp
 System::SharedPtr<Aspose::Pdf::GraphInfo> Aspose::Pdf::Page::get_NoteLineStyle()

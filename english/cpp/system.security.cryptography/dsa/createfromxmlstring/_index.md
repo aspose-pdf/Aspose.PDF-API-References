@@ -24,7 +24,6 @@ static SharedPtr<DSA> System::Security::Cryptography::DSA::CreateFromXmlString(c
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [DSA](../)
 * Class [String](../../../system/string/)
 * Class [DSA](../)
 * Namespace [System::Security::Cryptography](../../)

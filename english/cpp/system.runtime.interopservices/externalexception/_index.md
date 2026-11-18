@@ -13,7 +13,7 @@ url: /cpp/system.runtime.interopservices/externalexception/
 
 
 ```cpp
-using System::Runtime::InteropServices::ExternalException =  System::ExceptionWrapper<Details_ExternalException>
+using System::Runtime::InteropServices::ExternalException = System::ExceptionWrapper<Details_ExternalException>
 ```
 
 ## See Also

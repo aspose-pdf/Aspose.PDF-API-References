@@ -19,7 +19,6 @@ KVPairIterator & System::Collections::Generic::KVPairIterator<KVPair, Container>
 ## See Also
 
 * Class [KVPairIterator](../)
-* Class [KVPairIterator](../)
 * Namespace [System::Collections::Generic](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## KVPairIterator::operator++(int) method
@@ -33,7 +32,6 @@ KVPairIterator System::Collections::Generic::KVPairIterator<KVPair, Container>::
 
 ## See Also
 
-* Class [KVPairIterator](../)
 * Class [KVPairIterator](../)
 * Namespace [System::Collections::Generic](../../)
 * Library [Aspose.PDF for C++](../../../)

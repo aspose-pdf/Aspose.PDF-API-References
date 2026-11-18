@@ -13,7 +13,7 @@ url: /cpp/system/array/underlyingtype/
 Alias for the type used to represent each element of the array.
 
 ```cpp
-using System::Array< T >::UnderlyingType =  typename System::Details::SelectType<T>::type
+using System::Array< T >::UnderlyingType = typename System::Details::SelectType<T>::type
 ```
 
 ## See Also

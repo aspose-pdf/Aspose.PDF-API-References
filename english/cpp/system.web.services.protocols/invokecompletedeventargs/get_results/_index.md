@@ -25,7 +25,6 @@ A collection of asynchronous operation results.
 
 * Typedef [ArrayPtr](../../../system/arrayptr/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [InvokeCompletedEventArgs](../)
 * Namespace [System::Web::Services::Protocols](../../)
 * Library [Aspose.PDF for C++](../../../)

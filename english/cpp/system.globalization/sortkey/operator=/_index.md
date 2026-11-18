@@ -19,6 +19,5 @@ SortKey & System::Globalization::SortKey::operator=(const SortKey &)=delete
 ## See Also
 
 * Class [SortKey](../)
-* Class [SortKey](../)
 * Namespace [System::Globalization](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -4,7 +4,7 @@ linktitle: ResultTaskAwaiter
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use System::Runtime::CompilerServices::ResultTaskAwaiter class in C++.'
 type: docs
-weight: 600
+weight: 700
 url: /cpp/system.runtime.compilerservices/resulttaskawaiter/
 ---
 ## ResultTaskAwaiter class
@@ -24,6 +24,11 @@ template<typename T>class ResultTaskAwaiter
 | [GetResult](./getresult/)() const |  |
 | [OnCompleted](./oncompleted/)(const Action<>\&) |  |
 | [ResultTaskAwaiter](./resulttaskawaiter/)(const RTaskPtr\<T\>\&) |  |
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [continueOnCapturedContext](./continueoncapturedcontext/) |  |
 ## See Also
 
 * Namespace [System::Runtime::CompilerServices](../)

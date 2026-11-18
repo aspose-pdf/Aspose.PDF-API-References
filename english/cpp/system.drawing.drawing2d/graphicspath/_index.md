@@ -90,6 +90,7 @@ class GraphicsPath : public System::Object
 | [Transform](./transform/)(const MatrixPtr\&) | Transforms the path represented by the current object by applying the specified transform matrix to it. |
 | [Transform](./transform/)(const SkMatrix\&) |  |
 | [Widen](./widen/)(const SharedPtr\<Pen\>\&) | Replaces this path with an outline around the original path. |
+| [Widen](./widen/)(const SharedPtr\<Pen\>\&, const MatrixPtr\&) | Replaces this path with an outline around the original path and then applies the specified transform matrix to it. |
 | [~GraphicsPath](./~graphicspath/)() | Destructor. |
 ## See Also
 

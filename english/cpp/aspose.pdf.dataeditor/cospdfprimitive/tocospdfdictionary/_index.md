@@ -24,7 +24,6 @@ null if instance is not [CosPdfDictionary](../../cospdfdictionary/) else [CosPdf
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [CosPdfDictionary](../../cospdfdictionary/)
 * Class [CosPdfPrimitive](../)
 * Namespace [Aspose::Pdf::DataEditor](../../)
 * Library [Aspose.PDF for C++](../../../)

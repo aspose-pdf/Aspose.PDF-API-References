@@ -3,7 +3,7 @@ title: Class DocumentCollection
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.AI.DocumentCollection class. Represents a collection of documents to be processed
 type: docs
-weight: 340
+weight: 330
 url: /net/aspose.pdf.ai/documentcollection/
 ---
 ## DocumentCollection class

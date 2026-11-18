@@ -24,7 +24,6 @@ void Aspose::Pdf::ArtifactCollection::Delete(const System::SharedPtr<Artifact> &
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Artifact](../../artifact/)
 * Class [ArtifactCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

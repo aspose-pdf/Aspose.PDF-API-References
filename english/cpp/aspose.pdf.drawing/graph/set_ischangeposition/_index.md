@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.drawing/graph/set_ischangeposition/
 ## Graph::set_IsChangePosition method
 
 
-Sets change curret position after process paragraph.(default true)
+Sets change curret position after process paragraph.(default true).
 
 ```cpp
 void Aspose::Pdf::Drawing::Graph::set_IsChangePosition(bool value)

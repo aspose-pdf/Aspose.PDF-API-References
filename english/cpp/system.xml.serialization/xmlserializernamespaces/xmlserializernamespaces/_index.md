@@ -61,6 +61,5 @@ System::Xml::Serialization::XmlSerializerNamespaces::XmlSerializerNamespaces(con
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmlSerializerNamespaces](../)
-* Class [XmlSerializerNamespaces](../)
 * Namespace [System::Xml::Serialization](../../)
 * Library [Aspose.PDF for C++](../../../)

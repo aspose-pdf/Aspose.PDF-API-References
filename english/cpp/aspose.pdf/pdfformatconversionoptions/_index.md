@@ -32,7 +32,7 @@ class PdfFormatConversionOptions : public System::Object
 | [get_ConvertSoftMaskAction](./get_convertsoftmaskaction/)() const | Action for images with soft mask. |
 | static [get_Default](./get_default/)() | Gets [PdfFormatConversionOptions](./) object with default parameters. |
 | [get_ErrorAction](./get_erroraction/)() const | Action for objects that can not be converted. |
-| [get_ExcludeFontsStrategy](./get_excludefontsstrategy/)() const | Strategy(ies) to exclude superfluous fonts and reduce document file size. This parameter has sense only when flag [OptimizeFileSize](../) is set to true. By default combination of strategies [SubsetFonts](./removefontsstrategy/) and [RemoveDuplicatedFonts](./removefontsstrategy/) is used. |
+| [get_ExcludeFontsStrategy](./get_excludefontsstrategy/)() const | Strategy(ies) to exclude superfluous fonts and reduce document file size. This parameter has sense only when flag [OptimizeFileSize](../) is set to true. By default combination of strategies [SubsetFonts](../) and [RemoveDuplicatedFonts](../) is used. |
 | [get_FontEmbeddingOptions](./get_fontembeddingoptions/)() const | Options for cases when it's not possible to embed some fonts into PDF document. |
 | [get_Format](./get_format/)() const | PDF format. |
 | [get_IccProfileFileName](./get_iccprofilefilename/)() const | Gets the filename of icc profile name. In case of null the default icc profile used. |
@@ -59,7 +59,7 @@ class PdfFormatConversionOptions : public System::Object
 | [set_AutoTaggingSettings](./set_autotaggingsettings/)(const System::SharedPtr\<Aspose::Pdf::AutoTaggingSettings\>\&) | Sets the settings for automatic tagging during PDF format conversion. |
 | [set_ConvertSoftMaskAction](./set_convertsoftmaskaction/)(Aspose::Pdf::ConvertSoftMaskAction) | Action for images with soft mask. |
 | [set_ErrorAction](./set_erroraction/)(ConvertErrorAction) | Action for objects that can not be converted. |
-| [set_ExcludeFontsStrategy](./set_excludefontsstrategy/)(PdfFormatConversionOptions::RemoveFontsStrategy) | Strategy(ies) to exclude superfluous fonts and reduce document file size. This parameter has sense only when flag [OptimizeFileSize](../) is set to true. By default combination of strategies [SubsetFonts](./removefontsstrategy/) and [RemoveDuplicatedFonts](./removefontsstrategy/) is used. |
+| [set_ExcludeFontsStrategy](./set_excludefontsstrategy/)(PdfFormatConversionOptions::RemoveFontsStrategy) | Strategy(ies) to exclude superfluous fonts and reduce document file size. This parameter has sense only when flag [OptimizeFileSize](../) is set to true. By default combination of strategies [SubsetFonts](../) and [RemoveDuplicatedFonts](../) is used. |
 | [set_Format](./set_format/)(PdfFormat) | PDF format. |
 | [set_IccProfileFileName](./set_iccprofilefilename/)(const System::String\&) | Sets the filename of icc profile name. In case of null the default icc profile used. |
 | [set_IsAsyncImageStreamsConversionMode](./set_isasyncimagestreamsconversionmode/)(bool) | Gets/sets run of image streams in async mode. |
@@ -73,6 +73,11 @@ class PdfFormatConversionOptions : public System::Object
 | [set_SymbolicFontEncodingStrategy](./set_symbolicfontencodingstrategy/)(const System::SharedPtr\<PdfASymbolicFontEncodingStrategy\>\&) | Strategy to copy encoding data for symbolic fonts if symbolic TrueType font has more than one encoding subtable. |
 | [set_TransparencyAction](./set_transparencyaction/)(ConvertTransparencyAction) | Action for image masked objects. |
 | [set_UnicodeProcessingRules](./set_unicodeprocessingrules/)(const System::SharedPtr\<ToUnicodeProcessingRules\>\&) | Rules to solve problems with unicode mapping. Can be null. |
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [AlignStrategy](./alignstrategy/) | Strategy to align text. This parameter has sense only when flag [AlignText](../) is set to true. |
 ## See Also
 
 * Class [Object](../../system/object/)

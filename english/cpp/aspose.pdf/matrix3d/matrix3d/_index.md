@@ -59,7 +59,6 @@ Aspose::Pdf::Matrix3D::Matrix3D(const System::SharedPtr<Matrix3D> &matrix)
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Matrix3D](../)
-* Class [Matrix3D](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## Matrix3D::Matrix3D(double, double, double, double, double, double, double, double, double, double, double, double) constructor

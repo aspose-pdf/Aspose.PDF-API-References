@@ -28,6 +28,5 @@ int System::Guid::CompareTo(const Guid &g) const
 ## See Also
 
 * Class [Guid](../)
-* Class [Guid](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -4,7 +4,7 @@ linktitle: IEnumerable
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::IEnumerable class. IEnumerable is the base interface for all non-generic collections that can be enumerated in C++.'
 type: docs
-weight: 500
+weight: 600
 url: /cpp/system.collections/ienumerable/
 ---
 ## IEnumerable class

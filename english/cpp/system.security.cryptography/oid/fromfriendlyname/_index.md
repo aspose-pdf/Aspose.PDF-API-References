@@ -25,7 +25,6 @@ static SharedPtr<Oid> System::Security::Cryptography::Oid::FromFriendlyName(cons
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Oid](../)
 * Class [String](../../../system/string/)
 * Enum [OidGroup](../../oidgroup/)
 * Class [Oid](../)

@@ -2,7 +2,7 @@
 title: System::Collections::Generic::ListExt::CreateIListWrapperImpl method
 linktitle: CreateIListWrapperImpl
 second_title: Aspose.PDF for C++ API Reference
-description: 'System::Collections::Generic::ListExt::CreateIListWrapperImpl method. IListWrapper implementation helper for reference types in C++.'
+description: 'System::Collections::Generic::ListExt::CreateIListWrapperImpl method. IListWrapper implementation helper for other types in C++.'
 type: docs
 weight: 200
 url: /cpp/system.collections.generic/listext/createilistwrapperimpl/
@@ -10,10 +10,10 @@ url: /cpp/system.collections.generic/listext/createilistwrapperimpl/
 ## ListExt::CreateIListWrapperImpl() method
 
 
-[IListWrapper](../../../system.collections/ilistwrapper/) implementation helper for reference types.
+[IListWrapper](../../../system.collections/ilistwrapper/) implementation helper for other types.
 
 ```cpp
-template<typename T1> std::enable_if<System::IsSmartPtr<T1>::value, System::SharedPtr<System::Collections::IList>>::type System::Collections::Generic::ListExt<T>::CreateIListWrapperImpl()
+template<typename T1> std::enable_if<!System::IsSmartPtr<T1>::value &&!System::IsBoxable<T>::value, System::SharedPtr<System::Collections::IList>>::type System::Collections::Generic::ListExt<T>::CreateIListWrapperImpl()
 ```
 
 ## See Also
@@ -42,10 +42,10 @@ template<typename T1> std::enable_if<!System::IsSmartPtr<T1>::value &&System::Is
 ## ListExt::CreateIListWrapperImpl() method
 
 
-[IListWrapper](../../../system.collections/ilistwrapper/) implementation helper for other types.
+[IListWrapper](../../../system.collections/ilistwrapper/) implementation helper for reference types.
 
 ```cpp
-template<typename T1> std::enable_if<!System::IsSmartPtr<T1>::value &&!System::IsBoxable<T>::value, System::SharedPtr<System::Collections::IList>>::type System::Collections::Generic::ListExt<T>::CreateIListWrapperImpl()
+template<typename T1> std::enable_if<System::IsSmartPtr<T1>::value, System::SharedPtr<System::Collections::IList>>::type System::Collections::Generic::ListExt<T>::CreateIListWrapperImpl()
 ```
 
 ## See Also

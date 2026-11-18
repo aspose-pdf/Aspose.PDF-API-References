@@ -19,6 +19,5 @@ static int64_t System::Decimal::ToInt64(Decimal value)
 ## See Also
 
 * Class [Decimal](../)
-* Class [Decimal](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -3,7 +3,7 @@ title: Class Line
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Drawing.Line class. Represents line
 type: docs
-weight: 4080
+weight: 4120
 url: /net/aspose.pdf.drawing/line/
 ---
 ## Line class

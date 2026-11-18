@@ -13,7 +13,7 @@ url: /cpp/system.xml.schema/xmlschemakeyref/ptr/
 An alias for shared pointer to an instance of this class.
 
 ```cpp
-using System::Xml::Schema::XmlSchemaKeyref::Ptr =  SharedPtr<XmlSchemaKeyref>
+using System::Xml::Schema::XmlSchemaKeyref::Ptr = SharedPtr<XmlSchemaKeyref>
 ```
 
 ## See Also

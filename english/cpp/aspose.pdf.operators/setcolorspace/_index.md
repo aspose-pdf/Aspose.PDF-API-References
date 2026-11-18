@@ -10,7 +10,7 @@ url: /cpp/aspose.pdf.operators/setcolorspace/
 ## SetColorSpace class
 
 
-Class representing cs operator (set colorspace for non-stroking operations)
+Class representing cs operator (set colorspace for non-stroking operations).
 
 ```cpp
 class SetColorSpace : public Aspose::Pdf::Operator

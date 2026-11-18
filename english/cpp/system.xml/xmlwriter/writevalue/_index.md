@@ -199,7 +199,6 @@ virtual void System::Xml::XmlWriter::WriteValue(SharedPtr<Object> value)
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [XmlWriter](../)
 * Namespace [System::Xml](../../)
 * Library [Aspose.PDF for C++](../../../)

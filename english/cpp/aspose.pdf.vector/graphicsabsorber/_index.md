@@ -23,16 +23,8 @@ class GraphicsAbsorber : public System::IDisposable
 | [Dispose](./dispose/)() override | Releases all resources used by the [GraphicsAbsorber](./) class. |
 | [get_Elements](./get_elements/)() const | Gets collection of search occurrences that are presented with [GraphicElement](../graphicelement/) objects. |
 | [GraphicsAbsorber](./graphicsabsorber/)() |  |
-| [ResumeUpdate](./resumeupdate/)() | Resume update for [Page::Contents](../) and all [XForm::Contents](../) Was made for performance increase, see also 
-[OperatorCollection::ResumeUpdate](../../aspose.pdf/operatorcollection/resumeupdate/)
-
-
-. |
-| [SuppressUpdate](./suppressupdate/)() | Suppresses update for [Page::Contents](../) and all [XForm::Contents](../) Was made for performance increase, see also 
-[OperatorCollection::SuppressUpdate](../../aspose.pdf/operatorcollection/suppressupdate/)
-
-
-. |
+| [ResumeUpdate](./resumeupdate/)() | Resume update for [Page::Contents](../) and all [XForm::Contents](../) Was made for performance increase, see also [OperatorCollection::ResumeUpdate](../../aspose.pdf/operatorcollection/resumeupdate/). |
+| [SuppressUpdate](./suppressupdate/)() | Suppresses update for [Page::Contents](../) and all [XForm::Contents](../) Was made for performance increase, see also [OperatorCollection::SuppressUpdate](../../aspose.pdf/operatorcollection/suppressupdate/). |
 | [Visit](./visit/)(const System::SharedPtr\<Page\>\&) | Performs search on the specified page. |
 ## See Also
 

@@ -4,7 +4,7 @@ linktitle: HttpVersion
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Net::HttpVersion class. Contains versions of HTTP in C++.'
 type: docs
-weight: 1900
+weight: 2000
 url: /cpp/system.net/httpversion/
 ---
 ## HttpVersion class

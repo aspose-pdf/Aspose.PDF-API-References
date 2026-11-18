@@ -4,7 +4,7 @@ linktitle: Console
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Console class. Provides methods for outputting data to the standard output stream. This is a static type with no instance services. You should never create instances of it by any means in C++.'
 type: docs
-weight: 1500
+weight: 1600
 url: /cpp/system/console/
 ---
 ## Console class

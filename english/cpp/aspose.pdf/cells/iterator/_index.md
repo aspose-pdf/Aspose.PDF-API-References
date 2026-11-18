@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/cells/iterator/
 Iterator type.
 
 ```cpp
-using Aspose::Pdf::Cells::iterator =  typename iterator_holder_type::iterator
+using Aspose::Pdf::Cells::iterator = typename iterator_holder_type::iterator
 ```
 
 ## See Also

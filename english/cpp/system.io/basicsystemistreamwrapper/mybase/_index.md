@@ -13,7 +13,7 @@ url: /cpp/system.io/basicsystemistreamwrapper/mybase/
 
 
 ```cpp
-using System::IO::BasicSystemIStreamWrapper< Elem, Traits >::Mybase =  std::basic_istream<char_type, traits_type>
+using System::IO::BasicSystemIStreamWrapper< Elem, Traits >::Mybase = std::basic_istream<char_type, traits_type>
 ```
 
 ## See Also

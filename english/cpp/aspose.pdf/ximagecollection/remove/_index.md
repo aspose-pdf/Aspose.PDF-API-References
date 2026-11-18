@@ -11,8 +11,7 @@ url: /cpp/aspose.pdf/ximagecollection/remove/
 ## XImageCollection::Remove method
 
 
-Removes item from collection, throws NotImplementedException
-.
+Removes item from collection, throws NotImplementedException.
 
 ```cpp
 bool Aspose::Pdf::XImageCollection::Remove(const System::SharedPtr<Aspose::Pdf::XImage> &item) override

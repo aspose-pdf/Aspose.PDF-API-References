@@ -10,7 +10,7 @@ url: /cpp/system.componentmodel/backgroundworker/reportprogress/
 ## BackgroundWorker::ReportProgress(int) method
 
 
-Raises the **System::ComponentModel::BackgroundWorker::ProgressChanged** event.
+Raises the [System::ComponentModel::BackgroundWorker::ProgressChanged](../progresschanged/) event.
 
 ```cpp
 void System::ComponentModel::BackgroundWorker::ReportProgress(int percentProgress)
@@ -29,7 +29,7 @@ void System::ComponentModel::BackgroundWorker::ReportProgress(int percentProgres
 ## BackgroundWorker::ReportProgress(int, const System::SharedPtr\<System::Object\>\&) method
 
 
-Raises the **System::ComponentModel::BackgroundWorker::ProgressChanged** event with userState object.
+Raises the [System::ComponentModel::BackgroundWorker::ProgressChanged](../progresschanged/) event with userState object.
 
 ```cpp
 void System::ComponentModel::BackgroundWorker::ReportProgress(int percentProgress, const System::SharedPtr<System::Object> &userState)

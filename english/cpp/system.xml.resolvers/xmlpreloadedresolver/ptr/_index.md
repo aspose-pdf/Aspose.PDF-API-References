@@ -13,7 +13,7 @@ url: /cpp/system.xml.resolvers/xmlpreloadedresolver/ptr/
 An alias for shared pointer to an instance of this class.
 
 ```cpp
-using System::Xml::Resolvers::XmlPreloadedResolver::Ptr =  SharedPtr<XmlPreloadedResolver>
+using System::Xml::Resolvers::XmlPreloadedResolver::Ptr = SharedPtr<XmlPreloadedResolver>
 ```
 
 ## See Also

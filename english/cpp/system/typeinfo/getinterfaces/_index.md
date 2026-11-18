@@ -4,7 +4,7 @@ linktitle: GetInterfaces
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::TypeInfo::GetInterfaces method. Gets all the interfaces implemented or inherited by the current Type in C++.'
 type: docs
-weight: 3700
+weight: 3900
 url: /cpp/system/typeinfo/getinterfaces/
 ---
 ## TypeInfo::GetInterfaces method
@@ -19,7 +19,6 @@ ArrayPtr<TypeInfo> System::TypeInfo::GetInterfaces() const
 ## See Also
 
 * Typedef [ArrayPtr](../../arrayptr/)
-* Class [TypeInfo](../)
 * Class [TypeInfo](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

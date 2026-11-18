@@ -25,7 +25,6 @@ void System::Drawing::Drawing2D::Matrix::Multiply(const SharedPtr<Matrix> &matri
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Matrix](../)
-* Class [Matrix](../)
 * Namespace [System::Drawing::Drawing2D](../../)
 * Library [Aspose.PDF for C++](../../../)
 ## Matrix::Multiply(const SharedPtr\<Matrix\>\&, MatrixOrder) method
@@ -46,7 +45,6 @@ void System::Drawing::Drawing2D::Matrix::Multiply(const SharedPtr<Matrix> &matri
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Matrix](../)
 * Enum [MatrixOrder](../../matrixorder/)
 * Class [Matrix](../)
 * Namespace [System::Drawing::Drawing2D](../../)

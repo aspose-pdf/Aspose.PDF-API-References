@@ -4,7 +4,7 @@ linktitle: List
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::List class. List forward declaration in C++.'
 type: docs
-weight: 3300
+weight: 3700
 url: /cpp/system.collections.generic/list/
 ---
 ## List class
@@ -14,7 +14,8 @@ url: /cpp/system.collections.generic/list/
 
 ```cpp
 template<typename T>class List : public virtual System::Object,
-                                 public System::Collections::Generic::IList<T>
+                                 public System::Collections::Generic::IList<T>,
+                                 public System::Collections::Generic::IReadOnlyList<T>
 ```
 
 
@@ -28,7 +29,7 @@ template<typename T>class List : public virtual System::Object,
 
 | Method | Description |
 | --- | --- |
-| [_add_range](./_add_range/)(std::initializer_list\<T\>) | C++ specific. |
+| [_add_range](./_add_range/)(std::initializer_list\<T\>) override | C++ specific. |
 | [Add](./add/)(const T\&) override | Adds element to the end of list. |
 | [AddInitializer](./addinitializer/)(int, const T *) | Adds elements to list; used when translating initializers. |
 | [AddRange](./addrange/)(IEnumerablePtr) | Adds all elements from collection (or itself) to the end of current list. |
@@ -178,5 +179,6 @@ This code example produces the following output:
 
 * Class [Object](../../system/object/)
 * Class [IList](../ilist/)
+* Class [IReadOnlyList](../ireadonlylist/)
 * Namespace [System::Collections::Generic](../)
 * Library [Aspose.PDF for C++](../../)
